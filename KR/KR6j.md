@@ -1,0 +1,9782 @@
+# KR6j ZB6j 密教部類
+
+[← 目録](../README.md) · [KR6 佛部](KR6.md)
+
+<sub>由 [`tools/org2md.py`](../tools/org2md.py) 自動生成，請勿直接編輯；資料源為 [`KR6j.txt`](KR6j.txt)。</sub>
+
+## [KR6j0001 大毘盧遮那成佛神變加持經-唐-善無畏](https://github.com/kanripo/KR6j0001)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T18n0848 · `GENRE` 經 · `CUSTOM_ID` ZB6j0001 · `SOURCE` Taisho Tripitaka Vol. 18, No. 848 · `EXTENT` 7卷
+
+**人物**
+- 善無畏 — 譯
+- 一行 — 譯
+
+**版本**
+- CBETA — `WITID` wit3
+- 【大】 — `WITID` wit4
+- 【大→宋】 — `WITID` wit10
+- 【大→元】 — `WITID` wit11
+- 【大→明】 — `WITID` wit12
+- 【大→宮】 — `WITID` wit25
+- 【大→甲】 — `WITID` wit49
+- 【大→乙】 — `WITID` wit50
+- 【大→丙】 — `WITID` wit51
+- 【大→丁】 — `WITID` wit52
+- 【大→原】 — `WITID` wit6
+- 【大→麗】 — `WITID` wit8
+- 【大→磧砂】 — `WITID` wit15
+
+## [KR6j0002 大日經開題--空海](https://github.com/kanripo/KR6j0002)
+
+`CBETA_ID` T58n2211A · `RELATED` T18n0848@經 · `GENRE` 疏 · `lang@ja-rom` DAINICHIKYŌ KAIDAI · `lang@zh-py` (Da ri jing kai ti) · `EXTENT` I
+
+**人物**
+- 空海 — `lang@ja-rom` Kūkai
+
+**T58n2211B 大日經開題.** `CBETA_ID` T58n2211B · `RELATED` T18n0848@經 · `GENRE` 疏 · `lang@ja-rom` DAINICHIKYŌKAIDAI · `lang@zh-py` (Da ri jing kai ti)
+
+**T58n2211C 大日經略開題** `CBETA_ID` T58n2211C · `RELATED` T18n0848@經 · `GENRE` 疏 · `lang@ja-rom` DAINICHIKYŌ RYAKU KAIDAI · `lang@zh-py` (Da ri jing lüe kai ti)
+
+**T58n2211D 大日經開題** `CBETA_ID` T58n2211D · `RELATED` T18n0848@經 · `GENRE` 疏 · `lang@ja-rom` DAINICHIKYŌ KAIDAI · `lang@zh-py` (Da ri jing kai ti)
+
+**T58n2211E 大日經開題** `CBETA_ID` T58n2211E · `RELATED` T18n0848@經 · `GENRE` 疏 · `lang@ja-rom` DAINICHIKYŌ KAIDAI · `lang@zh-py` (Da ri jing kai ti) · `EXTENT` I
+
+**T58n2211F 大日經開題** `CBETA_ID` T58n2211F · `RELATED` T18n0848@經 · `GENRE` 疏 · `lang@ja-rom` DAINICHIKYŌ KAIDAI · `lang@zh-py` (Da ri jing kai ti) · `EXTENT` I
+
+**T58n2211G 大日經開題** `CBETA_ID` T58n2211G · `RELATED` T18n0848@經 · `GENRE` 疏 · `lang@ja-rom` DAINICHIKYŌ KAIDAI · `lang@zh-py` (Da ri jing kai ti) · `EXTENT` I
+
+## [KR6j0003 大毘盧遮那經指歸--圓珍](https://github.com/kanripo/KR6j0003)
+
+`CBETA_ID` T58n2212A · `RELATED` T18n0848@經 · `GENRE` 疏 · `lang@ja-rom` DAIBIRUSHANAKYŌ SHIKI · `lang@zh-py` (Da pi lu zhe na jing zhi gui) · `EXTENT` I
+
+**人物**
+- 圓珍 — `lang@ja-rom` Enchin
+
+## [KR6j0004 大毘盧遮那成道經心目--](https://github.com/kanripo/KR6j0004)
+
+`CBETA_ID` T58n2212B · `RELATED` T18n0848@經 · `GENRE` 疏 · `lang@ja-rom` DAIBIRUSHANAJŌDŌKYŌ SHIMMOKU · `lang@zh-py` (Da pi lu zhe na cheng dao jing xin mu) · `EXTENT` I
+
+## [KR6j0005 大毘盧遮那佛說要略念誦經-唐-菩提金剛](https://github.com/kanripo/KR6j0005)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T18n0849 · `RELATED` T18n0848-Fasc7@經 · `GENRE` 經 · `CUSTOM_ID` ZB6j0002 · `SOURCE` Taisho Tripitaka Vol. 18, No. 849 · `EXTENT` 1卷
+
+**人物**
+- 菩提金剛 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- orig — `WITID` wit99
+
+## [KR6j0006 攝大毘盧遮那成佛神變加持經入蓮華胎藏海會悲生曼荼攞廣大念誦儀軌供養方便會-唐-輸婆迦羅](https://github.com/kanripo/KR6j0006)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T18n0850 · `GENRE` 經 · `CUSTOM_ID` ZB6j0003 · `SOURCE` Taisho Tripitaka Vol. 18, No. 850 · `EXTENT` 3卷
+
+**人物**
+- 輸婆迦羅 — 譯
+
+**版本**
+- CBETA — `WITID` wit3
+- 【大】 — `WITID` wit4
+- 【大→甲】 — `WITID` wit49
+- 【大→乙】 — `WITID` wit50
+- 【大→原】 — `WITID` wit6
+- 【大→宋】 — `WITID` wit10
+- 【大→元】 — `WITID` wit11
+- 【大→明】 — `WITID` wit12
+
+## [KR6j0007 大毘盧遮那經廣大儀軌-唐-善無畏](https://github.com/kanripo/KR6j0007)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T18n0851 · `GENRE` 經 · `CUSTOM_ID` ZB6j0004 · `SOURCE` Taisho Tripitaka Vol. 18, No. 851 · `EXTENT` 3卷
+
+**人物**
+- 善無畏 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→原】 — `WITID` wit6
+
+## [KR6j0008 大毘盧遮那成佛神變加持經蓮華胎藏悲生曼荼羅廣大成就儀軌供養方便會-唐-法全](https://github.com/kanripo/KR6j0008)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T18n0852a · `GENRE` 經 · `CUSTOM_ID` ZB6j0005 · `SOURCE` Taisho Tripitaka Vol. 18, No. 852a · `EXTENT` 2卷
+
+**人物**
+- 法全 — 撰
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→乙】 — `WITID` wit50
+- 【大→甲】 — `WITID` wit49
+- 【大→丙】 — `WITID` wit51
+- 【大→原】 — `WITID` wit6
+
+## [KR6j0009 大毘盧舍那成佛神變加持經蓮華胎藏悲生曼荼羅廣大成就儀軌--](https://github.com/kanripo/KR6j0009)
+
+`BASEEDITION` T · `CBETA_ID` T18n0852b · `GENRE` 經 · `CUSTOM_ID` ZB6j0006 · `SOURCE` Taisho Tripitaka Vol. 18, No. 852b · `EXTENT` 2卷
+
+**人物**
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→原】 — `WITID` wit6
+
+## [KR6j0010 大毘盧遮那成佛神變加持經蓮華胎藏菩提幢標幟普通真言藏廣大成就瑜伽-唐-法全](https://github.com/kanripo/KR6j0010)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T18n0853 · `RELATED` T61n2231@疏 · `GENRE` 經 · `CUSTOM_ID` ZB6j0007 · `SOURCE` Taisho Tripitaka Vol. 18, No. 853 · `EXTENT` 3卷
+
+**人物**
+- 法全 — 集
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→原】 — `WITID` wit6
+- 【大→甲】 — `WITID` wit49
+
+## [KR6j0011 蓮華胎藏界儀軌解釋--眞興](https://github.com/kanripo/KR6j0011)
+
+`CBETA_ID` T61n2231 · `RELATED` T18n0853@經 · `GENRE` 疏 · `lang@ja-rom` RENGE TAIZŌKAI GIKI GESHAKU · `lang@zh-py` (Lian hua tai zang jie yi gui jie shi) · `EXTENT` III
+
+**人物**
+- 眞興 — `lang@ja-rom` Shingō
+
+## [KR6j0012 胎藏梵字真言--失譯](https://github.com/kanripo/KR6j0012)
+
+`BASEEDITION` T · `CBETA_ID` T18n0854 · `GENRE` 經 · `CUSTOM_ID` ZB6j0008 · `SOURCE` Taisho Tripitaka Vol. 18, No. 854 · `EXTENT` 2卷
+
+**人物**
+- 失譯 — 譯
+
+**版本**
+- CBETA — `WITID` wit3
+- 【大】 — `WITID` wit4
+- 【大→甲】 — `WITID` wit49
+
+## [KR6j0013 青龍寺軌記--](https://github.com/kanripo/KR6j0013)
+
+`BASEEDITION` T · `CBETA_ID` T18n0855 · `GENRE` 經 · `CUSTOM_ID` ZB6j0009 · `SOURCE` Taisho Tripitaka Vol. 18, No. 855 · `EXTENT` 1卷
+
+**人物**
+
+**版本**
+- CBETA — `WITID` wit3
+- 【大】 — `WITID` wit4
+- 【大→原】 — `WITID` wit6
+
+## [KR6j0014 大毘盧遮那成佛神變加持經略示七支念誦隨行法-唐-不空](https://github.com/kanripo/KR6j0014)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T18n0856 · `GENRE` 經 · `CUSTOM_ID` ZB6j0010 · `SOURCE` Taisho Tripitaka Vol. 18, No. 856 · `EXTENT` 1卷
+
+**人物**
+- 不空 — 譯
+
+**版本**
+- CBETA — `WITID` wit3
+- 【大】 — `WITID` wit4
+- 【大→明】 — `WITID` wit12
+- 【大→甲】 — `WITID` wit49
+- 【大→乙】 — `WITID` wit50
+- 【大→麗】 — `WITID` wit8
+
+## [KR6j0015 大日經略攝念誦隨行法-唐-不空](https://github.com/kanripo/KR6j0015)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T18n0857 · `GENRE` 經 · `CUSTOM_ID` ZB6j0011 · `SOURCE` Taisho Tripitaka Vol. 18, No. 857 · `EXTENT` 1卷
+
+**人物**
+- 不空 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→明】 — `WITID` wit12
+- 【大→甲】 — `WITID` wit49
+- 【大→乙】 — `WITID` wit50
+- 【大→丙】 — `WITID` wit51
+
+## [KR6j0016 大毘盧遮那略要速疾門五支念誦法--失譯](https://github.com/kanripo/KR6j0016)
+
+`BASEEDITION` T · `CBETA_ID` T18n0858 · `GENRE` 經 · `CUSTOM_ID` ZB6j0012 · `SOURCE` Taisho Tripitaka Vol. 18, No. 858 · `EXTENT` 1卷
+
+**人物**
+- 失譯 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+
+## [KR6j0017 供養儀式--失譯](https://github.com/kanripo/KR6j0017)
+
+`BASEEDITION` T · `CBETA_ID` T18n0859 · `GENRE` 經 · `CUSTOM_ID` ZB6j0013 · `SOURCE` Taisho Tripitaka Vol. 18, No. 859 · `EXTENT` 1卷
+
+**人物**
+- 失譯 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→甲】 — `WITID` wit49
+- 【大→乙】 — `WITID` wit50
+- 【大→明】 — `WITID` wit12
+
+## [KR6j0018 大日經持誦次第儀軌--失譯](https://github.com/kanripo/KR6j0018)
+
+`BASEEDITION` T · `CBETA_ID` T18n0860 · `GENRE` 經 · `CUSTOM_ID` ZB6j0014 · `SOURCE` Taisho Tripitaka Vol. 18, No. 860 · `EXTENT` 1卷
+
+**人物**
+- 失譯 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→原】 — `WITID` wit6
+
+## [KR6j0019 毘盧遮那五字真言修習儀軌-唐-不空](https://github.com/kanripo/KR6j0019)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T18n0861 · `GENRE` 經 · `CUSTOM_ID` ZB6j0015 · `SOURCE` Taisho Tripitaka Vol. 18, No. 861 · `EXTENT` 1卷
+
+**人物**
+- 不空 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→甲】 — `WITID` wit49
+- 【大→原】 — `WITID` wit6
+
+## [KR6j0020 阿闍梨大曼荼攞灌頂儀軌--](https://github.com/kanripo/KR6j0020)
+
+`BASEEDITION` T · `CBETA_ID` T18n0862 · `GENRE` 經 · `CUSTOM_ID` ZB6j0016 · `SOURCE` Taisho Tripitaka Vol. 18, No. 862 · `EXTENT` 1卷
+
+**人物**
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→原】 — `WITID` wit6
+- 【大→丙】 — `WITID` wit51
+- 【大→甲】 — `WITID` wit49
+- 【大→乙】 — `WITID` wit50
+
+## [KR6j0021 大毘盧遮那經阿闍梨真實智品中阿闍梨住阿字觀門-唐-惟謹](https://github.com/kanripo/KR6j0021)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T18n0863 · `GENRE` 經 · `CUSTOM_ID` ZB6j0017 · `SOURCE` Taisho Tripitaka Vol. 18, No. 863 · `EXTENT` 1卷
+
+**人物**
+- 惟謹 — 述
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→原】 — `WITID` wit6
+
+## [KR6j0022 大日如來劍印--](https://github.com/kanripo/KR6j0022)
+
+`BASEEDITION` T · `CBETA_ID` T18n0864A · `GENRE` 經 · `CUSTOM_ID` ZB6j0018 · `SOURCE` Taisho Tripitaka Vol. 18, No. 864A · `EXTENT` 1卷
+
+**人物**
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→原】 — `WITID` wit6
+
+## [KR6j0023 胎藏金剛教法名號-唐-義操](https://github.com/kanripo/KR6j0023)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T18n0864B · `GENRE` 經 · `CUSTOM_ID` ZB6j0019 · `SOURCE` Taisho Tripitaka Vol. 18, No. 864B · `EXTENT` 1卷
+
+**人物**
+- 義操 — 集
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→甲】 — `WITID` wit49
+- 【大→unknown】 — `WITID` wit14
+
+## [KR6j0024 金剛頂一切如來真實攝大乘現證大教王經-唐-不空](https://github.com/kanripo/KR6j0024)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T18n0865 · `RELATED` T18n0866@經, T18n0882-1@經, T61n2221@疏, T61n2222@疏, T61n2223@疏, T61n2224@疏, T61n2225@疏 · `GENRE` 經 · `CUSTOM_ID` ZB6j0020 · `SOURCE` Taisho Tripitaka Vol. 18, No. 865 · `EXTENT` 3卷
+
+**人物**
+- 不空 — 譯
+
+**版本**
+- CBETA — `WITID` wit3
+- 【大】 — `WITID` wit4
+- 【大→乙】 — `WITID` wit50
+- 【大→丁】 — `WITID` wit52
+- 【大→甲】 — `WITID` wit49
+- 【大→宋】 — `WITID` wit10
+- 【大→元】 — `WITID` wit11
+- 【大→明】 — `WITID` wit12
+- 【大→丙】 — `WITID` wit51
+- 【大→麗】 — `WITID` wit8
+
+## [KR6j0025 金剛頂經開題--空海](https://github.com/kanripo/KR6j0025)
+
+`CBETA_ID` T61n2221 · `RELATED` T18n0865@經, T61n2222@疏, T61n2223@疏, T61n2224@疏, T61n2225@疏 · `GENRE` 疏 · `lang@ja-rom` KONGŌCHŌKYŌ KAIDAI · `lang@zh-py` (Jin gang ding jing kai ti) · `EXTENT` I
+
+**人物**
+- 空海 — `lang@ja-rom` Kūkai
+
+## [KR6j0026 教王經開題--空海](https://github.com/kanripo/KR6j0026)
+
+`CBETA_ID` T61n2222 · `RELATED` T18n0865@經, T61n2221@疏, T61n2223@疏, T61n2224@疏, T61n2225@疏 · `GENRE` 疏 · `lang@ja-rom` KYŌŌGYŌ KAIDAI · `lang@zh-py` (Jiao wang jing kai ti) · `EXTENT` I
+
+**人物**
+- 空海 — `lang@ja-rom` Kūkai
+
+## [KR6j0027 金剛頂大教王經疏--圓仁](https://github.com/kanripo/KR6j0027)
+
+`CBETA_ID` T61n2223 · `RELATED` T18n0865@經, T61n2221@疏, T61n2222@疏, T61n2224@疏, T61n2225@疏 · `GENRE` 疏 · `lang@ja-rom` KONGŌCHŌDAIKYŌŌGYŌ SHO · `lang@zh-py` (Jin gang ding da jiao wang jing shu) · `EXTENT` VII
+
+**人物**
+- 圓仁 — `lang@ja-rom` Ennin
+
+## [KR6j0028 金剛頂經偈釋--頼尊](https://github.com/kanripo/KR6j0028)
+
+`CBETA_ID` T61n2224 · `RELATED` T18n0865@經, T61n2221@疏, T61n2222@疏, T61n2223@疏, T61n2225@疏 · `GENRE` 疏 · `lang@ja-rom` KONGŌCHŌKYŌ GE　SHAKU · `lang@zh-py` (Jin gang ding jing jie shi) · `EXTENT` I
+
+**人物**
+- 頼尊 — `lang@ja-rom` Raison
+
+## [KR6j0029 金剛頂大教王經私記--曇寂](https://github.com/kanripo/KR6j0029)
+
+`CBETA_ID` T61n2225 · `RELATED` T18n0865@經, T61n2221@疏, T61n2222@疏, T61n2223@疏, T61n2224@疏 · `GENRE` 疏 · `lang@ja-rom` KONGŌCHŌDAIKYŌŌGYŌ SHIKI · `lang@zh-py` (Jin gang ding da jiao wang jing si ji) · `EXTENT` XIX
+
+**人物**
+- 曇寂 — `lang@ja-rom` Donjaku
+
+## [KR6j0030 金剛頂瑜伽中略出念誦經-唐-金剛智](https://github.com/kanripo/KR6j0030)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T18n0866 · `RELATED` T18n0865@經, T18n0882@經, T39n1798@疏 · `GENRE` 經 · `CUSTOM_ID` ZB6j0021 · `SOURCE` Taisho Tripitaka Vol. 18, No. 866 · `EXTENT` 4卷
+
+**人物**
+- 金剛智 — 譯
+
+**版本**
+- CBETA — `WITID` wit3
+- 【大】 — `WITID` wit4
+- 【大→宋】 — `WITID` wit10
+- 【大→元】 — `WITID` wit11
+- 【大→明】 — `WITID` wit12
+- 【大→宮】 — `WITID` wit25
+- 【大→甲】 — `WITID` wit49
+- 【大→乙】 — `WITID` wit50
+- 【大→丙】 — `WITID` wit51
+- 【大→丁】 — `WITID` wit52
+
+## [KR6j0031 金剛峰樓閣一切瑜伽瑜祇經-唐-金剛智](https://github.com/kanripo/KR6j0031)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T18n0867 · `RELATED` T61n2228@疏, T61n2229@疏 · `GENRE` 經 · `CUSTOM_ID` ZB6j0022 · `SOURCE` Taisho Tripitaka Vol. 18, No. 867 · `EXTENT` 2卷
+
+**人物**
+- 金剛智 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→甲】 — `WITID` wit49
+- 【大→乙】 — `WITID` wit50
+
+## [KR6j0032 金剛峰樓閣一切瑜伽祇經修行法--安然](https://github.com/kanripo/KR6j0032)
+
+`CBETA_ID` T61n2228 · `RELATED` T18n0867@經, T61n2229@疏 · `GENRE` 疏 · `lang@ja-rom` KONGŌBURŌKAKUISSAIYUGAYUGIKYŌ SHUGYŌHŌ · `lang@zh-py` (Jin gang feng lou ge yi qie yu qie zhi jing xiu xing fa) · `EXTENT` III
+
+**人物**
+- 安然 — `lang@ja-rom` Annen
+
+## [KR6j0033 瑜祇總行私記--眞寂](https://github.com/kanripo/KR6j0033)
+
+`CBETA_ID` T61n2229 · `RELATED` T18n0867@經, T61n2228@疏 · `GENRE` 疏 · `lang@ja-rom` YUGI SŌGYŌ SHIKI · `lang@zh-py` (Yu zhi zong xing si ji) · `EXTENT` I
+
+**人物**
+- 眞寂 — `lang@ja-rom` Shinjaku
+
+## [KR6j0034 諸佛境界攝真實經-唐-般若](https://github.com/kanripo/KR6j0034)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T18n0868 · `GENRE` 經 · `CUSTOM_ID` ZB6j0023 · `SOURCE` Taisho Tripitaka Vol. 18, No. 868 · `EXTENT` 3卷
+
+**人物**
+- 般若 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→甲】 — `WITID` wit49
+- 【大→原】 — `WITID` wit6
+- 【大→乙】 — `WITID` wit50
+- 【大→丙】 — `WITID` wit51
+- 【大→宮】 — `WITID` wit25
+
+## [KR6j0035 金剛頂經瑜伽十八會指歸-唐-不空](https://github.com/kanripo/KR6j0035)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T18n0869 · `GENRE` 經 · `CUSTOM_ID` ZB6j0024 · `SOURCE` Taisho Tripitaka Vol. 18, No. 869 · `EXTENT` 1卷
+
+**人物**
+- 不空 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→宋】 — `WITID` wit10
+- 【大→元】 — `WITID` wit11
+- 【大→明】 — `WITID` wit12
+- 【大→宮】 — `WITID` wit25
+- 【大→甲】 — `WITID` wit49
+- 【大→乙】 — `WITID` wit50
+- 【大→丙】 — `WITID` wit51
+- 【大→丁】 — `WITID` wit52
+
+## [KR6j0036 略述金剛頂瑜伽分別聖位修證法門-唐-不空](https://github.com/kanripo/KR6j0036)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T18n0870 · `GENRE` 經 · `CUSTOM_ID` ZB6j0025 · `SOURCE` Taisho Tripitaka Vol. 18, No. 870 · `EXTENT` 1卷
+
+**人物**
+- 不空 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→明】 — `WITID` wit12
+- 【大→乙】 — `WITID` wit50
+- 【大→丙】 — `WITID` wit51
+
+## [KR6j0037 金剛頂瑜伽略述三十七尊心要-唐-不空](https://github.com/kanripo/KR6j0037)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T18n0871 · `GENRE` 經 · `CUSTOM_ID` ZB6j0026 · `SOURCE` Taisho Tripitaka Vol. 18, No. 871 · `EXTENT` 1卷
+
+**人物**
+- 不空 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→甲】 — `WITID` wit49
+- 【大→原】 — `WITID` wit6
+- 【大→乙】 — `WITID` wit50
+
+## [KR6j0038 金剛頂瑜伽三十七尊出生義-唐-不空](https://github.com/kanripo/KR6j0038)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T18n0872 · `GENRE` 經 · `CUSTOM_ID` ZB6j0027 · `SOURCE` Taisho Tripitaka Vol. 18, No. 872 · `EXTENT` 1卷
+
+**人物**
+- 不空 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→甲】 — `WITID` wit49
+- 【大→乙】 — `WITID` wit50
+- 【大→原】 — `WITID` wit6
+- 【大→丙】 — `WITID` wit51
+
+## [KR6j0039 金剛頂蓮華部心念誦儀軌-唐-不空](https://github.com/kanripo/KR6j0039)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T18n0873 · `RELATED` T18n0874@經, T18n0875@經, T61n2232@疏 · `GENRE` 經 · `CUSTOM_ID` ZB6j0028 · `SOURCE` Taisho Tripitaka Vol. 18, No. 873 · `EXTENT` 1卷
+
+**人物**
+- 不空 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→宋】 — `WITID` wit10
+- 【大→元】 — `WITID` wit11
+- 【大→明】 — `WITID` wit12
+- 【大→乙】 — `WITID` wit50
+- 【大→丙】 — `WITID` wit51
+
+## [KR6j0040 梵m日羅駄覩私記--眞興](https://github.com/kanripo/KR6j0040)
+
+`CBETA_ID` T61n2232 · `RELATED` T18n0873@經 · `GENRE` 疏 · `lang@ja-rom` BONBAZARADADO SHIKI · `lang@zh-py` (Fan fu ri luo duo du si ji) · `EXTENT` I
+
+**人物**
+- 眞興 — `lang@ja-rom` Shingō
+
+## [KR6j0041 金剛頂一切如來真實攝大乘現證大教王經-唐-不空](https://github.com/kanripo/KR6j0041)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T18n0874 · `RELATED` T18n0873@經, T18n0875@經 · `GENRE` 經 · `CUSTOM_ID` ZB6j0029 · `SOURCE` Taisho Tripitaka Vol. 18, No. 874 · `EXTENT` 2卷
+
+**人物**
+- 不空 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→甲】 — `WITID` wit49
+- 【大→乙】 — `WITID` wit50
+
+## [KR6j0042 蓮華部心念誦儀軌--失譯](https://github.com/kanripo/KR6j0042)
+
+`BASEEDITION` T · `CBETA_ID` T18n0875 · `RELATED` T18n0873@經, T18n0874@經 · `GENRE` 經 · `CUSTOM_ID` ZB6j0030 · `SOURCE` Taisho Tripitaka Vol. 18, No. 875 · `EXTENT` 1卷
+
+**人物**
+- 失譯 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- orig — `WITID` wit99
+
+## [KR6j0043 金剛頂瑜伽修習毘盧遮那三摩地法-唐-金剛智](https://github.com/kanripo/KR6j0043)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T18n0876 · `GENRE` 經 · `CUSTOM_ID` ZB6j0031 · `SOURCE` Taisho Tripitaka Vol. 18, No. 876 · `EXTENT` 1卷
+
+**人物**
+- 金剛智 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→宋】 — `WITID` wit10
+- 【大→元】 — `WITID` wit11
+- 【大→宮】 — `WITID` wit25
+- 【大→甲】 — `WITID` wit49
+- 【大→明】 — `WITID` wit12
+- 【大→乙】 — `WITID` wit50
+- 【大→丙】 — `WITID` wit51
+- 【大→unknown】 — `WITID` wit14
+
+## [KR6j0044 金剛頂經毘盧遮那一百八尊法身契印-唐-善無畏](https://github.com/kanripo/KR6j0044)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T18n0877 · `GENRE` 經 · `CUSTOM_ID` ZB6j0032 · `SOURCE` Taisho Tripitaka Vol. 18, No. 877 · `EXTENT` 1卷
+
+**人物**
+- 善無畏 — 譯
+- 一行 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→甲】 — `WITID` wit49
+- 【大→乙】 — `WITID` wit50
+- 【大→丙】 — `WITID` wit51
+- 【大→丁】 — `WITID` wit52
+- 【大→明】 — `WITID` wit12
+
+## [KR6j0045 金剛頂經金剛界大道場毘盧遮那如來自受用身內證智眷屬法身異名佛最上乘祕密三摩地禮懺文-唐-不空](https://github.com/kanripo/KR6j0045)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T18n0878 · `RELATED` T18n0879@經 · `GENRE` 經 · `CUSTOM_ID` ZB6j0033 · `SOURCE` Taisho Tripitaka Vol. 18, No. 878 · `EXTENT` 1卷
+
+**人物**
+- 不空 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→甲】 — `WITID` wit49
+
+## [KR6j0046 金剛頂瑜伽三十七尊禮-唐-不空](https://github.com/kanripo/KR6j0046)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T18n0879 · `RELATED` T18n0878@經 · `GENRE` 經 · `CUSTOM_ID` ZB6j0034 · `SOURCE` Taisho Tripitaka Vol. 18, No. 879 · `EXTENT` 1卷
+
+**人物**
+- 不空 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→元】 — `WITID` wit11
+- 【大→宋】 — `WITID` wit10
+- 【大→宮】 — `WITID` wit25
+
+## [KR6j0047 瑜伽金剛頂經釋字母品-唐-不空](https://github.com/kanripo/KR6j0047)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T18n0880 · `GENRE` 經 · `CUSTOM_ID` ZB6j0035 · `SOURCE` Taisho Tripitaka Vol. 18, No. 880 · `EXTENT` 1卷
+
+**人物**
+- 不空 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→明】 — `WITID` wit12
+- 【大→甲】 — `WITID` wit49
+- 【大→乙】 — `WITID` wit50
+
+## [KR6j0048 賢劫十六尊--](https://github.com/kanripo/KR6j0048)
+
+`BASEEDITION` T · `CBETA_ID` T18n0881 · `GENRE` 經 · `CUSTOM_ID` ZB6j0036 · `SOURCE` Taisho Tripitaka Vol. 18, No. 881 · `EXTENT` 1卷
+
+**人物**
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→原】 — `WITID` wit6
+
+## [KR6j0049 佛說一切如來真實攝大乘現證三昧大教王經-宋-施護](https://github.com/kanripo/KR6j0049)
+
+宋 · `BASEEDITION` T · `CBETA_ID` T18n0882 · `RELATED` T18n0865@經, T18n0866@經, T61n2226@疏 · `GENRE` 經 · `CUSTOM_ID` ZB6j0037 · `SOURCE` Taisho Tripitaka Vol. 18, No. 882 · `EXTENT` 30卷
+
+**人物**
+- 施護 — 等譯
+
+**版本**
+- CBETA — `WITID` wit3
+- 【大】 — `WITID` wit4
+- 【大→明】 — `WITID` wit12
+- 【大→宋】 — `WITID` wit10
+- 【大→元】 — `WITID` wit11
+- 【大→宮】 — `WITID` wit25
+- 【大→麗】 — `WITID` wit8
+
+## [KR6j0050 三十卷教王經文次第--杲寶](https://github.com/kanripo/KR6j0050)
+
+`CBETA_ID` T61n2226 · `RELATED` T18n0882@經 · `GENRE` 疏 · `lang@ja-rom` SANJUKKAN KYŌŌGYŌ MONSHIDAI · `lang@zh-py` (San shi juang jiao wang jing wen ci di) · `EXTENT` II
+
+**人物**
+- 杲寶 — `lang@ja-rom` Gōhō
+
+## [KR6j0051 佛說祕密三昧大教王經-宋-施護](https://github.com/kanripo/KR6j0051)
+
+宋 · `BASEEDITION` T · `CBETA_ID` T18n0883 · `GENRE` 經 · `CUSTOM_ID` ZB6j0038 · `SOURCE` Taisho Tripitaka Vol. 18, No. 883 · `EXTENT` 4卷
+
+**人物**
+- 施護 — 等譯
+
+**版本**
+- CBETA — `WITID` wit3
+- 【大】 — `WITID` wit4
+- 【大→宋】 — `WITID` wit10
+- 【大→元】 — `WITID` wit11
+- 【大→明】 — `WITID` wit12
+- 【大→宮】 — `WITID` wit25
+- 【大→麗】 — `WITID` wit8
+- 【大→磧砂】 — `WITID` wit15
+
+## [KR6j0052 佛說祕密相經-宋-施護](https://github.com/kanripo/KR6j0052)
+
+宋 · `BASEEDITION` T · `CBETA_ID` T18n0884 · `GENRE` 經 · `CUSTOM_ID` ZB6j0039 · `SOURCE` Taisho Tripitaka Vol. 18, No. 884 · `EXTENT` 3卷
+
+**人物**
+- 施護 — 等譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→明】 — `WITID` wit12
+- 【大→宋】 — `WITID` wit10
+- 【大→元】 — `WITID` wit11
+- 【大→宮】 — `WITID` wit25
+
+## [KR6j0053 佛說一切如來金剛三業最上祕密大教王經-宋-施護](https://github.com/kanripo/KR6j0053)
+
+宋 · `BASEEDITION` T · `CBETA_ID` T18n0885 · `GENRE` 經 · `CUSTOM_ID` ZB6j0040 · `SOURCE` Taisho Tripitaka Vol. 18, No. 885 · `EXTENT` 7卷
+
+**人物**
+- 施護 — 譯
+
+**版本**
+- CBETA — `WITID` wit3
+- 【大】 — `WITID` wit4
+- 【大→宮】 — `WITID` wit25
+- 【大→宋】 — `WITID` wit10
+- 【大→元】 — `WITID` wit11
+- 【大→明】 — `WITID` wit12
+- 【大→麗】 — `WITID` wit8
+- 【大→磧砂】 — `WITID` wit15
+
+## [KR6j0054 佛說金剛場莊嚴般若波羅蜜多教中一分-宋-施護](https://github.com/kanripo/KR6j0054)
+
+宋 · `BASEEDITION` T · `CBETA_ID` T18n0886 · `GENRE` 經 · `CUSTOM_ID` ZB6j0041 · `SOURCE` Taisho Tripitaka Vol. 18, No. 886 · `EXTENT` 1卷
+
+**人物**
+- 施護 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→明】 — `WITID` wit12
+- 【大→宮】 — `WITID` wit25
+
+## [KR6j0055 佛說無二平等最上瑜伽大教王經-宋-施護](https://github.com/kanripo/KR6j0055)
+
+宋 · `BASEEDITION` T · `CBETA_ID` T18n0887 · `GENRE` 經 · `CUSTOM_ID` ZB6j0042 · `SOURCE` Taisho Tripitaka Vol. 18, No. 887 · `EXTENT` 6卷
+
+**人物**
+- 施護 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→元】 — `WITID` wit11
+- 【大→明】 — `WITID` wit12
+- 【大→宋】 — `WITID` wit10
+- 【大→宮】 — `WITID` wit25
+
+## [KR6j0056 一切祕密最上名義大教王儀軌-宋-施護](https://github.com/kanripo/KR6j0056)
+
+宋 · `BASEEDITION` T · `CBETA_ID` T18n0888 · `GENRE` 經 · `CUSTOM_ID` ZB6j0043 · `SOURCE` Taisho Tripitaka Vol. 18, No. 888 · `EXTENT` 2卷
+
+**人物**
+- 施護 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→明】 — `WITID` wit12
+- 【大→宋】 — `WITID` wit10
+- 【大→元】 — `WITID` wit11
+- 【大→宮】 — `WITID` wit25
+
+## [KR6j0057 一切如來大祕密王未曾有最上微妙大曼拏羅經-宋-天息災](https://github.com/kanripo/KR6j0057)
+
+宋 · `BASEEDITION` T · `CBETA_ID` T18n0889 · `GENRE` 經 · `CUSTOM_ID` ZB6j0044 · `SOURCE` Taisho Tripitaka Vol. 18, No. 889 · `EXTENT` 5卷
+
+**人物**
+- 天息災 — 譯
+
+**版本**
+- CBETA — `WITID` wit3
+- 【大】 — `WITID` wit4
+- 【大→明】 — `WITID` wit12
+- 【大→宋】 — `WITID` wit10
+- 【大→元】 — `WITID` wit11
+- 【大→宮】 — `WITID` wit25
+- 【大→麗】 — `WITID` wit8
+
+## [KR6j0058 佛說瑜伽大教王經-宋-法賢](https://github.com/kanripo/KR6j0058)
+
+宋 · `BASEEDITION` T · `CBETA_ID` T18n0890 · `GENRE` 經 · `CUSTOM_ID` ZB6j0045 · `SOURCE` Taisho Tripitaka Vol. 18, No. 890 · `EXTENT` 5卷
+
+**人物**
+- 法賢 — 譯
+
+**版本**
+- CBETA — `WITID` wit3
+- 【大】 — `WITID` wit4
+- 【大→明】 — `WITID` wit12
+- 【大→宋】 — `WITID` wit10
+- 【大→元】 — `WITID` wit11
+- 【大→宮】 — `WITID` wit25
+- 【大→麗】 — `WITID` wit8
+- 【大→甲】 — `WITID` wit49
+
+## [KR6j0059 佛說幻化網大瑜伽教十忿怒明王大明觀想儀軌經-宋-法賢](https://github.com/kanripo/KR6j0059)
+
+宋 · `BASEEDITION` T · `CBETA_ID` T18n0891 · `GENRE` 經 · `CUSTOM_ID` ZB6j0046 · `SOURCE` Taisho Tripitaka Vol. 18, No. 891 · `EXTENT` 1卷
+
+**人物**
+- 法賢 — 譯
+
+**版本**
+- CBETA — `WITID` wit3
+- 【大】 — `WITID` wit4
+- 【大→明】 — `WITID` wit12
+- 【大→宮】 — `WITID` wit25
+- 【大→宋】 — `WITID` wit10
+- 【大→元】 — `WITID` wit11
+- 【大→麗】 — `WITID` wit8
+
+## [KR6j0060 佛說大悲空智金剛大教王儀軌經-宋-法護](https://github.com/kanripo/KR6j0060)
+
+宋 · `BASEEDITION` T · `CBETA_ID` T18n0892 · `GENRE` 經 · `CUSTOM_ID` ZB6j0047 · `SOURCE` Taisho Tripitaka Vol. 18, No. 892 · `EXTENT` 5卷
+
+**人物**
+- 法護 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+
+## [KR6j0061 蘇悉地羯羅經-唐-輸波迦羅](https://github.com/kanripo/KR6j0061)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T18n0893a · `RELATED` T61n2232@疏 · `GENRE` 經 · `CUSTOM_ID` ZB6j0048 · `SOURCE` Taisho Tripitaka Vol. 18, No. 893a · `EXTENT` 3卷
+
+**人物**
+- 輸波迦羅 — 譯
+
+**版本**
+- CBETA — `WITID` wit3
+- 【大→麗】 — `WITID` wit8
+- 【大】 — `WITID` wit4
+
+**T18n0893b 蘇悉地羯羅經** 唐 · `BASEEDITION` T · `CBETA_ID` T18n0893b · `RELATED` T61n2232@疏 · `GENRE` 經 · `CUSTOM_ID` ZB6j0049 · `SOURCE` Taisho Tripitaka Vol. 18, No. 893b
+- extent: 3卷
+- 人物
+  - 輸波迦羅 — 譯
+- 版本
+  - CBETA — `WITID` wit3
+  - 【大】 — `WITID` wit4
+  - 【大→明】 — `WITID` wit12
+  - 【大→甲】 — `WITID` wit49
+  - 【大→元】 — `WITID` wit11
+  - 【大→磧砂】 — `WITID` wit15
+
+**T18n0893c 蘇悉地羯羅經** 唐 · `BASEEDITION` T · `CBETA_ID` T18n0893c · `RELATED` T61n2232@疏 · `GENRE` 經 · `CUSTOM_ID` ZB6j0050 · `SOURCE` Taisho Tripitaka Vol. 18, No. 893c
+- extent: 3卷
+- 人物
+  - 輸波迦羅 — 譯
+- 版本
+  - CBETA — `WITID` wit1
+  - 【大】 — `WITID` wit4
+  - 【大→甲】 — `WITID` wit49
+  - 【大→原】 — `WITID` wit6
+
+## [KR6j0062 蘇悉地羯羅經略疏--圓仁](https://github.com/kanripo/KR6j0062)
+
+`CBETA_ID` T61n2227 · `RELATED` T18n0893@經 · `GENRE` 疏 · `lang@ja-rom` SOSHICCHIKARAKYŌ RYAKU SHO · `lang@zh-py` (Su xi di jie luo jing lüe shu) · `EXTENT` VII
+
+cf T18n0893c
+
+**人物**
+- 圓仁 — `lang@ja-rom` Ennin
+
+## [KR6j0063 蘇悉地羯羅供養法-唐-善無畏](https://github.com/kanripo/KR6j0063)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T18n0894a · `GENRE` 經 · `CUSTOM_ID` ZB6j0051 · `SOURCE` Taisho Tripitaka Vol. 18, No. 894a · `EXTENT` 3卷
+
+**人物**
+- 善無畏 — 譯
+
+**版本**
+- CBETA — `WITID` wit3
+- 【大】 — `WITID` wit4
+- 【大→明】 — `WITID` wit12
+- 【大→甲】 — `WITID` wit49
+- 【大→乙】 — `WITID` wit50
+- 【大→麗】 — `WITID` wit8
+
+## [KR6j0064 蘇悉地羯羅供養法-唐-善無畏](https://github.com/kanripo/KR6j0064)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T18n0894b · `GENRE` 經 · `CUSTOM_ID` ZB6j0052 · `SOURCE` Taisho Tripitaka Vol. 18, No. 894b · `EXTENT` 2卷
+
+**人物**
+- 善無畏 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→甲】 — `WITID` wit49
+- 【大→乙】 — `WITID` wit50
+- 【大→unknown】 — `WITID` wit14
+
+## [KR6j0065 蘇婆呼童子請問經-唐-輸波迦羅](https://github.com/kanripo/KR6j0065)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T18n0895a · `RELATED` T18n0896@經 · `GENRE` 經 · `CUSTOM_ID` ZB6j0053 · `SOURCE` Taisho Tripitaka Vol. 18, No. 895a · `EXTENT` 3卷
+
+**人物**
+- 輸波迦羅 — 譯
+
+**版本**
+- CBETA — `WITID` wit3
+- 【大】 — `WITID` wit4
+- 【大→宋】 — `WITID` wit10
+- 【大→元】 — `WITID` wit11
+- 【大→明】 — `WITID` wit12
+- 【大→宮】 — `WITID` wit25
+- 【大→甲】 — `WITID` wit49
+- 【大→乙】 — `WITID` wit50
+- 【大→麗】 — `WITID` wit8
+- 【大→磧砂】 — `WITID` wit15
+
+## [KR6j0066 蘇婆呼童子請問經-唐-輸波迦羅](https://github.com/kanripo/KR6j0066)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T18n0895b · `RELATED` T18n0896@經 · `GENRE` 經 · `CUSTOM_ID` ZB6j0054 · `SOURCE` Taisho Tripitaka Vol. 18, No. 895b · `EXTENT` 2卷
+
+**人物**
+- 輸波迦羅 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→甲】 — `WITID` wit49
+- 【大→原】 — `WITID` wit6
+
+## [KR6j0067 妙臂菩薩所問經-宋-法天](https://github.com/kanripo/KR6j0067)
+
+宋 · `BASEEDITION` T · `CBETA_ID` T18n0896 · `RELATED` T18n0895@經 · `GENRE` 經 · `CUSTOM_ID` ZB6j0055 · `SOURCE` Taisho Tripitaka Vol. 18, No. 896 · `EXTENT` 4卷
+
+**人物**
+- 法天 — 譯
+
+**版本**
+- CBETA — `WITID` wit3
+- 【大】 — `WITID` wit4
+- 【大→明】 — `WITID` wit12
+- 【大→宋】 — `WITID` wit10
+- 【大→元】 — `WITID` wit11
+- 【大→宮】 — `WITID` wit25
+- 【大→麗】 — `WITID` wit8
+
+## [KR6j0068 蕤呬耶經-唐-不空](https://github.com/kanripo/KR6j0068)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T18n0897 · `GENRE` 經 · `CUSTOM_ID` ZB6j0056 · `SOURCE` Taisho Tripitaka Vol. 18, No. 897 · `EXTENT` 3卷
+
+**人物**
+- 不空 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→甲】 — `WITID` wit49
+- 【大→乙】 — `WITID` wit50
+- 【大→丙】 — `WITID` wit51
+
+## [KR6j0069 佛說毘奈耶經--](https://github.com/kanripo/KR6j0069)
+
+`BASEEDITION` T · `CBETA_ID` T18n0898 · `GENRE` 經 · `CUSTOM_ID` ZB6j0057 · `SOURCE` Taisho Tripitaka Vol. 18, No. 898 · `EXTENT` 1卷
+
+**人物**
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→甲】 — `WITID` wit49
+
+## [KR6j0070 清淨法身毘盧遮那心地法門成就一切陀羅尼三種悉地--](https://github.com/kanripo/KR6j0070)
+
+`BASEEDITION` T · `CBETA_ID` T18n0899 · `GENRE` 經 · `CUSTOM_ID` ZB6j0058 · `SOURCE` Taisho Tripitaka Vol. 18, No. 899 · `EXTENT` 1卷
+
+**人物**
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→甲】 — `WITID` wit49
+- 【大→原】 — `WITID` wit6
+
+## [KR6j0071 十八契印-唐-惠果](https://github.com/kanripo/KR6j0071)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T18n0900 · `GENRE` 經 · `CUSTOM_ID` ZB6j0059 · `SOURCE` Taisho Tripitaka Vol. 18, No. 900 · `EXTENT` 1卷
+
+**人物**
+- 惠果 — 造
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→甲】 — `WITID` wit49
+
+## [KR6j0072 陀羅尼集經-唐-阿地瞿多](https://github.com/kanripo/KR6j0072)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T18n0901 · `RELATED` T20n1034@經, T20n1035@經, T20n1036@經, T20n1070@經, T20n1071@經, T20n1072@經, T20n1073@經, T20n1074@經, T20n1092@經 · `GENRE` 經 · `CUSTOM_ID` ZB6j0060 · `SOURCE` Taisho Tripitaka Vol. 18, No. 901 · `EXTENT` 12卷
+
+**人物**
+- 阿地瞿多 — 譯
+
+**版本**
+- CBETA — `WITID` wit3
+- 【大】 — `WITID` wit4
+- 【大→宋】 — `WITID` wit10
+- 【大→元】 — `WITID` wit11
+- 【大→宮】 — `WITID` wit25
+- 【大→明】 — `WITID` wit12
+- 【大→甲】 — `WITID` wit49
+- 【大→乙】 — `WITID` wit50
+- 【大→麗】 — `WITID` wit8
+- 【大→unknown】 — `WITID` wit14
+
+## [KR6j0073 總釋陀羅尼義讚-唐-不空](https://github.com/kanripo/KR6j0073)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T18n0902 · `GENRE` 經 · `CUSTOM_ID` ZB6j0062 · `SOURCE` Taisho Tripitaka Vol. 18, No. 902 · `EXTENT` 1卷
+
+**人物**
+- 不空 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→原】 — `WITID` wit6
+- 【大→甲】 — `WITID` wit49
+
+## [KR6j0074 都部陀羅尼目-唐-不空](https://github.com/kanripo/KR6j0074)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T18n0903 · `GENRE` 經 · `CUSTOM_ID` ZB6j0063 · `SOURCE` Taisho Tripitaka Vol. 18, No. 903 · `EXTENT` 1卷
+
+**人物**
+- 不空 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→宋】 — `WITID` wit10
+- 【大→元】 — `WITID` wit11
+- 【大→明】 — `WITID` wit12
+- 【大→甲】 — `WITID` wit49
+- 【大→乙】 — `WITID` wit50
+- 【大→丙】 — `WITID` wit51
+
+## [KR6j0075 念誦結護法普通諸部-唐-金剛智](https://github.com/kanripo/KR6j0075)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T18n0904 · `GENRE` 經 · `CUSTOM_ID` ZB6j0064 · `SOURCE` Taisho Tripitaka Vol. 18, No. 904 · `EXTENT` 1卷
+
+**人物**
+- 金剛智 — 述
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→原】 — `WITID` wit6
+- 【大→甲】 — `WITID` wit49
+
+## [KR6j0076 三種悉地破地獄轉業障出三界祕密陀羅尼法-唐-善無畏](https://github.com/kanripo/KR6j0076)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T18n0905 · `RELATED` T18n0906@經, T18n0907@經 · `GENRE` 經 · `CUSTOM_ID` ZB6j0065 · `SOURCE` Taisho Tripitaka Vol. 18, No. 905 · `EXTENT` 1卷
+
+**人物**
+- 善無畏 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→原】 — `WITID` wit6
+
+## [KR6j0077 佛頂尊勝心破地獄轉業障出三界祕密三身佛果三種悉地真言儀軌-唐-善無畏](https://github.com/kanripo/KR6j0077)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T18n0906 · `RELATED` T18n0905@經, T18n0907@經 · `GENRE` 經 · `CUSTOM_ID` ZB6j0066 · `SOURCE` Taisho Tripitaka Vol. 18, No. 906 · `EXTENT` 1卷
+
+**人物**
+- 善無畏 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→原】 — `WITID` wit6
+
+## [KR6j0078 佛頂尊勝心破地獄轉業障出三界祕密陀羅尼-唐-善無畏](https://github.com/kanripo/KR6j0078)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T18n0907 · `RELATED` T18n0905@經, T18n0906@經 · `GENRE` 經 · `CUSTOM_ID` ZB6j0067 · `SOURCE` Taisho Tripitaka Vol. 18, No. 907 · `EXTENT` 1卷
+
+**人物**
+- 善無畏 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→原】 — `WITID` wit6
+
+## [KR6j0079 金剛頂瑜伽護摩儀軌-唐-不空](https://github.com/kanripo/KR6j0079)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T18n0908 · `GENRE` 經 · `CUSTOM_ID` ZB6j0068 · `SOURCE` Taisho Tripitaka Vol. 18, No. 908 · `EXTENT` 1卷
+
+**人物**
+- 不空 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→宋】 — `WITID` wit10
+- 【大→元】 — `WITID` wit11
+- 【大→明】 — `WITID` wit12
+- 【大→甲】 — `WITID` wit49
+- 【大→乙】 — `WITID` wit50
+- 【大→丙】 — `WITID` wit51
+
+## [KR6j0080 金剛頂瑜伽護摩儀軌-唐-不空](https://github.com/kanripo/KR6j0080)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T18n0909 · `GENRE` 經 · `CUSTOM_ID` ZB6j0069 · `SOURCE` Taisho Tripitaka Vol. 18, No. 909 · `EXTENT` 1卷
+
+**人物**
+- 不空 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→甲】 — `WITID` wit49
+- 【大→原】 — `WITID` wit6
+
+## [KR6j0081 梵天擇地法--](https://github.com/kanripo/KR6j0081)
+
+`BASEEDITION` T · `CBETA_ID` T18n0910 · `GENRE` 經 · `CUSTOM_ID` ZB6j0070 · `SOURCE` Taisho Tripitaka Vol. 18, No. 910 · `EXTENT` 1卷
+
+**人物**
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→原】 — `WITID` wit6
+- 【大→甲】 — `WITID` wit49
+
+## [KR6j0082 建立曼荼羅及揀擇地法-唐-慧琳](https://github.com/kanripo/KR6j0082)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T18n0911 · `GENRE` 經 · `CUSTOM_ID` ZB6j0071 · `SOURCE` Taisho Tripitaka Vol. 18, No. 911 · `EXTENT` 1卷
+
+**人物**
+- 慧琳 — 集
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→甲】 — `WITID` wit49
+- 【大→原】 — `WITID` wit6
+
+## [KR6j0083 建立曼荼羅護摩儀軌--](https://github.com/kanripo/KR6j0083)
+
+`BASEEDITION` T · `CBETA_ID` T18n0912 · `GENRE` 經 · `CUSTOM_ID` ZB6j0072 · `SOURCE` Taisho Tripitaka Vol. 18, No. 912 · `EXTENT` 1卷
+
+**人物**
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→甲】 — `WITID` wit49
+- 【大→乙】 — `WITID` wit50
+- 【大→原】 — `WITID` wit6
+
+## [KR6j0084 火𤙖供養儀軌--](https://github.com/kanripo/KR6j0084)
+
+`BASEEDITION` T · `CBETA_ID` T18n0913 · `GENRE` 經 · `CUSTOM_ID` ZB6j0073 · `SOURCE` Taisho Tripitaka Vol. 18, No. 913 · `EXTENT` 1卷
+
+**人物**
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→乙】 — `WITID` wit50
+- 【大→原】 — `WITID` wit6
+- 【大→甲】 — `WITID` wit49
+
+## [KR6j0085 火吽軌別錄--](https://github.com/kanripo/KR6j0085)
+
+`BASEEDITION` T · `CBETA_ID` T18n0914 · `GENRE` 經 · `CUSTOM_ID` ZB6j0074 · `SOURCE` Taisho Tripitaka Vol. 18, No. 914 · `EXTENT` 1卷
+
+**人物**
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→甲】 — `WITID` wit49
+- 【大→乙】 — `WITID` wit50
+- 【大→原】 — `WITID` wit6
+
+## [KR6j0086 受菩提心戒儀-唐-不空](https://github.com/kanripo/KR6j0086)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T18n0915 · `GENRE` 經 · `CUSTOM_ID` ZB6j0075 · `SOURCE` Taisho Tripitaka Vol. 18, No. 915 · `EXTENT` 1卷
+
+**人物**
+- 不空 — 譯
+
+**版本**
+- CBETA — `WITID` wit3
+- 【大】 — `WITID` wit4
+- 【大→宋】 — `WITID` wit10
+- 【大→元】 — `WITID` wit11
+- 【大→明】 — `WITID` wit12
+- 【大→甲】 — `WITID` wit49
+- 【大→乙】 — `WITID` wit50
+
+## [KR6j0087 受五戒八戒文--](https://github.com/kanripo/KR6j0087)
+
+`BASEEDITION` T · `CBETA_ID` T18n0916 · `GENRE` 經 · `CUSTOM_ID` ZB6j0076 · `SOURCE` Taisho Tripitaka Vol. 18, No. 916 · `EXTENT` 1卷
+
+**人物**
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→原】 — `WITID` wit6
+- 【大→甲】 — `WITID` wit49
+
+## [KR6j0088 無畏三藏禪要--](https://github.com/kanripo/KR6j0088)
+
+`BASEEDITION` T · `CBETA_ID` T18n0917 · `GENRE` 經 · `CUSTOM_ID` ZB6j0077 · `SOURCE` Taisho Tripitaka Vol. 18, No. 917 · `EXTENT` 1卷
+
+**人物**
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→甲】 — `WITID` wit49
+- 【大→丙】 — `WITID` wit51
+- 【大→乙】 — `WITID` wit50
+- 【大→原】 — `WITID` wit6
+
+## [KR6j0089 諸佛心陀羅尼經-唐-玄奘](https://github.com/kanripo/KR6j0089)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T19n0918 · `RELATED` T19n0919@經 · `GENRE` 經 · `CUSTOM_ID` ZB6j0078 · `SOURCE` Taisho Tripitaka Vol. 19, No. 918 · `EXTENT` 1卷
+
+**人物**
+- 玄奘 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→明】 — `WITID` wit12
+- 【大→宋】 — `WITID` wit10
+- 【大→元】 — `WITID` wit11
+
+## [KR6j0090 諸佛心印陀羅尼經-宋-法天](https://github.com/kanripo/KR6j0090)
+
+宋 · `BASEEDITION` T · `CBETA_ID` T19n0919 · `RELATED` T19n0918@經 · `GENRE` 經 · `CUSTOM_ID` ZB6j0079 · `SOURCE` Taisho Tripitaka Vol. 19, No. 919 · `EXTENT` 1卷
+
+**人物**
+- 法天 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→明】 — `WITID` wit12
+- 【大→宋】 — `WITID` wit10
+- 【大→元】 — `WITID` wit11
+
+## [KR6j0091 佛心經-唐-菩提流志](https://github.com/kanripo/KR6j0091)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T19n0920 · `GENRE` 經 · `CUSTOM_ID` ZB6j0080 · `SOURCE` Taisho Tripitaka Vol. 19, No. 920 · `EXTENT` 2卷
+
+**人物**
+- 菩提流志 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→原】 — `WITID` wit6
+
+## [KR6j0092 阿閦如來念誦供養法-唐-不空](https://github.com/kanripo/KR6j0092)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T19n0921 · `GENRE` 經 · `CUSTOM_ID` ZB6j0081 · `SOURCE` Taisho Tripitaka Vol. 19, No. 921 · `EXTENT` 1卷
+
+**人物**
+- 不空 — 譯
+
+**版本**
+- CBETA — `WITID` wit3
+- 【大】 — `WITID` wit4
+- 【大→宋】 — `WITID` wit10
+- 【大→明】 — `WITID` wit12
+- 【大→甲】 — `WITID` wit49
+- 【大→乙】 — `WITID` wit50
+- 【大→麗】 — `WITID` wit8
+
+## [KR6j0093 藥師如來觀行儀軌法-唐-金剛智](https://github.com/kanripo/KR6j0093)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T19n0923 · `GENRE` 經 · `CUSTOM_ID` ZB6j0082 · `SOURCE` Taisho Tripitaka Vol. 19, No. 923 · `EXTENT` 1卷
+
+**人物**
+- 金剛智 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→甲】 — `WITID` wit49
+- 【大→原】 — `WITID` wit6
+
+## [KR6j0094 藥師如來念誦儀軌-唐-不空](https://github.com/kanripo/KR6j0094)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T19n0924A · `GENRE` 經 · `CUSTOM_ID` ZB6j0083 · `SOURCE` Taisho Tripitaka Vol. 19, No. 924A · `EXTENT` 1卷
+
+**人物**
+- 不空 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→原】 — `WITID` wit6
+
+## [KR6j0095 藥師如來念誦儀軌-唐-不空](https://github.com/kanripo/KR6j0095)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T19n0924B · `GENRE` 經 · `CUSTOM_ID` ZB6j0084 · `SOURCE` Taisho Tripitaka Vol. 19, No. 924B · `EXTENT` 1卷
+
+**人物**
+- 不空 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→甲】 — `WITID` wit49
+- 【大→原】 — `WITID` wit6
+- 【大→乙】 — `WITID` wit50
+
+## [KR6j0096 藥師儀軌一具--](https://github.com/kanripo/KR6j0096)
+
+`BASEEDITION` T · `CBETA_ID` T19n0924C · `GENRE` 經 · `CUSTOM_ID` ZB6j0085 · `SOURCE` Taisho Tripitaka Vol. 19, No. 924C · `EXTENT` 1卷
+
+**人物**
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→原】 — `WITID` wit6
+
+## [KR6j0097 藥師琉璃光王七佛本願功德經念誦儀軌-元-沙囉巴](https://github.com/kanripo/KR6j0097)
+
+元 · `BASEEDITION` T · `CBETA_ID` T19n0925 · `GENRE` 經 · `CUSTOM_ID` ZB6j0086 · `SOURCE` Taisho Tripitaka Vol. 19, No. 925 · `EXTENT` 2卷
+
+**人物**
+- 沙囉巴 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+
+## [KR6j0098 藥師琉璃光王七佛本願功德經念誦儀軌供養法-元-沙囉巴](https://github.com/kanripo/KR6j0098)
+
+元 · `BASEEDITION` T · `CBETA_ID` T19n0926 · `GENRE` 經 · `CUSTOM_ID` ZB6j0087 · `SOURCE` Taisho Tripitaka Vol. 19, No. 926 · `EXTENT` 1卷
+
+**人物**
+- 沙囉巴 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+
+## [KR6j0099 藥師七佛供養儀軌如意王經-清-工布查布](https://github.com/kanripo/KR6j0099)
+
+清 · `BASEEDITION` T · `CBETA_ID` T19n0927 · `GENRE` 經 · `CUSTOM_ID` ZB6j0088 · `SOURCE` Taisho Tripitaka Vol. 19, No. 927 · `EXTENT` 1卷
+
+**人物**
+- 工布查布 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- orig — `WITID` wit99
+
+## [KR6j0100 修藥師儀軌布壇法-清-阿旺扎什](https://github.com/kanripo/KR6j0100)
+
+清 · `BASEEDITION` T · `CBETA_ID` T19n0928 · `GENRE` 經 · `CUSTOM_ID` ZB6j0089 · `SOURCE` Taisho Tripitaka Vol. 19, No. 928 · `EXTENT` 1卷
+
+**人物**
+- 阿旺扎什 — 補譯
+
+**版本**
+- CBETA — `WITID` wit1
+
+## [KR6j0101 淨瑠璃淨土摽--](https://github.com/kanripo/KR6j0101)
+
+`BASEEDITION` T · `CBETA_ID` T19n0929 · `GENRE` 經 · `CUSTOM_ID` ZB6j0090 · `SOURCE` Taisho Tripitaka Vol. 19, No. 929 · `EXTENT` 1卷
+
+**人物**
+
+**版本**
+- CBETA — `WITID` wit1
+- orig — `WITID` wit99
+
+## [KR6j0102 無量壽如來觀行供養儀軌-唐-不空](https://github.com/kanripo/KR6j0102)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T19n0930 · `GENRE` 經 · `CUSTOM_ID` ZB6j0091 · `SOURCE` Taisho Tripitaka Vol. 19, No. 930 · `EXTENT` 1卷
+
+**人物**
+- 不空 — 譯
+
+**版本**
+- CBETA — `WITID` wit3
+- 【大】 — `WITID` wit4
+- 【大→宋】 — `WITID` wit10
+- 【大→元】 — `WITID` wit11
+- 【大→明】 — `WITID` wit12
+- 【大→甲】 — `WITID` wit49
+- 【大→乙】 — `WITID` wit50
+- 【大→丙】 — `WITID` wit51
+- 【大→麗】 — `WITID` wit8
+- 【大→宮】 — `WITID` wit25
+
+## [KR6j0103 金剛頂經觀自在王如來修行法-唐-不空](https://github.com/kanripo/KR6j0103)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T19n0931 · `RELATED` T19n0932@經 · `GENRE` 經 · `CUSTOM_ID` ZB6j0092 · `SOURCE` Taisho Tripitaka Vol. 19, No. 931 · `EXTENT` 1卷
+
+**人物**
+- 不空 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→明】 — `WITID` wit12
+- 【大→甲】 — `WITID` wit49
+- 【大→乙】 — `WITID` wit50
+- 【大→丙】 — `WITID` wit51
+
+## [KR6j0104 金剛頂經瑜伽觀自在王如來修行法-唐-金剛智](https://github.com/kanripo/KR6j0104)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T19n0932 · `RELATED` T19n0931@經 · `GENRE` 經 · `CUSTOM_ID` ZB6j0093 · `SOURCE` Taisho Tripitaka Vol. 19, No. 932 · `EXTENT` 1卷
+
+**人物**
+- 金剛智 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+
+## [KR6j0105 九品往生阿彌陀三摩地集陀羅尼經-唐-不空](https://github.com/kanripo/KR6j0105)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T19n0933 · `GENRE` 經 · `CUSTOM_ID` ZB6j0094 · `SOURCE` Taisho Tripitaka Vol. 19, No. 933 · `EXTENT` 1卷
+
+**人物**
+- 不空 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→原】 — `WITID` wit6
+
+## [KR6j0106 佛說無量功德陀羅尼經-宋-法賢](https://github.com/kanripo/KR6j0106)
+
+宋 · `BASEEDITION` T · `CBETA_ID` T19n0934 · `GENRE` 經 · `CUSTOM_ID` ZB6j0095 · `SOURCE` Taisho Tripitaka Vol. 19, No. 934 · `EXTENT` 1卷
+
+**人物**
+- 法賢 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→宋】 — `WITID` wit10
+- 【大→元】 — `WITID` wit11
+- 【大→明】 — `WITID` wit12
+
+## [KR6j0107 極樂願文-清-達喇嘛嘎卜楚薩木丹達爾吉](https://github.com/kanripo/KR6j0107)
+
+清 · `BASEEDITION` T · `CBETA_ID` T19n0935 · `GENRE` 經 · `CUSTOM_ID` ZB6j0096 · `SOURCE` Taisho Tripitaka Vol. 19, No. 935 · `EXTENT` 1卷
+
+**人物**
+- 達喇嘛嘎卜楚薩木丹達爾吉 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+
+## [KR6j0108 大乘無量壽經-唐-法成](https://github.com/kanripo/KR6j0108)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T19n0936 · `RELATED` T19n0937@經 · `GENRE` 經 · `CUSTOM_ID` ZB6j0097 · `SOURCE` Taisho Tripitaka Vol. 19, No. 936 · `EXTENT` 1卷
+
+**人物**
+- 法成 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→甲】 — `WITID` wit49
+
+## [KR6j0109 佛說大乘聖無量壽決定光明王如來陀羅尼經-宋-法天](https://github.com/kanripo/KR6j0109)
+
+宋 · `BASEEDITION` T · `CBETA_ID` T19n0937 · `RELATED` T19n0936@經 · `GENRE` 經 · `CUSTOM_ID` ZB6j0098 · `SOURCE` Taisho Tripitaka Vol. 19, No. 937 · `EXTENT` 1卷
+
+**人物**
+- 法天 — 譯
+
+**版本**
+- CBETA — `WITID` wit3
+- 【大】 — `WITID` wit4
+- 【大→明】 — `WITID` wit12
+- 【大→元】 — `WITID` wit11
+- 【大→麗】 — `WITID` wit8
+- 【大→宋】 — `WITID` wit10
+
+## [KR6j0110 釋迦文尼佛金剛一乘修行儀軌法品--](https://github.com/kanripo/KR6j0110)
+
+`BASEEDITION` T · `CBETA_ID` T19n0938 · `GENRE` 經 · `CUSTOM_ID` ZB6j0099 · `SOURCE` Taisho Tripitaka Vol. 19, No. 938 · `EXTENT` 1卷
+
+**人物**
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→丙】 — `WITID` wit51
+- 【大→甲】 — `WITID` wit49
+- 【大→乙】 — `WITID` wit50
+- 【大→原】 — `WITID` wit6
+
+## [KR6j0111 佛說大乘觀想曼拏羅淨諸惡趣經-宋-法賢](https://github.com/kanripo/KR6j0111)
+
+宋 · `BASEEDITION` T · `CBETA_ID` T19n0939 · `GENRE` 經 · `CUSTOM_ID` ZB6j0100 · `SOURCE` Taisho Tripitaka Vol. 19, No. 939 · `EXTENT` 2卷
+
+**人物**
+- 法賢 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→明】 — `WITID` wit12
+- 【大→元】 — `WITID` wit11
+- 【大→宋】 — `WITID` wit10
+
+## [KR6j0112 佛說帝釋巖祕密成就儀軌-宋-施護](https://github.com/kanripo/KR6j0112)
+
+宋 · `BASEEDITION` T · `CBETA_ID` T19n0940 · `GENRE` 經 · `CUSTOM_ID` ZB6j0101 · `SOURCE` Taisho Tripitaka Vol. 19, No. 940 · `EXTENT` 1卷
+
+**人物**
+- 施護 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→明】 — `WITID` wit12
+- 【大→元】 — `WITID` wit11
+- 【大→宋】 — `WITID` wit10
+
+## [KR6j0113 釋迦牟尼佛成道在菩提樹降魔讚--](https://github.com/kanripo/KR6j0113)
+
+`BASEEDITION` T · `CBETA_ID` T19n0941 · `GENRE` 經 · `CUSTOM_ID` ZB6j0102 · `SOURCE` Taisho Tripitaka Vol. 19, No. 941 · `EXTENT` 1卷
+
+**人物**
+
+**版本**
+- CBETA — `WITID` wit1
+
+## [KR6j0114 釋迦佛讚-清-達喇嘛薩穆丹達爾吉](https://github.com/kanripo/KR6j0114)
+
+清 · `BASEEDITION` T · `CBETA_ID` T19n0942 · `GENRE` 經 · `CUSTOM_ID` ZB6j0103 · `SOURCE` Taisho Tripitaka Vol. 19, No. 942 · `EXTENT` 1卷
+
+**人物**
+- 達喇嘛薩穆丹達爾吉 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+
+## [KR6j0115 佛說無能勝幡王如來莊嚴陀羅尼經-宋-施護](https://github.com/kanripo/KR6j0115)
+
+宋 · `BASEEDITION` T · `CBETA_ID` T19n0943 · `GENRE` 經 · `CUSTOM_ID` ZB6j0104 · `SOURCE` Taisho Tripitaka Vol. 19, No. 943 · `EXTENT` 1卷
+
+**人物**
+- 施護 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→明】 — `WITID` wit12
+- 【大→宋】 — `WITID` wit10
+- 【大→元】 — `WITID` wit11
+
+## [KR6j0116 大佛頂如來放光悉怛多鉢怛囉陀羅尼-唐-不空](https://github.com/kanripo/KR6j0116)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T19n0944A · `GENRE` 經 · `CUSTOM_ID` ZB6j0105 · `SOURCE` Taisho Tripitaka Vol. 19, No. 944A · `EXTENT` 1卷
+
+**人物**
+- 不空 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- orig — `WITID` wit99
+
+## [KR6j0117 大佛頂大陀羅尼--](https://github.com/kanripo/KR6j0117)
+
+`BASEEDITION` T · `CBETA_ID` T19n0944B · `GENRE` 經 · `CUSTOM_ID` ZB6j0106 · `SOURCE` Taisho Tripitaka Vol. 19, No. 944B · `EXTENT` 1卷
+
+**人物**
+
+**版本**
+- CBETA — `WITID` wit15
+- orig — `WITID` wit99
+
+## [KR6j0118 大佛頂如來密因修證了義諸菩薩萬行首楞嚴經-唐-般剌蜜帝](https://github.com/kanripo/KR6j0118)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T19n0945 · `RELATED` T39n1799@疏, T61n2233@疏 · `GENRE` 經 · `CUSTOM_ID` ZB6j0107 · `SOURCE` Taisho Tripitaka Vol. 19, No. 945 · `EXTENT` 10卷
+
+**人物**
+- 般剌蜜帝 — 譯
+
+**版本**
+- CBETA — `WITID` wit3
+- 【大】 — `WITID` wit4
+- 【大→明】 — `WITID` wit12
+- 【大→宋】 — `WITID` wit10
+- 【大→元】 — `WITID` wit11
+- 【大→麗】 — `WITID` wit8
+- 【大→磧砂】 — `WITID` wit15
+- 【大→龍】 — `WITID` wit53
+
+## [KR6j0119 大佛頂經開題--空海](https://github.com/kanripo/KR6j0119)
+
+`CBETA_ID` T61n2233 · `RELATED` T19n0945@經 · `GENRE` 疏 · `lang@ja-rom` DAIBUCCHŌGYŌ KAIDAI · `lang@zh-py` (Da fo ding jing kai ti) · `EXTENT` I
+
+**人物**
+- 空海 — `lang@ja-rom` Kūkai
+
+## [KR6j0120 大佛頂廣聚陀羅尼經--失譯](https://github.com/kanripo/KR6j0120)
+
+`BASEEDITION` T · `CBETA_ID` T19n0946 · `GENRE` 經 · `CUSTOM_ID` ZB6j0108 · `SOURCE` Taisho Tripitaka Vol. 19, No. 946 · `EXTENT` 4卷
+
+**人物**
+- 失譯 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→原】 — `WITID` wit6
+
+## [KR6j0121 大佛頂如來放光悉怛多般怛羅大神力都攝一切呪王陀羅尼經大威德最勝金輪三昧呪品--](https://github.com/kanripo/KR6j0121)
+
+`BASEEDITION` T · `CBETA_ID` T19n0947 · `GENRE` 經 · `CUSTOM_ID` ZB6j0109 · `SOURCE` Taisho Tripitaka Vol. 19, No. 947 · `EXTENT` 1卷
+
+**人物**
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→原】 — `WITID` wit6
+
+## [KR6j0122 金輪王佛頂要略念誦法-唐-不空](https://github.com/kanripo/KR6j0122)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T19n0948 · `GENRE` 經 · `CUSTOM_ID` ZB6j0110 · `SOURCE` Taisho Tripitaka Vol. 19, No. 948 · `EXTENT` 1卷
+
+**人物**
+- 不空 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→乙】 — `WITID` wit50
+- 【大→丙】 — `WITID` wit51
+- 【大→明】 — `WITID` wit12
+- 【大→甲】 — `WITID` wit49
+
+## [KR6j0123 奇特最勝金輪佛頂念誦儀軌法要--失譯](https://github.com/kanripo/KR6j0123)
+
+`BASEEDITION` T · `CBETA_ID` T19n0949 · `GENRE` 經 · `CUSTOM_ID` ZB6j0111 · `SOURCE` Taisho Tripitaka Vol. 19, No. 949 · `EXTENT` 1卷
+
+**人物**
+- 失譯 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→甲】 — `WITID` wit49
+- 【大→明】 — `WITID` wit12
+
+## [KR6j0124 菩提場所說一字頂輪王經-唐-不空](https://github.com/kanripo/KR6j0124)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T19n0950 · `RELATED` T19n0951@經, T19n0952@經, T61n2230@疏 · `GENRE` 經 · `CUSTOM_ID` ZB6j0112 · `SOURCE` Taisho Tripitaka Vol. 19, No. 950 · `EXTENT` 5卷
+
+**人物**
+- 不空 — 譯
+
+**版本**
+- CBETA — `WITID` wit3
+- 【大】 — `WITID` wit4
+- 【大→乙】 — `WITID` wit50
+- 【大→宋】 — `WITID` wit10
+- 【大→元】 — `WITID` wit11
+- 【大→明】 — `WITID` wit12
+- 【大→甲】 — `WITID` wit49
+- 【大→麗】 — `WITID` wit8
+
+## [KR6j0125 菩提場經略義釋--圓珍](https://github.com/kanripo/KR6j0125)
+
+`CBETA_ID` T61n2230 · `RELATED` T19n0950@經 · `GENRE` 疏 · `lang@ja-rom` BODAIJŌKYŌ RYAKU GISHAKU · `lang@zh-py` (Pu ti chang jing lüe yi shi) · `EXTENT` V
+
+**人物**
+- 圓珍 — `lang@ja-rom` Enchin
+
+## [KR6j0126 一字佛頂輪王經-唐-菩提流志](https://github.com/kanripo/KR6j0126)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T19n0951 · `RELATED` T19n0950@經, T19n0952@經 · `GENRE` 經 · `CUSTOM_ID` ZB6j0113 · `SOURCE` Taisho Tripitaka Vol. 19, No. 951 · `EXTENT` 5卷
+
+**人物**
+- 菩提流志 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→宋】 — `WITID` wit10
+- 【大→元】 — `WITID` wit11
+- 【大→明】 — `WITID` wit12
+- 【大→甲】 — `WITID` wit49
+- 【大→甲考偽】 — `WITID` wit54
+
+## [KR6j0127 五佛頂三昧陀羅尼經-唐-菩提流志](https://github.com/kanripo/KR6j0127)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T19n0952 · `RELATED` T19n0950@經, T19n0951@經 · `GENRE` 經 · `CUSTOM_ID` ZB6j0114 · `SOURCE` Taisho Tripitaka Vol. 19, No. 952 · `EXTENT` 4卷
+
+**人物**
+- 菩提流志 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→甲】 — `WITID` wit49
+- 【大→乙】 — `WITID` wit50
+
+## [KR6j0128 一字奇特佛頂經-唐-不空](https://github.com/kanripo/KR6j0128)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T19n0953 · `GENRE` 經 · `CUSTOM_ID` ZB6j0115 · `SOURCE` Taisho Tripitaka Vol. 19, No. 953 · `EXTENT` 3卷
+
+**人物**
+- 不空 — 譯
+
+**版本**
+- CBETA — `WITID` wit3
+- 【大】 — `WITID` wit4
+- 【大→聖】 — `WITID` wit13
+- 【大→甲】 — `WITID` wit49
+- 【大→宋】 — `WITID` wit10
+- 【大→元】 — `WITID` wit11
+- 【大→明】 — `WITID` wit12
+- 【大→乙】 — `WITID` wit50
+- 【大→聖乙】 — `WITID` wit34
+
+## [KR6j0129 一字頂輪王瑜伽經-唐-不空](https://github.com/kanripo/KR6j0129)
+
+唐 · `BASEEDITION` G · `CBETA_ID` G052n1222 · `CUSTOM_ID` ZB6j0116 · `SOURCE` Fojiao Canon Vol. 052, No. 1222 · `EXTENT` 1卷
+
+**人物**
+- 不空 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- orig — `WITID` wit99
+
+## [KR6j0130 一字頂輪王念誦儀軌-唐-不空](https://github.com/kanripo/KR6j0130)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T19n0954A · `GENRE` 經 · `CUSTOM_ID` ZB6j0117 · `SOURCE` Taisho Tripitaka Vol. 19, No. 954A · `EXTENT` 1卷
+
+**人物**
+- 不空 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→宋】 — `WITID` wit10
+- 【大→元】 — `WITID` wit11
+- 【大→明】 — `WITID` wit12
+- 【大→丙】 — `WITID` wit51
+- 【大→甲】 — `WITID` wit49
+- 【大→乙】 — `WITID` wit50
+
+## [KR6j0131 一字頂輪王念誦儀軌--](https://github.com/kanripo/KR6j0131)
+
+`BASEEDITION` T · `CBETA_ID` T19n0954B · `GENRE` 經 · `CUSTOM_ID` ZB6j0118 · `SOURCE` Taisho Tripitaka Vol. 19, No. 954B · `EXTENT` 1卷
+
+**人物**
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→甲】 — `WITID` wit49
+
+## [KR6j0132 一字頂輪王瑜伽觀行儀軌-唐-不空](https://github.com/kanripo/KR6j0132)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T19n0955 · `GENRE` 經 · `CUSTOM_ID` ZB6j0119 · `SOURCE` Taisho Tripitaka Vol. 19, No. 955 · `EXTENT` 1卷
+
+**人物**
+- 不空 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→宋】 — `WITID` wit10
+- 【大→元】 — `WITID` wit11
+- 【大→明】 — `WITID` wit12
+- 【大→甲】 — `WITID` wit49
+
+## [KR6j0133 大陀羅尼末法中一字心呪經-唐-寶思惟](https://github.com/kanripo/KR6j0133)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T19n0956 · `GENRE` 經 · `CUSTOM_ID` ZB6j0120 · `SOURCE` Taisho Tripitaka Vol. 19, No. 956 · `EXTENT` 1卷
+
+**人物**
+- 寶思惟 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→元】 — `WITID` wit11
+- 【大→明】 — `WITID` wit12
+- 【大→宋】 — `WITID` wit10
+
+## [KR6j0134 金剛頂一字頂輪王瑜伽一切時處念誦成佛儀軌-唐-不空](https://github.com/kanripo/KR6j0134)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T19n0957 · `GENRE` 經 · `CUSTOM_ID` ZB6j0121 · `SOURCE` Taisho Tripitaka Vol. 19, No. 957 · `EXTENT` 1卷
+
+**人物**
+- 不空 — 譯
+
+**版本**
+- CBETA — `WITID` wit3
+- 【大】 — `WITID` wit4
+- 【大→乙】 — `WITID` wit50
+- 【大→甲】 — `WITID` wit49
+- 【大→原】 — `WITID` wit6
+- 【大→麗】 — `WITID` wit8
+- 【大→磧砂】 — `WITID` wit15
+
+## [KR6j0135 金剛頂經一字頂輪王儀軌音義-唐-不空](https://github.com/kanripo/KR6j0135)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T19n0958 · `GENRE` 經 · `CUSTOM_ID` ZB6j0122 · `SOURCE` Taisho Tripitaka Vol. 19, No. 958 · `EXTENT` 1卷
+
+**人物**
+- 不空 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→原】 — `WITID` wit6
+
+## [KR6j0136 頂輪王大曼荼羅灌頂儀軌-唐-𧦪弘](https://github.com/kanripo/KR6j0136)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T19n0959 · `GENRE` 經 · `CUSTOM_ID` ZB6j0123 · `SOURCE` Taisho Tripitaka Vol. 19, No. 959 · `EXTENT` 1卷
+
+**人物**
+- 𧦪弘 — 集
+
+**版本**
+- CBETA — `WITID` wit1
+
+## [KR6j0137 一切如來說佛頂輪王一百八名讚-宋-施護](https://github.com/kanripo/KR6j0137)
+
+宋 · `BASEEDITION` T · `CBETA_ID` T19n0960 · `GENRE` 經 · `CUSTOM_ID` ZB6j0124 · `SOURCE` Taisho Tripitaka Vol. 19, No. 960 · `EXTENT` 1卷
+
+**人物**
+- 施護 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→宋】 — `WITID` wit10
+- 【大→元】 — `WITID` wit11
+- 【大→明】 — `WITID` wit12
+
+## [KR6j0138 如意寶珠轉輪祕密現身成佛金輪呪王經-唐-不空](https://github.com/kanripo/KR6j0138)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T19n0961 · `GENRE` 經 · `CUSTOM_ID` ZB6j0125 · `SOURCE` Taisho Tripitaka Vol. 19, No. 961 · `EXTENT` 1卷
+
+**人物**
+- 不空 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→原】 — `WITID` wit6
+
+## [KR6j0139 寶悉地成佛陀羅尼經-唐-不空](https://github.com/kanripo/KR6j0139)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T19n0962 · `GENRE` 經 · `CUSTOM_ID` ZB6j0126 · `SOURCE` Taisho Tripitaka Vol. 19, No. 962 · `EXTENT` 1卷
+
+**人物**
+- 不空 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→原】 — `WITID` wit6
+
+## [KR6j0140 佛說熾盛光大威德消災吉祥陀羅尼經-唐-不空](https://github.com/kanripo/KR6j0140)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T19n0963 · `RELATED` T19n0964@經 · `GENRE` 經 · `CUSTOM_ID` ZB6j0127 · `SOURCE` Taisho Tripitaka Vol. 19, No. 963 · `EXTENT` 1卷
+
+**人物**
+- 不空 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+
+## [KR6j0141 佛說大威德金輪佛頂熾盛光如來消除一切災難陀羅尼經--失譯](https://github.com/kanripo/KR6j0141)
+
+`BASEEDITION` T · `CBETA_ID` T19n0964 · `RELATED` T19n0963@經 · `GENRE` 經 · `CUSTOM_ID` ZB6j0128 · `SOURCE` Taisho Tripitaka Vol. 19, No. 964 · `EXTENT` 1卷
+
+**人物**
+- 失譯 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→明】 — `WITID` wit12
+- 【大→甲】 — `WITID` wit49
+
+## [KR6j0142 大妙金剛大甘露軍拏利焰鬘熾盛佛頂經-唐-達磨栖那](https://github.com/kanripo/KR6j0142)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T19n0965 · `GENRE` 經 · `CUSTOM_ID` ZB6j0129 · `SOURCE` Taisho Tripitaka Vol. 19, No. 965 · `EXTENT` 1卷
+
+**人物**
+- 達磨栖那 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→原】 — `WITID` wit6
+
+## [KR6j0143 大聖妙吉祥菩薩說除災教令法輪--](https://github.com/kanripo/KR6j0143)
+
+`BASEEDITION` T · `CBETA_ID` T19n0966 · `GENRE` 經 · `CUSTOM_ID` ZB6j0130 · `SOURCE` Taisho Tripitaka Vol. 19, No. 966 · `EXTENT` 1卷
+
+**人物**
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→甲】 — `WITID` wit49
+- 【大→乙】 — `WITID` wit50
+- 【大→原】 — `WITID` wit6
+
+## [KR6j0144 佛頂尊勝陀羅尼經-唐-佛陀波利](https://github.com/kanripo/KR6j0144)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T19n0967 · `RELATED` T19n0968@經, T19n0969@經, T19n0970@經, T19n0971@經, T19n0972@經, T19n0973@經, T19n0974A@經, T39n1803@疏 · `GENRE` 經 · `CUSTOM_ID` ZB6j0131 · `SOURCE` Taisho Tripitaka Vol. 19, No. 967 · `EXTENT` 1卷
+
+**人物**
+- 佛陀波利 — 譯
+
+**版本**
+- CBETA — `WITID` wit3
+- 【大】 — `WITID` wit4
+- 【大→明】 — `WITID` wit12
+- 【大→甲】 — `WITID` wit49
+- 【大→宋】 — `WITID` wit10
+
+## [KR6j0145 佛頂尊勝陀羅尼經-唐-杜行顗](https://github.com/kanripo/KR6j0145)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T19n0968 · `RELATED` T19n0967@經, T19n0969@經, T19n0970@經, T19n0971@經, T19n0972@經, T19n0973@經, T19n0974A@經 · `GENRE` 經 · `CUSTOM_ID` ZB6j0132 · `SOURCE` Taisho Tripitaka Vol. 19, No. 968 · `EXTENT` 1卷
+
+**人物**
+- 杜行顗 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→宋】 — `WITID` wit10
+- 【大→元】 — `WITID` wit11
+- 【大→明】 — `WITID` wit12
+
+## [KR6j0146 佛頂最勝陀羅尼經-唐-地婆訶羅](https://github.com/kanripo/KR6j0146)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T19n0969 · `RELATED` T19n0967@經, T19n0968@經, T19n0970@經, T19n0971@經, T19n0972@經, T19n0973@經, T19n0974A@經 · `GENRE` 經 · `CUSTOM_ID` ZB6j0133 · `SOURCE` Taisho Tripitaka Vol. 19, No. 969 · `EXTENT` 1卷
+
+**人物**
+- 地婆訶羅 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→明】 — `WITID` wit12
+- 【大→宋】 — `WITID` wit10
+
+## [KR6j0147 最勝佛頂陀羅尼淨除業障呪經-唐-地婆訶羅](https://github.com/kanripo/KR6j0147)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T19n0970 · `RELATED` T19n0967@經, T19n0968@經, T19n0969@經, T19n0971@經, T19n0972@經, T19n0973@經, T19n0974A@經 · `GENRE` 經 · `CUSTOM_ID` ZB6j0134 · `SOURCE` Taisho Tripitaka Vol. 19, No. 970 · `EXTENT` 1卷
+
+**人物**
+- 地婆訶羅 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→宋】 — `WITID` wit10
+- 【大→元】 — `WITID` wit11
+- 【大→明】 — `WITID` wit12
+- 【大→乙】 — `WITID` wit50
+- 【大→甲】 — `WITID` wit49
+- 【大→unknown】 — `WITID` wit14
+
+## [KR6j0148 佛說佛頂尊勝陀羅尼經-唐-義淨](https://github.com/kanripo/KR6j0148)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T19n0971 · `RELATED` T19n0967@經, T19n0968@經, T19n0969@經, T19n0970@經, T19n0972@經, T19n0973@經, T19n0974A@經 · `GENRE` 經 · `CUSTOM_ID` ZB6j0135 · `SOURCE` Taisho Tripitaka Vol. 19, No. 971 · `EXTENT` 1卷
+
+**人物**
+- 義淨 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→宋】 — `WITID` wit10
+- 【大→甲】 — `WITID` wit49
+- 【大→明】 — `WITID` wit12
+
+## [KR6j0149 佛頂尊勝陀羅尼念誦儀軌法-唐-不空](https://github.com/kanripo/KR6j0149)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T19n0972 · `RELATED` T19n0967@經, T19n0968@經, T19n0969@經, T19n0970@經, T19n0971@經 · `GENRE` 經 · `CUSTOM_ID` ZB6j0136 · `SOURCE` Taisho Tripitaka Vol. 19, No. 972 · `EXTENT` 1卷
+
+**人物**
+- 不空 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→宋】 — `WITID` wit10
+- 【大→元】 — `WITID` wit11
+- 【大→明】 — `WITID` wit12
+- 【大→甲】 — `WITID` wit49
+- 【大→乙】 — `WITID` wit50
+
+## [KR6j0150 尊勝佛頂脩瑜伽法軌儀-唐-善無畏](https://github.com/kanripo/KR6j0150)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T19n0973 · `RELATED` T19n0967@經, T19n0968@經, T19n0969@經, T19n0970@經, T19n0971@經 · `GENRE` 經 · `CUSTOM_ID` ZB6j0137 · `SOURCE` Taisho Tripitaka Vol. 19, No. 973 · `EXTENT` 2卷
+
+**人物**
+- 善無畏 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→甲】 — `WITID` wit49
+- 【大→丙】 — `WITID` wit51
+- 【大→原】 — `WITID` wit6
+- 【大→乙】 — `WITID` wit50
+
+## [KR6j0151 最勝佛頂陀羅尼經-宋-法天](https://github.com/kanripo/KR6j0151)
+
+宋 · `BASEEDITION` T · `CBETA_ID` T19n0974A · `GENRE` 經 · `CUSTOM_ID` ZB6j0138 · `SOURCE` Taisho Tripitaka Vol. 19, No. 974A · `EXTENT` 1卷
+
+**人物**
+- 法天 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→明】 — `WITID` wit12
+- 【大→宋】 — `WITID` wit10
+- 【大→元】 — `WITID` wit11
+
+## [KR6j0152 佛頂尊勝陀羅尼--](https://github.com/kanripo/KR6j0152)
+
+`BASEEDITION` T · `CBETA_ID` T19n0974B · `GENRE` 經 · `CUSTOM_ID` ZB6j0139 · `SOURCE` Taisho Tripitaka Vol. 19, No. 974B · `EXTENT` 1卷
+
+**人物**
+
+**版本**
+- CBETA — `WITID` wit15
+- orig — `WITID` wit99
+
+## [KR6j0153 佛頂尊勝陀羅尼-宋-慈賢](https://github.com/kanripo/KR6j0153)
+
+宋 · `BASEEDITION` F · `CBETA_ID` F27n1062 · `CUSTOM_ID` ZB6j0140 · `SOURCE` Fangshan shijing Vol. 27, No. 1062 · `EXTENT` 1卷
+
+**人物**
+- 慈賢 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+
+## [KR6j0154 加句靈驗佛頂尊勝陀羅尼記-唐-武徹](https://github.com/kanripo/KR6j0154)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T19n0974C · `GENRE` 經 · `CUSTOM_ID` ZB6j0141 · `SOURCE` Taisho Tripitaka Vol. 19, No. 974C · `EXTENT` 1卷
+
+**人物**
+- 武徹 — 述
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→原】 — `WITID` wit6
+
+## [KR6j0155 佛頂尊勝陀羅尼注義-唐-不空](https://github.com/kanripo/KR6j0155)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T19n0974D · `GENRE` 經 · `CUSTOM_ID` ZB6j0142 · `SOURCE` Taisho Tripitaka Vol. 19, No. 974D · `EXTENT` 1卷
+
+**人物**
+- 不空 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→原】 — `WITID` wit6
+
+## [KR6j0156 佛頂尊勝陀羅尼真言--](https://github.com/kanripo/KR6j0156)
+
+`BASEEDITION` T · `CBETA_ID` T19n0974E · `GENRE` 經 · `CUSTOM_ID` ZB6j0143 · `SOURCE` Taisho Tripitaka Vol. 19, No. 974E · `EXTENT` 1卷
+
+**人物**
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→甲】 — `WITID` wit49
+- 【大→原】 — `WITID` wit6
+
+## [KR6j0157 佛頂尊勝陀羅尼別法-唐-若那](https://github.com/kanripo/KR6j0157)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T19n0974F · `GENRE` 經 · `CUSTOM_ID` ZB6j0144 · `SOURCE` Taisho Tripitaka Vol. 19, No. 974F · `EXTENT` 1卷
+
+**人物**
+- 若那 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→原】 — `WITID` wit6
+
+## [KR6j0158 白傘蓋大佛頂王最勝無比大威德金剛無礙大道場陀羅尼念誦法要--失譯](https://github.com/kanripo/KR6j0158)
+
+`BASEEDITION` T · `CBETA_ID` T19n0975 · `GENRE` 經 · `CUSTOM_ID` ZB6j0145 · `SOURCE` Taisho Tripitaka Vol. 19, No. 975 · `EXTENT` 1卷
+
+**人物**
+- 失譯 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→甲】 — `WITID` wit49
+- 【大→原】 — `WITID` wit6
+
+## [KR6j0159 佛頂大白傘蓋陀羅尼經-元-沙囉巴](https://github.com/kanripo/KR6j0159)
+
+元 · `BASEEDITION` T · `CBETA_ID` T19n0976 · `RELATED` T19n0977@經 · `GENRE` 經 · `CUSTOM_ID` ZB6j0146 · `SOURCE` Taisho Tripitaka Vol. 19, No. 976 · `EXTENT` 1卷
+
+**人物**
+- 沙囉巴 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+
+## [KR6j0160 佛說大白傘蓋總持陀羅尼經-元-真智](https://github.com/kanripo/KR6j0160)
+
+元 · `BASEEDITION` T · `CBETA_ID` T19n0977 · `RELATED` T19n0976@經 · `GENRE` 經 · `CUSTOM_ID` ZB6j0147 · `SOURCE` Taisho Tripitaka Vol. 19, No. 977 · `EXTENT` 1卷
+
+**人物**
+- 真智 — 等譯
+
+**版本**
+- CBETA — `WITID` wit1
+- orig — `WITID` wit99
+
+## [KR6j0161 一切如來白傘蓋大佛頂陀羅尼-唐-不空](https://github.com/kanripo/KR6j0161)
+
+唐 · `BASEEDITION` F · `CBETA_ID` F27n1048 · `CUSTOM_ID` ZB6j0148 · `SOURCE` Fangshan shijing Vol. 27, No. 1048 · `EXTENT` 1卷
+
+**人物**
+- 不空 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- orig — `WITID` wit99
+
+## [KR6j0162 一切如來白傘蓋大佛頂陀羅尼-宋-慈賢](https://github.com/kanripo/KR6j0162)
+
+宋 · `BASEEDITION` F · `CBETA_ID` F27n1063 · `CUSTOM_ID` ZB6j0149 · `SOURCE` Fangshan shijing Vol. 27, No. 1063 · `EXTENT` 1卷
+
+**人物**
+- 慈賢 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+
+## [KR6j0163 佛說一切如來烏瑟膩沙最勝總持經-宋-法天](https://github.com/kanripo/KR6j0163)
+
+宋 · `BASEEDITION` T · `CBETA_ID` T19n0978 · `RELATED` T19n0979@經 · `GENRE` 經 · `CUSTOM_ID` ZB6j0150 · `SOURCE` Taisho Tripitaka Vol. 19, No. 978 · `EXTENT` 1卷
+
+**人物**
+- 法天 — 譯
+
+**版本**
+- CBETA — `WITID` wit3
+- 【大】 — `WITID` wit4
+- 【大→明】 — `WITID` wit12
+- 【大→宋】 — `WITID` wit10
+- 【大→麗】 — `WITID` wit8
+- 【大→元】 — `WITID` wit11
+
+## [KR6j0164 于瑟抳沙毘左野陀囉尼-高麗-指空](https://github.com/kanripo/KR6j0164)
+
+高麗 · `BASEEDITION` T · `CBETA_ID` T19n0979 · `RELATED` T19n0978@經 · `GENRE` 經 · `CUSTOM_ID` ZB6j0151 · `SOURCE` Taisho Tripitaka Vol. 19, No. 979 · `EXTENT` 1卷
+
+**人物**
+- 指空 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+
+## [KR6j0165 大勝金剛佛頂念誦儀軌-唐-金剛智](https://github.com/kanripo/KR6j0165)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T19n0980 · `GENRE` 經 · `CUSTOM_ID` ZB6j0152 · `SOURCE` Taisho Tripitaka Vol. 19, No. 980 · `EXTENT` 1卷
+
+**人物**
+- 金剛智 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- orig — `WITID` wit99
+
+## [KR6j0166 大毘盧遮那佛眼修行儀軌-唐-一行](https://github.com/kanripo/KR6j0166)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T19n0981 · `GENRE` 經 · `CUSTOM_ID` ZB6j0153 · `SOURCE` Taisho Tripitaka Vol. 19, No. 981 · `EXTENT` 1卷
+
+**人物**
+- 一行 — 記
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→甲】 — `WITID` wit49
+- 【大→乙】 — `WITID` wit50
+- 【大→原】 — `WITID` wit6
+
+## [KR6j0167 佛母大孔雀明王經-唐-不空](https://github.com/kanripo/KR6j0167)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T19n0982 · `RELATED` T19n0983A@經, T19n0984@經, T19n0985@經, T61n2244@疏 · `GENRE` 經 · `CUSTOM_ID` ZB6j0154 · `SOURCE` Taisho Tripitaka Vol. 19, No. 982 · `EXTENT` 3卷
+
+**人物**
+- 不空 — 譯
+
+**版本**
+- CBETA — `WITID` wit3
+- 【大】 — `WITID` wit4
+- 【大→宋】 — `WITID` wit10
+- 【大→元】 — `WITID` wit11
+- 【大→明】 — `WITID` wit12
+- 【大→丙】 — `WITID` wit51
+- 【大→麗】 — `WITID` wit8
+- 【大→unknown】 — `WITID` wit14
+- 【大→甲】 — `WITID` wit49
+- 【大→乙】 — `WITID` wit50
+
+## [KR6j0168 孔雀經音義--觀靜](https://github.com/kanripo/KR6j0168)
+
+`CBETA_ID` T61n2244 · `RELATED` T19n0982@經 · `GENRE` 疏 · `lang@ja-rom` KUJAKKYŌ ONGI · `lang@zh-py` (Kong que jing yin yi) · `EXTENT` III
+
+**人物**
+- 觀靜 — `lang@ja-rom` Kanjō
+
+## [KR6j0169 佛說大孔雀明王畫像壇場儀軌-唐-不空](https://github.com/kanripo/KR6j0169)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T19n0983A · `GENRE` 經 · `CUSTOM_ID` ZB6j0155 · `SOURCE` Taisho Tripitaka Vol. 19, No. 983A · `EXTENT` 1卷
+
+**人物**
+- 不空 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→聖】 — `WITID` wit13
+- 【大→甲】 — `WITID` wit49
+- 【大→明】 — `WITID` wit12
+- 【大→乙】 — `WITID` wit50
+
+## [KR6j0170 孔雀經真言等梵本--](https://github.com/kanripo/KR6j0170)
+
+`BASEEDITION` T · `CBETA_ID` T19n0983B · `GENRE` 經 · `CUSTOM_ID` ZB6j0156 · `SOURCE` Taisho Tripitaka Vol. 19, No. 983B · `EXTENT` 1卷
+
+**人物**
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→甲】 — `WITID` wit49
+
+## [KR6j0171 孔雀王呪經-梁-僧伽婆羅](https://github.com/kanripo/KR6j0171)
+
+梁 · `BASEEDITION` T · `CBETA_ID` T19n0984 · `RELATED` T19n0982@經, T19n0983A@經, T19n0985@經 · `GENRE` 經 · `CUSTOM_ID` ZB6j0157 · `SOURCE` Taisho Tripitaka Vol. 19, No. 984 · `EXTENT` 2卷
+
+**人物**
+- 僧伽婆羅 — 譯
+
+**版本**
+- CBETA — `WITID` wit3
+- 【大】 — `WITID` wit4
+- 【大→宋】 — `WITID` wit10
+- 【大→元】 — `WITID` wit11
+- 【大→明】 — `WITID` wit12
+
+## [KR6j0172 佛說大孔雀呪王經-唐-義淨](https://github.com/kanripo/KR6j0172)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T19n0985 · `RELATED` T19n0982@經, T19n0983A@經, T19n0984@經 · `GENRE` 經 · `CUSTOM_ID` ZB6j0158 · `SOURCE` Taisho Tripitaka Vol. 19, No. 985 · `EXTENT` 3卷
+
+**人物**
+- 義淨 — 譯
+
+**版本**
+- CBETA — `WITID` wit3
+- 【大】 — `WITID` wit4
+- 【大→宋】 — `WITID` wit10
+- 【大→元】 — `WITID` wit11
+- 【大→明】 — `WITID` wit12
+- 【大→麗】 — `WITID` wit8
+- 【大→甲】 — `WITID` wit49
+
+## [KR6j0173 大金色孔雀王呪經--失譯](https://github.com/kanripo/KR6j0173)
+
+`BASEEDITION` T · `CBETA_ID` T19n0986 · `GENRE` 經 · `CUSTOM_ID` ZB6j0159 · `SOURCE` Taisho Tripitaka Vol. 19, No. 986 · `EXTENT` 1卷
+
+**人物**
+- 失譯 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→元】 — `WITID` wit11
+- 【大→明】 — `WITID` wit12
+- 【大→宋】 — `WITID` wit10
+
+## [KR6j0174 佛說大金色孔雀王呪經--失譯](https://github.com/kanripo/KR6j0174)
+
+`BASEEDITION` T · `CBETA_ID` T19n0987 · `GENRE` 經 · `CUSTOM_ID` ZB6j0160 · `SOURCE` Taisho Tripitaka Vol. 19, No. 987 · `EXTENT` 1卷
+
+**人物**
+- 失譯 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→元】 — `WITID` wit11
+- 【大→明】 — `WITID` wit12
+- 【大→宋】 — `WITID` wit10
+
+## [KR6j0175 孔雀王呪經-姚秦-鳩摩羅什](https://github.com/kanripo/KR6j0175)
+
+姚秦 · `BASEEDITION` T · `CBETA_ID` T19n0988 · `GENRE` 經 · `CUSTOM_ID` ZB6j0161 · `SOURCE` Taisho Tripitaka Vol. 19, No. 988 · `EXTENT` 1卷
+
+**人物**
+- 鳩摩羅什 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→宋】 — `WITID` wit10
+- 【大→元】 — `WITID` wit11
+- 【大→明】 — `WITID` wit12
+
+## [KR6j0176 大雲輪請雨經-唐-不空](https://github.com/kanripo/KR6j0176)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T19n0989 · `RELATED` T19n0991@經, T19n0992@經, T19n0993@經 · `GENRE` 經 · `CUSTOM_ID` ZB6j0162 · `SOURCE` Taisho Tripitaka Vol. 19, No. 989 · `EXTENT` 2卷
+
+**人物**
+- 不空 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→宋】 — `WITID` wit10
+- 【大→元】 — `WITID` wit11
+- 【大→明】 — `WITID` wit12
+- 【大→甲】 — `WITID` wit49
+
+## [KR6j0177 大雲經祈雨壇法-唐-不空](https://github.com/kanripo/KR6j0177)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T19n0990 · `GENRE` 經 · `CUSTOM_ID` ZB6j0163 · `SOURCE` Taisho Tripitaka Vol. 19, No. 990 · `EXTENT` 1卷
+
+**人物**
+- 不空 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→甲】 — `WITID` wit49
+
+## [KR6j0178 大雲輪請雨經-隋-那連提耶舍](https://github.com/kanripo/KR6j0178)
+
+隋 · `BASEEDITION` T · `CBETA_ID` T19n0991 · `RELATED` T19n0989@經, T19n0992@經, T19n0993@經 · `GENRE` 經 · `CUSTOM_ID` ZB6j0164 · `SOURCE` Taisho Tripitaka Vol. 19, No. 991 · `EXTENT` 2卷
+
+**人物**
+- 那連提耶舍 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→宋】 — `WITID` wit10
+- 【大→元】 — `WITID` wit11
+- 【大→明】 — `WITID` wit12
+
+## [KR6j0179 大方等大雲經請雨品第六十四-北周-闍那耶舍](https://github.com/kanripo/KR6j0179)
+
+北周 · `BASEEDITION` T · `CBETA_ID` T19n0992 · `RELATED` T19n0989@經, T19n0991@經, T19n0993@經 · `GENRE` 經 · `CUSTOM_ID` ZB6j0165 · `SOURCE` Taisho Tripitaka Vol. 19, No. 992 · `EXTENT` 1卷
+
+**人物**
+- 闍那耶舍 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→明】 — `WITID` wit12
+- 【大→宋】 — `WITID` wit10
+- 【大→元】 — `WITID` wit11
+
+## [KR6j0180 大雲經請雨品第六十四-北周-闍那耶舍](https://github.com/kanripo/KR6j0180)
+
+北周 · `BASEEDITION` T · `CBETA_ID` T19n0993 · `RELATED` T19n0989@經, T19n0991@經, T19n0992@經 · `GENRE` 經 · `CUSTOM_ID` ZB6j0166 · `SOURCE` Taisho Tripitaka Vol. 19, No. 993 · `EXTENT` 1卷
+
+**人物**
+- 闍那耶舍 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→宋】 — `WITID` wit10
+- 【大→元】 — `WITID` wit11
+- 【大→明】 — `WITID` wit12
+
+## [KR6j0181 仁王護國般若波羅蜜多經陀羅尼念誦儀軌-唐-不空](https://github.com/kanripo/KR6j0181)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T19n0994 · `RELATED` T61n2234@疏, T61n2235@疏 · `GENRE` 經 · `CUSTOM_ID` ZB6j0167 · `SOURCE` Taisho Tripitaka Vol. 19, No. 994 · `EXTENT` 1卷
+
+**人物**
+- 不空 — 譯
+
+**版本**
+- CBETA — `WITID` wit3
+- 【大】 — `WITID` wit4
+- 【大→明】 — `WITID` wit12
+- 【大→甲】 — `WITID` wit49
+- 【大→乙】 — `WITID` wit50
+- 【大→麗】 — `WITID` wit8
+
+## [KR6j0182 注大佛頂眞言--南忠](https://github.com/kanripo/KR6j0182)
+
+`CBETA_ID` T61n2234 · `RELATED` T19n0994@經 · `GENRE` 疏 · `lang@ja-rom` CHŪ DAIBUCCHŌ SHINGON · `lang@zh-py` (Zhu da fo ding zhen yan) · `EXTENT` I
+
+**人物**
+- 南忠 — `lang@ja-rom` Nanchū
+
+## [KR6j0183 大佛頂如來放光悉怛他鉢怛e陀羅尼勘註--明覺](https://github.com/kanripo/KR6j0183)
+
+`CBETA_ID` T61n2235 · `RELATED` T19n0994@經 · `GENRE` 疏 · `lang@ja-rom` DAIBUCCHŌNYORAI HŌKŌ SHITTATA HATTARA DARANI KANCHŪ · `lang@zh-py` (Da fo ding ru lai fang guang xi da ta bo da luo tuo luo ni kan zhu) · `EXTENT` I
+
+**人物**
+- 明覺 — `lang@ja-rom` Myōkaku
+
+## [KR6j0184 仁王般若念誦法-唐-不空](https://github.com/kanripo/KR6j0184)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T19n0995 · `GENRE` 經 · `CUSTOM_ID` ZB6j0168 · `SOURCE` Taisho Tripitaka Vol. 19, No. 995 · `EXTENT` 1卷
+
+**人物**
+- 不空 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→宋】 — `WITID` wit10
+- 【大→元】 — `WITID` wit11
+- 【大→明】 — `WITID` wit12
+- 【大→甲】 — `WITID` wit49
+
+## [KR6j0185 仁王般若陀羅尼釋-唐-不空](https://github.com/kanripo/KR6j0185)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T19n0996 · `GENRE` 經 · `CUSTOM_ID` ZB6j0169 · `SOURCE` Taisho Tripitaka Vol. 19, No. 996 · `EXTENT` 1卷
+
+**人物**
+- 不空 — 譯
+
+**版本**
+- CBETA — `WITID` wit3
+- 【大】 — `WITID` wit4
+- 【大→明】 — `WITID` wit12
+- 【大→甲】 — `WITID` wit49
+- 【大→乙】 — `WITID` wit50
+- 【大→麗】 — `WITID` wit8
+
+## [KR6j0186 守護國界主陀羅尼經-唐-般若](https://github.com/kanripo/KR6j0186)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T19n0997 · `GENRE` 經 · `CUSTOM_ID` ZB6j0170 · `SOURCE` Taisho Tripitaka Vol. 19, No. 997 · `EXTENT` 10卷
+
+**人物**
+- 般若 — 譯
+- 牟尼室利 — 譯
+
+**版本**
+- CBETA — `WITID` wit3
+- 【大】 — `WITID` wit4
+- 【大→明】 — `WITID` wit12
+- 【大→甲】 — `WITID` wit49
+- 【大→麗】 — `WITID` wit8
+
+## [KR6j0187 佛說迴向輪經-唐-尸羅達摩](https://github.com/kanripo/KR6j0187)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T19n0998 · `GENRE` 經 · `CUSTOM_ID` ZB6j0171 · `SOURCE` Taisho Tripitaka Vol. 19, No. 998 · `EXTENT` 1卷
+
+**人物**
+- 尸羅達摩 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+
+## [KR6j0188 佛說守護大千國土經-宋-施護](https://github.com/kanripo/KR6j0188)
+
+宋 · `BASEEDITION` T · `CBETA_ID` T19n0999 · `GENRE` 經 · `CUSTOM_ID` ZB6j0172 · `SOURCE` Taisho Tripitaka Vol. 19, No. 999 · `EXTENT` 3卷
+
+**人物**
+- 施護 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→明】 — `WITID` wit12
+- 【大→元】 — `WITID` wit11
+- 【大→宋】 — `WITID` wit10
+
+## [KR6j0189 成就妙法蓮華經王瑜伽觀智儀軌-唐-不空](https://github.com/kanripo/KR6j0189)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T19n1000 · `GENRE` 經 · `CUSTOM_ID` ZB6j0173 · `SOURCE` Taisho Tripitaka Vol. 19, No. 1000 · `EXTENT` 1卷
+
+**人物**
+- 不空 — 譯
+
+**版本**
+- CBETA — `WITID` wit3
+- 【大】 — `WITID` wit4
+- 【大→明】 — `WITID` wit12
+- 【大→甲】 — `WITID` wit49
+- 【大→乙】 — `WITID` wit50
+
+## [KR6j0190 法華曼荼羅威儀形色法經-唐-不空](https://github.com/kanripo/KR6j0190)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T19n1001 · `GENRE` 經 · `CUSTOM_ID` ZB6j0174 · `SOURCE` Taisho Tripitaka Vol. 19, No. 1001 · `EXTENT` 1卷
+
+**人物**
+- 不空 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+
+## [KR6j0191 不空羂索毘盧遮那佛大灌頂光真言-唐-不空](https://github.com/kanripo/KR6j0191)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T19n1002 · `RELATED` T61n2245@疏 · `GENRE` 經 · `CUSTOM_ID` ZB6j0175 · `SOURCE` Taisho Tripitaka Vol. 19, No. 1002 · `EXTENT` 1卷
+
+**人物**
+- 不空 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→明】 — `WITID` wit12
+- 【大→甲】 — `WITID` wit49
+- 【大→乙】 — `WITID` wit50
+- 【大→丙】 — `WITID` wit51
+
+## [KR6j0192 不空羂索毘盧遮那佛大灌頂光明眞言句義釋--高辧](https://github.com/kanripo/KR6j0192)
+
+`CBETA_ID` T61n2245 · `RELATED` T19n1002@經 · `GENRE` 疏 · `lang@ja-rom` FUKŪKENJAKU BIRUSHANABUTSU DAIKANJŌ KŌMYŌ SHINGON KUGISHAKU · `lang@zh-py` (Bu kong juan suo pi lu zhe na fo da guan ding guang ming zhen yan ju yi shi) · `EXTENT` I
+
+**人物**
+- 高辧 — `lang@ja-rom` Kōben
+
+## [KR6j0193 大樂金剛不空真實三昧耶經般若波羅蜜多理趣釋-唐-不空](https://github.com/kanripo/KR6j0193)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T19n1003 · `RELATED` T08n0244@經, T61n2240@疏, T61n2241@疏 · `GENRE` 經 · `CUSTOM_ID` ZB6j0176 · `SOURCE` Taisho Tripitaka Vol. 19, No. 1003 · `EXTENT` 2卷
+
+**人物**
+- 不空 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→宋】 — `WITID` wit10
+- 【大→元】 — `WITID` wit11
+- 【大→甲】 — `WITID` wit49
+- 【大→明】 — `WITID` wit12
+
+## [KR6j0194 理趣釋重釋記--938](https://github.com/kanripo/KR6j0194)
+
+`CBETA_ID` T61n2240 · `RELATED` T19n1003@經, T61n2241@疏 · `GENRE` 疏 · `lang@ja-rom` RISHUSHAKU JŪSHAK KI · `lang@zh-py` (Li qu shi chong shi ji) · `EXTENT` I
+
+**人物**
+- 938 — `lang@ja-rom` An.
+
+## [KR6j0195 理趣釋祕要鈔--](https://github.com/kanripo/KR6j0195)
+
+`CBETA_ID` T61n2241 · `RELATED` T19n1003@經, T61n2240@疏 · `GENRE` 疏 · `lang@ja-rom` RISHUSHAKU HIYŌ SHŌ · `lang@zh-py` (Li qu shi mi yao chao) · `EXTENT` XII
+
+## [KR6j0196 般若波羅蜜多理趣經大樂不空三昧真實金剛薩埵菩薩等一十七聖大曼荼羅義述-唐-不空](https://github.com/kanripo/KR6j0196)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T19n1004 · `GENRE` 經 · `CUSTOM_ID` ZB6j0177 · `SOURCE` Taisho Tripitaka Vol. 19, No. 1004 · `EXTENT` 1卷
+
+**人物**
+- 不空 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→宋】 — `WITID` wit10
+- 【大→元】 — `WITID` wit11
+- 【大→明】 — `WITID` wit12
+
+## [KR6j0197 大寶廣博樓閣善住祕密陀羅尼經-唐-不空](https://github.com/kanripo/KR6j0197)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T19n1005A · `GENRE` 經 · `CUSTOM_ID` ZB6j0178 · `SOURCE` Taisho Tripitaka Vol. 19, No. 1005A · `EXTENT` 3卷
+
+**人物**
+- 不空 — 譯
+
+**版本**
+- CBETA — `WITID` wit3
+- 【大】 — `WITID` wit4
+- 【大→甲】 — `WITID` wit49
+- 【大→宋】 — `WITID` wit10
+- 【大→元】 — `WITID` wit11
+- 【大→明】 — `WITID` wit12
+- 【大→unknown】 — `WITID` wit14
+- 【大→乙】 — `WITID` wit50
+- 【大→麗】 — `WITID` wit8
+
+## [KR6j0198 寶樓閣經梵字真言--失譯](https://github.com/kanripo/KR6j0198)
+
+`BASEEDITION` T · `CBETA_ID` T19n1005B · `GENRE` 經 · `CUSTOM_ID` ZB6j0179 · `SOURCE` Taisho Tripitaka Vol. 19, No. 1005B · `EXTENT` 1卷
+
+**人物**
+- 失譯 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+
+## [KR6j0199 廣大寶樓閣善住祕密陀羅尼經-唐-菩提流志](https://github.com/kanripo/KR6j0199)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T19n1006 · `RELATED` T19n1005A@經, T19n1007@經 · `GENRE` 經 · `CUSTOM_ID` ZB6j0180 · `SOURCE` Taisho Tripitaka Vol. 19, No. 1006 · `EXTENT` 3卷
+
+**人物**
+- 菩提流志 — 譯
+
+**版本**
+- CBETA — `WITID` wit3
+- 【大】 — `WITID` wit4
+- 【大→宋】 — `WITID` wit10
+- 【大→明】 — `WITID` wit12
+- 【大→元】 — `WITID` wit11
+- 【大→麗】 — `WITID` wit8
+
+## [KR6j0200 牟梨曼陀羅呪經--失譯](https://github.com/kanripo/KR6j0200)
+
+`BASEEDITION` T · `CBETA_ID` T19n1007 · `RELATED` T19n1005A@經, T19n1006@經 · `GENRE` 經 · `CUSTOM_ID` ZB6j0181 · `SOURCE` Taisho Tripitaka Vol. 19, No. 1007 · `EXTENT` 1卷
+
+**人物**
+- 失譯 — 譯
+
+**版本**
+- CBETA — `WITID` wit3
+- 【大】 — `WITID` wit4
+- 【大→元】 — `WITID` wit11
+- 【大→明】 — `WITID` wit12
+- 【大→甲】 — `WITID` wit49
+- 【大→宋】 — `WITID` wit10
+- 【大→麗】 — `WITID` wit8
+
+## [KR6j0201 菩提場莊嚴陀羅尼經-唐-不空](https://github.com/kanripo/KR6j0201)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T19n1008 · `GENRE` 經 · `CUSTOM_ID` ZB6j0182 · `SOURCE` Taisho Tripitaka Vol. 19, No. 1008 · `EXTENT` 1卷
+
+**人物**
+- 不空 — 譯
+
+**版本**
+- CBETA — `WITID` wit3
+- 【大】 — `WITID` wit4
+- 【大→宋】 — `WITID` wit10
+- 【大→元】 — `WITID` wit11
+- 【大→明】 — `WITID` wit12
+- 【大→甲】 — `WITID` wit49
+- 【大→乙】 — `WITID` wit50
+- 【大→麗】 — `WITID` wit8
+
+## [KR6j0202 出生無邊門陀羅尼經-唐-不空](https://github.com/kanripo/KR6j0202)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T19n1009 · `RELATED` T19n1011@經, T19n1012@經, T19n1013@經, T19n1014@經, T19n1015@經, T19n1016@經, T19n1017@經, T19n1018@經 · `GENRE` 經 · `CUSTOM_ID` ZB6j0183 · `SOURCE` Taisho Tripitaka Vol. 19, No. 1009 · `EXTENT` 1卷
+
+**人物**
+- 不空 — 譯
+
+**版本**
+- CBETA — `WITID` wit3
+- 【大】 — `WITID` wit4
+- 【大→宋】 — `WITID` wit10
+- 【大→元】 — `WITID` wit11
+- 【大→明】 — `WITID` wit12
+- 【大→甲】 — `WITID` wit49
+
+## [KR6j0203 佛說出生無邊門陀羅尼儀軌-唐-不空](https://github.com/kanripo/KR6j0203)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T19n1010 · `GENRE` 經 · `CUSTOM_ID` ZB6j0184 · `SOURCE` Taisho Tripitaka Vol. 19, No. 1010 · `EXTENT` 1卷
+
+**人物**
+- 不空 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→甲】 — `WITID` wit49
+
+## [KR6j0204 佛說無量門微密持經-吳-支謙](https://github.com/kanripo/KR6j0204)
+
+吳 · `BASEEDITION` T · `CBETA_ID` T19n1011 · `RELATED` T19n1009@經, T19n1012@經, T19n1013@經, T19n1014@經, T19n1015@經, T19n1016@經, T19n1017@經, T19n1018@經 · `GENRE` 經 · `CUSTOM_ID` ZB6j0185 · `SOURCE` Taisho Tripitaka Vol. 19, No. 1011 · `EXTENT` 1卷
+
+**人物**
+- 支謙 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→宋】 — `WITID` wit10
+- 【大→元】 — `WITID` wit11
+- 【大→明】 — `WITID` wit12
+
+## [KR6j0205 佛說出生無量門持經-東晉-佛陀跋陀羅](https://github.com/kanripo/KR6j0205)
+
+東晉 · `BASEEDITION` T · `CBETA_ID` T19n1012 · `RELATED` T19n1009@經, T19n1011@經, T19n1013@經, T19n1014@經, T19n1015@經, T19n1016@經, T19n1017@經, T19n1018@經 · `GENRE` 經 · `CUSTOM_ID` ZB6j0186 · `SOURCE` Taisho Tripitaka Vol. 19, No. 1012 · `EXTENT` 1卷
+
+**人物**
+- 佛陀跋陀羅 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→宋】 — `WITID` wit10
+- 【大→元】 — `WITID` wit11
+- 【大→明】 — `WITID` wit12
+
+## [KR6j0206 阿難陀目佉尼呵離陀經-劉宋-求那跋陀羅](https://github.com/kanripo/KR6j0206)
+
+劉宋 · `BASEEDITION` T · `CBETA_ID` T19n1013 · `RELATED` T19n1009@經, T19n1011@經, T19n1012@經, T19n1014@經, T19n1015@經, T19n1016@經, T19n1017@經, T19n1018@經 · `GENRE` 經 · `CUSTOM_ID` ZB6j0187 · `SOURCE` Taisho Tripitaka Vol. 19, No. 1013 · `EXTENT` 1卷
+
+**人物**
+- 求那跋陀羅 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→元】 — `WITID` wit11
+- 【大→明】 — `WITID` wit12
+- 【大→宋】 — `WITID` wit10
+
+## [KR6j0207 無量門破魔陀羅尼經-劉宋-功德直](https://github.com/kanripo/KR6j0207)
+
+劉宋 · `BASEEDITION` T · `CBETA_ID` T19n1014 · `RELATED` T19n1009@經, T19n1011@經, T19n1012@經, T19n1013@經, T19n1015@經, T19n1016@經, T19n1017@經, T19n1018@經 · `GENRE` 經 · `CUSTOM_ID` ZB6j0188 · `SOURCE` Taisho Tripitaka Vol. 19, No. 1014 · `EXTENT` 1卷
+
+**人物**
+- 功德直 — 譯
+- 玄暢 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→宋】 — `WITID` wit10
+- 【大→元】 — `WITID` wit11
+- 【大→明】 — `WITID` wit12
+
+## [KR6j0208 佛說阿難陀目佉尼呵離陀隣尼經-元魏-佛馱扇多](https://github.com/kanripo/KR6j0208)
+
+元魏 · `BASEEDITION` T · `CBETA_ID` T19n1015 · `RELATED` T19n1009@經, T19n1011@經, T19n1012@經, T19n1013@經, T19n1014@經, T19n1016@經, T19n1017@經, T19n1018@經 · `GENRE` 經 · `CUSTOM_ID` ZB6j0189 · `SOURCE` Taisho Tripitaka Vol. 19, No. 1015 · `EXTENT` 1卷
+
+**人物**
+- 佛馱扇多 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→元】 — `WITID` wit11
+- 【大→明】 — `WITID` wit12
+- 【大→宋】 — `WITID` wit10
+
+## [KR6j0209 舍利弗陀羅尼經-梁-僧伽婆羅](https://github.com/kanripo/KR6j0209)
+
+梁 · `BASEEDITION` T · `CBETA_ID` T19n1016 · `RELATED` T19n1009@經, T19n1011@經, T19n1012@經, T19n1013@經, T19n1014@經, T19n1015@經, T19n1017@經, T19n1018@經 · `GENRE` 經 · `CUSTOM_ID` ZB6j0190 · `SOURCE` Taisho Tripitaka Vol. 19, No. 1016 · `EXTENT` 1卷
+
+**人物**
+- 僧伽婆羅 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→元】 — `WITID` wit11
+- 【大→明】 — `WITID` wit12
+- 【大→宋】 — `WITID` wit10
+
+## [KR6j0210 佛說一向出生菩薩經-隋-闍那崛多](https://github.com/kanripo/KR6j0210)
+
+隋 · `BASEEDITION` T · `CBETA_ID` T19n1017 · `RELATED` T19n1009@經, T19n1011@經, T19n1012@經, T19n1013@經, T19n1014@經, T19n1015@經, T19n1016@經, T19n1018@經 · `GENRE` 經 · `CUSTOM_ID` ZB6j0191 · `SOURCE` Taisho Tripitaka Vol. 19, No. 1017 · `EXTENT` 1卷
+
+**人物**
+- 闍那崛多 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→聖】 — `WITID` wit13
+- 【大→明】 — `WITID` wit12
+- 【大→宋】 — `WITID` wit10
+
+## [KR6j0211 出生無邊門陀羅尼經-唐-智嚴](https://github.com/kanripo/KR6j0211)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T19n1018 · `RELATED` T19n1009@經, T19n1011@經, T19n1012@經, T19n1013@經, T19n1014@經, T19n1015@經, T19n1016@經, T19n1017@經 · `GENRE` 經 · `CUSTOM_ID` ZB6j0192 · `SOURCE` Taisho Tripitaka Vol. 19, No. 1018 · `EXTENT` 1卷
+
+**人物**
+- 智嚴 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→明】 — `WITID` wit12
+- 【大→宋】 — `WITID` wit10
+- 【大→元】 — `WITID` wit11
+
+## [KR6j0212 大方廣佛華嚴經入法界品四十二字觀門-唐-不空](https://github.com/kanripo/KR6j0212)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T19n1019 · `GENRE` 經 · `CUSTOM_ID` ZB6j0193 · `SOURCE` Taisho Tripitaka Vol. 19, No. 1019 · `EXTENT` 1卷
+
+**人物**
+- 不空 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→宋】 — `WITID` wit10
+- 【大→元】 — `WITID` wit11
+- 【大→明】 — `WITID` wit12
+
+## [KR6j0213 大方廣佛花嚴經入法界品頓證毘盧遮那法身字輪瑜伽儀軌-唐-不空](https://github.com/kanripo/KR6j0213)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T19n1020 · `GENRE` 經 · `CUSTOM_ID` ZB6j0194 · `SOURCE` Taisho Tripitaka Vol. 19, No. 1020 · `EXTENT` 1卷
+
+**人物**
+- 不空 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→宋】 — `WITID` wit10
+- 【大→元】 — `WITID` wit11
+- 【大→明】 — `WITID` wit12
+
+## [KR6j0214 華嚴經心陀羅尼--失譯](https://github.com/kanripo/KR6j0214)
+
+`BASEEDITION` T · `CBETA_ID` T19n1021 · `GENRE` 經 · `CUSTOM_ID` ZB6j0195 · `SOURCE` Taisho Tripitaka Vol. 19, No. 1021 · `EXTENT` 1卷
+
+**人物**
+- 失譯 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+
+## [KR6j0215 一切如來心祕密全身舍利寶篋印陀羅尼經-唐-不空](https://github.com/kanripo/KR6j0215)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T19n1022A · `RELATED` T19n1023@經 · `GENRE` 經 · `CUSTOM_ID` ZB6j0196 · `SOURCE` Taisho Tripitaka Vol. 19, No. 1022A · `EXTENT` 1卷
+
+**人物**
+- 不空 — 譯
+
+**版本**
+- CBETA — `WITID` wit3
+- 【大】 — `WITID` wit4
+- 【大→宋】 — `WITID` wit10
+- 【大→元】 — `WITID` wit11
+- 【大→明】 — `WITID` wit12
+- 【大→甲】 — `WITID` wit49
+- 【大→乙】 — `WITID` wit50
+- 【大→麗】 — `WITID` wit8
+
+## [KR6j0216 一切如來心祕密全身舍利寶篋印陀羅尼經-唐-不空](https://github.com/kanripo/KR6j0216)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T19n1022B · `RELATED` T19n1023@經 · `GENRE` 經 · `CUSTOM_ID` ZB6j0197 · `SOURCE` Taisho Tripitaka Vol. 19, No. 1022B · `EXTENT` 1卷
+
+**人物**
+- 不空 — 譯
+
+**版本**
+- CBETA — `WITID` wit3
+- 【大→磧砂】 — `WITID` wit15
+- 【大】 — `WITID` wit4
+
+## [KR6j0217 一切如來正法祕密篋印心陀羅尼經-宋-施護](https://github.com/kanripo/KR6j0217)
+
+宋 · `BASEEDITION` T · `CBETA_ID` T19n1023 · `RELATED` T19n1022@經 · `GENRE` 經 · `CUSTOM_ID` ZB6j0198 · `SOURCE` Taisho Tripitaka Vol. 19, No. 1023 · `EXTENT` 1卷
+
+**人物**
+- 施護 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→明】 — `WITID` wit12
+- 【大→宋】 — `WITID` wit10
+- 【大→元】 — `WITID` wit11
+
+## [KR6j0218 無垢淨光大陀羅尼經-唐-彌陀山](https://github.com/kanripo/KR6j0218)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T19n1024 · `GENRE` 經 · `CUSTOM_ID` ZB6j0199 · `SOURCE` Taisho Tripitaka Vol. 19, No. 1024 · `EXTENT` 1卷
+
+**人物**
+- 彌陀山 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→宋】 — `WITID` wit10
+- 【大→元】 — `WITID` wit11
+- 【大→明】 — `WITID` wit12
+- 【大→甲】 — `WITID` wit49
+
+## [KR6j0219 佛頂放無垢光明入普門觀察一切如來心陀羅尼經-宋-施護](https://github.com/kanripo/KR6j0219)
+
+宋 · `BASEEDITION` T · `CBETA_ID` T19n1025 · `GENRE` 經 · `CUSTOM_ID` ZB6j0200 · `SOURCE` Taisho Tripitaka Vol. 19, No. 1025 · `EXTENT` 2卷
+
+**人物**
+- 施護 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→宋】 — `WITID` wit10
+- 【大→元】 — `WITID` wit11
+- 【大→明】 — `WITID` wit12
+
+## [KR6j0220 佛說造塔延命功德經-唐-般若](https://github.com/kanripo/KR6j0220)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T19n1026 · `GENRE` 經 · `CUSTOM_ID` ZB6j0201 · `SOURCE` Taisho Tripitaka Vol. 19, No. 1026 · `EXTENT` 1卷
+
+**人物**
+- 般若 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→甲】 — `WITID` wit49
+- 【大→原】 — `WITID` wit6
+
+## [KR6j0221 金剛光焰止風雨陀羅尼經-唐-菩提流志](https://github.com/kanripo/KR6j0221)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T19n1027a · `GENRE` 經 · `CUSTOM_ID` ZB6j0202 · `SOURCE` Taisho Tripitaka Vol. 19, No. 1027a · `EXTENT` 1卷
+
+**人物**
+- 菩提流志 — 譯
+
+**版本**
+- CBETA — `WITID` wit23
+- orig — `WITID` wit99
+
+## [KR6j0222 金剛光焰止風雨陀羅尼經-唐-菩提流志](https://github.com/kanripo/KR6j0222)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T19n1027b · `GENRE` 經 · `CUSTOM_ID` ZB6j0203 · `SOURCE` Taisho Tripitaka Vol. 19, No. 1027b · `EXTENT` 1卷
+
+**人物**
+- 菩提流志 — 譯
+
+**版本**
+- CBETA — `WITID` wit3
+- 【大】 — `WITID` wit4
+- 【大→宋】 — `WITID` wit10
+- 【大→甲】 — `WITID` wit49
+
+## [KR6j0223 佛說護諸童子陀羅尼經-元魏-菩提流支](https://github.com/kanripo/KR6j0223)
+
+元魏 · `BASEEDITION` T · `CBETA_ID` T19n1028A · `GENRE` 經 · `CUSTOM_ID` ZB6j0204 · `SOURCE` Taisho Tripitaka Vol. 19, No. 1028A · `EXTENT` 1卷
+
+**人物**
+- 菩提流支 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→宋】 — `WITID` wit10
+- 【大→元】 — `WITID` wit11
+- 【大→明】 — `WITID` wit12
+- 【大→甲】 — `WITID` wit49
+- 【大→乙】 — `WITID` wit50
+
+## [KR6j0224 童子經念誦法-唐-善無畏](https://github.com/kanripo/KR6j0224)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T19n1028B · `GENRE` 經 · `CUSTOM_ID` ZB6j0205 · `SOURCE` Taisho Tripitaka Vol. 19, No. 1028B · `EXTENT` 1卷
+
+**人物**
+- 善無畏 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+
+## [KR6j0225 佛說安宅陀羅尼呪經--](https://github.com/kanripo/KR6j0225)
+
+`BASEEDITION` T · `CBETA_ID` T19n1029 · `RELATED` T21n1351@經, T21n1352@經, T21n1353@經, T21n1354@經, T21n1355@經 · `GENRE` 經 · `CUSTOM_ID` ZB6j0206 · `SOURCE` Taisho Tripitaka Vol. 19, No. 1029 · `EXTENT` 1卷
+
+**人物**
+
+**版本**
+- CBETA — `WITID` wit1
+
+## [KR6j0226 祕密要術法-唐-阿謨伽](https://github.com/kanripo/KR6j0226)
+
+唐 · `BASEEDITION` X · `CBETA_ID` X02n0188 · `GENRE` 經 · `CUSTOM_ID` ZB6j0207 · `SOURCE` 卍 Xuzangjing Vol. 02, No. 188 · `EXTENT` 1卷
+
+**人物**
+- 阿謨伽 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+
+## [KR6j0227 妙法蓮華三昧祕密三摩耶經-唐-不空](https://github.com/kanripo/KR6j0227)
+
+唐 · `BASEEDITION` X · `CBETA_ID` X02n0204 · `GENRE` 經 · `CUSTOM_ID` ZB6j0208 · `SOURCE` 卍 Xuzangjing Vol. 02, No. 204 · `EXTENT` 1卷
+
+**人物**
+- 不空 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- orig — `WITID` wit99
+
+## [KR6j0228 觀自在大悲成就瑜伽蓮華部念誦法門-唐-不空](https://github.com/kanripo/KR6j0228)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T20n1030 · `GENRE` 經 · `CUSTOM_ID` ZB6j0209 · `SOURCE` Taisho Tripitaka Vol. 20, No. 1030 · `EXTENT` 1卷
+
+**人物**
+- 不空 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→甲】 — `WITID` wit49
+
+## [KR6j0229 聖觀自在菩薩心真言瑜伽觀行儀軌-唐-不空](https://github.com/kanripo/KR6j0229)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T20n1031 · `GENRE` 經 · `CUSTOM_ID` ZB6j0210 · `SOURCE` Taisho Tripitaka Vol. 20, No. 1031 · `EXTENT` 1卷
+
+**人物**
+- 不空 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→宋】 — `WITID` wit10
+- 【大→元】 — `WITID` wit11
+- 【大→明】 — `WITID` wit12
+- 【大→甲】 — `WITID` wit49
+
+## [KR6j0230 瑜伽蓮華部念誦法-唐-不空](https://github.com/kanripo/KR6j0230)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T20n1032 · `GENRE` 經 · `CUSTOM_ID` ZB6j0211 · `SOURCE` Taisho Tripitaka Vol. 20, No. 1032 · `EXTENT` 1卷
+
+**人物**
+- 不空 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→宋】 — `WITID` wit10
+- 【大→元】 — `WITID` wit11
+- 【大→明】 — `WITID` wit12
+- 【大→甲】 — `WITID` wit49
+- 【大→乙】 — `WITID` wit50
+
+## [KR6j0231 金剛恐怖集會方廣軌儀觀自在菩薩三世最勝心明王經-唐-不空](https://github.com/kanripo/KR6j0231)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T20n1033 · `GENRE` 經 · `CUSTOM_ID` ZB6j0212 · `SOURCE` Taisho Tripitaka Vol. 20, No. 1033 · `EXTENT` 1卷
+
+**人物**
+- 不空 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→宋】 — `WITID` wit10
+- 【大→元】 — `WITID` wit11
+- 【大→明】 — `WITID` wit12
+- 【大→甲】 — `WITID` wit49
+
+## [KR6j0232 呪五首-唐-玄奘](https://github.com/kanripo/KR6j0232)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T20n1034 · `RELATED` T18n0901-Fasc5@經, T20n1035@經, T20n1036@經 · `GENRE` 經 · `CUSTOM_ID` ZB6j0213 · `SOURCE` Taisho Tripitaka Vol. 20, No. 1034 · `EXTENT` 1卷
+
+**人物**
+- 玄奘 — 譯
+
+**版本**
+- CBETA — `WITID` wit3
+- 【大】 — `WITID` wit4
+- 【大→元】 — `WITID` wit11
+- 【大→明】 — `WITID` wit12
+
+## [KR6j0233 千轉陀羅尼觀世音菩薩呪-唐-智通](https://github.com/kanripo/KR6j0233)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T20n1035 · `RELATED` T18n0901-Fasc5@經, T20n1034@經, T20n1036@經 · `GENRE` 經 · `CUSTOM_ID` ZB6j0214 · `SOURCE` Taisho Tripitaka Vol. 20, No. 1035 · `EXTENT` 1卷
+
+**人物**
+- 智通 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→明】 — `WITID` wit12
+- 【大→宋】 — `WITID` wit10
+- 【大→元】 — `WITID` wit11
+
+## [KR6j0234 千轉大明陀羅尼經-宋-施護](https://github.com/kanripo/KR6j0234)
+
+宋 · `BASEEDITION` T · `CBETA_ID` T20n1036 · `RELATED` T18n0901-Fasc5@經, T20n1034@經, T20n1035@經 · `GENRE` 經 · `CUSTOM_ID` ZB6j0215 · `SOURCE` Taisho Tripitaka Vol. 20, No. 1036 · `EXTENT` 1卷
+
+**人物**
+- 施護 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→明】 — `WITID` wit12
+- 【大→宋】 — `WITID` wit10
+- 【大→元】 — `WITID` wit11
+
+## [KR6j0235 觀自在菩薩說普賢陀羅尼經-唐-不空](https://github.com/kanripo/KR6j0235)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T20n1037 · `RELATED` T20n1038@經 · `GENRE` 經 · `CUSTOM_ID` ZB6j0216 · `SOURCE` Taisho Tripitaka Vol. 20, No. 1037 · `EXTENT` 1卷
+
+**人物**
+- 不空 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→宋】 — `WITID` wit10
+- 【大→元】 — `WITID` wit11
+- 【大→甲】 — `WITID` wit49
+- 【大→乙】 — `WITID` wit50
+- 【大→明】 — `WITID` wit12
+
+## [KR6j0236 清淨觀世音普賢陀羅尼經-唐-智通](https://github.com/kanripo/KR6j0236)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T20n1038 · `RELATED` T20n1037@經 · `GENRE` 經 · `CUSTOM_ID` ZB6j0217 · `SOURCE` Taisho Tripitaka Vol. 20, No. 1038 · `EXTENT` 1卷
+
+**人物**
+- 智通 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→宋】 — `WITID` wit10
+- 【大→元】 — `WITID` wit11
+- 【大→明】 — `WITID` wit12
+- 【大→甲】 — `WITID` wit49
+
+## [KR6j0237 阿唎多羅陀羅尼阿嚕力經-唐-不空](https://github.com/kanripo/KR6j0237)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T20n1039 · `GENRE` 經 · `CUSTOM_ID` ZB6j0218 · `SOURCE` Taisho Tripitaka Vol. 20, No. 1039 · `EXTENT` 1卷
+
+**人物**
+- 不空 — 譯
+
+**版本**
+- CBETA — `WITID` wit3
+- 【大】 — `WITID` wit4
+- 【大→宋】 — `WITID` wit10
+- 【大→元】 — `WITID` wit11
+- 【大→明】 — `WITID` wit12
+- 【大→甲】 — `WITID` wit49
+
+## [KR6j0238 金剛頂降三世大儀軌法王教中觀自在菩薩心真言一切如來蓮華大曼荼羅品-唐-不空](https://github.com/kanripo/KR6j0238)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T20n1040 · `GENRE` 經 · `CUSTOM_ID` ZB6j0219 · `SOURCE` Taisho Tripitaka Vol. 20, No. 1040 · `EXTENT` 1卷
+
+**人物**
+- 不空 — 譯
+
+**版本**
+- CBETA — `WITID` wit3
+- 【大】 — `WITID` wit4
+- 【大→甲】 — `WITID` wit49
+- 【大→麗】 — `WITID` wit8
+
+## [KR6j0239 觀自在菩薩心真言一印念誦法-唐-不空](https://github.com/kanripo/KR6j0239)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T20n1041 · `GENRE` 經 · `CUSTOM_ID` ZB6j0220 · `SOURCE` Taisho Tripitaka Vol. 20, No. 1041 · `EXTENT` 1卷
+
+**人物**
+- 不空 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→甲】 — `WITID` wit49
+
+## [KR6j0240 觀自在菩薩大悲智印周遍法界利益眾生薰真如法-唐-不空](https://github.com/kanripo/KR6j0240)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T20n1042 · `GENRE` 經 · `CUSTOM_ID` ZB6j0221 · `SOURCE` Taisho Tripitaka Vol. 20, No. 1042 · `EXTENT` 1卷
+
+**人物**
+- 不空 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→甲】 — `WITID` wit49
+- 【大→原】 — `WITID` wit6
+
+## [KR6j0241 請觀世音菩薩消伏毒害陀羅尼呪經-東晉-難提](https://github.com/kanripo/KR6j0241)
+
+東晉 · `BASEEDITION` T · `CBETA_ID` T20n1043 · `RELATED` T20n1044@經, T20n1045@經, T39n1800@疏, T39n1801@疏 · `GENRE` 經 · `CUSTOM_ID` ZB6j0222 · `SOURCE` Taisho Tripitaka Vol. 20, No. 1043 · `EXTENT` 1卷
+
+**人物**
+- 難提 — 譯
+
+**版本**
+- CBETA — `WITID` wit3
+- 【大】 — `WITID` wit4
+- 【大→宋】 — `WITID` wit10
+- 【大→元】 — `WITID` wit11
+- 【大→明】 — `WITID` wit12
+- 【大→麗】 — `WITID` wit8
+
+## [KR6j0242 佛說六字呪王經--失譯](https://github.com/kanripo/KR6j0242)
+
+`BASEEDITION` T · `CBETA_ID` T20n1044 · `RELATED` T20n1043@經, T20n1045@經 · `GENRE` 經 · `CUSTOM_ID` ZB6j0223 · `SOURCE` Taisho Tripitaka Vol. 20, No. 1044 · `EXTENT` 1卷
+
+**人物**
+- 失譯 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→宋】 — `WITID` wit10
+- 【大→元】 — `WITID` wit11
+- 【大→明】 — `WITID` wit12
+
+## [KR6j0243 佛說六字神呪王經--失譯](https://github.com/kanripo/KR6j0243)
+
+`BASEEDITION` T · `CBETA_ID` T20n1045a · `RELATED` T20n1043@經, T20n1044@經 · `GENRE` 經 · `CUSTOM_ID` ZB6j0224 · `SOURCE` Taisho Tripitaka Vol. 20, No. 1045a · `EXTENT` 1卷
+
+**人物**
+- 失譯 — 譯
+
+**版本**
+- CBETA — `WITID` wit3
+- 【大→麗】 — `WITID` wit8
+- 【大】 — `WITID` wit4
+
+## [KR6j0244 六字神呪王經--失譯](https://github.com/kanripo/KR6j0244)
+
+`BASEEDITION` T · `CBETA_ID` T20n1045b · `RELATED` T20n1043@經, T20n1044@經 · `GENRE` 經 · `CUSTOM_ID` ZB6j0225 · `SOURCE` Taisho Tripitaka Vol. 20, No. 1045b · `EXTENT` 1卷
+
+**人物**
+- 失譯 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→宋】 — `WITID` wit10
+- 【大→元】 — `WITID` wit11
+
+## [KR6j0245 六字大陀羅尼呪經--失譯](https://github.com/kanripo/KR6j0245)
+
+`BASEEDITION` T · `CBETA_ID` T20n1046 · `GENRE` 經 · `CUSTOM_ID` ZB6j0226 · `SOURCE` Taisho Tripitaka Vol. 20, No. 1046 · `EXTENT` 1卷
+
+**人物**
+- 失譯 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→宋】 — `WITID` wit10
+- 【大→明】 — `WITID` wit12
+- 【大→元】 — `WITID` wit11
+
+## [KR6j0246 佛說聖六字大明王陀羅尼經-宋-施護](https://github.com/kanripo/KR6j0246)
+
+宋 · `BASEEDITION` T · `CBETA_ID` T20n1047 · `GENRE` 經 · `CUSTOM_ID` ZB6j0227 · `SOURCE` Taisho Tripitaka Vol. 20, No. 1047 · `EXTENT` 1卷
+
+**人物**
+- 施護 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→明】 — `WITID` wit12
+- 【大→宋】 — `WITID` wit10
+- 【大→元】 — `WITID` wit11
+
+## [KR6j0247 佛說大護明大陀羅尼經-宋-法天](https://github.com/kanripo/KR6j0247)
+
+宋 · `BASEEDITION` T · `CBETA_ID` T20n1048 · `GENRE` 經 · `CUSTOM_ID` ZB6j0228 · `SOURCE` Taisho Tripitaka Vol. 20, No. 1048 · `EXTENT` 1卷
+
+**人物**
+- 法天 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→明】 — `WITID` wit12
+- 【大→宋】 — `WITID` wit10
+- 【大→元】 — `WITID` wit11
+
+## [KR6j0248 聖六字增壽大明陀羅尼經-宋-施護](https://github.com/kanripo/KR6j0248)
+
+宋 · `BASEEDITION` T · `CBETA_ID` T20n1049 · `GENRE` 經 · `CUSTOM_ID` ZB6j0229 · `SOURCE` Taisho Tripitaka Vol. 20, No. 1049 · `EXTENT` 1卷
+
+**人物**
+- 施護 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→宋】 — `WITID` wit10
+- 【大→元】 — `WITID` wit11
+- 【大→明】 — `WITID` wit12
+
+## [KR6j0249 佛說大乘莊嚴寶王經-宋-天息災](https://github.com/kanripo/KR6j0249)
+
+宋 · `BASEEDITION` T · `CBETA_ID` T20n1050 · `GENRE` 經 · `CUSTOM_ID` ZB6j0230 · `SOURCE` Taisho Tripitaka Vol. 20, No. 1050 · `EXTENT` 4卷
+
+**人物**
+- 天息災 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→宋】 — `WITID` wit10
+- 【大→元】 — `WITID` wit11
+- 【大→明】 — `WITID` wit12
+
+## [KR6j0250 佛說一切佛攝相應大教王經聖觀自在菩薩念誦儀軌-宋-法賢](https://github.com/kanripo/KR6j0250)
+
+宋 · `BASEEDITION` T · `CBETA_ID` T20n1051 · `GENRE` 經 · `CUSTOM_ID` ZB6j0231 · `SOURCE` Taisho Tripitaka Vol. 20, No. 1051 · `EXTENT` 1卷
+
+**人物**
+- 法賢 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→宋】 — `WITID` wit10
+- 【大→元】 — `WITID` wit11
+- 【大→明】 — `WITID` wit12
+
+## [KR6j0251 讚觀世音菩薩頌-唐-慧智](https://github.com/kanripo/KR6j0251)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T20n1052 · `GENRE` 經 · `CUSTOM_ID` ZB6j0232 · `SOURCE` Taisho Tripitaka Vol. 20, No. 1052 · `EXTENT` 1卷
+
+**人物**
+- 慧智 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→明】 — `WITID` wit12
+- 【大→宋】 — `WITID` wit10
+- 【大→元】 — `WITID` wit11
+
+## [KR6j0252 聖觀自在菩薩功德讚-宋-施護](https://github.com/kanripo/KR6j0252)
+
+宋 · `BASEEDITION` T · `CBETA_ID` T20n1053 · `GENRE` 經 · `CUSTOM_ID` ZB6j0233 · `SOURCE` Taisho Tripitaka Vol. 20, No. 1053 · `EXTENT` 1卷
+
+**人物**
+- 施護 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→明】 — `WITID` wit12
+- 【大→宋】 — `WITID` wit10
+- 【大→元】 — `WITID` wit11
+
+## [KR6j0253 聖觀自在菩薩一百八名經-宋-天息災](https://github.com/kanripo/KR6j0253)
+
+宋 · `BASEEDITION` T · `CBETA_ID` T20n1054 · `GENRE` 經 · `CUSTOM_ID` ZB6j0234 · `SOURCE` Taisho Tripitaka Vol. 20, No. 1054 · `EXTENT` 1卷
+
+**人物**
+- 天息災 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→宋】 — `WITID` wit10
+- 【大→元】 — `WITID` wit11
+
+## [KR6j0254 佛說聖觀自在菩薩梵讚-宋-法賢](https://github.com/kanripo/KR6j0254)
+
+宋 · `BASEEDITION` T · `CBETA_ID` T20n1055 · `GENRE` 經 · `CUSTOM_ID` ZB6j0235 · `SOURCE` Taisho Tripitaka Vol. 20, No. 1055 · `EXTENT` 1卷
+
+**人物**
+- 法賢 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→明】 — `WITID` wit12
+- 【大→宋】 — `WITID` wit10
+
+## [KR6j0255 金剛頂瑜伽千手千眼觀自在菩薩修行儀軌經-唐-不空](https://github.com/kanripo/KR6j0255)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T20n1056 · `RELATED` T20n1060@經, T20n1061@經, T20n1062A@經, T20n1062B@經, T20n1063@經, T20n1064@經 · `GENRE` 經 · `CUSTOM_ID` ZB6j0236 · `SOURCE` Taisho Tripitaka Vol. 20, No. 1056 · `EXTENT` 2卷
+
+**人物**
+- 不空 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→宋】 — `WITID` wit10
+- 【大→元】 — `WITID` wit11
+- 【大→明】 — `WITID` wit12
+- 【大→甲】 — `WITID` wit49
+- 【大→乙】 — `WITID` wit50
+- 【大→丙】 — `WITID` wit51
+- 【大→丁】 — `WITID` wit52
+
+## [KR6j0256 千眼千臂觀世音菩薩陀羅尼神呪經-唐-智通](https://github.com/kanripo/KR6j0256)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T20n1057a · `RELATED` T20n1058@經, T20n1060@經, T20n1061@經, T20n1062A@經, T20n1062B@經, T20n1063@經, T20n1064@經 · `GENRE` 經 · `CUSTOM_ID` ZB6j0237 · `SOURCE` Taisho Tripitaka Vol. 20, No. 1057a · `EXTENT` 2卷
+
+**人物**
+- 智通 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+
+## [KR6j0257 千眼千臂觀世音菩薩陀羅尼神呪經-唐-智通](https://github.com/kanripo/KR6j0257)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T20n1057b · `RELATED` T20n1058@經, T20n1060@經, T20n1061@經, T20n1062A@經, T20n1062B@經, T20n1063@經, T20n1064@經 · `GENRE` 經 · `CUSTOM_ID` ZB6j0238 · `SOURCE` Taisho Tripitaka Vol. 20, No. 1057b · `EXTENT` 2卷
+
+**人物**
+- 智通 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→宋】 — `WITID` wit10
+- 【大→元】 — `WITID` wit11
+
+## [KR6j0258 千手千眼觀世音菩薩姥陀羅尼身經-唐-菩提流志](https://github.com/kanripo/KR6j0258)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T20n1058 · `RELATED` T20n1057@經, T20n1060@經, T20n1061@經, T20n1062A@經, T20n1062B@經, T20n1063@經, T20n1064@經 · `GENRE` 經 · `CUSTOM_ID` ZB6j0239 · `SOURCE` Taisho Tripitaka Vol. 20, No. 1058 · `EXTENT` 1卷
+
+**人物**
+- 菩提流志 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→元】 — `WITID` wit11
+- 【大→明】 — `WITID` wit12
+- 【大→宋】 — `WITID` wit10
+
+## [KR6j0259 千手千眼觀世音菩薩治病合藥經-唐-伽梵達摩](https://github.com/kanripo/KR6j0259)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T20n1059 · `GENRE` 經 · `CUSTOM_ID` ZB6j0240 · `SOURCE` Taisho Tripitaka Vol. 20, No. 1059 · `EXTENT` 1卷
+
+**人物**
+- 伽梵達摩 — 譯
+
+**版本**
+- CBETA — `WITID` wit3
+- 【大】 — `WITID` wit4
+- 【大→原】 — `WITID` wit6
+- 【大→甲】 — `WITID` wit49
+
+## [KR6j0260 千手千眼觀世音菩薩廣大圓滿無礙大悲心陀羅尼經-唐-伽梵達摩](https://github.com/kanripo/KR6j0260)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T20n1060 · `RELATED` T20n1056@經, T20n1057@經, T20n1058@經, T20n1061@經, T20n1062A@經, T20n1062B@經, T20n1063@經, T20n1064@經, T61n2243@疏 · `GENRE` 經 · `CUSTOM_ID` ZB6j0241 · `SOURCE` Taisho Tripitaka Vol. 20, No. 1060 · `EXTENT` 1卷
+
+**人物**
+- 伽梵達摩 — 譯
+
+**版本**
+- CBETA — `WITID` wit3
+- 【大】 — `WITID` wit4
+- 【大→磧砂】 — `WITID` wit15
+
+## [KR6j0261 千手經二十八部衆釋--定深](https://github.com/kanripo/KR6j0261)
+
+`CBETA_ID` T61n2243 · `RELATED` T20n1060@經 · `GENRE` 疏 · `lang@ja-rom` SENJUKYŌ NIJŪHACHIBUSHŪ SHAKU · `lang@zh-py` (Qian shou jing er shi ba bu zhong shi) · `EXTENT` I
+
+**人物**
+- 定深 — `lang@ja-rom` Jōjin
+
+## [KR6j0262 千手千眼觀自在菩薩廣大圓滿無礙大悲心陀羅尼呪本-唐-金剛智](https://github.com/kanripo/KR6j0262)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T20n1061 · `RELATED` T20n1056@經, T20n1057@經, T20n1058@經, T20n1060@經, T20n1062A@經, T20n1062B@經, T20n1063@經, T20n1064@經 · `GENRE` 經 · `CUSTOM_ID` ZB6j0242 · `SOURCE` Taisho Tripitaka Vol. 20, No. 1061 · `EXTENT` 1卷
+
+**人物**
+- 金剛智 — 譯
+
+**版本**
+- CBETA — `WITID` wit3
+- 【大→麗】 — `WITID` wit8
+- 【大】 — `WITID` wit4
+
+## [KR6j0263 觀自在菩薩廣大圓滿無礙大悲根本陀羅尼-唐-南天竺國三藏金剛智](https://github.com/kanripo/KR6j0263)
+
+唐 · `BASEEDITION` F · `CBETA_ID` F24n0761 · `CUSTOM_ID` ZB6j0243 · `SOURCE` Fangshan shijing Vol. 24, No. 761 · `EXTENT` 1卷
+
+**人物**
+- 南天竺國三藏金剛智 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- orig — `WITID` wit99
+
+## [KR6j0264 聖千手千眼觀自在菩薩摩訶薩廣大圓滿無礙大悲心陀羅尼-唐-不空](https://github.com/kanripo/KR6j0264)
+
+唐 · `BASEEDITION` F · `CBETA_ID` F27n1050 · `CUSTOM_ID` ZB6j0244 · `SOURCE` Fangshan shijing Vol. 27, No. 1050 · `EXTENT` 1卷
+
+**人物**
+- 不空 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+
+## [KR6j0265 千手千眼觀世音菩薩大身呪本-唐-金剛智](https://github.com/kanripo/KR6j0265)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T20n1062A · `GENRE` 經 · `CUSTOM_ID` ZB6j0245 · `SOURCE` Taisho Tripitaka Vol. 20, No. 1062A · `EXTENT` 1卷
+
+**人物**
+- 金剛智 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+
+## [KR6j0266 世尊聖者千眼千首千足千舌千臂觀自在菩提薩埵怛嚩廣大圓滿無礙大悲心陀羅尼--](https://github.com/kanripo/KR6j0266)
+
+`BASEEDITION` T · `CBETA_ID` T20n1062B · `GENRE` 經 · `CUSTOM_ID` ZB6j0246 · `SOURCE` Taisho Tripitaka Vol. 20, No. 1062B · `EXTENT` 1卷
+
+**人物**
+
+**版本**
+- CBETA — `WITID` wit1
+
+## [KR6j0267 番大悲神呪--](https://github.com/kanripo/KR6j0267)
+
+`BASEEDITION` T · `CBETA_ID` T20n1063 · `RELATED` T20n1056@經, T20n1057@經, T20n1058@經, T20n1060@經, T20n1061@經, T20n1062A@經, T20n1062B@經, T20n1064@經 · `GENRE` 經 · `CUSTOM_ID` ZB6j0247 · `SOURCE` Taisho Tripitaka Vol. 20, No. 1063 · `EXTENT` 1卷
+
+**人物**
+
+**版本**
+- CBETA — `WITID` wit1
+
+## [KR6j0268 梵本大悲神咒--](https://github.com/kanripo/KR6j0268)
+
+`BASEEDITION` C · `CBETA_ID` C071n1666 · `CUSTOM_ID` ZB6j0248 · `SOURCE` Zhonghua Canon Vol. 071, No. 1666 · `EXTENT` 1卷
+
+**人物**
+
+**版本**
+- CBETA — `WITID` wit1
+
+## [KR6j0269 千手千眼觀世音菩薩大悲心陀羅尼-唐-不空](https://github.com/kanripo/KR6j0269)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T20n1064 · `RELATED` T20n1056@經, T20n1057@經, T20n1058@經, T20n1060@經, T20n1061@經, T20n1062A@經, T20n1062B@經, T20n1063@經 · `GENRE` 經 · `CUSTOM_ID` ZB6j0249 · `SOURCE` Taisho Tripitaka Vol. 20, No. 1064 · `EXTENT` 1卷
+
+**人物**
+- 不空 — 譯
+
+**版本**
+- CBETA — `WITID` wit3
+- 【大】 — `WITID` wit4
+- 【大→原】 — `WITID` wit6
+
+## [KR6j0270 大悲心陀羅尼-宋-慈賢](https://github.com/kanripo/KR6j0270)
+
+宋 · `BASEEDITION` F · `CBETA_ID` F27n1064 · `CUSTOM_ID` ZB6j0250 · `SOURCE` Fangshan shijing Vol. 27, No. 1064 · `EXTENT` 1卷
+
+**人物**
+- 慈賢 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+
+## [KR6j0271 千光眼觀自在菩薩祕密法經-唐-三昧蘇嚩羅](https://github.com/kanripo/KR6j0271)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T20n1065 · `GENRE` 經 · `CUSTOM_ID` ZB6j0251 · `SOURCE` Taisho Tripitaka Vol. 20, No. 1065 · `EXTENT` 1卷
+
+**人物**
+- 三昧蘇嚩羅 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→甲】 — `WITID` wit49
+- 【大→原】 — `WITID` wit6
+
+## [KR6j0272 大悲心陀羅尼修行念誦略儀-唐-不空](https://github.com/kanripo/KR6j0272)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T20n1066 · `GENRE` 經 · `CUSTOM_ID` ZB6j0252 · `SOURCE` Taisho Tripitaka Vol. 20, No. 1066 · `EXTENT` 1卷
+
+**人物**
+- 不空 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+
+## [KR6j0273 攝無礙大悲心大陀羅尼經計一法中出無量義南方滿願補陀落海會五部諸尊等弘誓力方位及威儀形色執持三摩耶幖幟曼荼羅儀軌-唐-不空](https://github.com/kanripo/KR6j0273)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T20n1067 · `GENRE` 經 · `CUSTOM_ID` ZB6j0253 · `SOURCE` Taisho Tripitaka Vol. 20, No. 1067 · `EXTENT` 1卷
+
+**人物**
+- 不空 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→甲】 — `WITID` wit49
+- 【大→原】 — `WITID` wit6
+
+## [KR6j0274 千手觀音造次第法儀軌-唐-善無畏](https://github.com/kanripo/KR6j0274)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T20n1068 · `GENRE` 經 · `CUSTOM_ID` ZB6j0254 · `SOURCE` Taisho Tripitaka Vol. 20, No. 1068 · `EXTENT` 1卷
+
+**人物**
+- 善無畏 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→甲】 — `WITID` wit49
+- 【大→原】 — `WITID` wit6
+
+## [KR6j0275 十一面觀自在菩薩心密言念誦儀軌經-唐-不空](https://github.com/kanripo/KR6j0275)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T20n1069 · `GENRE` 經 · `CUSTOM_ID` ZB6j0255 · `SOURCE` Taisho Tripitaka Vol. 20, No. 1069 · `EXTENT` 3卷
+
+**人物**
+- 不空 — 譯
+
+**版本**
+- CBETA — `WITID` wit3
+- 【大】 — `WITID` wit4
+- 【大→宋】 — `WITID` wit10
+- 【大→元】 — `WITID` wit11
+- 【大→甲】 — `WITID` wit49
+- 【大→乙】 — `WITID` wit50
+- 【大→明】 — `WITID` wit12
+- 【大→原】 — `WITID` wit6
+- 【大→麗】 — `WITID` wit8
+
+## [KR6j0276 佛說十一面觀世音神呪經-北周-耶舍崛多](https://github.com/kanripo/KR6j0276)
+
+北周 · `BASEEDITION` T · `CBETA_ID` T20n1070 · `RELATED` T18n0901-Fasc4@經, T20n1071@經, T39n1802@疏 · `GENRE` 經 · `CUSTOM_ID` ZB6j0256 · `SOURCE` Taisho Tripitaka Vol. 20, No. 1070 · `EXTENT` 1卷
+
+**人物**
+- 耶舍崛多 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→元】 — `WITID` wit11
+- 【大→明】 — `WITID` wit12
+
+## [KR6j0277 十一面神呪心經-唐-玄奘](https://github.com/kanripo/KR6j0277)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T20n1071 · `RELATED` T18n0901@經, T20n1070@經, T39n1802@疏 · `GENRE` 經 · `CUSTOM_ID` ZB6j0257 · `SOURCE` Taisho Tripitaka Vol. 20, No. 1071 · `EXTENT` 1卷
+
+**人物**
+- 玄奘 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→甲】 — `WITID` wit49
+- 【大→明】 — `WITID` wit12
+- 【大→元】 — `WITID` wit11
+
+## [KR6j0278 聖賀野紇哩縛大威怒王立成大神驗供養念誦儀軌法品-唐-不空](https://github.com/kanripo/KR6j0278)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T20n1072A · `GENRE` 經 · `CUSTOM_ID` ZB6j0258 · `SOURCE` Taisho Tripitaka Vol. 20, No. 1072A · `EXTENT` 2卷
+
+**人物**
+- 不空 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→甲】 — `WITID` wit49
+- 【大→乙】 — `WITID` wit50
+- 【大→原】 — `WITID` wit6
+
+## [KR6j0279 馬頭觀音心陀羅尼--](https://github.com/kanripo/KR6j0279)
+
+`BASEEDITION` T · `CBETA_ID` T20n1072B · `GENRE` 經 · `CUSTOM_ID` ZB6j0259 · `SOURCE` Taisho Tripitaka Vol. 20, No. 1072B · `EXTENT` 1卷
+
+**人物**
+
+**版本**
+- CBETA — `WITID` wit1
+
+## [KR6j0280 何耶揭唎婆像法--](https://github.com/kanripo/KR6j0280)
+
+`BASEEDITION` T · `CBETA_ID` T20n1073 · `RELATED` T18n0901-Fasc6@經 · `GENRE` 經 · `CUSTOM_ID` ZB6j0260 · `SOURCE` Taisho Tripitaka Vol. 20, No. 1073 · `EXTENT` 1卷
+
+**人物**
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→甲】 — `WITID` wit49
+- 【大→乙】 — `WITID` wit50
+- 【大→丙】 — `WITID` wit51
+- 【大→原】 — `WITID` wit6
+
+## [KR6j0281 何耶揭唎婆觀世音菩薩受法壇--](https://github.com/kanripo/KR6j0281)
+
+`BASEEDITION` T · `CBETA_ID` T20n1074 · `RELATED` T18n0901-Fasc6@經 · `GENRE` 經 · `CUSTOM_ID` ZB6j0261 · `SOURCE` Taisho Tripitaka Vol. 20, No. 1074 · `EXTENT` 1卷
+
+**人物**
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→丙】 — `WITID` wit51
+- 【大→乙】 — `WITID` wit50
+- 【大→甲】 — `WITID` wit49
+- 【大→原】 — `WITID` wit6
+
+## [KR6j0282 佛說七俱胝佛母准提大明陀羅尼經-唐-金剛智](https://github.com/kanripo/KR6j0282)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T20n1075 · `RELATED` T20n1076@經, T20n1077@經 · `GENRE` 經 · `CUSTOM_ID` ZB6j0262 · `SOURCE` Taisho Tripitaka Vol. 20, No. 1075 · `EXTENT` 1卷
+
+**人物**
+- 金剛智 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→甲】 — `WITID` wit49
+- 【大→明】 — `WITID` wit12
+- 【大→乙】 — `WITID` wit50
+- 【大→宋】 — `WITID` wit10
+- 【大→元】 — `WITID` wit11
+- 【大→丙】 — `WITID` wit51
+
+## [KR6j0283 七俱胝佛母所說准提陀羅尼經-唐-不空](https://github.com/kanripo/KR6j0283)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T20n1076 · `RELATED` T20n1075@經, T20n1077@經 · `GENRE` 經 · `CUSTOM_ID` ZB6j0263 · `SOURCE` Taisho Tripitaka Vol. 20, No. 1076 · `EXTENT` 1卷
+
+**人物**
+- 不空 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→甲】 — `WITID` wit49
+- 【大→丙】 — `WITID` wit51
+- 【大→宋】 — `WITID` wit10
+- 【大→元】 — `WITID` wit11
+- 【大→明】 — `WITID` wit12
+- 【大→乙】 — `WITID` wit50
+
+## [KR6j0284 佛說七俱胝佛母心大准提陀羅尼經-唐-地婆訶羅](https://github.com/kanripo/KR6j0284)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T20n1077 · `RELATED` T20n1075@經, T20n1076@經 · `GENRE` 經 · `CUSTOM_ID` ZB6j0264 · `SOURCE` Taisho Tripitaka Vol. 20, No. 1077 · `EXTENT` 1卷
+
+**人物**
+- 地婆訶羅 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→宋】 — `WITID` wit10
+- 【大→明】 — `WITID` wit12
+- 【大→甲】 — `WITID` wit49
+- 【大→元】 — `WITID` wit11
+
+## [KR6j0285 七佛俱胝佛母心大准提陀羅尼法-唐-善無畏](https://github.com/kanripo/KR6j0285)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T20n1078 · `GENRE` 經 · `CUSTOM_ID` ZB6j0265 · `SOURCE` Taisho Tripitaka Vol. 20, No. 1078 · `EXTENT` 1卷
+
+**人物**
+- 善無畏 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→原】 — `WITID` wit6
+- 【大→甲】 — `WITID` wit49
+
+## [KR6j0286 七俱胝獨部法-唐-善無畏](https://github.com/kanripo/KR6j0286)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T20n1079 · `GENRE` 經 · `CUSTOM_ID` ZB6j0266 · `SOURCE` Taisho Tripitaka Vol. 20, No. 1079 · `EXTENT` 1卷
+
+**人物**
+- 善無畏 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→原】 — `WITID` wit6
+
+## [KR6j0287 如意輪陀羅尼經-唐-菩提流志](https://github.com/kanripo/KR6j0287)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T20n1080 · `RELATED` T20n1081@經, T20n1082@經, T20n1083@經 · `GENRE` 經 · `CUSTOM_ID` ZB6j0267 · `SOURCE` Taisho Tripitaka Vol. 20, No. 1080 · `EXTENT` 1卷
+
+**人物**
+- 菩提流志 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→宋】 — `WITID` wit10
+- 【大→元】 — `WITID` wit11
+- 【大→明】 — `WITID` wit12
+- 【大→甲】 — `WITID` wit49
+
+## [KR6j0288 佛說觀自在菩薩如意心陀羅尼呪經-唐-義淨](https://github.com/kanripo/KR6j0288)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T20n1081 · `RELATED` T20n1080@經, T20n1082@經, T20n1083@經 · `GENRE` 經 · `CUSTOM_ID` ZB6j0268 · `SOURCE` Taisho Tripitaka Vol. 20, No. 1081 · `EXTENT` 1卷
+
+**人物**
+- 義淨 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→明】 — `WITID` wit12
+- 【大→宋】 — `WITID` wit10
+
+## [KR6j0289 觀世音菩薩祕密藏如意輪陀羅尼神呪經-唐-實叉難陀](https://github.com/kanripo/KR6j0289)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T20n1082 · `RELATED` T20n1080@經, T20n1081@經, T20n1083@經 · `GENRE` 經 · `CUSTOM_ID` ZB6j0269 · `SOURCE` Taisho Tripitaka Vol. 20, No. 1082 · `EXTENT` 1卷
+
+**人物**
+- 實叉難陀 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→宋】 — `WITID` wit10
+- 【大→元】 — `WITID` wit11
+- 【大→明】 — `WITID` wit12
+
+## [KR6j0290 觀世音菩薩如意摩尼陀羅尼經-唐-寶思惟](https://github.com/kanripo/KR6j0290)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T20n1083 · `RELATED` T20n1080@經, T20n1081@經, T20n1082@經 · `GENRE` 經 · `CUSTOM_ID` ZB6j0270 · `SOURCE` Taisho Tripitaka Vol. 20, No. 1083 · `EXTENT` 1卷
+
+**人物**
+- 寶思惟 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→元】 — `WITID` wit11
+- 【大→明】 — `WITID` wit12
+- 【大→宋】 — `WITID` wit10
+
+## [KR6j0291 觀世音菩薩如意摩尼輪陀羅尼念誦法-唐-寶思惟](https://github.com/kanripo/KR6j0291)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T20n1084 · `GENRE` 經 · `CUSTOM_ID` ZB6j0271 · `SOURCE` Taisho Tripitaka Vol. 20, No. 1084 · `EXTENT` 1卷
+
+**人物**
+- 寶思惟 — 譯
+
+**版本**
+- CBETA — `WITID` wit16
+-
+- orig — `WITID` wit99
+
+## [KR6j0292 觀自在菩薩如意輪念誦儀軌-唐-不空](https://github.com/kanripo/KR6j0292)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T20n1085 · `GENRE` 經 · `CUSTOM_ID` ZB6j0272 · `SOURCE` Taisho Tripitaka Vol. 20, No. 1085 · `EXTENT` 1卷
+
+**人物**
+- 不空 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→明】 — `WITID` wit12
+- 【大→甲】 — `WITID` wit49
+- 【大→宋】 — `WITID` wit10
+- 【大→元】 — `WITID` wit11
+
+## [KR6j0293 觀自在菩薩如意輪瑜伽-唐-不空](https://github.com/kanripo/KR6j0293)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T20n1086 · `RELATED` T20n1087@經 · `GENRE` 經 · `CUSTOM_ID` ZB6j0273 · `SOURCE` Taisho Tripitaka Vol. 20, No. 1086 · `EXTENT` 1卷
+
+**人物**
+- 不空 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→明】 — `WITID` wit12
+- 【大→乙】 — `WITID` wit50
+- 【大→甲】 — `WITID` wit49
+
+## [KR6j0294 觀自在如意輪菩薩瑜伽法要-唐-金剛智](https://github.com/kanripo/KR6j0294)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T20n1087 · `RELATED` T20n1086@經 · `GENRE` 經 · `CUSTOM_ID` ZB6j0274 · `SOURCE` Taisho Tripitaka Vol. 20, No. 1087 · `EXTENT` 1卷
+
+**人物**
+- 金剛智 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→明】 — `WITID` wit12
+- 【大→宋】 — `WITID` wit10
+- 【大→元】 — `WITID` wit11
+
+## [KR6j0295 觀自在菩薩如意輪咒課法-宋-仁岳](https://github.com/kanripo/KR6j0295)
+
+宋 · `BASEEDITION` L · `CBETA_ID` L135n1571 · `CUSTOM_ID` ZB6j0275 · `SOURCE` Qianlong Edition of the Canon Vol. 135, No. 1571 · `EXTENT` 1卷
+
+**人物**
+- 仁岳 — 撰
+
+**版本**
+- CBETA — `WITID` wit1
+- orig — `WITID` wit99
+
+## [KR6j0296 如意輪菩薩觀門義注祕訣--失譯](https://github.com/kanripo/KR6j0296)
+
+`BASEEDITION` T · `CBETA_ID` T20n1088 · `GENRE` 經 · `CUSTOM_ID` ZB6j0276 · `SOURCE` Taisho Tripitaka Vol. 20, No. 1088 · `EXTENT` 1卷
+
+**人物**
+- 失譯 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→甲】 — `WITID` wit49
+- 【大→原】 — `WITID` wit6
+
+## [KR6j0297 都表如意摩尼轉輪聖王次第念誦祕密最要略法-唐-解脫師子](https://github.com/kanripo/KR6j0297)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T20n1089 · `GENRE` 經 · `CUSTOM_ID` ZB6j0277 · `SOURCE` Taisho Tripitaka Vol. 20, No. 1089 · `EXTENT` 1卷
+
+**人物**
+- 解脫師子 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→甲】 — `WITID` wit49
+- 【大→原】 — `WITID` wit6
+- 【大→明】 — `WITID` wit12
+
+## [KR6j0298 佛說如意輪蓮華心如來修行觀門儀-宋-慈賢](https://github.com/kanripo/KR6j0298)
+
+宋 · `BASEEDITION` T · `CBETA_ID` T20n1090 · `GENRE` 經 · `CUSTOM_ID` ZB6j0278 · `SOURCE` Taisho Tripitaka Vol. 20, No. 1090 · `EXTENT` 1卷
+
+**人物**
+- 慈賢 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- orig — `WITID` wit99
+
+## [KR6j0299 七星如意輪祕密要經-唐-不空](https://github.com/kanripo/KR6j0299)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T20n1091 · `GENRE` 經 · `CUSTOM_ID` ZB6j0279 · `SOURCE` Taisho Tripitaka Vol. 20, No. 1091 · `EXTENT` 1卷
+
+**人物**
+- 不空 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→原】 — `WITID` wit6
+
+## [KR6j0300 不空羂索神變真言經-唐-菩提流志](https://github.com/kanripo/KR6j0300)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T20n1092 · `RELATED` T18n0901-Fasc5@經, T20n1093@經, T20n1094@經, T20n1095@經, T20n1096@經, T20n1097@經, T20n1098@經, T20n1099@經 · `GENRE` 經 · `CUSTOM_ID` ZB6j0280 · `SOURCE` Taisho Tripitaka Vol. 20, No. 1092 · `EXTENT` 30卷
+
+**人物**
+- 菩提流志 — 譯
+
+**版本**
+- CBETA — `WITID` wit3
+- 【大】 — `WITID` wit4
+- 【大→宋】 — `WITID` wit10
+- 【大→元】 — `WITID` wit11
+- 【大→明】 — `WITID` wit12
+- 【大→乙】 — `WITID` wit50
+- 【大→麗】 — `WITID` wit8
+- 【大→甲】 — `WITID` wit49
+
+## [KR6j0301 不空羂索呪經-隋-闍那崛多](https://github.com/kanripo/KR6j0301)
+
+隋 · `BASEEDITION` T · `CBETA_ID` T20n1093 · `RELATED` T20n1092-Fasc1@經, T20n1094@經, T20n1095@經, T20n1099@經 · `GENRE` 經 · `CUSTOM_ID` ZB6j0281 · `SOURCE` Taisho Tripitaka Vol. 20, No. 1093 · `EXTENT` 1卷
+
+**人物**
+- 闍那崛多 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→明】 — `WITID` wit12
+- 【大→宋】 — `WITID` wit10
+- 【大→元】 — `WITID` wit11
+
+## [KR6j0302 不空羂索神呪心經-唐-玄奘](https://github.com/kanripo/KR6j0302)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T20n1094 · `RELATED` T20n1092-Fasc1@經, T20n1093@經, T20n1095@經, T20n1099@經 · `GENRE` 經 · `CUSTOM_ID` ZB6j0282 · `SOURCE` Taisho Tripitaka Vol. 20, No. 1094 · `EXTENT` 1卷
+
+**人物**
+- 玄奘 — 譯
+
+**版本**
+- CBETA — `WITID` wit3
+- 【大】 — `WITID` wit4
+- 【大→甲】 — `WITID` wit49
+- 【大→明】 — `WITID` wit12
+- 【大→麗】 — `WITID` wit8
+
+## [KR6j0303 不空羂索呪心經-唐-菩提流志](https://github.com/kanripo/KR6j0303)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T20n1095 · `RELATED` T20n1092-Fasc1@經, T20n1093@經, T20n1094@經, T20n1099@經 · `GENRE` 經 · `CUSTOM_ID` ZB6j0283 · `SOURCE` Taisho Tripitaka Vol. 20, No. 1095 · `EXTENT` 1卷
+
+**人物**
+- 菩提流志 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→元】 — `WITID` wit11
+- 【大→宋】 — `WITID` wit10
+- 【大→明】 — `WITID` wit12
+
+## [KR6j0304 不空羂索陀羅尼經-唐-李無諂](https://github.com/kanripo/KR6j0304)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T20n1096 · `RELATED` T20n1092-Fasc1@經, T20n1097@經, T20n1098@經 · `GENRE` 經 · `CUSTOM_ID` ZB6j0284 · `SOURCE` Taisho Tripitaka Vol. 20, No. 1096 · `EXTENT` 1卷
+
+**人物**
+- 李無諂 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→宋】 — `WITID` wit10
+- 【大→元】 — `WITID` wit11
+- 【大→明】 — `WITID` wit12
+
+## [KR6j0305 不空羂索陀羅尼自在王呪經-唐-寶思惟](https://github.com/kanripo/KR6j0305)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T20n1097 · `RELATED` T20n1092-Fasc1@經, T20n1096@經 · `GENRE` 經 · `CUSTOM_ID` ZB6j0285 · `SOURCE` Taisho Tripitaka Vol. 20, No. 1097 · `EXTENT` 3卷
+
+**人物**
+- 寶思惟 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→甲】 — `WITID` wit49
+- 【大→宋】 — `WITID` wit10
+- 【大→元】 — `WITID` wit11
+- 【大→明】 — `WITID` wit12
+
+## [KR6j0306 佛說不空羂索陀羅尼儀軌經-唐-阿目佉](https://github.com/kanripo/KR6j0306)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T20n1098 · `RELATED` T20n1092-Fasc1@經, T20n1092-Fasc2@經, T20n1096@經 · `GENRE` 經 · `CUSTOM_ID` ZB6j0286 · `SOURCE` Taisho Tripitaka Vol. 20, No. 1098 · `EXTENT` 2卷
+
+**人物**
+- 阿目佉 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→甲】 — `WITID` wit49
+- 【大→丙】 — `WITID` wit51
+- 【大→乙】 — `WITID` wit50
+- 【大→原】 — `WITID` wit6
+
+## [KR6j0307 佛說聖觀自在菩薩不空王祕密心陀羅尼經-宋-施護](https://github.com/kanripo/KR6j0307)
+
+宋 · `BASEEDITION` T · `CBETA_ID` T20n1099 · `RELATED` T20n1092-Fasc1@經, T20n1093@經, T20n1094@經, T20n1095@經 · `GENRE` 經 · `CUSTOM_ID` ZB6j0287 · `SOURCE` Taisho Tripitaka Vol. 20, No. 1099 · `EXTENT` 1卷
+
+**人物**
+- 施護 — 等譯
+
+**版本**
+- CBETA — `WITID` wit3
+- 【大】 — `WITID` wit4
+- 【大→明】 — `WITID` wit12
+- 【大→麗】 — `WITID` wit8
+- 【大→宋】 — `WITID` wit10
+- 【大→元】 — `WITID` wit11
+
+## [KR6j0308 葉衣觀自在菩薩經-唐-不空](https://github.com/kanripo/KR6j0308)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T20n1100 · `GENRE` 經 · `CUSTOM_ID` ZB6j0288 · `SOURCE` Taisho Tripitaka Vol. 20, No. 1100 · `EXTENT` 1卷
+
+**人物**
+- 不空 — 譯
+
+**版本**
+- CBETA — `WITID` wit3
+- 【大】 — `WITID` wit4
+- 【大→宋】 — `WITID` wit10
+- 【大→元】 — `WITID` wit11
+- 【大→甲】 — `WITID` wit49
+- 【大→明】 — `WITID` wit12
+- 【大→乙】 — `WITID` wit50
+- 【大→麗】 — `WITID` wit8
+
+## [KR6j0309 佛說大方廣曼殊室利經-唐-不空](https://github.com/kanripo/KR6j0309)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T20n1101 · `GENRE` 經 · `CUSTOM_ID` ZB6j0289 · `SOURCE` Taisho Tripitaka Vol. 20, No. 1101 · `EXTENT` 1卷
+
+**人物**
+- 不空 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→明】 — `WITID` wit12
+- 【大→宋】 — `WITID` wit10
+- 【大→元】 — `WITID` wit11
+- 【大→甲】 — `WITID` wit49
+
+## [KR6j0310 金剛頂經多羅菩薩念誦法-唐-不空](https://github.com/kanripo/KR6j0310)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T20n1102 · `GENRE` 經 · `CUSTOM_ID` ZB6j0290 · `SOURCE` Taisho Tripitaka Vol. 20, No. 1102 · `EXTENT` 1卷
+
+**人物**
+- 不空 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→甲】 — `WITID` wit49
+- 【大→宋】 — `WITID` wit10
+- 【大→元】 — `WITID` wit11
+- 【大→明】 — `WITID` wit12
+
+## [KR6j0311 觀自在菩薩隨心呪經-唐-智通](https://github.com/kanripo/KR6j0311)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T20n1103a · `GENRE` 經 · `CUSTOM_ID` ZB6j0291 · `SOURCE` Taisho Tripitaka Vol. 20, No. 1103a · `EXTENT` 1卷
+
+**人物**
+- 智通 — 譯
+
+**版本**
+- CBETA — `WITID` wit3
+- 【大→麗】 — `WITID` wit8
+- 【大】 — `WITID` wit4
+
+## [KR6j0312 觀自在菩薩怛嚩多唎隨心陀羅尼經-唐-智通](https://github.com/kanripo/KR6j0312)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T20n1103b · `GENRE` 經 · `CUSTOM_ID` ZB6j0292 · `SOURCE` Taisho Tripitaka Vol. 20, No. 1103b · `EXTENT` 1卷
+
+**人物**
+- 智通 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→宋】 — `WITID` wit10
+- 【大→甲】 — `WITID` wit49
+
+## [KR6j0313 佛說聖多羅菩薩經-宋-法賢](https://github.com/kanripo/KR6j0313)
+
+宋 · `BASEEDITION` T · `CBETA_ID` T20n1104 · `GENRE` 經 · `CUSTOM_ID` ZB6j0293 · `SOURCE` Taisho Tripitaka Vol. 20, No. 1104 · `EXTENT` 1卷
+
+**人物**
+- 法賢 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→宋】 — `WITID` wit10
+- 【大→元】 — `WITID` wit11
+- 【大→明】 — `WITID` wit12
+
+## [KR6j0314 聖多羅菩薩一百八名陀羅尼經-宋-法天](https://github.com/kanripo/KR6j0314)
+
+宋 · `BASEEDITION` T · `CBETA_ID` T20n1105 · `RELATED` T20n1106@經, T20n1107@經 · `GENRE` 經 · `CUSTOM_ID` ZB6j0294 · `SOURCE` Taisho Tripitaka Vol. 20, No. 1105 · `EXTENT` 1卷
+
+**人物**
+- 法天 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→宋】 — `WITID` wit10
+- 【大→元】 — `WITID` wit11
+- 【大→明】 — `WITID` wit12
+
+## [KR6j0315 讚揚聖德多羅菩薩一百八名經-宋-天息災](https://github.com/kanripo/KR6j0315)
+
+宋 · `BASEEDITION` T · `CBETA_ID` T20n1106 · `RELATED` T20n1105@經, T20n1107@經 · `GENRE` 經 · `CUSTOM_ID` ZB6j0295 · `SOURCE` Taisho Tripitaka Vol. 20, No. 1106 · `EXTENT` 1卷
+
+**人物**
+- 天息災 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→明】 — `WITID` wit12
+- 【大→宋】 — `WITID` wit10
+- 【大→元】 — `WITID` wit11
+
+## [KR6j0316 聖多羅菩薩梵讚-宋-施護](https://github.com/kanripo/KR6j0316)
+
+宋 · `BASEEDITION` T · `CBETA_ID` T20n1107 · `RELATED` T20n1105@經, T20n1106@經 · `GENRE` 經 · `CUSTOM_ID` ZB6j0296 · `SOURCE` Taisho Tripitaka Vol. 20, No. 1107 · `EXTENT` 1卷
+
+**人物**
+- 施護 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→明】 — `WITID` wit12
+- 【大→宋】 — `WITID` wit10
+- 【大→元】 — `WITID` wit11
+
+## [KR6j0317 聖救度佛母二十一種禮讚經-元-安藏](https://github.com/kanripo/KR6j0317)
+
+元 · `BASEEDITION` T · `CBETA_ID` T20n1108A · `GENRE` 經 · `CUSTOM_ID` ZB6j0297 · `SOURCE` Taisho Tripitaka Vol. 20, No. 1108A · `EXTENT` 1卷
+
+**人物**
+- 安藏 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+
+## [KR6j0318 救度佛母二十一種禮讚經--](https://github.com/kanripo/KR6j0318)
+
+`BASEEDITION` T · `CBETA_ID` T20n1108B · `GENRE` 經 · `CUSTOM_ID` ZB6j0298 · `SOURCE` Taisho Tripitaka Vol. 20, No. 1108B · `EXTENT` 1卷
+
+**人物**
+
+**版本**
+- CBETA — `WITID` wit1
+
+## [KR6j0319 白救度佛母讚-清-阿旺扎什](https://github.com/kanripo/KR6j0319)
+
+清 · `BASEEDITION` T · `CBETA_ID` T20n1109 · `GENRE` 經 · `CUSTOM_ID` ZB6j0299 · `SOURCE` Taisho Tripitaka Vol. 20, No. 1109 · `EXTENT` 1卷
+
+**人物**
+- 阿旺扎什 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+
+## [KR6j0320 佛說一髻尊陀羅尼經-唐-不空](https://github.com/kanripo/KR6j0320)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T20n1110 · `GENRE` 經 · `CUSTOM_ID` ZB6j0300 · `SOURCE` Taisho Tripitaka Vol. 20, No. 1110 · `EXTENT` 1卷
+
+**人物**
+- 不空 — 譯
+
+**版本**
+- CBETA — `WITID` wit3
+- 【大】 — `WITID` wit4
+- 【大→甲】 — `WITID` wit49
+- 【大→明】 — `WITID` wit12
+- 【大→乙】 — `WITID` wit50
+- 【大→麗】 — `WITID` wit8
+
+## [KR6j0321 青頸觀自在菩薩心陀羅尼經-唐-不空](https://github.com/kanripo/KR6j0321)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T20n1111 · `RELATED` T20n1112@經, T20n1113@經 · `GENRE` 經 · `CUSTOM_ID` ZB6j0301 · `SOURCE` Taisho Tripitaka Vol. 20, No. 1111 · `EXTENT` 1卷
+
+**人物**
+- 不空 — 注
+
+**版本**
+- CBETA — `WITID` wit3
+- 【大】 — `WITID` wit4
+- 【大→甲】 — `WITID` wit49
+- 【大→原】 — `WITID` wit6
+
+## [KR6j0322 金剛頂瑜伽青頸大悲王觀自在念誦儀軌-唐-金剛智](https://github.com/kanripo/KR6j0322)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T20n1112 · `RELATED` T20n1111@經, T20n1113@經 · `GENRE` 經 · `CUSTOM_ID` ZB6j0302 · `SOURCE` Taisho Tripitaka Vol. 20, No. 1112 · `EXTENT` 1卷
+
+**人物**
+- 金剛智 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→甲】 — `WITID` wit49
+- 【大→原】 — `WITID` wit6
+- 【大→明】 — `WITID` wit12
+
+## [KR6j0323 觀自在菩薩廣大圓滿無礙大悲心陀羅尼-高麗-指空](https://github.com/kanripo/KR6j0323)
+
+高麗 · `BASEEDITION` T · `CBETA_ID` T20n1113A · `GENRE` 經 · `CUSTOM_ID` ZB6j0303 · `SOURCE` Taisho Tripitaka Vol. 20, No. 1113A · `EXTENT` 1卷
+
+**人物**
+- 指空 — 校
+
+**版本**
+- CBETA — `WITID` wit1
+
+## [KR6j0324 大慈大悲救苦觀世音自在王菩薩廣大圓滿無礙自在青頸大悲心陀羅尼-唐-不空](https://github.com/kanripo/KR6j0324)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T20n1113B · `GENRE` 經 · `CUSTOM_ID` ZB6j0304 · `SOURCE` Taisho Tripitaka Vol. 20, No. 1113B · `EXTENT` 1卷
+
+**人物**
+- 不空 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→原】 — `WITID` wit6
+
+## [KR6j0325 毘俱胝菩薩一百八名經-宋-法天](https://github.com/kanripo/KR6j0325)
+
+宋 · `BASEEDITION` T · `CBETA_ID` T20n1114 · `GENRE` 經 · `CUSTOM_ID` ZB6j0305 · `SOURCE` Taisho Tripitaka Vol. 20, No. 1114 · `EXTENT` 1卷
+
+**人物**
+- 法天 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→明】 — `WITID` wit12
+- 【大→宋】 — `WITID` wit10
+- 【大→元】 — `WITID` wit11
+
+## [KR6j0326 觀自在菩薩阿麼𪘨法--失譯](https://github.com/kanripo/KR6j0326)
+
+`BASEEDITION` T · `CBETA_ID` T20n1115 · `GENRE` 經 · `CUSTOM_ID` ZB6j0306 · `SOURCE` Taisho Tripitaka Vol. 20, No. 1115 · `EXTENT` 1卷
+
+**人物**
+- 失譯 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→甲】 — `WITID` wit49
+
+## [KR6j0327 廣大蓮華莊嚴曼拏羅滅一切罪陀羅尼經-宋-施護](https://github.com/kanripo/KR6j0327)
+
+宋 · `BASEEDITION` T · `CBETA_ID` T20n1116 · `GENRE` 經 · `CUSTOM_ID` ZB6j0307 · `SOURCE` Taisho Tripitaka Vol. 20, No. 1116 · `EXTENT` 1卷
+
+**人物**
+- 施護 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→明】 — `WITID` wit12
+- 【大→宋】 — `WITID` wit10
+- 【大→元】 — `WITID` wit11
+
+## [KR6j0328 佛說觀自在菩薩母陀羅尼經-宋-法賢](https://github.com/kanripo/KR6j0328)
+
+宋 · `BASEEDITION` T · `CBETA_ID` T20n1117 · `GENRE` 經 · `CUSTOM_ID` ZB6j0308 · `SOURCE` Taisho Tripitaka Vol. 20, No. 1117 · `EXTENT` 1卷
+
+**人物**
+- 法賢 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→明】 — `WITID` wit12
+- 【大→宋】 — `WITID` wit10
+- 【大→元】 — `WITID` wit11
+
+## [KR6j0329 佛說十八臂陀羅尼經-宋-法賢](https://github.com/kanripo/KR6j0329)
+
+宋 · `BASEEDITION` T · `CBETA_ID` T20n1118 · `GENRE` 經 · `CUSTOM_ID` ZB6j0309 · `SOURCE` Taisho Tripitaka Vol. 20, No. 1118 · `EXTENT` 1卷
+
+**人物**
+- 法賢 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→宋】 — `WITID` wit10
+- 【大→元】 — `WITID` wit11
+- 【大→明】 — `WITID` wit12
+
+## [KR6j0330 觀世音菩薩救苦經--](https://github.com/kanripo/KR6j0330)
+
+`BASEEDITION` X · `CBETA_ID` X01n0034 · `GENRE` 經 · `CUSTOM_ID` ZB6j0310 · `SOURCE` 卍 Xuzangjing Vol. 01, No. 034 · `EXTENT` 1卷
+
+**人物**
+
+**版本**
+- CBETA — `WITID` wit1
+
+## [KR6j0331 阿迦陀密一印千類千轉三使者成就經法-唐-不空](https://github.com/kanripo/KR6j0331)
+
+唐 · `BASEEDITION` X · `CBETA_ID` X02n0190 · `GENRE` 經 · `CUSTOM_ID` ZB6j0311 · `SOURCE` 卍 Xuzangjing Vol. 02, No. 190 · `EXTENT` 1卷
+
+**人物**
+- 不空 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- orig — `WITID` wit99
+
+## [KR6j0332 七俱胝准提陀羅尼念誦儀軌-唐-不空](https://github.com/kanripo/KR6j0332)
+
+唐 · `BASEEDITION` X · `CBETA_ID` X02n0191 · `GENRE` 經 · `CUSTOM_ID` ZB6j0312 · `SOURCE` 卍 Xuzangjing Vol. 02, No. 191 · `EXTENT` 1卷
+
+**人物**
+- 不空 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- orig — `WITID` wit99
+
+## [KR6j0333 大樂金剛薩埵修行成就儀軌-唐-不空](https://github.com/kanripo/KR6j0333)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T20n1119 · `GENRE` 經 · `CUSTOM_ID` ZB6j0313 · `SOURCE` Taisho Tripitaka Vol. 20, No. 1119 · `EXTENT` 1卷
+
+**人物**
+- 不空 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→明】 — `WITID` wit12
+- 【大→甲】 — `WITID` wit49
+
+## [KR6j0334 金剛頂勝初瑜伽經中略出大樂金剛薩埵念誦儀-唐-不空](https://github.com/kanripo/KR6j0334)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T20n1120A · `GENRE` 經 · `CUSTOM_ID` ZB6j0314 · `SOURCE` Taisho Tripitaka Vol. 20, No. 1120A · `EXTENT` 1卷
+
+**人物**
+- 不空 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→甲】 — `WITID` wit49
+
+## [KR6j0335 勝初瑜伽儀軌真言--](https://github.com/kanripo/KR6j0335)
+
+`BASEEDITION` T · `CBETA_ID` T20n1120B · `GENRE` 經 · `CUSTOM_ID` ZB6j0315 · `SOURCE` Taisho Tripitaka Vol. 20, No. 1120B · `EXTENT` 1卷
+
+**人物**
+
+**版本**
+- CBETA — `WITID` wit1
+
+## [KR6j0336 金剛頂普賢瑜伽大教王經大樂不空金剛薩埵一切時方成就儀--](https://github.com/kanripo/KR6j0336)
+
+`BASEEDITION` T · `CBETA_ID` T20n1121 · `GENRE` 經 · `CUSTOM_ID` ZB6j0316 · `SOURCE` Taisho Tripitaka Vol. 20, No. 1121 · `EXTENT` 1卷
+
+**人物**
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→原】 — `WITID` wit6
+
+## [KR6j0337 金剛頂瑜伽他化自在天理趣會普賢修行念誦儀軌-唐-不空](https://github.com/kanripo/KR6j0337)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T20n1122 · `GENRE` 經 · `CUSTOM_ID` ZB6j0317 · `SOURCE` Taisho Tripitaka Vol. 20, No. 1122 · `EXTENT` 1卷
+
+**人物**
+- 不空 — 譯
+
+**版本**
+- CBETA — `WITID` wit3
+- 【大】 — `WITID` wit4
+- 【大→甲】 — `WITID` wit49
+- 【大→磧砂】 — `WITID` wit15
+
+## [KR6j0338 金剛頂勝初瑜伽普賢菩薩念誦法-唐-不空](https://github.com/kanripo/KR6j0338)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T20n1123 · `GENRE` 經 · `CUSTOM_ID` ZB6j0318 · `SOURCE` Taisho Tripitaka Vol. 20, No. 1123 · `EXTENT` 1卷
+
+**人物**
+- 不空 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→宋】 — `WITID` wit10
+- 【大→元】 — `WITID` wit11
+- 【大→明】 — `WITID` wit12
+- 【大→甲】 — `WITID` wit49
+
+## [KR6j0339 普賢金剛薩埵略瑜伽念誦儀軌-唐-不空](https://github.com/kanripo/KR6j0339)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T20n1124 · `GENRE` 經 · `CUSTOM_ID` ZB6j0319 · `SOURCE` Taisho Tripitaka Vol. 20, No. 1124 · `EXTENT` 1卷
+
+**人物**
+- 不空 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→宋】 — `WITID` wit10
+- 【大→元】 — `WITID` wit11
+- 【大→甲】 — `WITID` wit49
+- 【大→明】 — `WITID` wit12
+
+## [KR6j0340 金剛頂瑜伽金剛薩埵五祕密修行念誦儀軌-唐-不空](https://github.com/kanripo/KR6j0340)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T20n1125 · `GENRE` 經 · `CUSTOM_ID` ZB6j0320 · `SOURCE` Taisho Tripitaka Vol. 20, No. 1125 · `EXTENT` 1卷
+
+**人物**
+- 不空 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→乙】 — `WITID` wit50
+- 【大→宋】 — `WITID` wit10
+- 【大→元】 — `WITID` wit11
+- 【大→明】 — `WITID` wit12
+- 【大→甲】 — `WITID` wit49
+
+## [KR6j0341 佛說普賢曼拏羅經-宋-施護](https://github.com/kanripo/KR6j0341)
+
+宋 · `BASEEDITION` T · `CBETA_ID` T20n1126 · `GENRE` 經 · `CUSTOM_ID` ZB6j0321 · `SOURCE` Taisho Tripitaka Vol. 20, No. 1126 · `EXTENT` 1卷
+
+**人物**
+- 施護 — 譯
+
+**版本**
+- CBETA — `WITID` wit3
+- 【大】 — `WITID` wit4
+- 【大→明】 — `WITID` wit12
+- 【大→宋】 — `WITID` wit10
+- 【大→元】 — `WITID` wit11
+- 【大→麗】 — `WITID` wit8
+
+## [KR6j0342 佛說普賢菩薩陀羅尼經-宋-法天](https://github.com/kanripo/KR6j0342)
+
+宋 · `BASEEDITION` T · `CBETA_ID` T20n1127 · `GENRE` 經 · `CUSTOM_ID` ZB6j0322 · `SOURCE` Taisho Tripitaka Vol. 20, No. 1127 · `EXTENT` 1卷
+
+**人物**
+- 法天 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→宋】 — `WITID` wit10
+- 【大→元】 — `WITID` wit11
+- 【大→明】 — `WITID` wit12
+
+## [KR6j0343 最上大乘金剛大教寶王經-宋-法天](https://github.com/kanripo/KR6j0343)
+
+宋 · `BASEEDITION` T · `CBETA_ID` T20n1128 · `GENRE` 經 · `CUSTOM_ID` ZB6j0323 · `SOURCE` Taisho Tripitaka Vol. 20, No. 1128 · `EXTENT` 2卷
+
+**人物**
+- 法天 — 譯
+
+**版本**
+- CBETA — `WITID` wit3
+- 【大】 — `WITID` wit4
+- 【大→宋】 — `WITID` wit10
+- 【大→明】 — `WITID` wit12
+- 【大→麗】 — `WITID` wit8
+
+## [KR6j0344 佛說金剛手菩薩降伏一切部多大教王經-宋-法天](https://github.com/kanripo/KR6j0344)
+
+宋 · `BASEEDITION` T · `CBETA_ID` T20n1129 · `GENRE` 經 · `CUSTOM_ID` ZB6j0324 · `SOURCE` Taisho Tripitaka Vol. 20, No. 1129 · `EXTENT` 3卷
+
+**人物**
+- 法天 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→宋】 — `WITID` wit10
+- 【大→明】 — `WITID` wit12
+- 【大→元】 — `WITID` wit11
+
+## [KR6j0345 大乘金剛髻珠菩薩修行分-唐-菩提流志](https://github.com/kanripo/KR6j0345)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T20n1130 · `GENRE` 經 · `CUSTOM_ID` ZB6j0325 · `SOURCE` Taisho Tripitaka Vol. 20, No. 1130 · `EXTENT` 1卷
+
+**人物**
+- 菩提流志 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→宋】 — `WITID` wit10
+- 【大→元】 — `WITID` wit11
+- 【大→明】 — `WITID` wit12
+
+## [KR6j0346 聖金剛手菩薩一百八名梵讚-宋-法賢](https://github.com/kanripo/KR6j0346)
+
+宋 · `BASEEDITION` T · `CBETA_ID` T20n1131 · `GENRE` 經 · `CUSTOM_ID` ZB6j0326 · `SOURCE` Taisho Tripitaka Vol. 20, No. 1131 · `EXTENT` 1卷
+
+**人物**
+- 法賢 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→宋】 — `WITID` wit10
+- 【大→元】 — `WITID` wit11
+- 【大→明】 — `WITID` wit12
+
+## [KR6j0347 金剛王菩薩祕密念誦儀軌-唐-不空](https://github.com/kanripo/KR6j0347)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T20n1132 · `GENRE` 經 · `CUSTOM_ID` ZB6j0327 · `SOURCE` Taisho Tripitaka Vol. 20, No. 1132 · `EXTENT` 1卷
+
+**人物**
+- 不空 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→甲】 — `WITID` wit49
+- 【大→乙】 — `WITID` wit50
+- 【大→丙】 — `WITID` wit51
+- 【大→宋】 — `WITID` wit10
+- 【大→元】 — `WITID` wit11
+- 【大→明】 — `WITID` wit12
+
+## [KR6j0348 金剛壽命陀羅尼念誦法-唐-不空](https://github.com/kanripo/KR6j0348)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T20n1133 · `RELATED` T20n1134A@經, T20n1134B@經 · `GENRE` 經 · `CUSTOM_ID` ZB6j0328 · `SOURCE` Taisho Tripitaka Vol. 20, No. 1133 · `EXTENT` 1卷
+
+**人物**
+- 不空 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→宋】 — `WITID` wit10
+- 【大→元】 — `WITID` wit11
+- 【大→甲】 — `WITID` wit49
+- 【大→明】 — `WITID` wit12
+- 【大→乙】 — `WITID` wit50
+
+## [KR6j0349 金剛壽命陀羅尼經法-唐-不空](https://github.com/kanripo/KR6j0349)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T20n1134A · `GENRE` 經 · `CUSTOM_ID` ZB6j0329 · `SOURCE` Taisho Tripitaka Vol. 20, No. 1134A · `EXTENT` 1卷
+
+**人物**
+- 不空 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→甲】 — `WITID` wit49
+- 【大→原】 — `WITID` wit6
+
+## [KR6j0350 金剛壽命陀羅尼經-唐-不空](https://github.com/kanripo/KR6j0350)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T20n1134B · `GENRE` 經 · `CUSTOM_ID` ZB6j0330 · `SOURCE` Taisho Tripitaka Vol. 20, No. 1134B · `EXTENT` 1卷
+
+**人物**
+- 不空 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→原】 — `WITID` wit6
+
+## [KR6j0351 佛說一切如來金剛壽命陀羅尼經-唐-不空](https://github.com/kanripo/KR6j0351)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T20n1135 · `RELATED` T20n1136@經 · `GENRE` 經 · `CUSTOM_ID` ZB6j0331 · `SOURCE` Taisho Tripitaka Vol. 20, No. 1135 · `EXTENT` 1卷
+
+**人物**
+- 不空 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→宋】 — `WITID` wit10
+- 【大→元】 — `WITID` wit11
+- 【大→明】 — `WITID` wit12
+- 【大→甲】 — `WITID` wit49
+
+## [KR6j0352 佛說一切諸如來心光明加持普賢菩薩延命金剛最勝陀羅尼經-唐-不空](https://github.com/kanripo/KR6j0352)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T20n1136 · `RELATED` T20n1135@經 · `GENRE` 經 · `CUSTOM_ID` ZB6j0332 · `SOURCE` Taisho Tripitaka Vol. 20, No. 1136 · `EXTENT` 1卷
+
+**人物**
+- 不空 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+
+## [KR6j0353 佛說善法方便陀羅尼經--失譯](https://github.com/kanripo/KR6j0353)
+
+`BASEEDITION` T · `CBETA_ID` T20n1137 · `RELATED` T20n1138@經, T20n1139@經, T20n1140@經 · `GENRE` 經 · `CUSTOM_ID` ZB6j0333 · `SOURCE` Taisho Tripitaka Vol. 20, No. 1137 · `EXTENT` 1卷
+
+**人物**
+- 失譯 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→宋】 — `WITID` wit10
+- 【大→元】 — `WITID` wit11
+- 【大→明】 — `WITID` wit12
+
+## [KR6j0354 金剛祕密善門陀羅尼呪經--失譯](https://github.com/kanripo/KR6j0354)
+
+`BASEEDITION` T · `CBETA_ID` T20n1138a · `RELATED` T20n1137@經, T20n1139@經, T20n1140@經 · `GENRE` 經 · `CUSTOM_ID` ZB6j0334 · `SOURCE` Taisho Tripitaka Vol. 20, No. 1138a · `EXTENT` 1卷
+
+**人物**
+- 失譯 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+
+## [KR6j0355 金剛祕密善門陀羅尼經--失譯](https://github.com/kanripo/KR6j0355)
+
+`BASEEDITION` T · `CBETA_ID` T20n1138b · `RELATED` T20n1137@經, T20n1139@經, T20n1140@經 · `GENRE` 經 · `CUSTOM_ID` ZB6j0335 · `SOURCE` Taisho Tripitaka Vol. 20, No. 1138b · `EXTENT` 1卷
+
+**人物**
+- 失譯 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→宋】 — `WITID` wit10
+- 【大→元】 — `WITID` wit11
+
+## [KR6j0356 護命法門神呪經-唐-菩提流志](https://github.com/kanripo/KR6j0356)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T20n1139 · `RELATED` T20n1137@經, T20n1138@經, T20n1140@經 · `GENRE` 經 · `CUSTOM_ID` ZB6j0336 · `SOURCE` Taisho Tripitaka Vol. 20, No. 1139 · `EXTENT` 1卷
+
+**人物**
+- 菩提流志 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→甲】 — `WITID` wit49
+- 【大→宋】 — `WITID` wit10
+- 【大→元】 — `WITID` wit11
+- 【大→明】 — `WITID` wit12
+
+## [KR6j0357 佛說延壽妙門陀羅尼經-宋-法賢](https://github.com/kanripo/KR6j0357)
+
+宋 · `BASEEDITION` T · `CBETA_ID` T20n1140 · `RELATED` T20n1137@經, T20n1138@經, T20n1139@經 · `GENRE` 經 · `CUSTOM_ID` ZB6j0337 · `SOURCE` Taisho Tripitaka Vol. 20, No. 1140 · `EXTENT` 1卷
+
+**人物**
+- 法賢 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→明】 — `WITID` wit12
+- 【大→宋】 — `WITID` wit10
+- 【大→元】 — `WITID` wit11
+
+## [KR6j0358 慈氏菩薩略修瑜伽念誦法-唐-善無畏](https://github.com/kanripo/KR6j0358)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T20n1141 · `GENRE` 經 · `CUSTOM_ID` ZB6j0338 · `SOURCE` Taisho Tripitaka Vol. 20, No. 1141 · `EXTENT` 2卷
+
+**人物**
+- 善無畏 — 譯
+
+**版本**
+- CBETA — `WITID` wit3
+- 【大】 — `WITID` wit4
+- 【大→甲】 — `WITID` wit49
+- 【大→乙】 — `WITID` wit50
+- 【大→丁】 — `WITID` wit52
+- 【大→丙】 — `WITID` wit51
+- 【大→原】 — `WITID` wit6
+
+## [KR6j0359 佛說慈氏菩薩陀羅尼-宋-法賢](https://github.com/kanripo/KR6j0359)
+
+宋 · `BASEEDITION` T · `CBETA_ID` T20n1142 · `GENRE` 經 · `CUSTOM_ID` ZB6j0339 · `SOURCE` Taisho Tripitaka Vol. 20, No. 1142 · `EXTENT` 1卷
+
+**人物**
+- 法賢 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→宋】 — `WITID` wit10
+- 【大→元】 — `WITID` wit11
+- 【大→明】 — `WITID` wit12
+
+## [KR6j0360 佛說慈氏菩薩誓願陀羅尼經-宋-法賢](https://github.com/kanripo/KR6j0360)
+
+宋 · `BASEEDITION` T · `CBETA_ID` T20n1143 · `GENRE` 經 · `CUSTOM_ID` ZB6j0340 · `SOURCE` Taisho Tripitaka Vol. 20, No. 1143 · `EXTENT` 1卷
+
+**人物**
+- 法賢 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→宋】 — `WITID` wit10
+- 【大→元】 — `WITID` wit11
+- 【大→明】 — `WITID` wit12
+
+## [KR6j0361 佛說彌勒菩薩發願王偈-清-工布查布](https://github.com/kanripo/KR6j0361)
+
+清 · `BASEEDITION` T · `CBETA_ID` T20n1144 · `GENRE` 經 · `CUSTOM_ID` ZB6j0341 · `SOURCE` Taisho Tripitaka Vol. 20, No. 1144 · `EXTENT` 1卷
+
+**人物**
+- 工布查布 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+
+## [KR6j0362 虛空藏菩薩能滿諸願最勝心陀羅尼求聞持法-唐-善無畏](https://github.com/kanripo/KR6j0362)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T20n1145 · `GENRE` 經 · `CUSTOM_ID` ZB6j0342 · `SOURCE` Taisho Tripitaka Vol. 20, No. 1145 · `EXTENT` 1卷
+
+**人物**
+- 善無畏 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→明】 — `WITID` wit12
+- 【大→乙】 — `WITID` wit50
+- 【大→宋】 — `WITID` wit10
+- 【大→元】 — `WITID` wit11
+- 【大→甲】 — `WITID` wit49
+- 【大→丙】 — `WITID` wit51
+- 【大→丁】 — `WITID` wit52
+
+## [KR6j0363 大虛空藏菩薩念誦法-唐-不空](https://github.com/kanripo/KR6j0363)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T20n1146 · `GENRE` 經 · `CUSTOM_ID` ZB6j0343 · `SOURCE` Taisho Tripitaka Vol. 20, No. 1146 · `EXTENT` 1卷
+
+**人物**
+- 不空 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→明】 — `WITID` wit12
+- 【大→乙】 — `WITID` wit50
+- 【大→宋】 — `WITID` wit10
+- 【大→元】 — `WITID` wit11
+- 【大→甲】 — `WITID` wit49
+- 【大→丙】 — `WITID` wit51
+- 【大→丁】 — `WITID` wit52
+
+## [KR6j0364 聖虛空藏菩薩陀羅尼經-宋-法天](https://github.com/kanripo/KR6j0364)
+
+宋 · `BASEEDITION` T · `CBETA_ID` T20n1147 · `RELATED` T21n1333@經, T21n1334@經 · `GENRE` 經 · `CUSTOM_ID` ZB6j0344 · `SOURCE` Taisho Tripitaka Vol. 20, No. 1147 · `EXTENT` 1卷
+
+**人物**
+- 法天 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→明】 — `WITID` wit12
+- 【大→宋】 — `WITID` wit10
+- 【大→元】 — `WITID` wit11
+
+## [KR6j0365 佛說虛空藏菩薩陀羅尼-宋-法賢](https://github.com/kanripo/KR6j0365)
+
+宋 · `BASEEDITION` T · `CBETA_ID` T20n1148 · `GENRE` 經 · `CUSTOM_ID` ZB6j0345 · `SOURCE` Taisho Tripitaka Vol. 20, No. 1148 · `EXTENT` 1卷
+
+**人物**
+- 法賢 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→宋】 — `WITID` wit10
+- 【大→元】 — `WITID` wit11
+- 【大→明】 — `WITID` wit12
+
+## [KR6j0366 五大虛空藏菩薩速疾大神驗祕密式經-唐-金剛智](https://github.com/kanripo/KR6j0366)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T20n1149 · `GENRE` 經 · `CUSTOM_ID` ZB6j0346 · `SOURCE` Taisho Tripitaka Vol. 20, No. 1149 · `EXTENT` 1卷
+
+**人物**
+- 金剛智 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→原】 — `WITID` wit6
+
+## [KR6j0367 佛說如意虗空藏菩薩陀羅尼經-唐-菩提留支](https://github.com/kanripo/KR6j0367)
+
+唐 · `BASEEDITION` X · `CBETA_ID` X02n0192 · `GENRE` 經 · `CUSTOM_ID` ZB6j0347 · `SOURCE` 卍 Xuzangjing Vol. 02, No. 192 · `EXTENT` 1卷
+
+**人物**
+- 菩提留支 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- orig — `WITID` wit99
+
+## [KR6j0368 轉法輪菩薩摧魔怨敵法-唐-不空](https://github.com/kanripo/KR6j0368)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T20n1150 · `GENRE` 經 · `CUSTOM_ID` ZB6j0348 · `SOURCE` Taisho Tripitaka Vol. 20, No. 1150 · `EXTENT` 1卷
+
+**人物**
+- 不空 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→原】 — `WITID` wit6
+
+## [KR6j0369 修習般若波羅蜜菩薩觀行念誦儀軌-唐-不空](https://github.com/kanripo/KR6j0369)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T20n1151 · `GENRE` 經 · `CUSTOM_ID` ZB6j0349 · `SOURCE` Taisho Tripitaka Vol. 20, No. 1151 · `EXTENT` 1卷
+
+**人物**
+- 不空 — 譯
+
+**版本**
+- CBETA — `WITID` wit3
+- 【大】 — `WITID` wit4
+- 【大→甲】 — `WITID` wit49
+- 【大→麗】 — `WITID` wit8
+
+## [KR6j0370 佛說佛母般若波羅蜜多大明觀想儀軌-宋-施護](https://github.com/kanripo/KR6j0370)
+
+宋 · `BASEEDITION` T · `CBETA_ID` T20n1152 · `GENRE` 經 · `CUSTOM_ID` ZB6j0350 · `SOURCE` Taisho Tripitaka Vol. 20, No. 1152 · `EXTENT` 1卷
+
+**人物**
+- 施護 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→明】 — `WITID` wit12
+- 【大→宋】 — `WITID` wit10
+- 【大→元】 — `WITID` wit11
+
+## [KR6j0371 普遍光明清淨熾盛如意寶印心無能勝大明王大隨求陀羅尼經-唐-不空](https://github.com/kanripo/KR6j0371)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T20n1153 · `RELATED` T20n1154@經, T61n2242@疏 · `GENRE` 經 · `CUSTOM_ID` ZB6j0351 · `SOURCE` Taisho Tripitaka Vol. 20, No. 1153 · `EXTENT` 2卷
+
+**人物**
+- 不空 — 譯
+
+**版本**
+- CBETA — `WITID` wit3
+- 【大】 — `WITID` wit4
+- 【大→明】 — `WITID` wit12
+- 【大→磧砂】 — `WITID` wit15
+- 【大→龍】 — `WITID` wit53
+- 【大→甲】 — `WITID` wit49
+
+## [KR6j0372 大隨求陀羅尼勘註--明覺](https://github.com/kanripo/KR6j0372)
+
+`CBETA_ID` T61n2242 · `RELATED` T20n1153@經 · `GENRE` 疏 · `lang@ja-rom` DAIZUIGUDARANI KANCHŪ · `lang@zh-py` (Da sui qiu tuo luo ni kan zhu) · `EXTENT` I
+
+**人物**
+- 明覺 — `lang@ja-rom` Myōkaku
+
+## [KR6j0373 佛說隨求即得大自在陀羅尼神呪經-唐-寶思惟](https://github.com/kanripo/KR6j0373)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T20n1154 · `RELATED` T20n1153@經 · `GENRE` 經 · `CUSTOM_ID` ZB6j0352 · `SOURCE` Taisho Tripitaka Vol. 20, No. 1154 · `EXTENT` 1卷
+
+**人物**
+- 寶思惟 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→宋】 — `WITID` wit10
+- 【大→元】 — `WITID` wit11
+- 【大→明】 — `WITID` wit12
+
+## [KR6j0374 金剛頂瑜伽最勝祕密成佛隨求即得神變加持成就陀羅尼儀軌-唐-不空](https://github.com/kanripo/KR6j0374)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T20n1155 · `GENRE` 經 · `CUSTOM_ID` ZB6j0353 · `SOURCE` Taisho Tripitaka Vol. 20, No. 1155 · `EXTENT` 1卷
+
+**人物**
+- 不空 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+-
+- orig — `WITID` wit99
+
+## [KR6j0375 大隨求即得大陀羅尼明王懺悔法--](https://github.com/kanripo/KR6j0375)
+
+`BASEEDITION` T · `CBETA_ID` T20n1156A · `GENRE` 經 · `CUSTOM_ID` ZB6j0354 · `SOURCE` Taisho Tripitaka Vol. 20, No. 1156A · `EXTENT` 1卷
+
+**人物**
+
+**版本**
+- CBETA — `WITID` wit3
+- 【大】 — `WITID` wit4
+- 【大→原】 — `WITID` wit6
+- 【大→甲】 — `WITID` wit49
+
+## [KR6j0376 大隨求陀羅尼-宋-慈賢](https://github.com/kanripo/KR6j0376)
+
+宋 · `BASEEDITION` F · `CBETA_ID` F27n1061 · `CUSTOM_ID` ZB6j0355 · `SOURCE` Fangshan shijing Vol. 27, No. 1061 · `EXTENT` 1卷
+
+**人物**
+- 慈賢 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+
+## [KR6j0377 宗叡僧正於唐國師所口受--](https://github.com/kanripo/KR6j0377)
+
+`BASEEDITION` T · `CBETA_ID` T20n1156B · `GENRE` 經 · `CUSTOM_ID` ZB6j0356 · `SOURCE` Taisho Tripitaka Vol. 20, No. 1156B · `EXTENT` 1卷
+
+**人物**
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→甲】 — `WITID` wit49
+
+## [KR6j0378 香王菩薩陀羅尼呪經-唐-義淨](https://github.com/kanripo/KR6j0378)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T20n1157 · `GENRE` 經 · `CUSTOM_ID` ZB6j0357 · `SOURCE` Taisho Tripitaka Vol. 20, No. 1157 · `EXTENT` 1卷
+
+**人物**
+- 義淨 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→宋】 — `WITID` wit10
+- 【大→元】 — `WITID` wit11
+- 【大→明】 — `WITID` wit12
+
+## [KR6j0379 地藏菩薩儀軌-唐-輸婆迦羅](https://github.com/kanripo/KR6j0379)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T20n1158 · `GENRE` 經 · `CUSTOM_ID` ZB6j0358 · `SOURCE` Taisho Tripitaka Vol. 20, No. 1158 · `EXTENT` 1卷
+
+**人物**
+- 輸婆迦羅 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→甲】 — `WITID` wit49
+- 【大→原】 — `WITID` wit6
+
+## [KR6j0380 󰊐𡇪大道心驅策法--](https://github.com/kanripo/KR6j0380)
+
+`BASEEDITION` T · `CBETA_ID` T20n1159A · `GENRE` 經 · `CUSTOM_ID` ZB6j0359 · `SOURCE` Taisho Tripitaka Vol. 20, No. 1159A · `EXTENT` 1卷
+
+**人物**
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→原】 — `WITID` wit6
+
+## [KR6j0381 佛說地藏菩薩陀羅尼經--](https://github.com/kanripo/KR6j0381)
+
+`BASEEDITION` T · `CBETA_ID` T20n1159B · `GENRE` 經 · `CUSTOM_ID` ZB6j0360 · `SOURCE` Taisho Tripitaka Vol. 20, No. 1159B · `EXTENT` 1卷
+
+**人物**
+
+**版本**
+- CBETA — `WITID` wit1
+- orig — `WITID` wit99
+
+## [KR6j0382 日光菩薩月光菩薩陀羅尼--](https://github.com/kanripo/KR6j0382)
+
+`BASEEDITION` T · `CBETA_ID` T20n1160 · `GENRE` 經 · `CUSTOM_ID` ZB6j0361 · `SOURCE` Taisho Tripitaka Vol. 20, No. 1160 · `EXTENT` 1卷
+
+**人物**
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→原】 — `WITID` wit6
+
+## [KR6j0383 佛說觀藥王藥上二菩薩經-劉宋-畺良耶舍](https://github.com/kanripo/KR6j0383)
+
+劉宋 · `BASEEDITION` T · `CBETA_ID` T20n1161 · `GENRE` 經 · `CUSTOM_ID` ZB6j0362 · `SOURCE` Taisho Tripitaka Vol. 20, No. 1161 · `EXTENT` 1卷
+
+**人物**
+- 畺良耶舍 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→元】 — `WITID` wit11
+- 【大→明】 — `WITID` wit12
+- 【大→宋】 — `WITID` wit10
+
+## [KR6j0384 持世陀羅尼經-唐-玄奘](https://github.com/kanripo/KR6j0384)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T20n1162 · `RELATED` T20n1163@經, T20n1164@經, T20n1165@經 · `GENRE` 經 · `CUSTOM_ID` ZB6j0363 · `SOURCE` Taisho Tripitaka Vol. 20, No. 1162 · `EXTENT` 1卷
+
+**人物**
+- 玄奘 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→元】 — `WITID` wit11
+- 【大→明】 — `WITID` wit12
+- 【大→宋】 — `WITID` wit10
+
+## [KR6j0385 佛說雨寶陀羅尼經-唐-不空](https://github.com/kanripo/KR6j0385)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T20n1163 · `RELATED` T20n1162@經, T20n1164@經, T20n1165@經 · `GENRE` 經 · `CUSTOM_ID` ZB6j0364 · `SOURCE` Taisho Tripitaka Vol. 20, No. 1163 · `EXTENT` 1卷
+
+**人物**
+- 不空 — 譯
+
+**版本**
+- CBETA — `WITID` wit3
+- 【大】 — `WITID` wit4
+- 【大→甲】 — `WITID` wit49
+- 【大→宋】 — `WITID` wit10
+- 【大→元】 — `WITID` wit11
+- 【大→麗】 — `WITID` wit8
+
+## [KR6j0386 佛說大乘聖吉祥持世陀羅尼經-宋-法天](https://github.com/kanripo/KR6j0386)
+
+宋 · `BASEEDITION` T · `CBETA_ID` T20n1164 · `RELATED` T20n1162@經, T20n1163@經, T20n1165@經 · `GENRE` 經 · `CUSTOM_ID` ZB6j0365 · `SOURCE` Taisho Tripitaka Vol. 20, No. 1164 · `EXTENT` 1卷
+
+**人物**
+- 法天 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→明】 — `WITID` wit12
+- 【大→宋】 — `WITID` wit10
+- 【大→元】 — `WITID` wit11
+
+## [KR6j0387 聖持世陀羅尼經-宋-施護](https://github.com/kanripo/KR6j0387)
+
+宋 · `BASEEDITION` T · `CBETA_ID` T20n1165 · `RELATED` T20n1162@經, T20n1163@經, T20n1164@經 · `GENRE` 經 · `CUSTOM_ID` ZB6j0366 · `SOURCE` Taisho Tripitaka Vol. 20, No. 1165 · `EXTENT` 1卷
+
+**人物**
+- 施護 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→明】 — `WITID` wit12
+- 【大→宋】 — `WITID` wit10
+- 【大→元】 — `WITID` wit11
+
+## [KR6j0388 馬鳴菩薩大神力無比驗法念誦軌儀-唐-金剛智](https://github.com/kanripo/KR6j0388)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T20n1166 · `GENRE` 經 · `CUSTOM_ID` ZB6j0367 · `SOURCE` Taisho Tripitaka Vol. 20, No. 1166 · `EXTENT` 1卷
+
+**人物**
+- 金剛智 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+
+## [KR6j0389 馬鳴菩薩成就悉地念誦-唐-不空](https://github.com/kanripo/KR6j0389)
+
+唐 · `BASEEDITION` X · `CBETA_ID` X02n0206 · `GENRE` 經 · `CUSTOM_ID` ZB6j0368 · `SOURCE` 卍 Xuzangjing Vol. 02, No. 206 · `EXTENT` 1卷
+
+**人物**
+- 不空 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- orig — `WITID` wit99
+
+## [KR6j0390 八大菩薩曼荼羅經-唐-不空](https://github.com/kanripo/KR6j0390)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T20n1167 · `RELATED` T20n1168A@經, T20n1168B@經 · `GENRE` 經 · `CUSTOM_ID` ZB6j0369 · `SOURCE` Taisho Tripitaka Vol. 20, No. 1167 · `EXTENT` 1卷
+
+**人物**
+- 不空 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→明】 — `WITID` wit12
+- 【大→甲】 — `WITID` wit49
+- 【大→宋】 — `WITID` wit10
+- 【大→元】 — `WITID` wit11
+
+## [KR6j0391 佛說大乘八大曼拏羅經-宋-法賢](https://github.com/kanripo/KR6j0391)
+
+宋 · `BASEEDITION` T · `CBETA_ID` T20n1168A · `GENRE` 經 · `CUSTOM_ID` ZB6j0370 · `SOURCE` Taisho Tripitaka Vol. 20, No. 1168A · `EXTENT` 1卷
+
+**人物**
+- 法賢 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→宋】 — `WITID` wit10
+- 【大→元】 — `WITID` wit11
+- 【大→明】 — `WITID` wit12
+
+## [KR6j0392 八曼荼羅經--失譯](https://github.com/kanripo/KR6j0392)
+
+`BASEEDITION` T · `CBETA_ID` T20n1168B · `GENRE` 經 · `CUSTOM_ID` ZB6j0371 · `SOURCE` Taisho Tripitaka Vol. 20, No. 1168B · `EXTENT` 1卷
+
+**人物**
+- 失譯 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+
+## [KR6j0393 佛說持明藏瑜伽大教尊那菩薩大明成就儀軌經-宋-法賢](https://github.com/kanripo/KR6j0393)
+
+宋 · `BASEEDITION` T · `CBETA_ID` T20n1169 · `GENRE` 經 · `CUSTOM_ID` ZB6j0372 · `SOURCE` Taisho Tripitaka Vol. 20, No. 1169 · `EXTENT` 4卷
+
+**人物**
+- 法賢 — 譯
+
+**版本**
+- CBETA — `WITID` wit3
+- 【大】 — `WITID` wit4
+- 【大→宋】 — `WITID` wit10
+- 【大→元】 — `WITID` wit11
+- 【大→明】 — `WITID` wit12
+- 【大→麗】 — `WITID` wit8
+
+## [KR6j0394 佛說金剛香菩薩大明成就儀軌經-宋-施護](https://github.com/kanripo/KR6j0394)
+
+宋 · `BASEEDITION` T · `CBETA_ID` T20n1170 · `GENRE` 經 · `CUSTOM_ID` ZB6j0373 · `SOURCE` Taisho Tripitaka Vol. 20, No. 1170 · `EXTENT` 3卷
+
+**人物**
+- 施護 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→明】 — `WITID` wit12
+- 【大→宋】 — `WITID` wit10
+
+## [KR6j0395 金剛頂經瑜伽文殊師利菩薩法-唐-不空](https://github.com/kanripo/KR6j0395)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T20n1171 · `RELATED` T20n1175@經 · `GENRE` 經 · `CUSTOM_ID` ZB6j0374 · `SOURCE` Taisho Tripitaka Vol. 20, No. 1171 · `EXTENT` 1卷
+
+**人物**
+- 不空 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→乙】 — `WITID` wit50
+- 【大→宋】 — `WITID` wit10
+- 【大→元】 — `WITID` wit11
+- 【大→明】 — `WITID` wit12
+- 【大→甲】 — `WITID` wit49
+
+## [KR6j0396 金剛頂超勝三界經說文殊五字真言勝相-唐-不空](https://github.com/kanripo/KR6j0396)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T20n1172 · `GENRE` 經 · `CUSTOM_ID` ZB6j0375 · `SOURCE` Taisho Tripitaka Vol. 20, No. 1172 · `EXTENT` 1卷
+
+**人物**
+- 不空 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→明】 — `WITID` wit12
+- 【大→甲】 — `WITID` wit49
+- 【大→乙】 — `WITID` wit50
+- 【大→丙】 — `WITID` wit51
+
+## [KR6j0397 金剛頂經曼殊室利菩薩五字心陀羅尼品-唐-金剛智](https://github.com/kanripo/KR6j0397)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T20n1173 · `GENRE` 經 · `CUSTOM_ID` ZB6j0376 · `SOURCE` Taisho Tripitaka Vol. 20, No. 1173 · `EXTENT` 1卷
+
+**人物**
+- 金剛智 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→宋】 — `WITID` wit10
+- 【大→元】 — `WITID` wit11
+- 【大→明】 — `WITID` wit12
+- 【大→甲】 — `WITID` wit49
+
+## [KR6j0398 五字陀羅尼頌-唐-不空](https://github.com/kanripo/KR6j0398)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T20n1174 · `GENRE` 經 · `CUSTOM_ID` ZB6j0377 · `SOURCE` Taisho Tripitaka Vol. 20, No. 1174 · `EXTENT` 1卷
+
+**人物**
+- 不空 — 譯
+
+**版本**
+- CBETA — `WITID` wit3
+- 【大】 — `WITID` wit4
+- 【大→明】 — `WITID` wit12
+- 【大→甲】 — `WITID` wit49
+- 【大→乙】 — `WITID` wit50
+
+## [KR6j0399 金剛頂經瑜伽文殊師利菩薩供養儀軌-唐-不空](https://github.com/kanripo/KR6j0399)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T20n1175 · `RELATED` T20n1171@經 · `GENRE` 經 · `CUSTOM_ID` ZB6j0378 · `SOURCE` Taisho Tripitaka Vol. 20, No. 1175 · `EXTENT` 1卷
+
+**人物**
+- 不空 — 譯
+
+**版本**
+- CBETA — `WITID` wit3
+- 【大】 — `WITID` wit4
+- 【大→明】 — `WITID` wit12
+- 【大→甲】 — `WITID` wit49
+
+## [KR6j0400 曼殊室利童子菩薩五字瑜伽法-唐-不空](https://github.com/kanripo/KR6j0400)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T20n1176 · `GENRE` 經 · `CUSTOM_ID` ZB6j0379 · `SOURCE` Taisho Tripitaka Vol. 20, No. 1176 · `EXTENT` 1卷
+
+**人物**
+- 不空 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→明】 — `WITID` wit12
+- 【大→甲】 — `WITID` wit49
+
+## [KR6j0401 大乘瑜伽金剛性海曼殊室利千臂千鉢大教王經-唐-不空](https://github.com/kanripo/KR6j0401)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T20n1177A · `GENRE` 經 · `CUSTOM_ID` ZB6j0380 · `SOURCE` Taisho Tripitaka Vol. 20, No. 1177A · `EXTENT` 10卷
+
+**人物**
+- 不空 — 譯
+
+**版本**
+- CBETA — `WITID` wit3
+- 【大】 — `WITID` wit4
+- 【大→明】 — `WITID` wit12
+- 【大→甲】 — `WITID` wit49
+- 【大→麗】 — `WITID` wit8
+
+## [KR6j0402 千鉢文殊一百八名讚--](https://github.com/kanripo/KR6j0402)
+
+`BASEEDITION` T · `CBETA_ID` T20n1177B · `GENRE` 經 · `CUSTOM_ID` ZB6j0381 · `SOURCE` Taisho Tripitaka Vol. 20, No. 1177B · `EXTENT` 1卷
+
+**人物**
+
+**版本**
+- CBETA — `WITID` wit1
+
+## [KR6j0403 文殊菩薩獻佛陀羅尼名烏蘇吒--失譯](https://github.com/kanripo/KR6j0403)
+
+`BASEEDITION` T · `CBETA_ID` T20n1178 · `GENRE` 經 · `CUSTOM_ID` ZB6j0382 · `SOURCE` Taisho Tripitaka Vol. 20, No. 1178 · `EXTENT` 1卷
+
+**人物**
+- 失譯 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→甲】 — `WITID` wit49
+
+## [KR6j0404 文殊師利菩薩六字呪功能法經--](https://github.com/kanripo/KR6j0404)
+
+`BASEEDITION` T · `CBETA_ID` T20n1179 · `GENRE` 經 · `CUSTOM_ID` ZB6j0383 · `SOURCE` Taisho Tripitaka Vol. 20, No. 1179 · `EXTENT` 1卷
+
+**人物**
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→甲】 — `WITID` wit49
+- 【大→乙】 — `WITID` wit50
+- 【大→原】 — `WITID` wit6
+
+## [KR6j0405 六字神呪經-唐-菩提流志](https://github.com/kanripo/KR6j0405)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T20n1180 · `GENRE` 經 · `CUSTOM_ID` ZB6j0384 · `SOURCE` Taisho Tripitaka Vol. 20, No. 1180 · `EXTENT` 1卷
+
+**人物**
+- 菩提流志 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→元】 — `WITID` wit11
+- 【大→明】 — `WITID` wit12
+- 【大→宋】 — `WITID` wit10
+
+## [KR6j0406 大方廣菩薩藏經中文殊師利根本一字陀羅尼經-唐-寶思惟](https://github.com/kanripo/KR6j0406)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T20n1181 · `RELATED` T20n1182@經, T20n1191@經 · `GENRE` 經 · `CUSTOM_ID` ZB6j0385 · `SOURCE` Taisho Tripitaka Vol. 20, No. 1181 · `EXTENT` 1卷
+
+**人物**
+- 寶思惟 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→宋】 — `WITID` wit10
+- 【大→元】 — `WITID` wit11
+- 【大→明】 — `WITID` wit12
+- 【大→甲】 — `WITID` wit49
+
+## [KR6j0407 曼殊室利菩薩呪藏中一字呪王經-唐-義淨](https://github.com/kanripo/KR6j0407)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T20n1182 · `RELATED` T20n1181@經, T20n1191@經 · `GENRE` 經 · `CUSTOM_ID` ZB6j0386 · `SOURCE` Taisho Tripitaka Vol. 20, No. 1182 · `EXTENT` 1卷
+
+**人物**
+- 義淨 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→甲】 — `WITID` wit49
+- 【大→元】 — `WITID` wit11
+- 【大→宋】 — `WITID` wit10
+- 【大→明】 — `WITID` wit12
+
+## [KR6j0408 一髻文殊師利童子陀羅尼念誦儀軌-唐-金剛福壽](https://github.com/kanripo/KR6j0408)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T20n1183 · `GENRE` 經 · `CUSTOM_ID` ZB6j0387 · `SOURCE` Taisho Tripitaka Vol. 20, No. 1183 · `EXTENT` 1卷
+
+**人物**
+- 金剛福壽 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→原】 — `WITID` wit6
+
+## [KR6j0409 大聖妙吉祥菩薩祕密八字陀羅尼修行曼荼羅次第儀軌法-唐-菩提仙](https://github.com/kanripo/KR6j0409)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T20n1184 · `GENRE` 經 · `CUSTOM_ID` ZB6j0388 · `SOURCE` Taisho Tripitaka Vol. 20, No. 1184 · `EXTENT` 1卷
+
+**人物**
+- 菩提仙 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→乙】 — `WITID` wit50
+- 【大→丙】 — `WITID` wit51
+- 【大→甲】 — `WITID` wit49
+- 【大→原】 — `WITID` wit6
+- 【大→明】 — `WITID` wit12
+
+## [KR6j0410 佛說文殊師利法寶藏陀羅尼經-唐-菩提流志](https://github.com/kanripo/KR6j0410)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T20n1185A · `GENRE` 經 · `CUSTOM_ID` ZB6j0389 · `SOURCE` Taisho Tripitaka Vol. 20, No. 1185A · `EXTENT` 1卷
+
+**人物**
+- 菩提流志 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- orig — `WITID` wit99
+
+## [KR6j0411 文殊師利寶藏陀羅尼經-唐-菩提流志](https://github.com/kanripo/KR6j0411)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T20n1185B · `GENRE` 經 · `CUSTOM_ID` ZB6j0390 · `SOURCE` Taisho Tripitaka Vol. 20, No. 1185B · `EXTENT` 1卷
+
+**人物**
+- 菩提流志 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→元】 — `WITID` wit11
+- 【大→宋】 — `WITID` wit10
+
+## [KR6j0412 佛說妙吉祥菩薩陀羅尼-宋-法賢](https://github.com/kanripo/KR6j0412)
+
+宋 · `BASEEDITION` T · `CBETA_ID` T20n1186 · `GENRE` 經 · `CUSTOM_ID` ZB6j0391 · `SOURCE` Taisho Tripitaka Vol. 20, No. 1186 · `EXTENT` 1卷
+
+**人物**
+- 法賢 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→宋】 — `WITID` wit10
+- 【大→元】 — `WITID` wit11
+- 【大→明】 — `WITID` wit12
+
+## [KR6j0413 佛說最勝妙吉祥根本智最上祕密一切名義三摩地分-宋-施護](https://github.com/kanripo/KR6j0413)
+
+宋 · `BASEEDITION` T · `CBETA_ID` T20n1187 · `GENRE` 經 · `CUSTOM_ID` ZB6j0392 · `SOURCE` Taisho Tripitaka Vol. 20, No. 1187 · `EXTENT` 2卷
+
+**人物**
+- 施護 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→明】 — `WITID` wit12
+- 【大→宋】 — `WITID` wit10
+- 【大→元】 — `WITID` wit11
+
+## [KR6j0414 文殊所說最勝名義經-宋-金總持](https://github.com/kanripo/KR6j0414)
+
+宋 · `BASEEDITION` T · `CBETA_ID` T20n1188 · `RELATED` T20n1189@經, T20n1190@經 · `GENRE` 經 · `CUSTOM_ID` ZB6j0393 · `SOURCE` Taisho Tripitaka Vol. 20, No. 1188 · `EXTENT` 2卷
+
+**人物**
+- 金總持 — 等譯
+
+**版本**
+- CBETA — `WITID` wit1
+
+## [KR6j0415 佛說文殊菩薩最勝真實名義經-元-沙囉巴](https://github.com/kanripo/KR6j0415)
+
+元 · `BASEEDITION` T · `CBETA_ID` T20n1189 · `RELATED` T20n1188@經, T20n1190@經 · `GENRE` 經 · `CUSTOM_ID` ZB6j0394 · `SOURCE` Taisho Tripitaka Vol. 20, No. 1189 · `EXTENT` 1卷
+
+**人物**
+- 沙囉巴 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- orig — `WITID` wit99
+
+## [KR6j0416 聖妙吉祥真實名經-元-釋智](https://github.com/kanripo/KR6j0416)
+
+元 · `BASEEDITION` T · `CBETA_ID` T20n1190 · `RELATED` T20n1188@經, T20n1189@經 · `GENRE` 經 · `CUSTOM_ID` ZB6j0395 · `SOURCE` Taisho Tripitaka Vol. 20, No. 1190 · `EXTENT` 1卷
+
+**人物**
+- 釋智 — 譯
+
+**版本**
+- CBETA — `WITID` wit3
+- 【大→磧砂】 — `WITID` wit15
+- 【大】 — `WITID` wit4
+
+## [KR6j0417 大方廣菩薩藏文殊師利根本儀軌經-宋-天息災](https://github.com/kanripo/KR6j0417)
+
+宋 · `BASEEDITION` T · `CBETA_ID` T20n1191 · `RELATED` T20n1181@經, T20n1182@經 · `GENRE` 經 · `CUSTOM_ID` ZB6j0396 · `SOURCE` Taisho Tripitaka Vol. 20, No. 1191 · `EXTENT` 20卷
+
+**人物**
+- 天息災 — 譯
+
+**版本**
+- CBETA — `WITID` wit3
+- 【大】 — `WITID` wit4
+- 【大→明】 — `WITID` wit12
+- 【大→宋】 — `WITID` wit10
+- 【大→元】 — `WITID` wit11
+- 【大→麗】 — `WITID` wit8
+
+## [KR6j0418 妙吉祥平等祕密最上觀門大教王經-宋-慈賢](https://github.com/kanripo/KR6j0418)
+
+宋 · `BASEEDITION` T · `CBETA_ID` T20n1192 · `GENRE` 經 · `CUSTOM_ID` ZB6j0397 · `SOURCE` Taisho Tripitaka Vol. 20, No. 1192 · `EXTENT` 5卷
+
+**人物**
+- 慈賢 — 譯
+
+**版本**
+- CBETA — `WITID` wit3
+- 【大→磧砂】 — `WITID` wit15
+- 【大】 — `WITID` wit4
+
+## [KR6j0419 妙吉祥平等瑜伽祕密觀身成佛儀軌-宋-慈賢](https://github.com/kanripo/KR6j0419)
+
+宋 · `BASEEDITION` T · `CBETA_ID` T20n1193 · `GENRE` 經 · `CUSTOM_ID` ZB6j0398 · `SOURCE` Taisho Tripitaka Vol. 20, No. 1193 · `EXTENT` 1卷
+
+**人物**
+- 慈賢 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+
+## [KR6j0420 妙吉祥平等觀門大教王經略出護摩儀-宋-慈賢](https://github.com/kanripo/KR6j0420)
+
+宋 · `BASEEDITION` T · `CBETA_ID` T20n1194 · `GENRE` 經 · `CUSTOM_ID` ZB6j0399 · `SOURCE` Taisho Tripitaka Vol. 20, No. 1194 · `EXTENT` 1卷
+
+**人物**
+- 慈賢 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+
+## [KR6j0421 大聖文殊師利菩薩讚佛法身禮-唐-不空](https://github.com/kanripo/KR6j0421)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T20n1195 · `GENRE` 經 · `CUSTOM_ID` ZB6j0400 · `SOURCE` Taisho Tripitaka Vol. 20, No. 1195 · `EXTENT` 1卷
+
+**人物**
+- 不空 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→甲】 — `WITID` wit49
+- 【大→宋】 — `WITID` wit10
+- 【大→元】 — `WITID` wit11
+- 【大→明】 — `WITID` wit12
+
+## [KR6j0422 曼殊室利菩薩吉祥伽陀-宋-法賢](https://github.com/kanripo/KR6j0422)
+
+宋 · `BASEEDITION` T · `CBETA_ID` T20n1196 · `GENRE` 經 · `CUSTOM_ID` ZB6j0401 · `SOURCE` Taisho Tripitaka Vol. 20, No. 1196 · `EXTENT` 1卷
+
+**人物**
+- 法賢 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→宋】 — `WITID` wit10
+- 【大→元】 — `WITID` wit11
+- 【大→明】 — `WITID` wit12
+
+## [KR6j0423 佛說文殊師利一百八名梵讚-宋-法天](https://github.com/kanripo/KR6j0423)
+
+宋 · `BASEEDITION` T · `CBETA_ID` T20n1197 · `GENRE` 經 · `CUSTOM_ID` ZB6j0402 · `SOURCE` Taisho Tripitaka Vol. 20, No. 1197 · `EXTENT` 1卷
+
+**人物**
+- 法天 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→明】 — `WITID` wit12
+- 【大→元】 — `WITID` wit11
+- 【大→宋】 — `WITID` wit10
+
+## [KR6j0424 聖者文殊師利發菩提心願文-元-智慧](https://github.com/kanripo/KR6j0424)
+
+元 · `BASEEDITION` T · `CBETA_ID` T20n1198 · `GENRE` 經 · `CUSTOM_ID` ZB6j0403 · `SOURCE` Taisho Tripitaka Vol. 20, No. 1198 · `EXTENT` 1卷
+
+**人物**
+- 智慧 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- orig — `WITID` wit99
+
+## [KR6j0425 大聖妙吉祥菩薩最勝威德祕密八字陀羅尼修行念誦儀軌次第法-唐-義雲法金剛](https://github.com/kanripo/KR6j0425)
+
+唐 · `BASEEDITION` X · `CBETA_ID` X02n0181 · `GENRE` 經 · `CUSTOM_ID` ZB6j0404 · `SOURCE` 卍 Xuzangjing Vol. 02, No. 181 · `EXTENT` 1卷
+
+**人物**
+- 義雲法金剛 — 譯
+- 菩提仙 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- orig — `WITID` wit99
+
+## [KR6j0426 金剛手光明灌頂經最勝立印聖無動尊大威怒王念誦儀軌法品-唐-不空](https://github.com/kanripo/KR6j0426)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T21n1199 · `GENRE` 經 · `CUSTOM_ID` ZB6j0405 · `SOURCE` Taisho Tripitaka Vol. 21, No. 1199 · `EXTENT` 1卷
+
+**人物**
+- 不空 — 譯
+
+**版本**
+- CBETA — `WITID` wit3
+- 【大】 — `WITID` wit4
+- 【大→明】 — `WITID` wit12
+- 【大→乙】 — `WITID` wit50
+- 【大→聖】 — `WITID` wit13
+- 【大→丁】 — `WITID` wit52
+- 【大→甲】 — `WITID` wit49
+- 【大→丙】 — `WITID` wit51
+- 【大→麗】 — `WITID` wit8
+
+## [KR6j0427 底哩三昧耶不動尊威怒王使者念誦法-唐-不空](https://github.com/kanripo/KR6j0427)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T21n1200 · `GENRE` 經 · `CUSTOM_ID` ZB6j0406 · `SOURCE` Taisho Tripitaka Vol. 21, No. 1200 · `EXTENT` 1卷
+
+**人物**
+- 不空 — 譯
+
+**版本**
+- CBETA — `WITID` wit3
+- 【大】 — `WITID` wit4
+- 【大→宋】 — `WITID` wit10
+- 【大→元】 — `WITID` wit11
+- 【大→明】 — `WITID` wit12
+- 【大→乙】 — `WITID` wit50
+- 【大→麗】 — `WITID` wit8
+- 【大→甲】 — `WITID` wit49
+
+## [KR6j0428 底哩三昧耶不動尊聖者念誦祕密法-唐-不空](https://github.com/kanripo/KR6j0428)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T21n1201 · `GENRE` 經 · `CUSTOM_ID` ZB6j0407 · `SOURCE` Taisho Tripitaka Vol. 21, No. 1201 · `EXTENT` 3卷
+
+**人物**
+- 不空 — 譯
+
+**版本**
+- CBETA — `WITID` wit3
+- 【大】 — `WITID` wit4
+- 【大→乙】 — `WITID` wit50
+- 【大→原】 — `WITID` wit6
+- 【大→甲】 — `WITID` wit49
+- 【大→丙】 — `WITID` wit51
+
+## [KR6j0429 不動使者陀羅尼祕密法-唐-金剛智](https://github.com/kanripo/KR6j0429)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T21n1202 · `GENRE` 經 · `CUSTOM_ID` ZB6j0408 · `SOURCE` Taisho Tripitaka Vol. 21, No. 1202 · `EXTENT` 1卷
+
+**人物**
+- 金剛智 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→甲】 — `WITID` wit49
+- 【大→宋】 — `WITID` wit10
+- 【大→元】 — `WITID` wit11
+- 【大→明】 — `WITID` wit12
+- 【大→丙】 — `WITID` wit51
+- 【大→乙】 — `WITID` wit50
+
+## [KR6j0430 聖無動尊安鎮家國等法--](https://github.com/kanripo/KR6j0430)
+
+`BASEEDITION` T · `CBETA_ID` T21n1203 · `GENRE` 經 · `CUSTOM_ID` ZB6j0409 · `SOURCE` Taisho Tripitaka Vol. 21, No. 1203 · `EXTENT` 1卷
+
+**人物**
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→甲】 — `WITID` wit49
+- 【大→Ｂ】 — `WITID` wit55
+- 【大→Ａ】 — `WITID` wit56
+- 【大→原】 — `WITID` wit6
+
+## [KR6j0431 聖無動尊一字出生八大童子祕要法品--](https://github.com/kanripo/KR6j0431)
+
+`BASEEDITION` T · `CBETA_ID` T21n1204 · `GENRE` 經 · `CUSTOM_ID` ZB6j0410 · `SOURCE` Taisho Tripitaka Vol. 21, No. 1204 · `EXTENT` 1卷
+
+**人物**
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→乙】 — `WITID` wit50
+- 【大→甲】 — `WITID` wit49
+
+## [KR6j0432 勝軍不動明王四十八使者祕密成就儀軌-唐-遍智](https://github.com/kanripo/KR6j0432)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T21n1205 · `GENRE` 經 · `CUSTOM_ID` ZB6j0411 · `SOURCE` Taisho Tripitaka Vol. 21, No. 1205 · `EXTENT` 1卷
+
+**人物**
+- 遍智 — 集
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→Ｂ】 — `WITID` wit55
+- 【大→Ａ】 — `WITID` wit56
+- 【大→原】 — `WITID` wit6
+
+## [KR6j0433 佛說俱利伽羅大龍勝外道伏陀羅尼經--](https://github.com/kanripo/KR6j0433)
+
+`BASEEDITION` T · `CBETA_ID` T21n1206 · `GENRE` 經 · `CUSTOM_ID` ZB6j0412 · `SOURCE` Taisho Tripitaka Vol. 21, No. 1206 · `EXTENT` 1卷
+
+**人物**
+
+**版本**
+- CBETA — `WITID` wit1
+
+## [KR6j0434 說矩里迦龍王像法--](https://github.com/kanripo/KR6j0434)
+
+`BASEEDITION` T · `CBETA_ID` T21n1207 · `GENRE` 經 · `CUSTOM_ID` ZB6j0413 · `SOURCE` Taisho Tripitaka Vol. 21, No. 1207 · `EXTENT` 1卷
+
+**人物**
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→原】 — `WITID` wit6
+
+## [KR6j0435 俱力迦羅龍王儀軌-唐-金剛智](https://github.com/kanripo/KR6j0435)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T21n1208 · `GENRE` 經 · `CUSTOM_ID` ZB6j0414 · `SOURCE` Taisho Tripitaka Vol. 21, No. 1208 · `EXTENT` 1卷
+
+**人物**
+- 金剛智 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- orig — `WITID` wit99
+
+## [KR6j0436 金剛頂瑜伽降三世成就極深密門-唐-不空](https://github.com/kanripo/KR6j0436)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T21n1209 · `GENRE` 經 · `CUSTOM_ID` ZB6j0415 · `SOURCE` Taisho Tripitaka Vol. 21, No. 1209 · `EXTENT` 1卷
+
+**人物**
+- 不空 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→甲】 — `WITID` wit49
+- 【大→明】 — `WITID` wit12
+- 【大→乙】 — `WITID` wit50
+- 【大→丙】 — `WITID` wit51
+
+## [KR6j0437 降三世忿怒明王念誦儀軌-唐-不空](https://github.com/kanripo/KR6j0437)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T21n1210 · `GENRE` 經 · `CUSTOM_ID` ZB6j0416 · `SOURCE` Taisho Tripitaka Vol. 21, No. 1210 · `EXTENT` 1卷
+
+**人物**
+- 不空 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→甲】 — `WITID` wit49
+- 【大→乙】 — `WITID` wit50
+- 【大→丙】 — `WITID` wit51
+- 【大→原】 — `WITID` wit6
+
+## [KR6j0438 甘露軍荼利菩薩供養念誦成就儀軌-唐-不空](https://github.com/kanripo/KR6j0438)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T21n1211 · `GENRE` 經 · `CUSTOM_ID` ZB6j0417 · `SOURCE` Taisho Tripitaka Vol. 21, No. 1211 · `EXTENT` 1卷
+
+**人物**
+- 不空 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→甲】 — `WITID` wit49
+- 【大→乙】 — `WITID` wit50
+- 【大→丙】 — `WITID` wit51
+- 【大→宋】 — `WITID` wit10
+- 【大→元】 — `WITID` wit11
+- 【大→明】 — `WITID` wit12
+
+## [KR6j0439 西方陀羅尼藏中金剛族阿蜜哩多軍吒利法--](https://github.com/kanripo/KR6j0439)
+
+`BASEEDITION` T · `CBETA_ID` T21n1212 · `GENRE` 經 · `CUSTOM_ID` ZB6j0418 · `SOURCE` Taisho Tripitaka Vol. 21, No. 1212 · `EXTENT` 1卷
+
+**人物**
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→原】 — `WITID` wit6
+
+## [KR6j0440 千臂軍荼利梵字真言--](https://github.com/kanripo/KR6j0440)
+
+`BASEEDITION` T · `CBETA_ID` T21n1213 · `GENRE` 經 · `CUSTOM_ID` ZB6j0419 · `SOURCE` Taisho Tripitaka Vol. 21, No. 1213 · `EXTENT` 1卷
+
+**人物**
+
+**版本**
+- CBETA — `WITID` wit1
+
+## [KR6j0441 聖閻曼德迦威怒王立成大神驗念誦法-唐-不空](https://github.com/kanripo/KR6j0441)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T21n1214 · `GENRE` 經 · `CUSTOM_ID` ZB6j0420 · `SOURCE` Taisho Tripitaka Vol. 21, No. 1214 · `EXTENT` 1卷
+
+**人物**
+- 不空 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→甲】 — `WITID` wit49
+- 【大→乙】 — `WITID` wit50
+- 【大→明】 — `WITID` wit12
+- 【大→丙】 — `WITID` wit51
+- 【大→原】 — `WITID` wit6
+
+## [KR6j0442 大乘方廣曼殊室利菩薩華嚴本教閻曼德迦忿怒王真言大威德儀軌品--](https://github.com/kanripo/KR6j0442)
+
+`BASEEDITION` T · `CBETA_ID` T21n1215 · `GENRE` 經 · `CUSTOM_ID` ZB6j0421 · `SOURCE` Taisho Tripitaka Vol. 21, No. 1215 · `EXTENT` 1卷
+
+**人物**
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→明】 — `WITID` wit12
+- 【大→甲】 — `WITID` wit49
+
+## [KR6j0443 大方廣曼殊室利童真菩薩華嚴本教讚閻曼德迦忿怒王真言阿毘遮嚕迦儀軌品--](https://github.com/kanripo/KR6j0443)
+
+`BASEEDITION` T · `CBETA_ID` T21n1216 · `GENRE` 經 · `CUSTOM_ID` ZB6j0422 · `SOURCE` Taisho Tripitaka Vol. 21, No. 1216 · `EXTENT` 1卷
+
+**人物**
+
+**版本**
+- CBETA — `WITID` wit3
+- 【大】 — `WITID` wit4
+- 【大→明】 — `WITID` wit12
+- 【大→甲】 — `WITID` wit49
+- 【大→乙】 — `WITID` wit50
+- 【大→麗】 — `WITID` wit8
+
+## [KR6j0444 佛說妙吉祥最勝根本大教經-宋-法賢](https://github.com/kanripo/KR6j0444)
+
+宋 · `BASEEDITION` T · `CBETA_ID` T21n1217 · `GENRE` 經 · `CUSTOM_ID` ZB6j0423 · `SOURCE` Taisho Tripitaka Vol. 21, No. 1217 · `EXTENT` 3卷
+
+**人物**
+- 法賢 — 譯
+
+**版本**
+- CBETA — `WITID` wit3
+- 【大】 — `WITID` wit4
+- 【大→明】 — `WITID` wit12
+- 【大→麗】 — `WITID` wit8
+
+## [KR6j0445 文殊師利耶曼德迦呪法--](https://github.com/kanripo/KR6j0445)
+
+`BASEEDITION` T · `CBETA_ID` T21n1218 · `GENRE` 經 · `CUSTOM_ID` ZB6j0424 · `SOURCE` Taisho Tripitaka Vol. 21, No. 1218 · `EXTENT` 1卷
+
+**人物**
+
+**版本**
+- CBETA — `WITID` wit1
+
+## [KR6j0446 曼殊室利焰曼德迦萬愛祕術如意法-唐-一行](https://github.com/kanripo/KR6j0446)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T21n1219 · `GENRE` 經 · `CUSTOM_ID` ZB6j0425 · `SOURCE` Taisho Tripitaka Vol. 21, No. 1219 · `EXTENT` 1卷
+
+**人物**
+- 一行 — 撰
+
+**版本**
+- CBETA — `WITID` wit1
+
+## [KR6j0447 金剛藥叉瞋怒王息災大威神驗念誦儀軌-唐-金剛智](https://github.com/kanripo/KR6j0447)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T21n1220 · `GENRE` 經 · `CUSTOM_ID` ZB6j0426 · `SOURCE` Taisho Tripitaka Vol. 21, No. 1220 · `EXTENT` 1卷
+
+**人物**
+- 金剛智 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→甲】 — `WITID` wit49
+- 【大→乙】 — `WITID` wit50
+- 【大→原】 — `WITID` wit6
+- 【大→宋】 — `WITID` wit10
+- 【大→元】 — `WITID` wit11
+- 【大→明】 — `WITID` wit12
+
+## [KR6j0448 青色大金剛藥叉辟鬼魔法-唐-空蜝](https://github.com/kanripo/KR6j0448)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T21n1221 · `GENRE` 經 · `CUSTOM_ID` ZB6j0427 · `SOURCE` Taisho Tripitaka Vol. 21, No. 1221 · `EXTENT` 1卷
+
+**人物**
+- 空蜝 — 述
+
+**版本**
+- CBETA — `WITID` wit1
+
+## [KR6j0449 聖迦抳忿怒金剛童子菩薩成就儀軌經-唐-不空](https://github.com/kanripo/KR6j0449)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T21n1222a · `GENRE` 經 · `CUSTOM_ID` ZB6j0428 · `SOURCE` Taisho Tripitaka Vol. 21, No. 1222a · `EXTENT` 3卷
+
+**人物**
+- 不空 — 譯
+
+**版本**
+- CBETA — `WITID` wit3
+- 【大】 — `WITID` wit4
+- 【大→丁】 — `WITID` wit52
+- 【大→乙】 — `WITID` wit50
+- 【大→丙】 — `WITID` wit51
+- 【大→甲】 — `WITID` wit49
+
+## [KR6j0450 聖迦柅忿怒金剛童子菩薩成就儀軌經-唐-不空](https://github.com/kanripo/KR6j0450)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T21n1222b · `GENRE` 經 · `CUSTOM_ID` ZB6j0429 · `SOURCE` Taisho Tripitaka Vol. 21, No. 1222b · `EXTENT` 3卷
+
+**人物**
+- 不空 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+
+## [KR6j0451 佛說無量壽佛化身大忿迅俱摩羅金剛念誦瑜伽儀軌法-唐-金剛智](https://github.com/kanripo/KR6j0451)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T21n1223 · `GENRE` 經 · `CUSTOM_ID` ZB6j0430 · `SOURCE` Taisho Tripitaka Vol. 21, No. 1223 · `EXTENT` 1卷
+
+**人物**
+- 金剛智 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→原】 — `WITID` wit6
+
+## [KR6j0452 金剛童子持念經--失譯](https://github.com/kanripo/KR6j0452)
+
+`BASEEDITION` T · `CBETA_ID` T21n1224 · `GENRE` 經 · `CUSTOM_ID` ZB6j0431 · `SOURCE` Taisho Tripitaka Vol. 21, No. 1224 · `EXTENT` 1卷
+
+**人物**
+- 失譯 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- orig — `WITID` wit99
+
+## [KR6j0453 大威怒烏芻澁麼儀軌經-唐-不空](https://github.com/kanripo/KR6j0453)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T21n1225 · `GENRE` 經 · `CUSTOM_ID` ZB6j0432 · `SOURCE` Taisho Tripitaka Vol. 21, No. 1225 · `EXTENT` 1卷
+
+**人物**
+- 不空 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→甲】 — `WITID` wit49
+- 【大→明】 — `WITID` wit12
+- 【大→乙】 — `WITID` wit50
+
+## [KR6j0454 烏芻澁明王儀軌梵字--](https://github.com/kanripo/KR6j0454)
+
+`BASEEDITION` T · `CBETA_ID` T21n1226 · `GENRE` 經 · `CUSTOM_ID` ZB6j0433 · `SOURCE` Taisho Tripitaka Vol. 21, No. 1226 · `EXTENT` 1卷
+
+**人物**
+
+**版本**
+- CBETA — `WITID` wit1
+
+## [KR6j0455 大威力烏樞瑟摩明王經-唐-阿質達霰](https://github.com/kanripo/KR6j0455)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T21n1227 · `GENRE` 經 · `CUSTOM_ID` ZB6j0434 · `SOURCE` Taisho Tripitaka Vol. 21, No. 1227 · `EXTENT` 3卷
+
+**人物**
+- 阿質達霰 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→宋】 — `WITID` wit10
+- 【大→元】 — `WITID` wit11
+- 【大→明】 — `WITID` wit12
+- 【大→甲】 — `WITID` wit49
+- 【大→原】 — `WITID` wit6
+
+## [KR6j0456 穢跡金剛說神通大滿陀羅尼法術靈要門-唐-阿質達霰](https://github.com/kanripo/KR6j0456)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T21n1228 · `GENRE` 經 · `CUSTOM_ID` ZB6j0435 · `SOURCE` Taisho Tripitaka Vol. 21, No. 1228 · `EXTENT` 1卷
+
+**人物**
+- 阿質達霰 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→宋】 — `WITID` wit10
+- 【大→元】 — `WITID` wit11
+- 【大→明】 — `WITID` wit12
+- 【大→甲】 — `WITID` wit49
+
+## [KR6j0457 穢跡金剛禁百變法經-唐-阿質達霰](https://github.com/kanripo/KR6j0457)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T21n1229 · `GENRE` 經 · `CUSTOM_ID` ZB6j0436 · `SOURCE` Taisho Tripitaka Vol. 21, No. 1229 · `EXTENT` 1卷
+
+**人物**
+- 阿質達霰 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→宋】 — `WITID` wit10
+- 【大→元】 — `WITID` wit11
+- 【大→明】 — `WITID` wit12
+- 【大→甲】 — `WITID` wit49
+
+## [KR6j0458 佛說大輪金剛總持陀羅尼經--失譯](https://github.com/kanripo/KR6j0458)
+
+`BASEEDITION` T · `CBETA_ID` T21n1230 · `GENRE` 經 · `CUSTOM_ID` ZB6j0437 · `SOURCE` Taisho Tripitaka Vol. 21, No. 1230 · `EXTENT` 1卷
+
+**人物**
+- 失譯 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→原】 — `WITID` wit6
+
+## [KR6j0459 大輪金剛修行悉地成就及供養法--](https://github.com/kanripo/KR6j0459)
+
+`BASEEDITION` T · `CBETA_ID` T21n1231 · `GENRE` 經 · `CUSTOM_ID` ZB6j0438 · `SOURCE` Taisho Tripitaka Vol. 21, No. 1231 · `EXTENT` 1卷
+
+**人物**
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→原】 — `WITID` wit6
+
+## [KR6j0460 播般曩結使波金剛念誦儀--](https://github.com/kanripo/KR6j0460)
+
+`BASEEDITION` T · `CBETA_ID` T21n1232 · `GENRE` 經 · `CUSTOM_ID` ZB6j0439 · `SOURCE` Taisho Tripitaka Vol. 21, No. 1232 · `EXTENT` 1卷
+
+**人物**
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→甲】 — `WITID` wit49
+- 【大→原】 — `WITID` wit6
+
+## [KR6j0461 佛說無能勝大明王陀羅尼經-宋-法天](https://github.com/kanripo/KR6j0461)
+
+宋 · `BASEEDITION` T · `CBETA_ID` T21n1233 · `GENRE` 經 · `CUSTOM_ID` ZB6j0440 · `SOURCE` Taisho Tripitaka Vol. 21, No. 1233 · `EXTENT` 1卷
+
+**人物**
+- 法天 — 譯
+
+**版本**
+- CBETA — `WITID` wit3
+- 【大→麗】 — `WITID` wit8
+- 【大】 — `WITID` wit4
+
+## [KR6j0462 無能勝大明陀羅尼經-宋-法天](https://github.com/kanripo/KR6j0462)
+
+宋 · `BASEEDITION` T · `CBETA_ID` T21n1234 · `GENRE` 經 · `CUSTOM_ID` ZB6j0441 · `SOURCE` Taisho Tripitaka Vol. 21, No. 1234 · `EXTENT` 1卷
+
+**人物**
+- 法天 — 譯
+
+**版本**
+- CBETA — `WITID` wit3
+- 【大】 — `WITID` wit4
+- 【大→明】 — `WITID` wit12
+- 【大→宋】 — `WITID` wit10
+- 【大→元】 — `WITID` wit11
+- 【大→麗】 — `WITID` wit8
+
+## [KR6j0463 無能勝大明心陀羅尼經-宋-法天](https://github.com/kanripo/KR6j0463)
+
+宋 · `BASEEDITION` T · `CBETA_ID` T21n1235 · `GENRE` 經 · `CUSTOM_ID` ZB6j0442 · `SOURCE` Taisho Tripitaka Vol. 21, No. 1235 · `EXTENT` 1卷
+
+**人物**
+- 法天 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→明】 — `WITID` wit12
+- 【大→宋】 — `WITID` wit10
+- 【大→元】 — `WITID` wit11
+
+## [KR6j0464 聖無能勝金剛火陀羅尼經-宋-法天](https://github.com/kanripo/KR6j0464)
+
+宋 · `BASEEDITION` T · `CBETA_ID` T21n1236 · `GENRE` 經 · `CUSTOM_ID` ZB6j0443 · `SOURCE` Taisho Tripitaka Vol. 21, No. 1236 · `EXTENT` 1卷
+
+**人物**
+- 法天 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→明】 — `WITID` wit12
+- 【大→宋】 — `WITID` wit10
+- 【大→元】 — `WITID` wit11
+
+## [KR6j0465 阿吒婆拘鬼神大將上佛陀羅尼神呪經--失譯](https://github.com/kanripo/KR6j0465)
+
+`BASEEDITION` T · `CBETA_ID` T21n1237 · `RELATED` T21n1238@經 · `GENRE` 經 · `CUSTOM_ID` ZB6j0444 · `SOURCE` Taisho Tripitaka Vol. 21, No. 1237 · `EXTENT` 1卷
+
+**人物**
+- 失譯 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→元】 — `WITID` wit11
+- 【大→明】 — `WITID` wit12
+- 【大→宋】 — `WITID` wit10
+
+## [KR6j0466 阿吒婆𤘽鬼神大將上佛陀羅尼經--失譯](https://github.com/kanripo/KR6j0466)
+
+`BASEEDITION` T · `CBETA_ID` T21n1238 · `RELATED` T21n1237@經 · `GENRE` 經 · `CUSTOM_ID` ZB6j0445 · `SOURCE` Taisho Tripitaka Vol. 21, No. 1238 · `EXTENT` 1卷
+
+**人物**
+- 失譯 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→乙】 — `WITID` wit50
+- 【大→甲】 — `WITID` wit49
+- 【大→原】 — `WITID` wit6
+
+## [KR6j0467 阿吒薄俱元帥大將上佛陀羅尼經修行儀軌-唐-善無畏](https://github.com/kanripo/KR6j0467)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T21n1239 · `GENRE` 經 · `CUSTOM_ID` ZB6j0446 · `SOURCE` Taisho Tripitaka Vol. 21, No. 1239 · `EXTENT` 3卷
+
+**人物**
+- 善無畏 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→原】 — `WITID` wit6
+- 【大→甲】 — `WITID` wit49
+- 【大→乙】 — `WITID` wit50
+
+## [KR6j0468 阿吒薄𤘽付囑呪--](https://github.com/kanripo/KR6j0468)
+
+`BASEEDITION` T · `CBETA_ID` T21n1240 · `GENRE` 經 · `CUSTOM_ID` ZB6j0447 · `SOURCE` Taisho Tripitaka Vol. 21, No. 1240 · `EXTENT` 1卷
+
+**人物**
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→甲】 — `WITID` wit49
+- 【大→乙】 — `WITID` wit50
+- 【大→原】 — `WITID` wit6
+
+## [KR6j0469 伽馱金剛真言--](https://github.com/kanripo/KR6j0469)
+
+`BASEEDITION` T · `CBETA_ID` T21n1241 · `GENRE` 經 · `CUSTOM_ID` ZB6j0448 · `SOURCE` Taisho Tripitaka Vol. 21, No. 1241 · `EXTENT` 1卷
+
+**人物**
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→甲】 — `WITID` wit49
+
+## [KR6j0470 佛說妙吉祥瑜伽大教金剛陪囉嚩輪觀想成就儀軌經-宋-法賢](https://github.com/kanripo/KR6j0470)
+
+宋 · `BASEEDITION` T · `CBETA_ID` T21n1242 · `GENRE` 經 · `CUSTOM_ID` ZB6j0449 · `SOURCE` Taisho Tripitaka Vol. 21, No. 1242 · `EXTENT` 1卷
+
+**人物**
+- 法賢 — 譯
+
+**版本**
+- CBETA — `WITID` wit3
+- 【大】 — `WITID` wit4
+- 【大→明】 — `WITID` wit12
+- 【大→麗】 — `WITID` wit8
+- 【大→宋】 — `WITID` wit10
+- 【大→元】 — `WITID` wit11
+
+## [KR6j0471 佛說出生一切如來法眼遍照大力明王經-宋-法護](https://github.com/kanripo/KR6j0471)
+
+宋 · `BASEEDITION` T · `CBETA_ID` T21n1243 · `GENRE` 經 · `CUSTOM_ID` ZB6j0450 · `SOURCE` Taisho Tripitaka Vol. 21, No. 1243 · `EXTENT` 2卷
+
+**人物**
+- 法護 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→明】 — `WITID` wit12
+- 【大→宋】 — `WITID` wit10
+- 【大→元】 — `WITID` wit11
+
+## [KR6j0472 毘沙門天王經-唐-不空](https://github.com/kanripo/KR6j0472)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T21n1244 · `GENRE` 經 · `CUSTOM_ID` ZB6j0451 · `SOURCE` Taisho Tripitaka Vol. 21, No. 1244 · `EXTENT` 1卷
+
+**人物**
+- 不空 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→宋】 — `WITID` wit10
+- 【大→元】 — `WITID` wit11
+- 【大→明】 — `WITID` wit12
+- 【大→乙】 — `WITID` wit50
+- 【大→甲】 — `WITID` wit49
+
+## [KR6j0473 佛說毘沙門天王經-宋-法天](https://github.com/kanripo/KR6j0473)
+
+宋 · `BASEEDITION` T · `CBETA_ID` T21n1245 · `GENRE` 經 · `CUSTOM_ID` ZB6j0452 · `SOURCE` Taisho Tripitaka Vol. 21, No. 1245 · `EXTENT` 1卷
+
+**人物**
+- 法天 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→明】 — `WITID` wit12
+- 【大→宋】 — `WITID` wit10
+- 【大→元】 — `WITID` wit11
+
+## [KR6j0474 摩訶吠室囉末那野提婆喝囉闍陀羅尼儀軌-唐-般若斫羯囉](https://github.com/kanripo/KR6j0474)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T21n1246 · `GENRE` 經 · `CUSTOM_ID` ZB6j0453 · `SOURCE` Taisho Tripitaka Vol. 21, No. 1246 · `EXTENT` 1卷
+
+**人物**
+- 般若斫羯囉 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→丙】 — `WITID` wit51
+- 【大→甲】 — `WITID` wit49
+- 【大→乙】 — `WITID` wit50
+
+## [KR6j0475 北方毘沙門天王隨軍護法儀軌-唐-不空](https://github.com/kanripo/KR6j0475)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T21n1247 · `GENRE` 經 · `CUSTOM_ID` ZB6j0454 · `SOURCE` Taisho Tripitaka Vol. 21, No. 1247 · `EXTENT` 1卷
+
+**人物**
+- 不空 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→原】 — `WITID` wit6
+
+## [KR6j0476 北方毘沙門天王隨軍護法真言-唐-不空](https://github.com/kanripo/KR6j0476)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T21n1248 · `GENRE` 經 · `CUSTOM_ID` ZB6j0455 · `SOURCE` Taisho Tripitaka Vol. 21, No. 1248 · `EXTENT` 1卷
+
+**人物**
+- 不空 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→原】 — `WITID` wit6
+- 【大→甲】 — `WITID` wit49
+
+## [KR6j0477 毘沙門儀軌-唐-不空](https://github.com/kanripo/KR6j0477)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T21n1249 · `GENRE` 經 · `CUSTOM_ID` ZB6j0456 · `SOURCE` Taisho Tripitaka Vol. 21, No. 1249 · `EXTENT` 1卷
+
+**人物**
+- 不空 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→Ａ】 — `WITID` wit56
+- 【大→甲】 — `WITID` wit49
+- 【大→Ｂ】 — `WITID` wit55
+- 【大→原】 — `WITID` wit6
+
+## [KR6j0478 北方毘沙門多聞寶藏天王神妙陀羅尼別行儀軌-唐-不空](https://github.com/kanripo/KR6j0478)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T21n1250 · `GENRE` 經 · `CUSTOM_ID` ZB6j0457 · `SOURCE` Taisho Tripitaka Vol. 21, No. 1250 · `EXTENT` 1卷
+
+**人物**
+- 不空 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→甲】 — `WITID` wit49
+- 【大→乙】 — `WITID` wit50
+- 【大→原】 — `WITID` wit6
+
+## [KR6j0479 吽迦陀野儀軌-唐-金剛智](https://github.com/kanripo/KR6j0479)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T21n1251 · `GENRE` 經 · `CUSTOM_ID` ZB6j0458 · `SOURCE` Taisho Tripitaka Vol. 21, No. 1251 · `EXTENT` 3卷
+
+**人物**
+- 金剛智 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→原】 — `WITID` wit6
+
+## [KR6j0480 佛說大吉祥天女十二名號經-唐-不空](https://github.com/kanripo/KR6j0480)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T21n1252a · `GENRE` 經 · `CUSTOM_ID` ZB6j0459 · `SOURCE` Taisho Tripitaka Vol. 21, No. 1252a · `EXTENT` 1卷
+
+**人物**
+- 不空 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+
+## [KR6j0481 佛說大吉祥天女十二名號經-唐-不空](https://github.com/kanripo/KR6j0481)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T21n1252b · `GENRE` 經 · `CUSTOM_ID` ZB6j0460 · `SOURCE` Taisho Tripitaka Vol. 21, No. 1252b · `EXTENT` 1卷
+
+**人物**
+- 不空 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→宋】 — `WITID` wit10
+- 【大→元】 — `WITID` wit11
+- 【大→甲】 — `WITID` wit49
+
+## [KR6j0482 大吉祥天女十二契一百八名無垢大乘經-唐-不空](https://github.com/kanripo/KR6j0482)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T21n1253 · `GENRE` 經 · `CUSTOM_ID` ZB6j0461 · `SOURCE` Taisho Tripitaka Vol. 21, No. 1253 · `EXTENT` 1卷
+
+**人物**
+- 不空 — 譯
+
+**版本**
+- CBETA — `WITID` wit3
+- 【大】 — `WITID` wit4
+- 【大→宋】 — `WITID` wit10
+- 【大→元】 — `WITID` wit11
+- 【大→明】 — `WITID` wit12
+- 【大→甲】 — `WITID` wit49
+- 【大→麗】 — `WITID` wit8
+
+## [KR6j0483 末利支提婆華鬘經-唐-不空](https://github.com/kanripo/KR6j0483)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T21n1254 · `GENRE` 經 · `CUSTOM_ID` ZB6j0462 · `SOURCE` Taisho Tripitaka Vol. 21, No. 1254 · `EXTENT` 1卷
+
+**人物**
+- 不空 — 譯
+
+**版本**
+- CBETA — `WITID` wit3
+- 【大】 — `WITID` wit4
+- 【大→明】 — `WITID` wit12
+- 【大→乙】 — `WITID` wit50
+- 【大→甲】 — `WITID` wit49
+- 【大→麗】 — `WITID` wit8
+
+## [KR6j0484 佛說摩利支天菩薩陀羅尼經-唐-不空](https://github.com/kanripo/KR6j0484)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T21n1255a · `GENRE` 經 · `CUSTOM_ID` ZB6j0463 · `SOURCE` Taisho Tripitaka Vol. 21, No. 1255a · `EXTENT` 1卷
+
+**人物**
+- 不空 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+
+## [KR6j0485 佛說摩利支天經-唐-不空](https://github.com/kanripo/KR6j0485)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T21n1255b · `GENRE` 經 · `CUSTOM_ID` ZB6j0464 · `SOURCE` Taisho Tripitaka Vol. 21, No. 1255b · `EXTENT` 1卷
+
+**人物**
+- 不空 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→甲】 — `WITID` wit49
+
+## [KR6j0486 佛說摩利支天陀羅尼呪經--失譯](https://github.com/kanripo/KR6j0486)
+
+`BASEEDITION` T · `CBETA_ID` T21n1256 · `GENRE` 經 · `CUSTOM_ID` ZB6j0465 · `SOURCE` Taisho Tripitaka Vol. 21, No. 1256 · `EXTENT` 1卷
+
+**人物**
+- 失譯 — 譯
+
+**版本**
+- CBETA — `WITID` wit3
+- 【大】 — `WITID` wit4
+- 【大→元】 — `WITID` wit11
+- 【大→明】 — `WITID` wit12
+- 【大→麗】 — `WITID` wit8
+
+## [KR6j0487 佛說大摩里支菩薩經-宋-天息災](https://github.com/kanripo/KR6j0487)
+
+宋 · `BASEEDITION` T · `CBETA_ID` T21n1257 · `GENRE` 經 · `CUSTOM_ID` ZB6j0466 · `SOURCE` Taisho Tripitaka Vol. 21, No. 1257 · `EXTENT` 7卷
+
+**人物**
+- 天息災 — 譯
+
+**版本**
+- CBETA — `WITID` wit3
+- 【大】 — `WITID` wit4
+- 【大→明】 — `WITID` wit12
+- 【大→宋】 — `WITID` wit10
+- 【大→元】 — `WITID` wit11
+- 【大→麗】 — `WITID` wit8
+
+## [KR6j0488 摩利支菩薩略念誦法-唐-不空](https://github.com/kanripo/KR6j0488)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T21n1258 · `GENRE` 經 · `CUSTOM_ID` ZB6j0467 · `SOURCE` Taisho Tripitaka Vol. 21, No. 1258 · `EXTENT` 1卷
+
+**人物**
+- 不空 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→甲】 — `WITID` wit49
+- 【大→乙】 — `WITID` wit50
+
+## [KR6j0489 摩利支天一印法--](https://github.com/kanripo/KR6j0489)
+
+`BASEEDITION` T · `CBETA_ID` T21n1259 · `GENRE` 經 · `CUSTOM_ID` ZB6j0468 · `SOURCE` Taisho Tripitaka Vol. 21, No. 1259 · `EXTENT` 1卷
+
+**人物**
+
+**版本**
+- CBETA — `WITID` wit1
+
+## [KR6j0490 大藥叉女歡喜母并愛子成就法-唐-不空](https://github.com/kanripo/KR6j0490)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T21n1260 · `GENRE` 經 · `CUSTOM_ID` ZB6j0469 · `SOURCE` Taisho Tripitaka Vol. 21, No. 1260 · `EXTENT` 1卷
+
+**人物**
+- 不空 — 譯
+
+**版本**
+- CBETA — `WITID` wit3
+- 【大】 — `WITID` wit4
+- 【大→甲】 — `WITID` wit49
+- 【大→明】 — `WITID` wit12
+- 【大→乙】 — `WITID` wit50
+
+## [KR6j0491 訶利帝母真言經-唐-不空](https://github.com/kanripo/KR6j0491)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T21n1261 · `GENRE` 經 · `CUSTOM_ID` ZB6j0470 · `SOURCE` Taisho Tripitaka Vol. 21, No. 1261 · `EXTENT` 1卷
+
+**人物**
+- 不空 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→宋】 — `WITID` wit10
+- 【大→元】 — `WITID` wit11
+- 【大→明】 — `WITID` wit12
+- 【大→甲】 — `WITID` wit49
+- 【大→乙】 — `WITID` wit50
+
+## [KR6j0492 佛說鬼子母經--失譯](https://github.com/kanripo/KR6j0492)
+
+`BASEEDITION` T · `CBETA_ID` T21n1262 · `GENRE` 經 · `CUSTOM_ID` ZB6j0471 · `SOURCE` Taisho Tripitaka Vol. 21, No. 1262 · `EXTENT` 1卷
+
+**人物**
+- 失譯 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→宋】 — `WITID` wit10
+- 【大→元】 — `WITID` wit11
+- 【大→明】 — `WITID` wit12
+
+## [KR6j0493 氷揭羅天童子經-唐-不空](https://github.com/kanripo/KR6j0493)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T21n1263 · `GENRE` 經 · `CUSTOM_ID` ZB6j0472 · `SOURCE` Taisho Tripitaka Vol. 21, No. 1263 · `EXTENT` 1卷
+
+**人物**
+- 不空 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→乙】 — `WITID` wit50
+- 【大→丙】 — `WITID` wit51
+- 【大→丁】 — `WITID` wit52
+- 【大→甲】 — `WITID` wit49
+
+## [KR6j0494 觀自在菩薩化身蘘麌哩曳童女銷伏毒害陀羅尼經-唐-不空](https://github.com/kanripo/KR6j0494)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T21n1264a · `GENRE` 經 · `CUSTOM_ID` ZB6j0473 · `SOURCE` Taisho Tripitaka Vol. 21, No. 1264a · `EXTENT` 1卷
+
+**人物**
+- 不空 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+
+## [KR6j0495 佛說穰麌梨童女經-唐-不空](https://github.com/kanripo/KR6j0495)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T21n1264b · `GENRE` 經 · `CUSTOM_ID` ZB6j0474 · `SOURCE` Taisho Tripitaka Vol. 21, No. 1264b · `EXTENT` 1卷
+
+**人物**
+- 不空 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→宋】 — `WITID` wit10
+- 【大→元】 — `WITID` wit11
+- 【大→甲】 — `WITID` wit49
+- 【大→原】 — `WITID` wit6
+
+## [KR6j0496 佛說常瞿利毒女陀羅尼呪經-唐-瞿多](https://github.com/kanripo/KR6j0496)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T21n1265 · `GENRE` 經 · `CUSTOM_ID` ZB6j0475 · `SOURCE` Taisho Tripitaka Vol. 21, No. 1265 · `EXTENT` 1卷
+
+**人物**
+- 瞿多 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+
+## [KR6j0497 大聖天歡喜雙身毘那夜迦法-唐-不空](https://github.com/kanripo/KR6j0497)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T21n1266 · `GENRE` 經 · `CUSTOM_ID` ZB6j0476 · `SOURCE` Taisho Tripitaka Vol. 21, No. 1266 · `EXTENT` 1卷
+
+**人物**
+- 不空 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→乙】 — `WITID` wit50
+- 【大→明】 — `WITID` wit12
+- 【大→丁】 — `WITID` wit52
+- 【大→聖】 — `WITID` wit13
+- 【大→甲】 — `WITID` wit49
+- 【大→丙】 — `WITID` wit51
+
+## [KR6j0498 使呪法經-唐-菩提留支](https://github.com/kanripo/KR6j0498)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T21n1267 · `RELATED` T21n1268@經 · `GENRE` 經 · `CUSTOM_ID` ZB6j0477 · `SOURCE` Taisho Tripitaka Vol. 21, No. 1267 · `EXTENT` 1卷
+
+**人物**
+- 菩提留支 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→甲】 — `WITID` wit49
+- 【大→原】 — `WITID` wit6
+
+## [KR6j0499 大使呪法經-唐-菩提留支](https://github.com/kanripo/KR6j0499)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T21n1268 · `RELATED` T21n1267@經 · `GENRE` 經 · `CUSTOM_ID` ZB6j0478 · `SOURCE` Taisho Tripitaka Vol. 21, No. 1268 · `EXTENT` 1卷
+
+**人物**
+- 菩提留支 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→甲】 — `WITID` wit49
+- 【大→原】 — `WITID` wit6
+
+## [KR6j0500 佛說金色迦那鉢底陀羅尼經-唐-金剛智](https://github.com/kanripo/KR6j0500)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T21n1269 · `GENRE` 經 · `CUSTOM_ID` ZB6j0479 · `SOURCE` Taisho Tripitaka Vol. 21, No. 1269 · `EXTENT` 1卷
+
+**人物**
+- 金剛智 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→甲】 — `WITID` wit49
+- 【大→乙】 — `WITID` wit50
+- 【大→原】 — `WITID` wit6
+
+## [KR6j0501 大聖歡喜雙身大自在天毘那夜迦王歸依念誦供養法-唐-善無畏](https://github.com/kanripo/KR6j0501)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T21n1270 · `GENRE` 經 · `CUSTOM_ID` ZB6j0480 · `SOURCE` Taisho Tripitaka Vol. 21, No. 1270 · `EXTENT` 1卷
+
+**人物**
+- 善無畏 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→原】 — `WITID` wit6
+
+## [KR6j0502 摩訶毘盧遮那如來定惠均等入三昧耶身雙身大聖歡喜天菩薩修行祕密法儀軌-唐-不空](https://github.com/kanripo/KR6j0502)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T21n1271 · `GENRE` 經 · `CUSTOM_ID` ZB6j0481 · `SOURCE` Taisho Tripitaka Vol. 21, No. 1271 · `EXTENT` 1卷
+
+**人物**
+- 不空 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+
+## [KR6j0503 金剛薩埵說頻那夜迦天成就儀軌經-宋-法賢](https://github.com/kanripo/KR6j0503)
+
+宋 · `BASEEDITION` T · `CBETA_ID` T21n1272 · `GENRE` 經 · `CUSTOM_ID` ZB6j0482 · `SOURCE` Taisho Tripitaka Vol. 21, No. 1272 · `EXTENT` 4卷
+
+**人物**
+- 法賢 — 譯
+
+**版本**
+- CBETA — `WITID` wit3
+- 【大】 — `WITID` wit4
+- 【大→明】 — `WITID` wit12
+- 【大→宋】 — `WITID` wit10
+- 【大→麗】 — `WITID` wit8
+- 【大→元】 — `WITID` wit11
+
+## [KR6j0504 毘那夜迦誐那鉢底瑜伽悉地品祕要-唐-含光](https://github.com/kanripo/KR6j0504)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T21n1273 · `GENRE` 經 · `CUSTOM_ID` ZB6j0483 · `SOURCE` Taisho Tripitaka Vol. 21, No. 1273 · `EXTENT` 1卷
+
+**人物**
+- 含光 — 記
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→甲】 — `WITID` wit49
+- 【大→原】 — `WITID` wit6
+
+## [KR6j0505 大聖歡喜雙身毘那夜迦天形像品儀軌-唐-憬瑟](https://github.com/kanripo/KR6j0505)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T21n1274 · `GENRE` 經 · `CUSTOM_ID` ZB6j0484 · `SOURCE` Taisho Tripitaka Vol. 21, No. 1274 · `EXTENT` 1卷
+
+**人物**
+- 憬瑟 — 集
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→甲】 — `WITID` wit49
+
+## [KR6j0506 聖歡喜天式法-唐-般若惹羯羅](https://github.com/kanripo/KR6j0506)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T21n1275 · `GENRE` 經 · `CUSTOM_ID` ZB6j0485 · `SOURCE` Taisho Tripitaka Vol. 21, No. 1275 · `EXTENT` 1卷
+
+**人物**
+- 般若惹羯羅 — 撰
+
+**版本**
+- CBETA — `WITID` wit1
+
+## [KR6j0507 文殊師利菩薩根本大教王經金翅鳥王品-唐-不空](https://github.com/kanripo/KR6j0507)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T21n1276 · `GENRE` 經 · `CUSTOM_ID` ZB6j0486 · `SOURCE` Taisho Tripitaka Vol. 21, No. 1276 · `EXTENT` 1卷
+
+**人物**
+- 不空 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→甲】 — `WITID` wit49
+- 【大→明】 — `WITID` wit12
+- 【大→乙】 — `WITID` wit50
+
+## [KR6j0508 速疾立驗魔醯首羅天說阿尾奢法-唐-不空](https://github.com/kanripo/KR6j0508)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T21n1277 · `GENRE` 經 · `CUSTOM_ID` ZB6j0487 · `SOURCE` Taisho Tripitaka Vol. 21, No. 1277 · `EXTENT` 1卷
+
+**人物**
+- 不空 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→明】 — `WITID` wit12
+- 【大→乙】 — `WITID` wit50
+- 【大→丙】 — `WITID` wit51
+- 【大→甲】 — `WITID` wit49
+
+## [KR6j0509 迦樓羅及諸天密言經-唐-般若力](https://github.com/kanripo/KR6j0509)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T21n1278 · `GENRE` 經 · `CUSTOM_ID` ZB6j0488 · `SOURCE` Taisho Tripitaka Vol. 21, No. 1278 · `EXTENT` 1卷
+
+**人物**
+- 般若力 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→原】 — `WITID` wit6
+
+## [KR6j0510 摩醯首羅天法要--](https://github.com/kanripo/KR6j0510)
+
+`BASEEDITION` T · `CBETA_ID` T21n1279 · `GENRE` 經 · `CUSTOM_ID` ZB6j0489 · `SOURCE` Taisho Tripitaka Vol. 21, No. 1279 · `EXTENT` 1卷
+
+**人物**
+
+**版本**
+- CBETA — `WITID` wit1
+
+## [KR6j0511 摩醯首羅大自在天王神通化生伎藝天女念誦法--](https://github.com/kanripo/KR6j0511)
+
+`BASEEDITION` T · `CBETA_ID` T21n1280 · `GENRE` 經 · `CUSTOM_ID` ZB6j0490 · `SOURCE` Taisho Tripitaka Vol. 21, No. 1280 · `EXTENT` 1卷
+
+**人物**
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→甲】 — `WITID` wit49
+- 【大→原】 — `WITID` wit6
+
+## [KR6j0512 那羅延天共阿修羅王鬪戰法-唐-寶思惟](https://github.com/kanripo/KR6j0512)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T21n1281 · `GENRE` 經 · `CUSTOM_ID` ZB6j0491 · `SOURCE` Taisho Tripitaka Vol. 21, No. 1281 · `EXTENT` 1卷
+
+**人物**
+- 寶思惟 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+
+## [KR6j0513 寶藏天女陀羅尼法--失譯](https://github.com/kanripo/KR6j0513)
+
+`BASEEDITION` T · `CBETA_ID` T21n1282 · `GENRE` 經 · `CUSTOM_ID` ZB6j0492 · `SOURCE` Taisho Tripitaka Vol. 21, No. 1282 · `EXTENT` 1卷
+
+**人物**
+- 失譯 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→原】 — `WITID` wit6
+
+## [KR6j0514 佛說寶藏神大明曼拏羅儀軌經-宋-法天](https://github.com/kanripo/KR6j0514)
+
+宋 · `BASEEDITION` T · `CBETA_ID` T21n1283 · `GENRE` 經 · `CUSTOM_ID` ZB6j0493 · `SOURCE` Taisho Tripitaka Vol. 21, No. 1283 · `EXTENT` 2卷
+
+**人物**
+- 法天 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→明】 — `WITID` wit12
+- 【大→宋】 — `WITID` wit10
+- 【大→元】 — `WITID` wit11
+
+## [KR6j0515 佛說聖寶藏神儀軌經-宋-法天](https://github.com/kanripo/KR6j0515)
+
+宋 · `BASEEDITION` T · `CBETA_ID` T21n1284 · `GENRE` 經 · `CUSTOM_ID` ZB6j0494 · `SOURCE` Taisho Tripitaka Vol. 21, No. 1284 · `EXTENT` 2卷
+
+**人物**
+- 法天 — 譯
+
+**版本**
+- CBETA — `WITID` wit3
+- 【大】 — `WITID` wit4
+- 【大→明】 — `WITID` wit12
+- 【大→元】 — `WITID` wit11
+- 【大→宋】 — `WITID` wit10
+- 【大→麗】 — `WITID` wit8
+
+## [KR6j0516 佛說寶賢陀羅尼經-宋-法賢](https://github.com/kanripo/KR6j0516)
+
+宋 · `BASEEDITION` T · `CBETA_ID` T21n1285 · `GENRE` 經 · `CUSTOM_ID` ZB6j0495 · `SOURCE` Taisho Tripitaka Vol. 21, No. 1285 · `EXTENT` 1卷
+
+**人物**
+- 法賢 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→明】 — `WITID` wit12
+- 【大→宋】 — `WITID` wit10
+- 【大→元】 — `WITID` wit11
+
+## [KR6j0517 堅牢地天儀軌-唐-善無畏](https://github.com/kanripo/KR6j0517)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T21n1286 · `GENRE` 經 · `CUSTOM_ID` ZB6j0496 · `SOURCE` Taisho Tripitaka Vol. 21, No. 1286 · `EXTENT` 1卷
+
+**人物**
+- 善無畏 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→原】 — `WITID` wit6
+
+## [KR6j0518 大黑天神法-唐-神愷](https://github.com/kanripo/KR6j0518)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T21n1287 · `GENRE` 經 · `CUSTOM_ID` ZB6j0497 · `SOURCE` Taisho Tripitaka Vol. 21, No. 1287 · `EXTENT` 1卷
+
+**人物**
+- 神愷 — 記
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→甲】 — `WITID` wit49
+- 【大→原】 — `WITID` wit6
+- 【大→乙】 — `WITID` wit50
+
+## [KR6j0519 佛說最上祕密那拏天經-宋-法賢](https://github.com/kanripo/KR6j0519)
+
+宋 · `BASEEDITION` T · `CBETA_ID` T21n1288 · `GENRE` 經 · `CUSTOM_ID` ZB6j0498 · `SOURCE` Taisho Tripitaka Vol. 21, No. 1288 · `EXTENT` 3卷
+
+**人物**
+- 法賢 — 譯
+
+**版本**
+- CBETA — `WITID` wit3
+- 【大】 — `WITID` wit4
+- 【大→宋】 — `WITID` wit10
+- 【大→元】 — `WITID` wit11
+- 【大→明】 — `WITID` wit12
+- 【大→麗】 — `WITID` wit8
+
+## [KR6j0520 佛說金毘羅童子威德經-唐-不空](https://github.com/kanripo/KR6j0520)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T21n1289 · `GENRE` 經 · `CUSTOM_ID` ZB6j0499 · `SOURCE` Taisho Tripitaka Vol. 21, No. 1289 · `EXTENT` 1卷
+
+**人物**
+- 不空 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→甲】 — `WITID` wit49
+- 【大→原】 — `WITID` wit6
+
+## [KR6j0521 焰羅王供行法次第-唐-阿謨伽](https://github.com/kanripo/KR6j0521)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T21n1290 · `GENRE` 經 · `CUSTOM_ID` ZB6j0500 · `SOURCE` Taisho Tripitaka Vol. 21, No. 1290 · `EXTENT` 1卷
+
+**人物**
+- 阿謨伽 — 撰
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→原】 — `WITID` wit6
+
+## [KR6j0522 深沙大將儀軌-唐-不空](https://github.com/kanripo/KR6j0522)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T21n1291 · `GENRE` 經 · `CUSTOM_ID` ZB6j0501 · `SOURCE` Taisho Tripitaka Vol. 21, No. 1291 · `EXTENT` 1卷
+
+**人物**
+- 不空 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→甲】 — `WITID` wit49
+
+## [KR6j0523 法華十羅剎法--](https://github.com/kanripo/KR6j0523)
+
+`BASEEDITION` T · `CBETA_ID` T21n1292 · `GENRE` 經 · `CUSTOM_ID` ZB6j0502 · `SOURCE` Taisho Tripitaka Vol. 21, No. 1292 · `EXTENT` 1卷
+
+**人物**
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→原】 — `WITID` wit6
+
+## [KR6j0524 般若守護十六善神王形體-唐-金剛智](https://github.com/kanripo/KR6j0524)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T21n1293 · `GENRE` 經 · `CUSTOM_ID` ZB6j0503 · `SOURCE` Taisho Tripitaka Vol. 21, No. 1293 · `EXTENT` 1卷
+
+**人物**
+- 金剛智 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→原】 — `WITID` wit6
+
+## [KR6j0525 施八方天儀則--](https://github.com/kanripo/KR6j0525)
+
+`BASEEDITION` T · `CBETA_ID` T21n1294 · `GENRE` 經 · `CUSTOM_ID` ZB6j0504 · `SOURCE` Taisho Tripitaka Vol. 21, No. 1294 · `EXTENT` 1卷
+
+**人物**
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→原】 — `WITID` wit6
+
+## [KR6j0526 供養護世八天法-唐-法全](https://github.com/kanripo/KR6j0526)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T21n1295 · `GENRE` 經 · `CUSTOM_ID` ZB6j0505 · `SOURCE` Taisho Tripitaka Vol. 21, No. 1295 · `EXTENT` 1卷
+
+**人物**
+- 法全 — 集
+
+**版本**
+- CBETA — `WITID` wit1
+- orig — `WITID` wit99
+
+## [KR6j0527 十天儀軌--](https://github.com/kanripo/KR6j0527)
+
+`BASEEDITION` T · `CBETA_ID` T21n1296 · `GENRE` 經 · `CUSTOM_ID` ZB6j0506 · `SOURCE` Taisho Tripitaka Vol. 21, No. 1296 · `EXTENT` 1卷
+
+**人物**
+
+**版本**
+- CBETA — `WITID` wit1
+
+## [KR6j0528 供養十二大威德天報恩品-唐-不空](https://github.com/kanripo/KR6j0528)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T21n1297 · `GENRE` 經 · `CUSTOM_ID` ZB6j0507 · `SOURCE` Taisho Tripitaka Vol. 21, No. 1297 · `EXTENT` 1卷
+
+**人物**
+- 不空 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→原】 — `WITID` wit6
+
+## [KR6j0529 十二天供儀軌--](https://github.com/kanripo/KR6j0529)
+
+`BASEEDITION` T · `CBETA_ID` T21n1298 · `GENRE` 經 · `CUSTOM_ID` ZB6j0508 · `SOURCE` Taisho Tripitaka Vol. 21, No. 1298 · `EXTENT` 1卷
+
+**人物**
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→甲】 — `WITID` wit49
+- 【大→原】 — `WITID` wit6
+
+## [KR6j0530 文殊師利菩薩及諸仙所說吉凶時日善惡宿曜經-唐-不空](https://github.com/kanripo/KR6j0530)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T21n1299 · `GENRE` 經 · `CUSTOM_ID` ZB6j0509 · `SOURCE` Taisho Tripitaka Vol. 21, No. 1299 · `EXTENT` 2卷
+
+**人物**
+- 不空 — 譯
+
+**版本**
+- CBETA — `WITID` wit3
+- 【大】 — `WITID` wit4
+- 【大→明】 — `WITID` wit12
+- 【大→麗】 — `WITID` wit8
+
+## [KR6j0531 摩登伽經-吳-竺律炎](https://github.com/kanripo/KR6j0531)
+
+吳 · `BASEEDITION` T · `CBETA_ID` T21n1300 · `RELATED` T14n0551@經, T14n0552@經, T21n1301@經 · `GENRE` 經 · `CUSTOM_ID` ZB6j0510 · `SOURCE` Taisho Tripitaka Vol. 21, No. 1300 · `EXTENT` 2卷
+
+**人物**
+- 竺律炎 — 譯
+- 支謙 — 譯
+
+**版本**
+- CBETA — `WITID` wit3
+- 【大】 — `WITID` wit4
+- 【大→明】 — `WITID` wit12
+- 【大→宋】 — `WITID` wit10
+- 【大→元】 — `WITID` wit11
+- 【大→麗】 — `WITID` wit8
+
+## [KR6j0532 舍頭諫太子二十八宿經-西晉-竺法護](https://github.com/kanripo/KR6j0532)
+
+西晉 · `BASEEDITION` T · `CBETA_ID` T21n1301 · `RELATED` T14n0551@經, T14n0552@經, T21n1300@經 · `GENRE` 經 · `CUSTOM_ID` ZB6j0511 · `SOURCE` Taisho Tripitaka Vol. 21, No. 1301 · `EXTENT` 1卷
+
+**人物**
+- 竺法護 — 譯
+
+**版本**
+- CBETA — `WITID` wit3
+- 【大】 — `WITID` wit4
+- 【大→宋】 — `WITID` wit10
+- 【大→元】 — `WITID` wit11
+- 【大→明】 — `WITID` wit12
+- 【大→麗】 — `WITID` wit8
+
+## [KR6j0533 諸星母陀羅尼經-唐-法成](https://github.com/kanripo/KR6j0533)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T21n1302 · `RELATED` T21n1303@經 · `GENRE` 經 · `CUSTOM_ID` ZB6j0512 · `SOURCE` Taisho Tripitaka Vol. 21, No. 1302 · `EXTENT` 1卷
+
+**人物**
+- 法成 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→甲】 — `WITID` wit49
+
+## [KR6j0534 佛說聖曜母陀羅尼經-宋-法天](https://github.com/kanripo/KR6j0534)
+
+宋 · `BASEEDITION` T · `CBETA_ID` T21n1303 · `RELATED` T21n1302@經 · `GENRE` 經 · `CUSTOM_ID` ZB6j0513 · `SOURCE` Taisho Tripitaka Vol. 21, No. 1303 · `EXTENT` 1卷
+
+**人物**
+- 法天 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→宋】 — `WITID` wit10
+- 【大→元】 — `WITID` wit11
+- 【大→明】 — `WITID` wit12
+
+## [KR6j0535 宿曜儀軌-唐-一行](https://github.com/kanripo/KR6j0535)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T21n1304 · `GENRE` 經 · `CUSTOM_ID` ZB6j0514 · `SOURCE` Taisho Tripitaka Vol. 21, No. 1304 · `EXTENT` 1卷
+
+**人物**
+- 一行 — 撰
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→甲】 — `WITID` wit49
+- 【大→原】 — `WITID` wit6
+
+## [KR6j0536 北斗七星念誦儀軌-唐-金剛智](https://github.com/kanripo/KR6j0536)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T21n1305 · `GENRE` 經 · `CUSTOM_ID` ZB6j0515 · `SOURCE` Taisho Tripitaka Vol. 21, No. 1305 · `EXTENT` 1卷
+
+**人物**
+- 金剛智 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→甲】 — `WITID` wit49
+- 【大→乙】 — `WITID` wit50
+- 【大→原】 — `WITID` wit6
+
+## [KR6j0537 北斗七星護摩祕要儀軌--](https://github.com/kanripo/KR6j0537)
+
+`BASEEDITION` T · `CBETA_ID` T21n1306 · `GENRE` 經 · `CUSTOM_ID` ZB6j0516 · `SOURCE` Taisho Tripitaka Vol. 21, No. 1306 · `EXTENT` 1卷
+
+**人物**
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→甲】 — `WITID` wit49
+- 【大→乙】 — `WITID` wit50
+- 【大→丙】 — `WITID` wit51
+- 【大→原】 — `WITID` wit6
+
+## [KR6j0538 佛說北斗七星延命經--](https://github.com/kanripo/KR6j0538)
+
+`BASEEDITION` T · `CBETA_ID` T21n1307 · `GENRE` 經 · `CUSTOM_ID` ZB6j0517 · `SOURCE` Taisho Tripitaka Vol. 21, No. 1307 · `EXTENT` 1卷
+
+**人物**
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→原】 — `WITID` wit6
+
+## [KR6j0539 七曜攘災決-唐-金俱吒](https://github.com/kanripo/KR6j0539)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T21n1308 · `GENRE` 經 · `CUSTOM_ID` ZB6j0518 · `SOURCE` Taisho Tripitaka Vol. 21, No. 1308 · `EXTENT` 2卷
+
+**人物**
+- 金俱吒 — 撰
+
+**版本**
+- CBETA — `WITID` wit3
+- 【大】 — `WITID` wit4
+- 【大→原】 — `WITID` wit6
+
+## [KR6j0540 七曜星辰別行法-唐-一行](https://github.com/kanripo/KR6j0540)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T21n1309 · `GENRE` 經 · `CUSTOM_ID` ZB6j0519 · `SOURCE` Taisho Tripitaka Vol. 21, No. 1309 · `EXTENT` 1卷
+
+**人物**
+- 一行 — 撰
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→原】 — `WITID` wit6
+
+## [KR6j0541 北斗七星護摩法-唐-一行](https://github.com/kanripo/KR6j0541)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T21n1310 · `GENRE` 經 · `CUSTOM_ID` ZB6j0520 · `SOURCE` Taisho Tripitaka Vol. 21, No. 1310 · `EXTENT` 1卷
+
+**人物**
+- 一行 — 撰
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→原】 — `WITID` wit6
+
+## [KR6j0542 梵天火羅九曜--](https://github.com/kanripo/KR6j0542)
+
+`BASEEDITION` T · `CBETA_ID` T21n1311 · `GENRE` 經 · `CUSTOM_ID` ZB6j0521 · `SOURCE` Taisho Tripitaka Vol. 21, No. 1311 · `EXTENT` 1卷
+
+**人物**
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→原】 — `WITID` wit6
+
+## [KR6j0543 難儞計濕嚩囉天說支輪經-宋-法賢](https://github.com/kanripo/KR6j0543)
+
+宋 · `BASEEDITION` T · `CBETA_ID` T21n1312 · `GENRE` 經 · `CUSTOM_ID` ZB6j0522 · `SOURCE` Taisho Tripitaka Vol. 21, No. 1312 · `EXTENT` 1卷
+
+**人物**
+- 法賢 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+
+## [KR6j0544 佛說救拔焰口餓鬼陀羅尼經-唐-不空](https://github.com/kanripo/KR6j0544)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T21n1313 · `RELATED` T21n1314@經 · `GENRE` 經 · `CUSTOM_ID` ZB6j0523 · `SOURCE` Taisho Tripitaka Vol. 21, No. 1313 · `EXTENT` 1卷
+
+**人物**
+- 不空 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→宋】 — `WITID` wit10
+- 【大→元】 — `WITID` wit11
+- 【大→明】 — `WITID` wit12
+- 【大→甲】 — `WITID` wit49
+
+## [KR6j0545 佛說救面然餓鬼陀羅尼神呪經-唐-實叉難陀](https://github.com/kanripo/KR6j0545)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T21n1314 · `RELATED` T21n1313@經 · `GENRE` 經 · `CUSTOM_ID` ZB6j0524 · `SOURCE` Taisho Tripitaka Vol. 21, No. 1314 · `EXTENT` 1卷
+
+**人物**
+- 實叉難陀 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→宋】 — `WITID` wit10
+- 【大→元】 — `WITID` wit11
+- 【大→明】 — `WITID` wit12
+
+## [KR6j0546 施諸餓鬼飲食及水法-唐-不空](https://github.com/kanripo/KR6j0546)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T21n1315 · `GENRE` 經 · `CUSTOM_ID` ZB6j0525 · `SOURCE` Taisho Tripitaka Vol. 21, No. 1315 · `EXTENT` 1卷
+
+**人物**
+- 不空 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→甲】 — `WITID` wit49
+- 【大→原】 — `WITID` wit6
+
+## [KR6j0547 佛說甘露經陀羅尼呪--](https://github.com/kanripo/KR6j0547)
+
+`BASEEDITION` T · `CBETA_ID` T21n1316 · `GENRE` 經 · `CUSTOM_ID` ZB6j0526 · `SOURCE` Taisho Tripitaka Vol. 21, No. 1316 · `EXTENT` 1卷
+
+**人物**
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→宋】 — `WITID` wit10
+- 【大→元】 — `WITID` wit11
+- 【大→明】 — `WITID` wit12
+
+## [KR6j0548 甘露陀羅尼呪-唐-實叉難陀](https://github.com/kanripo/KR6j0548)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T21n1317 · `GENRE` 經 · `CUSTOM_ID` ZB6j0527 · `SOURCE` Taisho Tripitaka Vol. 21, No. 1317 · `EXTENT` 1卷
+
+**人物**
+- 實叉難陀 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+
+## [KR6j0549 瑜伽集要救阿難陀羅尼焰口軌儀經-唐-不空](https://github.com/kanripo/KR6j0549)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T21n1318 · `GENRE` 經 · `CUSTOM_ID` ZB6j0528 · `SOURCE` Taisho Tripitaka Vol. 21, No. 1318 · `EXTENT` 1卷
+
+**人物**
+- 不空 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+
+## [KR6j0550 瑜伽集要焰口施食起教阿難陀緣由-唐-不空](https://github.com/kanripo/KR6j0550)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T21n1319 · `GENRE` 經 · `CUSTOM_ID` ZB6j0529 · `SOURCE` Taisho Tripitaka Vol. 21, No. 1319 · `EXTENT` 1卷
+
+**人物**
+- 不空 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+
+## [KR6j0551 瑜伽集要焰口施食儀--](https://github.com/kanripo/KR6j0551)
+
+`BASEEDITION` T · `CBETA_ID` T21n1320 · `GENRE` 經 · `CUSTOM_ID` ZB6j0530 · `SOURCE` Taisho Tripitaka Vol. 21, No. 1320 · `EXTENT` 1卷
+
+**人物**
+
+**版本**
+- CBETA — `WITID` wit1
+- orig — `WITID` wit99
+
+## [KR6j0552 佛說施餓鬼甘露味大陀羅尼經-唐-跋馱木阿](https://github.com/kanripo/KR6j0552)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T21n1321 · `GENRE` 經 · `CUSTOM_ID` ZB6j0531 · `SOURCE` Taisho Tripitaka Vol. 21, No. 1321 · `EXTENT` 1卷
+
+**人物**
+- 跋馱木阿 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+-
+- orig — `WITID` wit99
+
+## [KR6j0553 新集浴像儀軌-唐-慧琳](https://github.com/kanripo/KR6j0553)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T21n1322 · `GENRE` 經 · `CUSTOM_ID` ZB6j0532 · `SOURCE` Taisho Tripitaka Vol. 21, No. 1322 · `EXTENT` 1卷
+
+**人物**
+- 慧琳 — 述
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→原】 — `WITID` wit6
+- 【大→甲】 — `WITID` wit49
+
+## [KR6j0554 除一切疾病陀羅尼經-唐-不空](https://github.com/kanripo/KR6j0554)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T21n1323 · `GENRE` 經 · `CUSTOM_ID` ZB6j0533 · `SOURCE` Taisho Tripitaka Vol. 21, No. 1323 · `EXTENT` 1卷
+
+**人物**
+- 不空 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→明】 — `WITID` wit12
+- 【大→甲】 — `WITID` wit49
+- 【大→宋】 — `WITID` wit10
+- 【大→元】 — `WITID` wit11
+
+## [KR6j0555 能淨一切眼疾病陀羅尼經-唐-不空](https://github.com/kanripo/KR6j0555)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T21n1324 · `GENRE` 經 · `CUSTOM_ID` ZB6j0534 · `SOURCE` Taisho Tripitaka Vol. 21, No. 1324 · `EXTENT` 1卷
+
+**人物**
+- 不空 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→明】 — `WITID` wit12
+- 【大→甲】 — `WITID` wit49
+- 【大→宋】 — `WITID` wit10
+- 【大→元】 — `WITID` wit11
+
+## [KR6j0556 佛說療痔病經-唐-義淨](https://github.com/kanripo/KR6j0556)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T21n1325 · `GENRE` 經 · `CUSTOM_ID` ZB6j0535 · `SOURCE` Taisho Tripitaka Vol. 21, No. 1325 · `EXTENT` 1卷
+
+**人物**
+- 義淨 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→宋】 — `WITID` wit10
+- 【大→元】 — `WITID` wit11
+- 【大→明】 — `WITID` wit12
+
+## [KR6j0557 佛說呪時氣病經--](https://github.com/kanripo/KR6j0557)
+
+`BASEEDITION` T · `CBETA_ID` T21n1326 · `GENRE` 經 · `CUSTOM_ID` ZB6j0536 · `SOURCE` Taisho Tripitaka Vol. 21, No. 1326 · `EXTENT` 1卷
+
+**人物**
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→元】 — `WITID` wit11
+- 【大→明】 — `WITID` wit12
+- 【大→宋】 — `WITID` wit10
+
+## [KR6j0558 佛說呪齒經-東晉-曇無蘭](https://github.com/kanripo/KR6j0558)
+
+東晉 · `BASEEDITION` T · `CBETA_ID` T21n1327 · `GENRE` 經 · `CUSTOM_ID` ZB6j0537 · `SOURCE` Taisho Tripitaka Vol. 21, No. 1327 · `EXTENT` 1卷
+
+**人物**
+- 曇無蘭 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→宋】 — `WITID` wit10
+- 【大→元】 — `WITID` wit11
+- 【大→明】 — `WITID` wit12
+
+## [KR6j0559 佛說呪目經--](https://github.com/kanripo/KR6j0559)
+
+`BASEEDITION` T · `CBETA_ID` T21n1328 · `GENRE` 經 · `CUSTOM_ID` ZB6j0538 · `SOURCE` Taisho Tripitaka Vol. 21, No. 1328 · `EXTENT` 1卷
+
+**人物**
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→元】 — `WITID` wit11
+- 【大→明】 — `WITID` wit12
+- 【大→宋】 — `WITID` wit10
+
+## [KR6j0560 佛說呪小兒經--](https://github.com/kanripo/KR6j0560)
+
+`BASEEDITION` T · `CBETA_ID` T21n1329 · `GENRE` 經 · `CUSTOM_ID` ZB6j0539 · `SOURCE` Taisho Tripitaka Vol. 21, No. 1329 · `EXTENT` 1卷
+
+**人物**
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→元】 — `WITID` wit11
+- 【大→明】 — `WITID` wit12
+- 【大→宋】 — `WITID` wit10
+
+## [KR6j0561 囉嚩拏說救療小兒疾病經-宋-法賢](https://github.com/kanripo/KR6j0561)
+
+宋 · `BASEEDITION` T · `CBETA_ID` T21n1330 · `GENRE` 經 · `CUSTOM_ID` ZB6j0540 · `SOURCE` Taisho Tripitaka Vol. 21, No. 1330 · `EXTENT` 1卷
+
+**人物**
+- 法賢 — 譯
+
+**版本**
+- CBETA — `WITID` wit3
+- 【大】 — `WITID` wit4
+- 【大→明】 — `WITID` wit12
+- 【大→宋】 — `WITID` wit10
+- 【大→元】 — `WITID` wit11
+- 【大→unknown】 — `WITID` wit14
+- 【大→麗】 — `WITID` wit8
+
+## [KR6j0562 七佛八菩薩所說大陀羅尼神呪經--失譯](https://github.com/kanripo/KR6j0562)
+
+`BASEEDITION` T · `CBETA_ID` T21n1332 · `GENRE` 經 · `CUSTOM_ID` ZB6j0541 · `SOURCE` Taisho Tripitaka Vol. 21, No. 1332 · `EXTENT` 4卷
+
+**人物**
+- 失譯 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→元】 — `WITID` wit11
+- 【大→明】 — `WITID` wit12
+- 【大→甲】 — `WITID` wit49
+- 【大→宋】 — `WITID` wit10
+
+## [KR6j0563 虛空藏菩薩問七佛陀羅尼呪經--失譯](https://github.com/kanripo/KR6j0563)
+
+`BASEEDITION` T · `CBETA_ID` T21n1333 · `RELATED` T20n1147@經, T21n1334@經 · `GENRE` 經 · `CUSTOM_ID` ZB6j0542 · `SOURCE` Taisho Tripitaka Vol. 21, No. 1333 · `EXTENT` 1卷
+
+**人物**
+- 失譯 — 譯
+
+**版本**
+- CBETA — `WITID` wit3
+- 【大】 — `WITID` wit4
+- 【大→宋】 — `WITID` wit10
+- 【大→甲】 — `WITID` wit49
+- 【大→元】 — `WITID` wit11
+- 【大→明】 — `WITID` wit12
+- 【大→麗】 — `WITID` wit8
+
+## [KR6j0564 如來方便善巧呪經-隋-闍那崛多](https://github.com/kanripo/KR6j0564)
+
+隋 · `BASEEDITION` T · `CBETA_ID` T21n1334 · `RELATED` T20n1147@經, T21n1333@經 · `GENRE` 經 · `CUSTOM_ID` ZB6j0543 · `SOURCE` Taisho Tripitaka Vol. 21, No. 1334 · `EXTENT` 1卷
+
+**人物**
+- 闍那崛多 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→宋】 — `WITID` wit10
+- 【大→元】 — `WITID` wit11
+- 【大→明】 — `WITID` wit12
+
+## [KR6j0565 大吉義神呪經-元魏-曇曜](https://github.com/kanripo/KR6j0565)
+
+元魏 · `BASEEDITION` T · `CBETA_ID` T21n1335 · `GENRE` 經 · `CUSTOM_ID` ZB6j0544 · `SOURCE` Taisho Tripitaka Vol. 21, No. 1335 · `EXTENT` 4卷
+
+**人物**
+- 曇曜 — 譯
+
+**版本**
+- CBETA — `WITID` wit3
+- 【大】 — `WITID` wit4
+- 【大→宋】 — `WITID` wit10
+- 【大→元】 — `WITID` wit11
+- 【大→明】 — `WITID` wit12
+- 【大→甲】 — `WITID` wit49
+- 【大→麗】 — `WITID` wit8
+
+## [KR6j0566 陀羅尼雜集--失譯](https://github.com/kanripo/KR6j0566)
+
+`BASEEDITION` T · `CBETA_ID` T21n1336 · `GENRE` 經 · `CUSTOM_ID` ZB6j0545 · `SOURCE` Taisho Tripitaka Vol. 21, No. 1336 · `EXTENT` 10卷
+
+**人物**
+- 失譯 — 譯
+
+**版本**
+- CBETA — `WITID` wit3
+- 【大】 — `WITID` wit4
+- 【大→明】 — `WITID` wit12
+- 【大→元】 — `WITID` wit11
+- 【大→宋】 — `WITID` wit10
+- 【大→甲】 — `WITID` wit49
+- 【大→unknown】 — `WITID` wit14
+- 【大→麗】 — `WITID` wit8
+- 【大→磧砂】 — `WITID` wit15
+
+## [KR6j0567 種種雜呪經-北周-闍那崛多](https://github.com/kanripo/KR6j0567)
+
+北周 · `BASEEDITION` T · `CBETA_ID` T21n1337 · `GENRE` 經 · `CUSTOM_ID` ZB6j0546 · `SOURCE` Taisho Tripitaka Vol. 21, No. 1337 · `EXTENT` 1卷
+
+**人物**
+- 闍那崛多 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→宋】 — `WITID` wit10
+- 【大→元】 — `WITID` wit11
+- 【大→明】 — `WITID` wit12
+
+## [KR6j0568 呪三首經-唐-地婆訶羅](https://github.com/kanripo/KR6j0568)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T21n1338 · `GENRE` 經 · `CUSTOM_ID` ZB6j0547 · `SOURCE` Taisho Tripitaka Vol. 21, No. 1338 · `EXTENT` 1卷
+
+**人物**
+- 地婆訶羅 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→元】 — `WITID` wit11
+
+## [KR6j0569 大方等陀羅尼經-北涼-法眾](https://github.com/kanripo/KR6j0569)
+
+北涼 · `BASEEDITION` T · `CBETA_ID` T21n1339 · `GENRE` 經 · `CUSTOM_ID` ZB6j0548 · `SOURCE` Taisho Tripitaka Vol. 21, No. 1339 · `EXTENT` 4卷
+
+**人物**
+- 法眾 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→宋】 — `WITID` wit10
+- 【大→元】 — `WITID` wit11
+- 【大→明】 — `WITID` wit12
+
+## [KR6j0570 大法炬陀羅尼經-隋-闍那崛多](https://github.com/kanripo/KR6j0570)
+
+隋 · `BASEEDITION` T · `CBETA_ID` T21n1340 · `GENRE` 經 · `CUSTOM_ID` ZB6j0549 · `SOURCE` Taisho Tripitaka Vol. 21, No. 1340 · `EXTENT` 20卷
+
+**人物**
+- 闍那崛多 — 譯
+
+**版本**
+- CBETA — `WITID` wit3
+- 【大】 — `WITID` wit4
+- 【大→明】 — `WITID` wit12
+- 【大→宋】 — `WITID` wit10
+- 【大→元】 — `WITID` wit11
+- 【大→麗】 — `WITID` wit8
+
+## [KR6j0571 大威德陀羅尼經-隋-闍那崛多](https://github.com/kanripo/KR6j0571)
+
+隋 · `BASEEDITION` T · `CBETA_ID` T21n1341 · `GENRE` 經 · `CUSTOM_ID` ZB6j0550 · `SOURCE` Taisho Tripitaka Vol. 21, No. 1341 · `EXTENT` 20卷
+
+**人物**
+- 闍那崛多 — 等譯
+
+**版本**
+- CBETA — `WITID` wit3
+- 【大】 — `WITID` wit4
+- 【大→宋】 — `WITID` wit10
+- 【大→元】 — `WITID` wit11
+- 【大→明】 — `WITID` wit12
+- 【大→麗】 — `WITID` wit8
+- 【大→unknown】 — `WITID` wit14
+
+## [KR6j0572 佛說無崖際總持法門經-西秦-聖堅](https://github.com/kanripo/KR6j0572)
+
+西秦 · `BASEEDITION` T · `CBETA_ID` T21n1342 · `GENRE` 經 · `CUSTOM_ID` ZB6j0551 · `SOURCE` Taisho Tripitaka Vol. 21, No. 1342 · `EXTENT` 1卷
+
+**人物**
+- 聖堅 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→宋】 — `WITID` wit10
+- 【大→元】 — `WITID` wit11
+- 【大→明】 — `WITID` wit12
+
+## [KR6j0573 尊勝菩薩所問一切諸法入無量門陀羅尼經-北齊-萬天懿](https://github.com/kanripo/KR6j0573)
+
+北齊 · `BASEEDITION` T · `CBETA_ID` T21n1343 · `GENRE` 經 · `CUSTOM_ID` ZB6j0552 · `SOURCE` Taisho Tripitaka Vol. 21, No. 1343 · `EXTENT` 1卷
+
+**人物**
+- 萬天懿 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→宋】 — `WITID` wit10
+- 【大→元】 — `WITID` wit11
+- 【大→明】 — `WITID` wit12
+
+## [KR6j0574 金剛上味陀羅尼經-元魏-佛陀扇多](https://github.com/kanripo/KR6j0574)
+
+元魏 · `BASEEDITION` T · `CBETA_ID` T21n1344 · `RELATED` T21n1345@經 · `GENRE` 經 · `CUSTOM_ID` ZB6j0553 · `SOURCE` Taisho Tripitaka Vol. 21, No. 1344 · `EXTENT` 1卷
+
+**人物**
+- 佛陀扇多 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→元】 — `WITID` wit11
+- 【大→明】 — `WITID` wit12
+- 【大→宋】 — `WITID` wit10
+
+## [KR6j0575 金剛場陀羅尼經-隋-闍那崛多](https://github.com/kanripo/KR6j0575)
+
+隋 · `BASEEDITION` T · `CBETA_ID` T21n1345 · `RELATED` T21n1344@經 · `GENRE` 經 · `CUSTOM_ID` ZB6j0554 · `SOURCE` Taisho Tripitaka Vol. 21, No. 1345 · `EXTENT` 1卷
+
+**人物**
+- 闍那崛多 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→宋】 — `WITID` wit10
+- 【大→元】 — `WITID` wit11
+- 【大→明】 — `WITID` wit12
+- 【大→聖】 — `WITID` wit13
+
+## [KR6j0576 諸佛集會陀羅尼經-唐-提雲般若](https://github.com/kanripo/KR6j0576)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T21n1346 · `RELATED` T21n1347@經 · `GENRE` 經 · `CUSTOM_ID` ZB6j0555 · `SOURCE` Taisho Tripitaka Vol. 21, No. 1346 · `EXTENT` 1卷
+
+**人物**
+- 提雲般若 — 等譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→元】 — `WITID` wit11
+- 【大→明】 — `WITID` wit12
+- 【大→宋】 — `WITID` wit10
+
+## [KR6j0577 息除中夭陀羅尼經-宋-施護](https://github.com/kanripo/KR6j0577)
+
+宋 · `BASEEDITION` T · `CBETA_ID` T21n1347 · `RELATED` T21n1346@經 · `GENRE` 經 · `CUSTOM_ID` ZB6j0556 · `SOURCE` Taisho Tripitaka Vol. 21, No. 1347 · `EXTENT` 1卷
+
+**人物**
+- 施護 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→明】 — `WITID` wit12
+- 【大→宋】 — `WITID` wit10
+- 【大→元】 — `WITID` wit11
+
+## [KR6j0578 佛說十二佛名神呪校量功德除障滅罪經-隋-闍那崛多](https://github.com/kanripo/KR6j0578)
+
+隋 · `BASEEDITION` T · `CBETA_ID` T21n1348 · `RELATED` T21n1349@經 · `GENRE` 經 · `CUSTOM_ID` ZB6j0557 · `SOURCE` Taisho Tripitaka Vol. 21, No. 1348 · `EXTENT` 1卷
+
+**人物**
+- 闍那崛多 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→元】 — `WITID` wit11
+- 【大→明】 — `WITID` wit12
+- 【大→宋】 — `WITID` wit10
+
+## [KR6j0579 佛說稱讚如來功德神呪經-唐-義淨](https://github.com/kanripo/KR6j0579)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T21n1349 · `RELATED` T21n1348@經 · `GENRE` 經 · `CUSTOM_ID` ZB6j0558 · `SOURCE` Taisho Tripitaka Vol. 21, No. 1349 · `EXTENT` 1卷
+
+**人物**
+- 義淨 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→宋】 — `WITID` wit10
+- 【大→元】 — `WITID` wit11
+- 【大→明】 — `WITID` wit12
+
+## [KR6j0580 佛說一切如來名號陀羅尼經-宋-法賢](https://github.com/kanripo/KR6j0580)
+
+宋 · `BASEEDITION` T · `CBETA_ID` T21n1350 · `GENRE` 經 · `CUSTOM_ID` ZB6j0559 · `SOURCE` Taisho Tripitaka Vol. 21, No. 1350 · `EXTENT` 1卷
+
+**人物**
+- 法賢 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→明】 — `WITID` wit12
+- 【大→宋】 — `WITID` wit10
+- 【大→元】 — `WITID` wit11
+
+## [KR6j0581 佛說持句神呪經-吳-支謙](https://github.com/kanripo/KR6j0581)
+
+吳 · `BASEEDITION` T · `CBETA_ID` T21n1351 · `RELATED` T19n1029@經, T21n1352@經, T21n1353@經, T21n1354@經, T21n1355@經 · `GENRE` 經 · `CUSTOM_ID` ZB6j0560 · `SOURCE` Taisho Tripitaka Vol. 21, No. 1351 · `EXTENT` 1卷
+
+**人物**
+- 支謙 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→宋】 — `WITID` wit10
+- 【大→元】 — `WITID` wit11
+- 【大→明】 — `WITID` wit12
+
+## [KR6j0582 佛說陀隣尼鉢經-東晉-曇無蘭](https://github.com/kanripo/KR6j0582)
+
+東晉 · `BASEEDITION` T · `CBETA_ID` T21n1352 · `RELATED` T19n1029@經, T21n1351@經, T21n1353@經, T21n1354@經, T21n1355@經 · `GENRE` 經 · `CUSTOM_ID` ZB6j0561 · `SOURCE` Taisho Tripitaka Vol. 21, No. 1352 · `EXTENT` 1卷
+
+**人物**
+- 曇無蘭 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→明】 — `WITID` wit12
+- 【大→宋】 — `WITID` wit10
+- 【大→元】 — `WITID` wit11
+
+## [KR6j0583 東方最勝燈王陀羅尼經-隋-闍那崛多](https://github.com/kanripo/KR6j0583)
+
+隋 · `BASEEDITION` T · `CBETA_ID` T21n1353 · `RELATED` T19n1029@經, T21n1351@經, T21n1352@經, T21n1354@經, T21n1355@經 · `GENRE` 經 · `CUSTOM_ID` ZB6j0562 · `SOURCE` Taisho Tripitaka Vol. 21, No. 1353 · `EXTENT` 1卷
+
+**人物**
+- 闍那崛多 — 譯
+
+**版本**
+- CBETA — `WITID` wit3
+- 【大→麗】 — `WITID` wit8
+- 【大】 — `WITID` wit4
+
+## [KR6j0584 東方最勝燈王如來經-隋-闍那崛多](https://github.com/kanripo/KR6j0584)
+
+隋 · `BASEEDITION` T · `CBETA_ID` T21n1354 · `RELATED` T19n1029@經, T21n1351@經, T21n1352@經, T21n1353@經, T21n1355@經 · `GENRE` 經 · `CUSTOM_ID` ZB6j0563 · `SOURCE` Taisho Tripitaka Vol. 21, No. 1354 · `EXTENT` 1卷
+
+**人物**
+- 闍那崛多 — 等譯
+
+**版本**
+- CBETA — `WITID` wit3
+- 【大】 — `WITID` wit4
+- 【大→明】 — `WITID` wit12
+- 【大→宋】 — `WITID` wit10
+- 【大→元】 — `WITID` wit11
+- 【大→聖】 — `WITID` wit13
+- 【大→麗】 — `WITID` wit8
+
+## [KR6j0585 佛說聖最上燈明如來陀羅尼經-宋-施護](https://github.com/kanripo/KR6j0585)
+
+宋 · `BASEEDITION` T · `CBETA_ID` T21n1355 · `RELATED` T19n1029@經, T21n1351@經, T21n1352@經, T21n1353@經, T21n1354@經 · `GENRE` 經 · `CUSTOM_ID` ZB6j0564 · `SOURCE` Taisho Tripitaka Vol. 21, No. 1355 · `EXTENT` 1卷
+
+**人物**
+- 施護 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→明】 — `WITID` wit12
+- 【大→宋】 — `WITID` wit10
+- 【大→元】 — `WITID` wit11
+
+## [KR6j0586 佛說華積陀羅尼神呪經-吳-支謙](https://github.com/kanripo/KR6j0586)
+
+吳 · `BASEEDITION` T · `CBETA_ID` T21n1356 · `RELATED` T21n1357@經, T21n1358@經, T21n1359@經 · `GENRE` 經 · `CUSTOM_ID` ZB6j0565 · `SOURCE` Taisho Tripitaka Vol. 21, No. 1356 · `EXTENT` 1卷
+
+**人物**
+- 支謙 — 譯
+
+**版本**
+- CBETA — `WITID` wit3
+- 【大】 — `WITID` wit4
+- 【大→宋】 — `WITID` wit10
+- 【大→元】 — `WITID` wit11
+- 【大→明】 — `WITID` wit12
+- 【大→甲】 — `WITID` wit49
+- 【大→麗】 — `WITID` wit8
+
+## [KR6j0587 佛說師子奮迅菩薩所問經--失譯](https://github.com/kanripo/KR6j0587)
+
+`BASEEDITION` T · `CBETA_ID` T21n1357 · `RELATED` T21n1356@經, T21n1358@經, T21n1359@經 · `GENRE` 經 · `CUSTOM_ID` ZB6j0566 · `SOURCE` Taisho Tripitaka Vol. 21, No. 1357 · `EXTENT` 1卷
+
+**人物**
+- 失譯 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→元】 — `WITID` wit11
+- 【大→明】 — `WITID` wit12
+- 【大→宋】 — `WITID` wit10
+
+## [KR6j0588 佛說花聚陀羅尼呪經--失譯](https://github.com/kanripo/KR6j0588)
+
+`BASEEDITION` T · `CBETA_ID` T21n1358 · `RELATED` T21n1356@經, T21n1357@經, T21n1359@經 · `GENRE` 經 · `CUSTOM_ID` ZB6j0567 · `SOURCE` Taisho Tripitaka Vol. 21, No. 1358 · `EXTENT` 1卷
+
+**人物**
+- 失譯 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→宋】 — `WITID` wit10
+- 【大→元】 — `WITID` wit11
+- 【大→明】 — `WITID` wit12
+
+## [KR6j0589 佛說花積樓閣陀羅尼經-宋-施護](https://github.com/kanripo/KR6j0589)
+
+宋 · `BASEEDITION` T · `CBETA_ID` T21n1359 · `RELATED` T21n1356@經, T21n1357@經, T21n1358@經 · `GENRE` 經 · `CUSTOM_ID` ZB6j0568 · `SOURCE` Taisho Tripitaka Vol. 21, No. 1359 · `EXTENT` 1卷
+
+**人物**
+- 施護 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→明】 — `WITID` wit12
+- 【大→宋】 — `WITID` wit10
+- 【大→元】 — `WITID` wit11
+
+## [KR6j0590 六門陀羅尼經-唐-玄奘](https://github.com/kanripo/KR6j0590)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T21n1360 · `RELATED` T21n1361@經 · `GENRE` 經 · `CUSTOM_ID` ZB6j0569 · `SOURCE` Taisho Tripitaka Vol. 21, No. 1360 · `EXTENT` 1卷
+
+**人物**
+- 玄奘 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→元】 — `WITID` wit11
+- 【大→明】 — `WITID` wit12
+- 【大→甲】 — `WITID` wit49
+- 【大→宋】 — `WITID` wit10
+
+## [KR6j0591 六門陀羅尼經論--世親菩薩](https://github.com/kanripo/KR6j0591)
+
+`BASEEDITION` T · `CBETA_ID` T21n1361 · `RELATED` T21n1360@經 · `GENRE` 經 · `CUSTOM_ID` ZB6j0570 · `SOURCE` Taisho Tripitaka Vol. 21, No. 1361 · `EXTENT` 1卷
+
+**人物**
+- 世親菩薩 — ? · 造
+- 失譯 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→甲】 — `WITID` wit49
+
+## [KR6j0592 佛說善夜經-唐-義淨](https://github.com/kanripo/KR6j0592)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T21n1362 · `GENRE` 經 · `CUSTOM_ID` ZB6j0571 · `SOURCE` Taisho Tripitaka Vol. 21, No. 1362 · `EXTENT` 1卷
+
+**人物**
+- 義淨 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→宋】 — `WITID` wit10
+- 【大→元】 — `WITID` wit11
+- 【大→明】 — `WITID` wit12
+
+## [KR6j0593 勝幢臂印陀羅尼經-唐-玄奘](https://github.com/kanripo/KR6j0593)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T21n1363 · `RELATED` T21n1364@經 · `GENRE` 經 · `CUSTOM_ID` ZB6j0572 · `SOURCE` Taisho Tripitaka Vol. 21, No. 1363 · `EXTENT` 1卷
+
+**人物**
+- 玄奘 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→元】 — `WITID` wit11
+- 【大→宋】 — `WITID` wit10
+- 【大→明】 — `WITID` wit12
+
+## [KR6j0594 妙臂印幢陀羅尼經-唐-實叉難陀](https://github.com/kanripo/KR6j0594)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T21n1364 · `RELATED` T21n1363@經 · `GENRE` 經 · `CUSTOM_ID` ZB6j0573 · `SOURCE` Taisho Tripitaka Vol. 21, No. 1364 · `EXTENT` 1卷
+
+**人物**
+- 實叉難陀 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→宋】 — `WITID` wit10
+- 【大→元】 — `WITID` wit11
+- 【大→明】 — `WITID` wit12
+
+## [KR6j0595 八名普密陀羅尼經-唐-玄奘](https://github.com/kanripo/KR6j0595)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T21n1365 · `RELATED` T21n1366@經 · `GENRE` 經 · `CUSTOM_ID` ZB6j0574 · `SOURCE` Taisho Tripitaka Vol. 21, No. 1365 · `EXTENT` 1卷
+
+**人物**
+- 玄奘 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→宋】 — `WITID` wit10
+- 【大→明】 — `WITID` wit12
+- 【大→元】 — `WITID` wit11
+
+## [KR6j0596 佛說祕密八名陀羅尼經-宋-法賢](https://github.com/kanripo/KR6j0596)
+
+宋 · `BASEEDITION` T · `CBETA_ID` T21n1366 · `RELATED` T21n1365@經 · `GENRE` 經 · `CUSTOM_ID` ZB6j0575 · `SOURCE` Taisho Tripitaka Vol. 21, No. 1366 · `EXTENT` 1卷
+
+**人物**
+- 法賢 — 譯
+
+**版本**
+- CBETA — `WITID` wit3
+- 【大】 — `WITID` wit4
+- 【大→宋】 — `WITID` wit10
+- 【大→元】 — `WITID` wit11
+- 【大→明】 — `WITID` wit12
+- 【大→麗】 — `WITID` wit8
+
+## [KR6j0597 佛說大普賢陀羅尼經--失譯](https://github.com/kanripo/KR6j0597)
+
+`BASEEDITION` T · `CBETA_ID` T21n1367 · `GENRE` 經 · `CUSTOM_ID` ZB6j0576 · `SOURCE` Taisho Tripitaka Vol. 21, No. 1367 · `EXTENT` 1卷
+
+**人物**
+- 失譯 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→元】 — `WITID` wit11
+- 【大→明】 — `WITID` wit12
+- 【大→宋】 — `WITID` wit10
+
+## [KR6j0598 佛說大七寶陀羅尼經--失譯](https://github.com/kanripo/KR6j0598)
+
+`BASEEDITION` T · `CBETA_ID` T21n1368 · `GENRE` 經 · `CUSTOM_ID` ZB6j0577 · `SOURCE` Taisho Tripitaka Vol. 21, No. 1368 · `EXTENT` 1卷
+
+**人物**
+- 失譯 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→元】 — `WITID` wit11
+- 【大→明】 — `WITID` wit12
+- 【大→宋】 — `WITID` wit10
+
+## [KR6j0599 百千印陀羅尼經-唐-實叉難陀](https://github.com/kanripo/KR6j0599)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T21n1369a · `GENRE` 經 · `CUSTOM_ID` ZB6j0578 · `SOURCE` Taisho Tripitaka Vol. 21, No. 1369a · `EXTENT` 1卷
+
+**人物**
+- 實叉難陀 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+
+## [KR6j0600 百千印陀羅尼經-唐-實叉難陀](https://github.com/kanripo/KR6j0600)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T21n1369b · `GENRE` 經 · `CUSTOM_ID` ZB6j0579 · `SOURCE` Taisho Tripitaka Vol. 21, No. 1369b · `EXTENT` 1卷
+
+**人物**
+- 實叉難陀 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→宋】 — `WITID` wit10
+- 【大→元】 — `WITID` wit11
+
+## [KR6j0601 佛說持明藏八大總持王經-宋-施護](https://github.com/kanripo/KR6j0601)
+
+宋 · `BASEEDITION` T · `CBETA_ID` T21n1370 · `GENRE` 經 · `CUSTOM_ID` ZB6j0580 · `SOURCE` Taisho Tripitaka Vol. 21, No. 1370 · `EXTENT` 1卷
+
+**人物**
+- 施護 — 譯
+
+**版本**
+- CBETA — `WITID` wit3
+- 【大】 — `WITID` wit4
+- 【大→明】 — `WITID` wit12
+- 【大→宋】 — `WITID` wit10
+- 【大→元】 — `WITID` wit11
+- 【大→麗】 — `WITID` wit8
+
+## [KR6j0602 佛說聖大總持王經-宋-施護](https://github.com/kanripo/KR6j0602)
+
+宋 · `BASEEDITION` T · `CBETA_ID` T21n1371 · `GENRE` 經 · `CUSTOM_ID` ZB6j0581 · `SOURCE` Taisho Tripitaka Vol. 21, No. 1371 · `EXTENT` 1卷
+
+**人物**
+- 施護 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→明】 — `WITID` wit12
+- 【大→宋】 — `WITID` wit10
+- 【大→元】 — `WITID` wit11
+
+## [KR6j0603 增慧陀羅尼經-宋-施護](https://github.com/kanripo/KR6j0603)
+
+宋 · `BASEEDITION` T · `CBETA_ID` T21n1372 · `GENRE` 經 · `CUSTOM_ID` ZB6j0582 · `SOURCE` Taisho Tripitaka Vol. 21, No. 1372 · `EXTENT` 1卷
+
+**人物**
+- 施護 — 譯
+
+**版本**
+- CBETA — `WITID` wit3
+- 【大】 — `WITID` wit4
+- 【大→宋】 — `WITID` wit10
+- 【大→元】 — `WITID` wit11
+- 【大→明】 — `WITID` wit12
+
+## [KR6j0604 佛說施一切無畏陀羅尼經-宋-施護](https://github.com/kanripo/KR6j0604)
+
+宋 · `BASEEDITION` T · `CBETA_ID` T21n1373 · `GENRE` 經 · `CUSTOM_ID` ZB6j0583 · `SOURCE` Taisho Tripitaka Vol. 21, No. 1373 · `EXTENT` 1卷
+
+**人物**
+- 施護 — 等譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→明】 — `WITID` wit12
+- 【大→宋】 — `WITID` wit10
+- 【大→元】 — `WITID` wit11
+
+## [KR6j0605 佛說一切功德莊嚴王經-唐-義淨](https://github.com/kanripo/KR6j0605)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T21n1374 · `GENRE` 經 · `CUSTOM_ID` ZB6j0584 · `SOURCE` Taisho Tripitaka Vol. 21, No. 1374 · `EXTENT` 1卷
+
+**人物**
+- 義淨 — 譯
+
+**版本**
+- CBETA — `WITID` wit3
+- 【大】 — `WITID` wit4
+- 【大→元】 — `WITID` wit11
+- 【大→明】 — `WITID` wit12
+- 【大→宋】 — `WITID` wit10
+- 【大→麗】 — `WITID` wit8
+
+## [KR6j0606 佛說莊嚴王陀羅尼呪經-唐-義淨](https://github.com/kanripo/KR6j0606)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T21n1375 · `GENRE` 經 · `CUSTOM_ID` ZB6j0585 · `SOURCE` Taisho Tripitaka Vol. 21, No. 1375 · `EXTENT` 1卷
+
+**人物**
+- 義淨 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→宋】 — `WITID` wit10
+- 【大→元】 — `WITID` wit11
+- 【大→明】 — `WITID` wit12
+
+## [KR6j0607 佛說聖莊嚴陀羅尼經-宋-施護](https://github.com/kanripo/KR6j0607)
+
+宋 · `BASEEDITION` T · `CBETA_ID` T21n1376 · `GENRE` 經 · `CUSTOM_ID` ZB6j0586 · `SOURCE` Taisho Tripitaka Vol. 21, No. 1376 · `EXTENT` 2卷
+
+**人物**
+- 施護 — 譯
+
+**版本**
+- CBETA — `WITID` wit3
+- 【大】 — `WITID` wit4
+- 【大→明】 — `WITID` wit12
+- 【大→麗】 — `WITID` wit8
+
+## [KR6j0608 佛說寶帶陀羅尼經-宋-施護](https://github.com/kanripo/KR6j0608)
+
+宋 · `BASEEDITION` T · `CBETA_ID` T21n1377 · `GENRE` 經 · `CUSTOM_ID` ZB6j0587 · `SOURCE` Taisho Tripitaka Vol. 21, No. 1377 · `EXTENT` 1卷
+
+**人物**
+- 施護 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→明】 — `WITID` wit12
+- 【大→宋】 — `WITID` wit10
+- 【大→元】 — `WITID` wit11
+
+## [KR6j0609 佛說玄師颰陀所說神呪經-東晉-曇無蘭](https://github.com/kanripo/KR6j0609)
+
+東晉 · `BASEEDITION` T · `CBETA_ID` T21n1378a · `GENRE` 經 · `CUSTOM_ID` ZB6j0588 · `SOURCE` Taisho Tripitaka Vol. 21, No. 1378a · `EXTENT` 1卷
+
+**人物**
+- 曇無蘭 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+
+## [KR6j0610 幻師颰陀神呪經-東晉-曇無蘭](https://github.com/kanripo/KR6j0610)
+
+東晉 · `BASEEDITION` T · `CBETA_ID` T21n1378b · `GENRE` 經 · `CUSTOM_ID` ZB6j0589 · `SOURCE` Taisho Tripitaka Vol. 21, No. 1378b · `EXTENT` 1卷
+
+**人物**
+- 曇無蘭 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→宋】 — `WITID` wit10
+
+## [KR6j0611 佛說大愛陀羅尼經-宋-法賢](https://github.com/kanripo/KR6j0611)
+
+宋 · `BASEEDITION` T · `CBETA_ID` T21n1379 · `GENRE` 經 · `CUSTOM_ID` ZB6j0590 · `SOURCE` Taisho Tripitaka Vol. 21, No. 1379 · `EXTENT` 1卷
+
+**人物**
+- 法賢 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→明】 — `WITID` wit12
+- 【大→宋】 — `WITID` wit10
+- 【大→元】 — `WITID` wit11
+
+## [KR6j0612 佛說善樂長者經-宋-法賢](https://github.com/kanripo/KR6j0612)
+
+宋 · `BASEEDITION` T · `CBETA_ID` T21n1380 · `GENRE` 經 · `CUSTOM_ID` ZB6j0591 · `SOURCE` Taisho Tripitaka Vol. 21, No. 1380 · `EXTENT` 1卷
+
+**人物**
+- 法賢 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→明】 — `WITID` wit12
+- 【大→宋】 — `WITID` wit10
+- 【大→元】 — `WITID` wit11
+
+## [KR6j0613 佛說大吉祥陀羅尼經-宋-法賢](https://github.com/kanripo/KR6j0613)
+
+宋 · `BASEEDITION` T · `CBETA_ID` T21n1381 · `GENRE` 經 · `CUSTOM_ID` ZB6j0592 · `SOURCE` Taisho Tripitaka Vol. 21, No. 1381 · `EXTENT` 1卷
+
+**人物**
+- 法賢 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→明】 — `WITID` wit12
+
+## [KR6j0614 佛說宿命智陀羅尼-宋-法賢](https://github.com/kanripo/KR6j0614)
+
+宋 · `BASEEDITION` T · `CBETA_ID` T21n1382 · `GENRE` 經 · `CUSTOM_ID` ZB6j0593 · `SOURCE` Taisho Tripitaka Vol. 21, No. 1382 · `EXTENT` 1卷
+
+**人物**
+- 法賢 — 譯
+
+**版本**
+- CBETA — `WITID` wit3
+- 【大】 — `WITID` wit4
+- 【大→宋】 — `WITID` wit10
+- 【大→元】 — `WITID` wit11
+- 【大→明】 — `WITID` wit12
+- 【大→麗】 — `WITID` wit8
+
+## [KR6j0615 佛說宿命智陀羅尼經-宋-法賢](https://github.com/kanripo/KR6j0615)
+
+宋 · `BASEEDITION` T · `CBETA_ID` T21n1383 · `GENRE` 經 · `CUSTOM_ID` ZB6j0594 · `SOURCE` Taisho Tripitaka Vol. 21, No. 1383 · `EXTENT` 1卷
+
+**人物**
+- 法賢 — 譯
+
+**版本**
+- CBETA — `WITID` wit3
+- 【大】 — `WITID` wit4
+- 【大→宋】 — `WITID` wit10
+- 【大→元】 — `WITID` wit11
+- 【大→明】 — `WITID` wit12
+- 【大→麗】 — `WITID` wit8
+- 【大→磧砂】 — `WITID` wit15
+
+## [KR6j0616 佛說鉢蘭那賒嚩哩大陀羅尼經-宋-法賢](https://github.com/kanripo/KR6j0616)
+
+宋 · `BASEEDITION` T · `CBETA_ID` T21n1384 · `GENRE` 經 · `CUSTOM_ID` ZB6j0595 · `SOURCE` Taisho Tripitaka Vol. 21, No. 1384 · `EXTENT` 1卷
+
+**人物**
+- 法賢 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→宋】 — `WITID` wit10
+- 【大→元】 — `WITID` wit11
+- 【大→明】 — `WITID` wit12
+
+## [KR6j0617 佛說俱枳羅陀羅尼經-宋-法賢](https://github.com/kanripo/KR6j0617)
+
+宋 · `BASEEDITION` T · `CBETA_ID` T21n1385 · `GENRE` 經 · `CUSTOM_ID` ZB6j0596 · `SOURCE` Taisho Tripitaka Vol. 21, No. 1385 · `EXTENT` 1卷
+
+**人物**
+- 法賢 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→明】 — `WITID` wit12
+- 【大→宋】 — `WITID` wit10
+- 【大→元】 — `WITID` wit11
+
+## [KR6j0618 佛說妙色陀羅尼經-宋-法賢](https://github.com/kanripo/KR6j0618)
+
+宋 · `BASEEDITION` T · `CBETA_ID` T21n1386 · `GENRE` 經 · `CUSTOM_ID` ZB6j0597 · `SOURCE` Taisho Tripitaka Vol. 21, No. 1386 · `EXTENT` 1卷
+
+**人物**
+- 法賢 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→宋】 — `WITID` wit10
+- 【大→元】 — `WITID` wit11
+- 【大→明】 — `WITID` wit12
+
+## [KR6j0619 佛說栴檀香身陀羅尼經-宋-法賢](https://github.com/kanripo/KR6j0619)
+
+宋 · `BASEEDITION` T · `CBETA_ID` T21n1387 · `GENRE` 經 · `CUSTOM_ID` ZB6j0598 · `SOURCE` Taisho Tripitaka Vol. 21, No. 1387 · `EXTENT` 1卷
+
+**人物**
+- 法賢 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→宋】 — `WITID` wit10
+- 【大→元】 — `WITID` wit11
+- 【大→明】 — `WITID` wit12
+
+## [KR6j0620 佛說無畏陀羅尼經-宋-法賢](https://github.com/kanripo/KR6j0620)
+
+宋 · `BASEEDITION` T · `CBETA_ID` T21n1388 · `GENRE` 經 · `CUSTOM_ID` ZB6j0599 · `SOURCE` Taisho Tripitaka Vol. 21, No. 1388 · `EXTENT` 1卷
+
+**人物**
+- 法賢 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→明】 — `WITID` wit12
+
+## [KR6j0621 佛說無量壽大智陀羅尼-宋-法賢](https://github.com/kanripo/KR6j0621)
+
+宋 · `BASEEDITION` T · `CBETA_ID` T21n1389 · `GENRE` 經 · `CUSTOM_ID` ZB6j0600 · `SOURCE` Taisho Tripitaka Vol. 21, No. 1389 · `EXTENT` 1卷
+
+**人物**
+- 法賢 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→宋】 — `WITID` wit10
+- 【大→元】 — `WITID` wit11
+- 【大→明】 — `WITID` wit12
+
+## [KR6j0622 佛說洛叉陀羅尼經-宋-法賢](https://github.com/kanripo/KR6j0622)
+
+宋 · `BASEEDITION` T · `CBETA_ID` T21n1390 · `GENRE` 經 · `CUSTOM_ID` ZB6j0601 · `SOURCE` Taisho Tripitaka Vol. 21, No. 1390 · `EXTENT` 1卷
+
+**人物**
+- 法賢 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→宋】 — `WITID` wit10
+- 【大→元】 — `WITID` wit11
+- 【大→明】 — `WITID` wit12
+
+## [KR6j0623 佛說檀特羅麻油述經-東晉-曇無蘭](https://github.com/kanripo/KR6j0623)
+
+東晉 · `BASEEDITION` T · `CBETA_ID` T21n1391 · `GENRE` 經 · `CUSTOM_ID` ZB6j0602 · `SOURCE` Taisho Tripitaka Vol. 21, No. 1391 · `EXTENT` 1卷
+
+**人物**
+- 曇無蘭 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→宋】 — `WITID` wit10
+- 【大→元】 — `WITID` wit11
+- 【大→明】 — `WITID` wit12
+
+## [KR6j0624 大寒林聖難拏陀羅尼經-宋-法天](https://github.com/kanripo/KR6j0624)
+
+宋 · `BASEEDITION` T · `CBETA_ID` T21n1392 · `GENRE` 經 · `CUSTOM_ID` ZB6j0603 · `SOURCE` Taisho Tripitaka Vol. 21, No. 1392 · `EXTENT` 1卷
+
+**人物**
+- 法天 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→明】 — `WITID` wit12
+- 【大→宋】 — `WITID` wit10
+- 【大→元】 — `WITID` wit11
+
+## [KR6j0625 佛說摩尼羅亶經-東晉-曇無蘭](https://github.com/kanripo/KR6j0625)
+
+東晉 · `BASEEDITION` T · `CBETA_ID` T21n1393 · `GENRE` 經 · `CUSTOM_ID` ZB6j0604 · `SOURCE` Taisho Tripitaka Vol. 21, No. 1393 · `EXTENT` 1卷
+
+**人物**
+- 曇無蘭 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→宋】 — `WITID` wit10
+- 【大→元】 — `WITID` wit11
+- 【大→明】 — `WITID` wit12
+
+## [KR6j0626 佛說安宅神呪經--失譯](https://github.com/kanripo/KR6j0626)
+
+`BASEEDITION` T · `CBETA_ID` T21n1394 · `GENRE` 經 · `CUSTOM_ID` ZB6j0605 · `SOURCE` Taisho Tripitaka Vol. 21, No. 1394 · `EXTENT` 1卷
+
+**人物**
+- 失譯 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→宋】 — `WITID` wit10
+- 【大→元】 — `WITID` wit11
+- 【大→明】 — `WITID` wit12
+
+## [KR6j0627 拔濟苦難陀羅尼經-唐-玄奘](https://github.com/kanripo/KR6j0627)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T21n1395 · `GENRE` 經 · `CUSTOM_ID` ZB6j0606 · `SOURCE` Taisho Tripitaka Vol. 21, No. 1395 · `EXTENT` 1卷
+
+**人物**
+- 玄奘 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→元】 — `WITID` wit11
+- 【大→明】 — `WITID` wit12
+- 【大→宋】 — `WITID` wit10
+
+## [KR6j0628 佛說拔除罪障呪王經-唐-義淨](https://github.com/kanripo/KR6j0628)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T21n1396 · `GENRE` 經 · `CUSTOM_ID` ZB6j0607 · `SOURCE` Taisho Tripitaka Vol. 21, No. 1396 · `EXTENT` 1卷
+
+**人物**
+- 義淨 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→宋】 — `WITID` wit10
+- 【大→元】 — `WITID` wit11
+- 【大→明】 — `WITID` wit12
+
+## [KR6j0629 智炬陀羅尼經-唐-提雲般若](https://github.com/kanripo/KR6j0629)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T21n1397 · `GENRE` 經 · `CUSTOM_ID` ZB6j0608 · `SOURCE` Taisho Tripitaka Vol. 21, No. 1397 · `EXTENT` 1卷
+
+**人物**
+- 提雲般若 — 等譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→元】 — `WITID` wit11
+- 【大→明】 — `WITID` wit12
+- 【大→宋】 — `WITID` wit10
+
+## [KR6j0630 佛說智光滅一切業障陀羅尼經-宋-施護](https://github.com/kanripo/KR6j0630)
+
+宋 · `BASEEDITION` T · `CBETA_ID` T21n1398 · `GENRE` 經 · `CUSTOM_ID` ZB6j0609 · `SOURCE` Taisho Tripitaka Vol. 21, No. 1398 · `EXTENT` 1卷
+
+**人物**
+- 施護 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→明】 — `WITID` wit12
+- 【大→宋】 — `WITID` wit10
+- 【大→元】 — `WITID` wit11
+
+## [KR6j0631 佛說滅除五逆罪大陀羅尼經-宋-法賢](https://github.com/kanripo/KR6j0631)
+
+宋 · `BASEEDITION` T · `CBETA_ID` T21n1399 · `GENRE` 經 · `CUSTOM_ID` ZB6j0610 · `SOURCE` Taisho Tripitaka Vol. 21, No. 1399 · `EXTENT` 1卷
+
+**人物**
+- 法賢 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→宋】 — `WITID` wit10
+- 【大→元】 — `WITID` wit11
+- 【大→明】 — `WITID` wit12
+
+## [KR6j0632 佛說消除一切災障寶髻陀羅尼經-宋-法賢](https://github.com/kanripo/KR6j0632)
+
+宋 · `BASEEDITION` T · `CBETA_ID` T21n1400 · `GENRE` 經 · `CUSTOM_ID` ZB6j0611 · `SOURCE` Taisho Tripitaka Vol. 21, No. 1400 · `EXTENT` 1卷
+
+**人物**
+- 法賢 — 譯
+
+**版本**
+- CBETA — `WITID` wit3
+- 【大】 — `WITID` wit4
+- 【大→明】 — `WITID` wit12
+- 【大→宋】 — `WITID` wit10
+- 【大→元】 — `WITID` wit11
+- 【大→麗】 — `WITID` wit8
+
+## [KR6j0633 佛說大金剛香陀羅尼經-宋-施護](https://github.com/kanripo/KR6j0633)
+
+宋 · `BASEEDITION` T · `CBETA_ID` T21n1401 · `GENRE` 經 · `CUSTOM_ID` ZB6j0612 · `SOURCE` Taisho Tripitaka Vol. 21, No. 1401 · `EXTENT` 1卷
+
+**人物**
+- 施護 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→明】 — `WITID` wit12
+- 【大→宋】 — `WITID` wit10
+
+## [KR6j0634 消除一切閃電障難隨求如意陀羅尼經-宋-施護](https://github.com/kanripo/KR6j0634)
+
+宋 · `BASEEDITION` T · `CBETA_ID` T21n1402 · `GENRE` 經 · `CUSTOM_ID` ZB6j0613 · `SOURCE` Taisho Tripitaka Vol. 21, No. 1402 · `EXTENT` 1卷
+
+**人物**
+- 施護 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→明】 — `WITID` wit12
+- 【大→宋】 — `WITID` wit10
+- 【大→元】 — `WITID` wit11
+
+## [KR6j0635 佛說如意摩尼陀羅尼經-宋-施護](https://github.com/kanripo/KR6j0635)
+
+宋 · `BASEEDITION` T · `CBETA_ID` T21n1403 · `GENRE` 經 · `CUSTOM_ID` ZB6j0614 · `SOURCE` Taisho Tripitaka Vol. 21, No. 1403 · `EXTENT` 1卷
+
+**人物**
+- 施護 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→明】 — `WITID` wit12
+- 【大→宋】 — `WITID` wit10
+- 【大→元】 — `WITID` wit11
+
+## [KR6j0636 佛說如意寶總持王經-宋-施護](https://github.com/kanripo/KR6j0636)
+
+宋 · `BASEEDITION` T · `CBETA_ID` T21n1404 · `GENRE` 經 · `CUSTOM_ID` ZB6j0615 · `SOURCE` Taisho Tripitaka Vol. 21, No. 1404 · `EXTENT` 1卷
+
+**人物**
+- 施護 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→明】 — `WITID` wit12
+- 【大→宋】 — `WITID` wit10
+- 【大→元】 — `WITID` wit11
+
+## [KR6j0637 佛說息除賊難陀羅尼經-宋-法賢](https://github.com/kanripo/KR6j0637)
+
+宋 · `BASEEDITION` T · `CBETA_ID` T21n1405 · `GENRE` 經 · `CUSTOM_ID` ZB6j0616 · `SOURCE` Taisho Tripitaka Vol. 21, No. 1405 · `EXTENT` 1卷
+
+**人物**
+- 法賢 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→宋】 — `WITID` wit10
+- 【大→元】 — `WITID` wit11
+- 【大→明】 — `WITID` wit12
+
+## [KR6j0638 佛說辟除賊害呪經--](https://github.com/kanripo/KR6j0638)
+
+`BASEEDITION` T · `CBETA_ID` T21n1406 · `GENRE` 經 · `CUSTOM_ID` ZB6j0617 · `SOURCE` Taisho Tripitaka Vol. 21, No. 1406 · `EXTENT` 1卷
+
+**人物**
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→宋】 — `WITID` wit10
+- 【大→元】 — `WITID` wit11
+- 【大→明】 — `WITID` wit12
+
+## [KR6j0639 佛說辟除諸惡陀羅尼經-宋-法賢](https://github.com/kanripo/KR6j0639)
+
+宋 · `BASEEDITION` T · `CBETA_ID` T21n1407 · `GENRE` 經 · `CUSTOM_ID` ZB6j0618 · `SOURCE` Taisho Tripitaka Vol. 21, No. 1407 · `EXTENT` 1卷
+
+**人物**
+- 法賢 — 譯
+
+**版本**
+- CBETA — `WITID` wit3
+- 【大】 — `WITID` wit4
+- 【大→宋】 — `WITID` wit10
+- 【大→元】 — `WITID` wit11
+- 【大→明】 — `WITID` wit12
+- 【大→麗】 — `WITID` wit8
+
+## [KR6j0640 佛說最上意陀羅尼經-宋-施護](https://github.com/kanripo/KR6j0640)
+
+宋 · `BASEEDITION` T · `CBETA_ID` T21n1408 · `GENRE` 經 · `CUSTOM_ID` ZB6j0619 · `SOURCE` Taisho Tripitaka Vol. 21, No. 1408 · `EXTENT` 1卷
+
+**人物**
+- 施護 — 譯
+
+**版本**
+- CBETA — `WITID` wit3
+- 【大】 — `WITID` wit4
+- 【大→明】 — `WITID` wit12
+- 【大→宋】 — `WITID` wit10
+- 【大→元】 — `WITID` wit11
+- 【大→麗】 — `WITID` wit8
+
+## [KR6j0641 佛說聖最勝陀羅尼經-宋-施護](https://github.com/kanripo/KR6j0641)
+
+宋 · `BASEEDITION` T · `CBETA_ID` T21n1409 · `GENRE` 經 · `CUSTOM_ID` ZB6j0620 · `SOURCE` Taisho Tripitaka Vol. 21, No. 1409 · `EXTENT` 1卷
+
+**人物**
+- 施護 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→明】 — `WITID` wit12
+- 【大→宋】 — `WITID` wit10
+- 【大→元】 — `WITID` wit11
+
+## [KR6j0642 佛說勝幡瓔珞陀羅尼經-宋-施護](https://github.com/kanripo/KR6j0642)
+
+宋 · `BASEEDITION` T · `CBETA_ID` T21n1410 · `GENRE` 經 · `CUSTOM_ID` ZB6j0621 · `SOURCE` Taisho Tripitaka Vol. 21, No. 1410 · `EXTENT` 1卷
+
+**人物**
+- 施護 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→明】 — `WITID` wit12
+- 【大→宋】 — `WITID` wit10
+- 【大→元】 — `WITID` wit11
+
+## [KR6j0643 佛說蓮華眼陀羅尼經-宋-施護](https://github.com/kanripo/KR6j0643)
+
+宋 · `BASEEDITION` T · `CBETA_ID` T21n1411 · `GENRE` 經 · `CUSTOM_ID` ZB6j0622 · `SOURCE` Taisho Tripitaka Vol. 21, No. 1411 · `EXTENT` 1卷
+
+**人物**
+- 施護 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→明】 — `WITID` wit12
+- 【大→宋】 — `WITID` wit10
+- 【大→元】 — `WITID` wit11
+
+## [KR6j0644 佛說寶生陀羅尼經-宋-施護](https://github.com/kanripo/KR6j0644)
+
+宋 · `BASEEDITION` T · `CBETA_ID` T21n1412 · `GENRE` 經 · `CUSTOM_ID` ZB6j0623 · `SOURCE` Taisho Tripitaka Vol. 21, No. 1412 · `EXTENT` 1卷
+
+**人物**
+- 施護 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→明】 — `WITID` wit12
+- 【大→宋】 — `WITID` wit10
+- 【大→元】 — `WITID` wit11
+
+## [KR6j0645 佛說尊勝大明王經-宋-施護](https://github.com/kanripo/KR6j0645)
+
+宋 · `BASEEDITION` T · `CBETA_ID` T21n1413 · `GENRE` 經 · `CUSTOM_ID` ZB6j0624 · `SOURCE` Taisho Tripitaka Vol. 21, No. 1413 · `EXTENT` 1卷
+
+**人物**
+- 施護 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→明】 — `WITID` wit12
+- 【大→宋】 — `WITID` wit10
+- 【大→元】 — `WITID` wit11
+
+## [KR6j0646 佛說金身陀羅尼經-宋-施護](https://github.com/kanripo/KR6j0646)
+
+宋 · `BASEEDITION` T · `CBETA_ID` T21n1414 · `GENRE` 經 · `CUSTOM_ID` ZB6j0625 · `SOURCE` Taisho Tripitaka Vol. 21, No. 1414 · `EXTENT` 1卷
+
+**人物**
+- 施護 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→明】 — `WITID` wit12
+- 【大→元】 — `WITID` wit11
+- 【大→宋】 — `WITID` wit10
+
+## [KR6j0647 大金剛妙高山樓閣陀羅尼-宋-施護](https://github.com/kanripo/KR6j0647)
+
+宋 · `BASEEDITION` T · `CBETA_ID` T21n1415 · `GENRE` 經 · `CUSTOM_ID` ZB6j0626 · `SOURCE` Taisho Tripitaka Vol. 21, No. 1415 · `EXTENT` 1卷
+
+**人物**
+- 施護 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→宋】 — `WITID` wit10
+- 【大→元】 — `WITID` wit11
+- 【大→明】 — `WITID` wit12
+
+## [KR6j0648 金剛摧碎陀羅尼-宋-慈賢](https://github.com/kanripo/KR6j0648)
+
+宋 · `BASEEDITION` T · `CBETA_ID` T21n1416 · `GENRE` 經 · `CUSTOM_ID` ZB6j0627 · `SOURCE` Taisho Tripitaka Vol. 21, No. 1416 · `EXTENT` 1卷
+
+**人物**
+- 慈賢 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+
+## [KR6j0649 佛說壞相金剛陀羅尼經-元-沙囉巴](https://github.com/kanripo/KR6j0649)
+
+元 · `BASEEDITION` T · `CBETA_ID` T21n1417 · `GENRE` 經 · `CUSTOM_ID` ZB6j0628 · `SOURCE` Taisho Tripitaka Vol. 21, No. 1417 · `EXTENT` 1卷
+
+**人物**
+- 沙囉巴 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+
+## [KR6j0650 正了知王藥叉眷屬法-唐-義淨](https://github.com/kanripo/KR6j0650)
+
+唐 · `BASEEDITION` X · `CBETA_ID` X02n0182 · `GENRE` 經 · `CUSTOM_ID` ZB6j0629 · `SOURCE` 卍 Xuzangjing Vol. 02, No. 182 · `EXTENT` 1卷
+
+**人物**
+- 義淨 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- orig — `WITID` wit99
+
+## [KR6j0651 二十八夜叉大軍王名號-梁-僧伽婆羅](https://github.com/kanripo/KR6j0651)
+
+梁 · `BASEEDITION` X · `CBETA_ID` X02n0183 · `GENRE` 經 · `CUSTOM_ID` ZB6j0630 · `SOURCE` 卍 Xuzangjing Vol. 02, No. 183 · `EXTENT` 1卷
+
+**人物**
+- 僧伽婆羅 — 譯抄之
+
+**版本**
+- CBETA — `WITID` wit1
+- orig — `WITID` wit99
+
+## [KR6j0652 二十八藥叉大將名號-唐-不空](https://github.com/kanripo/KR6j0652)
+
+唐 · `BASEEDITION` X · `CBETA_ID` X02n0184 · `GENRE` 經 · `CUSTOM_ID` ZB6j0631 · `SOURCE` 卍 Xuzangjing Vol. 02, No. 184 · `EXTENT` 1卷
+
+**人物**
+- 不空 — 譯抄之
+
+**版本**
+- CBETA — `WITID` wit1
+
+## [KR6j0653 權現金色迦那婆底九目天法-唐-菩提留支](https://github.com/kanripo/KR6j0653)
+
+唐 · `BASEEDITION` X · `CBETA_ID` X02n0185 · `GENRE` 經 · `CUSTOM_ID` ZB6j0632 · `SOURCE` 卍 Xuzangjing Vol. 02, No. 185 · `EXTENT` 1卷
+
+**人物**
+- 菩提留支 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- orig — `WITID` wit99
+
+## [KR6j0654 佛說却溫黃神咒經--](https://github.com/kanripo/KR6j0654)
+
+`BASEEDITION` X · `CBETA_ID` X02n0193 · `GENRE` 經 · `CUSTOM_ID` ZB6j0633 · `SOURCE` 卍 Xuzangjing Vol. 02, No. 193 · `EXTENT` 1卷
+
+**人物**
+
+**版本**
+- CBETA — `WITID` wit1
+- orig — `WITID` wit99
+
+## [KR6j0655 佛說大如意寶珠輪牛王守護神咒經-唐-阿謨伽三藏](https://github.com/kanripo/KR6j0655)
+
+唐 · `BASEEDITION` X · `CBETA_ID` X02n0202 · `GENRE` 經 · `CUSTOM_ID` ZB6j0634 · `SOURCE` 卍 Xuzangjing Vol. 02, No. 202 · `EXTENT` 1卷
+
+**人物**
+- 阿謨伽三藏 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- orig — `WITID` wit99
+
+## [KR6j0656 作世水宅心陀羅尼--](https://github.com/kanripo/KR6j0656)
+
+`BASEEDITION` X · `CBETA_ID` X02n0203 · `GENRE` 經 · `CUSTOM_ID` ZB6j0635 · `SOURCE` 卍 Xuzangjing Vol. 02, No. 203 · `EXTENT` 1卷
+
+**人物**
+
+**版本**
+- CBETA — `WITID` wit1
+- orig — `WITID` wit99
+
+## [KR6j0657 佛說一切如來安像三昧儀軌經-宋-施護](https://github.com/kanripo/KR6j0657)
+
+宋 · `BASEEDITION` T · `CBETA_ID` T21n1418 · `GENRE` 經 · `CUSTOM_ID` ZB6j0636 · `SOURCE` Taisho Tripitaka Vol. 21, No. 1418 · `EXTENT` 1卷
+
+**人物**
+- 施護 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→明】 — `WITID` wit12
+- 【大→宋】 — `WITID` wit10
+- 【大→元】 — `WITID` wit11
+
+## [KR6j0658 佛說造像量度經解-清-工布查布](https://github.com/kanripo/KR6j0658)
+
+清 · `BASEEDITION` T · `CBETA_ID` T21n1419 · `GENRE` 經 · `CUSTOM_ID` ZB6j0637 · `SOURCE` Taisho Tripitaka Vol. 21, No. 1419 · `EXTENT` 1卷
+
+**人物**
+- 工布查布 — 譯解
+
+**版本**
+- CBETA — `WITID` wit1
+- orig — `WITID` wit99
+
+## [KR6j0659 造像量度經-清-工布查布](https://github.com/kanripo/KR6j0659)
+
+清 · `BASEEDITION` X · `CBETA_ID` X01n0028 · `GENRE` 經 · `CUSTOM_ID` ZB6j0638 · `SOURCE` 卍 Xuzangjing Vol. 01, No. 028 · `EXTENT` 1卷
+
+**人物**
+- 工布查布 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- orig — `WITID` wit99
+
+## [KR6j0660 龍樹五明論--](https://github.com/kanripo/KR6j0660)
+
+`BASEEDITION` T · `CBETA_ID` T21n1420 · `CUSTOM_ID` ZB6j0639 · `SOURCE` Taisho Tripitaka Vol. 21, No. 1420 · `EXTENT` 2卷
+
+**人物**
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→原】 — `WITID` wit6
+
+## [KR6j0661 五大牛玉雨寶陀羅尼儀軌-唐-縛日羅枳惹曩](https://github.com/kanripo/KR6j0661)
+
+唐 · `BASEEDITION` X · `CBETA_ID` X02n0201 · `GENRE` 經 · `CUSTOM_ID` ZB6j0640 · `SOURCE` 卍 Xuzangjing Vol. 02, No. 201 · `EXTENT` 1卷
+
+**人物**
+- 縛日羅枳惹曩 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- orig — `WITID` wit99
+
+## [KR6j0662 大毘盧遮那成佛經疏-唐-一行](https://github.com/kanripo/KR6j0662)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T39n1796 · `RELATED` T12n0348@經, T58n2213@疏, T58n2214@疏, T58n2215@疏, T59n2216@疏, T59n2217@疏, T60n2218@疏, T60n2219@疏, T60n2220@疏 · `GENRE` 疏 · `CUSTOM_ID` ZB6j0641 · `SOURCE` Taisho Tripitaka Vol. 39, No. 1796 · `EXTENT` 20卷
+
+**人物**
+- 一行 — 記
+
+**版本**
+- CBETA — `WITID` wit3
+- 【大】 — `WITID` wit4
+- 【大→原】 — `WITID` wit6
+- 【大→乙】 — `WITID` wit50
+- 【大→甲】 — `WITID` wit49
+
+## [KR6j0663 大日經疏妙印鈔--宥範](https://github.com/kanripo/KR6j0663)
+
+`CBETA_ID` T58n2213 · `RELATED` T39n1796@疏, T58n2214@疏 · `GENRE` 疏 · `lang@ja-rom` DAINICHIKYŌSHO MYŌIN SHŌ · `lang@zh-py` (Da ri jing shu miao yin chao) · `EXTENT` LXXX
+
+**人物**
+- 宥範 — `lang@ja-rom` Yūban
+
+## [KR6j0664 大日經疏妙印鈔口傳--宥範](https://github.com/kanripo/KR6j0664)
+
+`CBETA_ID` T58n2214 · `RELATED` T39n1796@疏, T58n2213@疏 · `GENRE` 疏 · `lang@ja-rom` DAINICHIKYŌSHO MYŌINSHŌ KUDEN · `lang@zh-py` (Da ri jing shu miao yin chao kou zhuan) · `EXTENT` X
+
+**人物**
+- 宥範 — `lang@ja-rom` Yūban
+
+## [KR6j0665 大日經住心品疏私記--濟暹](https://github.com/kanripo/KR6j0665)
+
+`CBETA_ID` T58n2215 · `RELATED` T39n1796@疏 · `GENRE` 疏 · `lang@ja-rom` DAINICHIKYŌ JŪSHIMBON SHO SHIKI · `lang@zh-py` (Da ri jing zhu xin pin shu si ji) · `EXTENT` XVI
+
+**人物**
+- 濟暹 — `lang@ja-rom` Saisen
+
+## [KR6j0666 大日經疏演奧鈔--杲寶](https://github.com/kanripo/KR6j0666)
+
+`CBETA_ID` T59n2216 · `RELATED` T39n1796@疏 · `GENRE` 疏 · `lang@ja-rom` DAINICHIKYŌSHO ENNŌ SHŌ · `lang@zh-py` (Da ri jing shu yan ao chao) · `EXTENT` LX
+
+**人物**
+- 杲寶 — `lang@ja-rom` Gōhō
+
+## [KR6j0667 大日經疏指心鈔--頼瑜](https://github.com/kanripo/KR6j0667)
+
+`CBETA_ID` T59n2217 · `RELATED` T39n1796@疏 · `GENRE` 疏 · `lang@ja-rom` DAINICHIKYŌ SHO SHISHINSHŌ · `lang@zh-py` (Da ri jing shu zhi xin chao) · `EXTENT` XVI
+
+**人物**
+- 頼瑜 — `lang@ja-rom` Raiyu
+
+## [KR6j0668 大日經疏鈔--宥快](https://github.com/kanripo/KR6j0668)
+
+`CBETA_ID` T60n2218 · `RELATED` T39n1796@疏 · `GENRE` 疏 · `lang@ja-rom` DAINICHIKYŌSHO SHŌ · `lang@zh-py` (Da ri jing shu chao) · `EXTENT` LXXXV
+
+**人物**
+- 宥快 — `lang@ja-rom` Yūkai
+
+## [KR6j0669 大日經住心品疏私記--曇寂](https://github.com/kanripo/KR6j0669)
+
+`CBETA_ID` T60n2219 · `RELATED` T39n1796@疏 · `GENRE` 疏 · `lang@ja-rom` DAINICHIKYŌJŪSHIMBONSHO SHIKI · `lang@zh-py` (Da ri jing zhu xin pin shu si ji) · `EXTENT` XX
+
+**人物**
+- 曇寂 — `lang@ja-rom` Donjaku
+
+## [KR6j0670 大毘盧遮那經供養次第法疏-唐-不可思議](https://github.com/kanripo/KR6j0670)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T39n1797 · `RELATED` T18n0848-Fasc7@經, T60n2220@疏 · `GENRE` 疏 · `CUSTOM_ID` ZB6j0642 · `SOURCE` Taisho Tripitaka Vol. 39, No. 1797 · `EXTENT` 2卷
+
+**人物**
+- 不可思議 — 撰
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→甲】 — `WITID` wit49
+- 【大→乙】 — `WITID` wit50
+- 【大→原】 — `WITID` wit6
+
+## [KR6j0671 大日經供養次第法疏私記--宥範](https://github.com/kanripo/KR6j0671)
+
+`CBETA_ID` T60n2220 · `RELATED` T39n1797@疏 · `GENRE` 疏 · `lang@ja-rom` DAINICHIKYŌKUYŌSHIDAIHŌSHO SHIKI · `lang@zh-py` (Da ri jing gong yang ci di fa shu si ji) · `EXTENT` VIII
+
+**人物**
+- 宥範 — `lang@ja-rom` Yūban
+
+## [KR6j0672 金剛頂經大瑜伽祕密心地法門義訣-唐-不空](https://github.com/kanripo/KR6j0672)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T39n1798 · `RELATED` T18n0866@經 · `GENRE` 疏 · `CUSTOM_ID` ZB6j0643 · `SOURCE` Taisho Tripitaka Vol. 39, No. 1798 · `EXTENT` 1卷
+
+**人物**
+- 不空 — 撰
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+
+## [KR6j0673 首楞嚴義疏注經-宋-子璿](https://github.com/kanripo/KR6j0673)
+
+宋 · `BASEEDITION` T · `CBETA_ID` T39n1799 · `RELATED` T19n0945@經 · `GENRE` 疏 · `CUSTOM_ID` ZB6j0644 · `SOURCE` Taisho Tripitaka Vol. 39, No. 1799 · `EXTENT` 10卷
+
+**人物**
+- 子璿 — 集
+
+**版本**
+- CBETA — `WITID` wit3
+- 【大】 — `WITID` wit4
+- 【大→宮】 — `WITID` wit25
+- 【大→甲】 — `WITID` wit49
+- 【大→乙】 — `WITID` wit50
+- 【大→原】 — `WITID` wit6
+
+## [KR6j0674 楞嚴經義疏注經科-宋-子璿](https://github.com/kanripo/KR6j0674)
+
+宋 · `BASEEDITION` X · `CBETA_ID` X10n0265 · `GENRE` 疏 · `CUSTOM_ID` ZB6j0645 · `SOURCE` 卍 Xuzangjing Vol. 10, No. 265 · `EXTENT` 1卷
+
+**人物**
+- 子璿 — 述
+
+**版本**
+- CBETA — `WITID` wit1
+- orig — `WITID` wit99
+
+## [KR6j0675 楞嚴經義疏釋要鈔-宋-懷遠](https://github.com/kanripo/KR6j0675)
+
+宋 · `BASEEDITION` X · `CBETA_ID` X11n0267 · `GENRE` 疏 · `CUSTOM_ID` ZB6j0646 · `SOURCE` 卍 Xuzangjing Vol. 11, No. 267 · `EXTENT` 6卷
+
+**人物**
+- 懷遠 — 錄
+
+**版本**
+- CBETA — `WITID` wit1
+- orig — `WITID` wit99
+
+## [KR6j0676 楞嚴經集註-宋-思坦](https://github.com/kanripo/KR6j0676)
+
+宋 · `BASEEDITION` X · `CBETA_ID` X11n0268 · `GENRE` 疏 · `CUSTOM_ID` ZB6j0647 · `SOURCE` 卍 Xuzangjing Vol. 11, No. 268 · `EXTENT` 10卷
+
+**人物**
+- 思坦 — 集註
+
+**版本**
+- CBETA — `WITID` wit1
+- orig — `WITID` wit99
+
+## [KR6j0677 楞嚴經熏聞記-宋-仁岳](https://github.com/kanripo/KR6j0677)
+
+宋 · `BASEEDITION` X · `CBETA_ID` X11n0269 · `GENRE` 疏 · `CUSTOM_ID` ZB6j0648 · `SOURCE` 卍 Xuzangjing Vol. 11, No. 269 · `EXTENT` 5卷
+
+**人物**
+- 仁岳 — 述
+
+**版本**
+- CBETA — `WITID` wit1
+- orig — `WITID` wit99
+
+## [KR6j0678 楞嚴經要解-宋-戒環](https://github.com/kanripo/KR6j0678)
+
+宋 · `BASEEDITION` X · `CBETA_ID` X11n0270 · `GENRE` 疏 · `CUSTOM_ID` ZB6j0649 · `SOURCE` 卍 Xuzangjing Vol. 11, No. 270 · `EXTENT` 20卷
+
+**人物**
+- 戒環 — 解
+
+**版本**
+- CBETA — `WITID` wit1
+- orig — `WITID` wit99
+
+## [KR6j0679 楞嚴經箋-宋-惟慤](https://github.com/kanripo/KR6j0679)
+
+宋 · `BASEEDITION` X · `CBETA_ID` X11n0271 · `GENRE` 疏 · `CUSTOM_ID` ZB6j0650 · `SOURCE` 卍 Xuzangjing Vol. 11, No. 271 · `EXTENT` 10卷
+
+**人物**
+- 惟慤 — 科
+- 可度 — 箋
+
+**版本**
+- CBETA — `WITID` wit1
+- orig — `WITID` wit99
+
+## [KR6j0680 楞嚴經合論-宋-德洪造](https://github.com/kanripo/KR6j0680)
+
+宋 · `BASEEDITION` X · `CBETA_ID` X12n0272 · `GENRE` 疏 · `CUSTOM_ID` ZB6j0651 · `SOURCE` 卍 Xuzangjing Vol. 12, No. 272 · `EXTENT` 10卷
+
+**人物**
+- 德洪造 — 論
+- 正受 — 會合
+
+**版本**
+- CBETA — `WITID` wit1
+- orig — `WITID` wit99
+
+## [KR6j0681 楞嚴經正脉疏科-明-真鑑](https://github.com/kanripo/KR6j0681)
+
+明 · `BASEEDITION` X · `CBETA_ID` X12n0273 · `GENRE` 疏 · `CUSTOM_ID` ZB6j0652 · `SOURCE` 卍 Xuzangjing Vol. 12, No. 273 · `EXTENT` 10卷
+
+**人物**
+- 真鑑 — 作
+
+**版本**
+- CBETA — `WITID` wit1
+- orig — `WITID` wit99
+
+## [KR6j0682 楞嚴經正脉疏懸示-明-真鑑](https://github.com/kanripo/KR6j0682)
+
+明 · `BASEEDITION` X · `CBETA_ID` X12n0274 · `GENRE` 疏 · `CUSTOM_ID` ZB6j0653 · `SOURCE` 卍 Xuzangjing Vol. 12, No. 274 · `EXTENT` 1卷
+
+**人物**
+- 真鑑 — 述
+
+**版本**
+- CBETA — `WITID` wit1
+- orig — `WITID` wit99
+
+## [KR6j0683 楞嚴經正脉疏-明-真鑑](https://github.com/kanripo/KR6j0683)
+
+明 · `BASEEDITION` X · `CBETA_ID` X12n0275 · `GENRE` 疏 · `CUSTOM_ID` ZB6j0654 · `SOURCE` 卍 Xuzangjing Vol. 12, No. 275 · `EXTENT` 10卷
+
+**人物**
+- 真鑑 — 述
+
+**版本**
+- CBETA — `WITID` wit1
+- orig — `WITID` wit99
+
+## [KR6j0684 楞嚴經摸象記-明-袾宏](https://github.com/kanripo/KR6j0684)
+
+明 · `BASEEDITION` X · `CBETA_ID` X12n0276 · `GENRE` 疏 · `CUSTOM_ID` ZB6j0655 · `SOURCE` 卍 Xuzangjing Vol. 12, No. 276 · `EXTENT` 1卷
+
+**人物**
+- 袾宏 — 述
+
+**版本**
+- CBETA — `WITID` wit1
+- orig — `WITID` wit99
+
+## [KR6j0685 楞嚴經懸鏡-明-德清](https://github.com/kanripo/KR6j0685)
+
+明 · `BASEEDITION` X · `CBETA_ID` X12n0277 · `GENRE` 疏 · `CUSTOM_ID` ZB6j0656 · `SOURCE` 卍 Xuzangjing Vol. 12, No. 277 · `EXTENT` 1卷
+
+**人物**
+- 德清 — 述
+
+**版本**
+- CBETA — `WITID` wit1
+- orig — `WITID` wit99
+
+## [KR6j0686 楞嚴經通議略科-明-德清](https://github.com/kanripo/KR6j0686)
+
+明 · `BASEEDITION` X · `CBETA_ID` X12n0278 · `GENRE` 疏 · `CUSTOM_ID` ZB6j0657 · `SOURCE` 卍 Xuzangjing Vol. 12, No. 278 · `EXTENT` 1卷
+
+**人物**
+- 德清 — 排訂
+
+**版本**
+- CBETA — `WITID` wit1
+- orig — `WITID` wit99
+
+## [KR6j0687 楞嚴經通議-明-德清](https://github.com/kanripo/KR6j0687)
+
+明 · `BASEEDITION` X · `CBETA_ID` X12n0279 · `GENRE` 疏 · `CUSTOM_ID` ZB6j0658 · `SOURCE` 卍 Xuzangjing Vol. 12, No. 279 · `EXTENT` 10卷
+
+**人物**
+- 德清 — 述
+
+**版本**
+- CBETA — `WITID` wit1
+- orig — `WITID` wit99
+
+## [KR6j0688 楞嚴經臆說-明-圓澄](https://github.com/kanripo/KR6j0688)
+
+明 · `BASEEDITION` X · `CBETA_ID` X12n0280 · `GENRE` 疏 · `CUSTOM_ID` ZB6j0659 · `SOURCE` 卍 Xuzangjing Vol. 12, No. 280 · `EXTENT` 1卷
+
+**人物**
+- 圓澄 — 註
+
+**版本**
+- CBETA — `WITID` wit1
+- orig — `WITID` wit99
+
+## [KR6j0689 楞嚴經圓通疏-元-惟則](https://github.com/kanripo/KR6j0689)
+
+元 · `BASEEDITION` X · `CBETA_ID` X12n0281 · `GENRE` 疏 · `CUSTOM_ID` ZB6j0660 · `SOURCE` 卍 Xuzangjing Vol. 12, No. 281 · `EXTENT` 10卷
+
+**人物**
+- 惟則 — 會解
+- 傳燈 — 明 · 疏
+
+**版本**
+- CBETA — `WITID` wit3
+- 【嘉興】 — `WITID` wit9
+
+## [KR6j0690 楞嚴經玄義-明-傳燈](https://github.com/kanripo/KR6j0690)
+
+明 · `BASEEDITION` X · `CBETA_ID` X13n0282 · `GENRE` 疏 · `CUSTOM_ID` ZB6j0661 · `SOURCE` 卍 Xuzangjing Vol. 13, No. 282 · `EXTENT` 4卷
+
+**人物**
+- 傳燈 — 述
+
+**版本**
+- CBETA — `WITID` wit1
+- orig — `WITID` wit99
+
+## [KR6j0691 楞嚴經秘錄-明-一松](https://github.com/kanripo/KR6j0691)
+
+明 · `BASEEDITION` X · `CBETA_ID` X13n0283 · `GENRE` 疏 · `CUSTOM_ID` ZB6j0662 · `SOURCE` 卍 Xuzangjing Vol. 13, No. 283 · `EXTENT` 10卷
+
+**人物**
+- 一松 — 說
+- 靈述 — 記
+
+**版本**
+- CBETA — `WITID` wit1
+- orig — `WITID` wit99
+
+## [KR6j0692 楞嚴經玄義-明-智旭](https://github.com/kanripo/KR6j0692)
+
+明 · `BASEEDITION` X · `CBETA_ID` X13n0284 · `GENRE` 疏 · `CUSTOM_ID` ZB6j0663 · `SOURCE` 卍 Xuzangjing Vol. 13, No. 284 · `EXTENT` 2卷
+
+**人物**
+- 智旭 — 撰述
+- 道昉 — 參訂
+
+**版本**
+- CBETA — `WITID` wit1
+- orig — `WITID` wit99
+
+## [KR6j0693 楞嚴經文句-明-智旭](https://github.com/kanripo/KR6j0693)
+
+明 · `BASEEDITION` X · `CBETA_ID` X13n0285 · `GENRE` 疏 · `CUSTOM_ID` ZB6j0664 · `SOURCE` 卍 Xuzangjing Vol. 13, No. 285 · `EXTENT` 10卷
+
+**人物**
+- 智旭 — 撰述
+- 道昉 — 參訂
+
+**版本**
+- CBETA — `WITID` wit1
+- orig — `WITID` wit99
+
+## [KR6j0694 楞嚴經如說-明-鍾惺](https://github.com/kanripo/KR6j0694)
+
+明 · `BASEEDITION` X · `CBETA_ID` X13n0286 · `GENRE` 疏 · `CUSTOM_ID` ZB6j0665 · `SOURCE` 卍 Xuzangjing Vol. 13, No. 286 · `EXTENT` 10卷
+
+**人物**
+- 鍾惺 — 撰
+
+**版本**
+- CBETA — `WITID` wit1
+- orig — `WITID` wit99
+
+## [KR6j0695 楞嚴經疏解蒙鈔-明-錢謙益](https://github.com/kanripo/KR6j0695)
+
+明 · `BASEEDITION` X · `CBETA_ID` X13n0287 · `GENRE` 疏 · `CUSTOM_ID` ZB6j0666 · `SOURCE` 卍 Xuzangjing Vol. 13, No. 287 · `EXTENT` 10卷
+
+**人物**
+- 錢謙益 — 鈔
+
+**版本**
+- CBETA — `WITID` wit1
+- orig — `WITID` wit99
+
+## [KR6j0696 楞嚴經證疏廣解-明-凌弘憲](https://github.com/kanripo/KR6j0696)
+
+明 · `BASEEDITION` X · `CBETA_ID` X14n0288 · `GENRE` 疏 · `CUSTOM_ID` ZB6j0667 · `SOURCE` 卍 Xuzangjing Vol. 14, No. 288 · `EXTENT` 10卷
+
+**人物**
+- 凌弘憲 — 點釋
+
+**版本**
+- CBETA — `WITID` wit1
+- orig — `WITID` wit99
+
+## [KR6j0697 楞嚴經合轍-明-通潤](https://github.com/kanripo/KR6j0697)
+
+明 · `BASEEDITION` X · `CBETA_ID` X14n0289 · `GENRE` 疏 · `CUSTOM_ID` ZB6j0668 · `SOURCE` 卍 Xuzangjing Vol. 14, No. 289 · `EXTENT` 10卷
+
+**人物**
+- 通潤 — 述
+
+**版本**
+- CBETA — `WITID` wit1
+- orig — `WITID` wit99
+
+## [KR6j0698 楞嚴經直指科文--](https://github.com/kanripo/KR6j0698)
+
+`BASEEDITION` X · `CBETA_ID` X14n0290 · `GENRE` 疏 · `CUSTOM_ID` ZB6j0669 · `SOURCE` 卍 Xuzangjing Vol. 14, No. 290 · `EXTENT` 1卷
+
+**人物**
+
+**版本**
+- CBETA — `WITID` wit1
+
+## [KR6j0699 楞嚴經直指-明-圅昰](https://github.com/kanripo/KR6j0699)
+
+明 · `BASEEDITION` X · `CBETA_ID` X14n0291 · `GENRE` 疏 · `CUSTOM_ID` ZB6j0670 · `SOURCE` 卍 Xuzangjing Vol. 14, No. 291 · `EXTENT` 10卷
+
+**人物**
+- 圅昰 — 疏
+
+**版本**
+- CBETA — `WITID` wit1
+- orig — `WITID` wit99
+
+## [KR6j0700 楞嚴經擊節-明-大韶](https://github.com/kanripo/KR6j0700)
+
+明 · `BASEEDITION` X · `CBETA_ID` X14n0292 · `GENRE` 疏 · `CUSTOM_ID` ZB6j0671 · `SOURCE` 卍 Xuzangjing Vol. 14, No. 292 · `EXTENT` 1卷
+
+**人物**
+- 大韶 — 撰
+
+**版本**
+- CBETA — `WITID` wit1
+- orig — `WITID` wit99
+
+## [KR6j0701 楞嚴經懸談-明-觀衡](https://github.com/kanripo/KR6j0701)
+
+明 · `BASEEDITION` X · `CBETA_ID` X14n0293 · `GENRE` 疏 · `CUSTOM_ID` ZB6j0672 · `SOURCE` 卍 Xuzangjing Vol. 14, No. 293 · `EXTENT` 1卷
+
+**人物**
+- 觀衡 — 撰
+
+**版本**
+- CBETA — `WITID` wit1
+- orig — `WITID` wit99
+
+## [KR6j0702 楞嚴經說約-明-陸西星](https://github.com/kanripo/KR6j0702)
+
+明 · `BASEEDITION` X · `CBETA_ID` X14n0294 · `GENRE` 疏 · `CUSTOM_ID` ZB6j0673 · `SOURCE` 卍 Xuzangjing Vol. 14, No. 294 · `EXTENT` 1卷
+
+**人物**
+- 陸西星 — 述
+
+**版本**
+- CBETA — `WITID` wit1
+- orig — `WITID` wit99
+
+## [KR6j0703 楞嚴經述旨-明-陸西星](https://github.com/kanripo/KR6j0703)
+
+明 · `BASEEDITION` X · `CBETA_ID` X14n0295 · `GENRE` 疏 · `CUSTOM_ID` ZB6j0674 · `SOURCE` 卍 Xuzangjing Vol. 14, No. 295 · `EXTENT` 10卷
+
+**人物**
+- 陸西星 — 述
+
+**版本**
+- CBETA — `WITID` wit1
+- orig — `WITID` wit99
+
+## [KR6j0704 楞嚴經截流-明-傳如](https://github.com/kanripo/KR6j0704)
+
+明 · `BASEEDITION` X · `CBETA_ID` X14n0296 · `GENRE` 疏 · `CUSTOM_ID` ZB6j0675 · `SOURCE` 卍 Xuzangjing Vol. 14, No. 296 · `EXTENT` 2卷
+
+**人物**
+- 傳如 — 述
+
+**版本**
+- CBETA — `WITID` wit1
+- orig — `WITID` wit99
+
+## [KR6j0705 楞嚴經圓通疏前茅-明-傳燈](https://github.com/kanripo/KR6j0705)
+
+明 · `BASEEDITION` X · `CBETA_ID` X14n0297 · `GENRE` 疏 · `CUSTOM_ID` ZB6j0676 · `SOURCE` 卍 Xuzangjing Vol. 14, No. 297 · `EXTENT` 2卷
+
+**人物**
+- 傳燈 — 述
+
+**版本**
+- CBETA — `WITID` wit1
+- orig — `WITID` wit99
+
+## [KR6j0706 楞嚴經直解-明-廣莫](https://github.com/kanripo/KR6j0706)
+
+明 · `BASEEDITION` X · `CBETA_ID` X14n0298 · `GENRE` 疏 · `CUSTOM_ID` ZB6j0677 · `SOURCE` 卍 Xuzangjing Vol. 14, No. 298 · `EXTENT` 10卷
+
+**人物**
+- 廣莫 — 直解
+
+**版本**
+- CBETA — `WITID` wit1
+- orig — `WITID` wit99
+
+## [KR6j0707 楞嚴經講錄-明-乘旹](https://github.com/kanripo/KR6j0707)
+
+明 · `BASEEDITION` X · `CBETA_ID` X15n0299 · `GENRE` 疏 · `CUSTOM_ID` ZB6j0678 · `SOURCE` 卍 Xuzangjing Vol. 15, No. 299 · `EXTENT` 10卷
+
+**人物**
+- 乘旹 — 講錄
+
+**版本**
+- CBETA — `WITID` wit1
+- orig — `WITID` wit99
+
+## [KR6j0708 楞嚴經纂註-明-真界](https://github.com/kanripo/KR6j0708)
+
+明 · `BASEEDITION` X · `CBETA_ID` X15n0300 · `GENRE` 疏 · `CUSTOM_ID` ZB6j0679 · `SOURCE` 卍 Xuzangjing Vol. 15, No. 300 · `EXTENT` 10卷
+
+**人物**
+- 真界 — 纂註
+
+**版本**
+- CBETA — `WITID` wit1
+- orig — `WITID` wit99
+
+## [KR6j0709 楞嚴經精解評林-明-焦竑](https://github.com/kanripo/KR6j0709)
+
+明 · `BASEEDITION` X · `CBETA_ID` X15n0301 · `GENRE` 疏 · `CUSTOM_ID` ZB6j0680 · `SOURCE` 卍 Xuzangjing Vol. 15, No. 301 · `EXTENT` 3卷
+
+**人物**
+- 焦竑 — 纂
+
+**版本**
+- CBETA — `WITID` wit1
+- orig — `WITID` wit99
+
+## [KR6j0710 楞嚴經略疏-明-元賢](https://github.com/kanripo/KR6j0710)
+
+明 · `BASEEDITION` X · `CBETA_ID` X15n0302 · `GENRE` 疏 · `CUSTOM_ID` ZB6j0681 · `SOURCE` 卍 Xuzangjing Vol. 15, No. 302 · `EXTENT` 10卷
+
+**人物**
+- 元賢 — 述
+
+**版本**
+- CBETA — `WITID` wit1
+- orig — `WITID` wit99
+
+## [KR6j0711 楞嚴經貫攝-清-劉道開](https://github.com/kanripo/KR6j0711)
+
+清 · `BASEEDITION` X · `CBETA_ID` X15n0303 · `GENRE` 疏 · `CUSTOM_ID` ZB6j0682 · `SOURCE` 卍 Xuzangjing Vol. 15, No. 303 · `EXTENT` 10卷
+
+**人物**
+- 劉道開 — 纂述
+
+**版本**
+- CBETA — `WITID` wit1
+- orig — `WITID` wit99
+
+## [KR6j0712 楞嚴經觀心定解科-清-靈耀](https://github.com/kanripo/KR6j0712)
+
+清 · `BASEEDITION` X · `CBETA_ID` X15n0304 · `GENRE` 疏 · `CUSTOM_ID` ZB6j0683 · `SOURCE` 卍 Xuzangjing Vol. 15, No. 304 · `EXTENT` 1卷
+
+**人物**
+- 靈耀 — 述
+
+**版本**
+- CBETA — `WITID` wit1
+- orig — `WITID` wit99
+
+## [KR6j0713 楞嚴經觀心定解大綱-清-靈耀](https://github.com/kanripo/KR6j0713)
+
+清 · `BASEEDITION` X · `CBETA_ID` X15n0305 · `GENRE` 疏 · `CUSTOM_ID` ZB6j0684 · `SOURCE` 卍 Xuzangjing Vol. 15, No. 305 · `EXTENT` 1卷
+
+**人物**
+- 靈耀 — 述
+
+**版本**
+- CBETA — `WITID` wit1
+- orig — `WITID` wit99
+
+## [KR6j0714 楞嚴經觀心定解-清-靈耀](https://github.com/kanripo/KR6j0714)
+
+清 · `BASEEDITION` X · `CBETA_ID` X15n0306 · `GENRE` 疏 · `CUSTOM_ID` ZB6j0685 · `SOURCE` 卍 Xuzangjing Vol. 15, No. 306 · `EXTENT` 10卷
+
+**人物**
+- 靈耀 — 述
+
+**版本**
+- CBETA — `WITID` wit1
+- orig — `WITID` wit99
+
+## [KR6j0715 楞嚴經指掌疏懸示-清-通理](https://github.com/kanripo/KR6j0715)
+
+清 · `BASEEDITION` X · `CBETA_ID` X16n0307 · `GENRE` 疏 · `CUSTOM_ID` ZB6j0686 · `SOURCE` 卍 Xuzangjing Vol. 16, No. 307 · `EXTENT` 1卷
+
+**人物**
+- 通理 — 述
+
+**版本**
+- CBETA — `WITID` wit1
+- orig — `WITID` wit99
+
+## [KR6j0716 楞嚴經指掌疏-清-通理](https://github.com/kanripo/KR6j0716)
+
+清 · `BASEEDITION` X · `CBETA_ID` X16n0308 · `GENRE` 疏 · `CUSTOM_ID` ZB6j0687 · `SOURCE` 卍 Xuzangjing Vol. 16, No. 308 · `EXTENT` 10卷
+
+**人物**
+- 通理 — 述
+
+**版本**
+- CBETA — `WITID` wit1
+- orig — `WITID` wit99
+
+## [KR6j0717 楞嚴經指掌疏事義-清-通理](https://github.com/kanripo/KR6j0717)
+
+清 · `BASEEDITION` X · `CBETA_ID` X16n0309 · `GENRE` 疏 · `CUSTOM_ID` ZB6j0688 · `SOURCE` 卍 Xuzangjing Vol. 16, No. 309 · `EXTENT` 1卷
+
+**人物**
+- 通理 — 述
+
+**版本**
+- CBETA — `WITID` wit1
+- orig — `WITID` wit99
+
+## [KR6j0718 楞嚴經勢至圓通章科解-明-正相](https://github.com/kanripo/KR6j0718)
+
+明 · `BASEEDITION` X · `CBETA_ID` X16n0310 · `GENRE` 疏 · `CUSTOM_ID` ZB6j0689 · `SOURCE` 卍 Xuzangjing Vol. 16, No. 310 · `EXTENT` 1卷
+
+**人物**
+- 正相 — 解
+
+**版本**
+- CBETA — `WITID` wit1
+- orig — `WITID` wit99
+
+## [KR6j0719 楞嚴經勢至圓通章疏鈔-清-續法](https://github.com/kanripo/KR6j0719)
+
+清 · `BASEEDITION` X · `CBETA_ID` X16n0311 · `GENRE` 疏 · `CUSTOM_ID` ZB6j0690 · `SOURCE` 卍 Xuzangjing Vol. 16, No. 311 · `EXTENT` 2卷
+
+**人物**
+- 續法 — 集
+
+**版本**
+- CBETA — `WITID` wit1
+- orig — `WITID` wit99
+
+## [KR6j0720 楞嚴經勢至圓通章解-清-行策](https://github.com/kanripo/KR6j0720)
+
+清 · `BASEEDITION` X · `CBETA_ID` X16n0312 · `GENRE` 疏 · `CUSTOM_ID` ZB6j0691 · `SOURCE` 卍 Xuzangjing Vol. 16, No. 312 · `EXTENT` 1卷
+
+**人物**
+- 行策 — 撰
+
+**版本**
+- CBETA — `WITID` wit1
+- orig — `WITID` wit99
+
+## [KR6j0721 楞嚴經序指味疏-清-諦閑](https://github.com/kanripo/KR6j0721)
+
+清 · `BASEEDITION` X · `CBETA_ID` X16n0313 · `GENRE` 疏 · `CUSTOM_ID` ZB6j0692 · `SOURCE` 卍 Xuzangjing Vol. 16, No. 313 · `EXTENT` 1卷
+
+**人物**
+- 諦閑 — 述
+
+**版本**
+- CBETA — `WITID` wit1
+- orig — `WITID` wit99
+
+## [KR6j0722 楞嚴經寶鏡疏科文-清-溥畹](https://github.com/kanripo/KR6j0722)
+
+清 · `BASEEDITION` X · `CBETA_ID` X16n0314 · `GENRE` 疏 · `CUSTOM_ID` ZB6j0693 · `SOURCE` 卍 Xuzangjing Vol. 16, No. 314 · `EXTENT` 1卷
+
+**人物**
+- 溥畹 — 撰
+
+**版本**
+- CBETA — `WITID` wit1
+
+## [KR6j0723 楞嚴經寶鏡疏懸談-清-溥畹](https://github.com/kanripo/KR6j0723)
+
+清 · `BASEEDITION` X · `CBETA_ID` X16n0315 · `GENRE` 疏 · `CUSTOM_ID` ZB6j0694 · `SOURCE` 卍 Xuzangjing Vol. 16, No. 315 · `EXTENT` 1卷
+
+**人物**
+- 溥畹 — 述
+
+**版本**
+- CBETA — `WITID` wit1
+- orig — `WITID` wit99
+
+## [KR6j0724 楞嚴經寶鏡疏-清-溥畹](https://github.com/kanripo/KR6j0724)
+
+清 · `BASEEDITION` X · `CBETA_ID` X16n0316 · `GENRE` 疏 · `CUSTOM_ID` ZB6j0695 · `SOURCE` 卍 Xuzangjing Vol. 16, No. 316 · `EXTENT` 10卷
+
+**人物**
+- 溥畹 — 述
+
+**版本**
+- CBETA — `WITID` wit3
+- 【嘉興】 — `WITID` wit9
+
+## [KR6j0725 楞嚴經正見-清-濟時](https://github.com/kanripo/KR6j0725)
+
+清 · `BASEEDITION` X · `CBETA_ID` X16n0317 · `GENRE` 疏 · `CUSTOM_ID` ZB6j0696 · `SOURCE` 卍 Xuzangjing Vol. 16, No. 317 · `EXTENT` 10卷
+
+**人物**
+- 濟時 — 述
+
+**版本**
+- CBETA — `WITID` wit1
+- orig — `WITID` wit99
+
+## [KR6j0726 楞嚴經宗通-明-曾鳳儀](https://github.com/kanripo/KR6j0726)
+
+明 · `BASEEDITION` X · `CBETA_ID` X16n0318 · `GENRE` 疏 · `CUSTOM_ID` ZB6j0697 · `SOURCE` 卍 Xuzangjing Vol. 16, No. 318 · `EXTENT` 10卷
+
+**人物**
+- 曾鳳儀 — 宗通
+
+**版本**
+- CBETA — `WITID` wit1
+- orig — `WITID` wit99
+
+## [KR6j0727 首楞嚴經義海-唐-懷迪](https://github.com/kanripo/KR6j0727)
+
+唐 · `BASEEDITION` P · `CBETA_ID` P168n1581 · `CUSTOM_ID` ZB6j0698 · `SOURCE` Northern Yongle Edition of the Canon Vol. 168, No. 1581 · `EXTENT` 30卷
+
+**人物**
+- 懷迪 — 證釋
+- 咸輝 — 宋 · 排經入注
+
+**版本**
+- CBETA — `WITID` wit1
+- orig — `WITID` wit99
+
+## [KR6j0728 大佛頂萬行首楞嚴經會解-唐宋-九師](https://github.com/kanripo/KR6j0728)
+
+唐宋 · `BASEEDITION` P · `CBETA_ID` P185n1618 · `CUSTOM_ID` ZB6j0699 · `SOURCE` Northern Yongle Edition of the Canon Vol. 185, No. 1618 · `EXTENT` 20卷
+
+**人物**
+- 九師 — 釋
+- 惟則 — 元 · 會解
+
+**版本**
+- CBETA — `WITID` wit1
+- orig — `WITID` wit99
+
+## [KR6j0729 請觀音經疏-隋-智顗](https://github.com/kanripo/KR6j0729)
+
+隋 · `BASEEDITION` T · `CBETA_ID` T39n1800 · `RELATED` T20n1043@經, T39n1801@疏 · `GENRE` 疏 · `CUSTOM_ID` ZB6j0700 · `SOURCE` Taisho Tripitaka Vol. 39, No. 1800 · `EXTENT` 1卷
+
+**人物**
+- 智顗 — 說
+- 灌頂 — 記
+
+**版本**
+- CBETA — `WITID` wit1
+
+## [KR6j0730 請觀音經疏闡義鈔-宋-智圓](https://github.com/kanripo/KR6j0730)
+
+宋 · `BASEEDITION` T · `CBETA_ID` T39n1801 · `RELATED` T20n1043@經, T39n1800@疏 · `GENRE` 疏 · `CUSTOM_ID` ZB6j0701 · `SOURCE` Taisho Tripitaka Vol. 39, No. 1801 · `EXTENT` 4卷
+
+**人物**
+- 智圓 — 述
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→甲】 — `WITID` wit49
+
+## [KR6j0731 十一面神呪心經義疏-唐-慧沼](https://github.com/kanripo/KR6j0731)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T39n1802 · `RELATED` T20n1071@經 · `GENRE` 疏 · `CUSTOM_ID` ZB6j0702 · `SOURCE` Taisho Tripitaka Vol. 39, No. 1802 · `EXTENT` 1卷
+
+**人物**
+- 慧沼 — 撰
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→甲】 — `WITID` wit49
+- 【大→原】 — `WITID` wit6
+
+## [KR6j0732 佛頂尊勝陀羅尼經教跡義記-唐-法崇](https://github.com/kanripo/KR6j0732)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T39n1803 · `RELATED` T19n0967@經 · `GENRE` 疏 · `CUSTOM_ID` ZB6j0703 · `SOURCE` Taisho Tripitaka Vol. 39, No. 1803 · `EXTENT` 2卷
+
+**人物**
+- 法崇 — 述
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→原】 — `WITID` wit6
+
+## [KR6j0733 佛頂尊勝陀羅尼經釋-清-續法](https://github.com/kanripo/KR6j0733)
+
+清 · `BASEEDITION` X · `CBETA_ID` X23n0445 · `GENRE` 疏 · `CUSTOM_ID` ZB6j0704 · `SOURCE` 卍 Xuzangjing Vol. 23, No. 445 · `EXTENT` 1卷
+
+**人物**
+- 續法 — 釋
+
+**版本**
+- CBETA — `WITID` wit15
+- orig — `WITID` wit99
+
+## [KR6j0734 大日經義釋-唐-一行](https://github.com/kanripo/KR6j0734)
+
+唐 · `BASEEDITION` X · `CBETA_ID` X23n0438 · `GENRE` 疏 · `CUSTOM_ID` ZB6j0705 · `SOURCE` 卍 Xuzangjing Vol. 23, No. 438 · `EXTENT` 14卷
+
+**人物**
+- 一行 — 述記
+
+**版本**
+- CBETA — `WITID` wit15
+- orig — `WITID` wit99
+
+## [KR6j0735 大日經義釋演密鈔-遼-覺苑](https://github.com/kanripo/KR6j0735)
+
+遼 · `BASEEDITION` X · `CBETA_ID` X23n0439 · `GENRE` 疏 · `CUSTOM_ID` ZB6j0706 · `SOURCE` 卍 Xuzangjing Vol. 23, No. 439 · `EXTENT` 10卷
+
+**人物**
+- 覺苑 — 撰
+
+**版本**
+- CBETA — `WITID` wit3
+- 【大】 — `WITID` wit4
+
+## [KR6j0736 七俱胝佛母所說準提陀羅尼經會釋-清-弘贊](https://github.com/kanripo/KR6j0736)
+
+清 · `BASEEDITION` X · `CBETA_ID` X23n0446 · `GENRE` 疏 · `CUSTOM_ID` ZB6j0707 · `SOURCE` 卍 Xuzangjing Vol. 23, No. 446 · `EXTENT` 3卷
+
+**人物**
+- 弘贊 — 會釋
+
+**版本**
+- CBETA — `WITID` wit3
+- 【嘉興】 — `WITID` wit9
+
+## [KR6j0737 觀自在菩薩如意心陀羅尼經略疏-清-續法](https://github.com/kanripo/KR6j0737)
+
+清 · `BASEEDITION` X · `CBETA_ID` X23n0447 · `GENRE` 疏 · `CUSTOM_ID` ZB6j0708 · `SOURCE` 卍 Xuzangjing Vol. 23, No. 447 · `EXTENT` 2卷
+
+**人物**
+- 續法 — 述
+
+**版本**
+- CBETA — `WITID` wit1
+- orig — `WITID` wit99
+
+## [KR6j0738 觀自在菩薩如意輪呪課法--](https://github.com/kanripo/KR6j0738)
+
+`BASEEDITION` T · `CBETA_ID` T46n1952 · `GENRE` 諸宗 · `CUSTOM_ID` ZB6j0709 · `SOURCE` Taisho Tripitaka Vol. 46, No. 1952 · `EXTENT` 1卷
+
+**人物**
+
+**版本**
+- CBETA — `WITID` wit3
+- 【大→龍】 — `WITID` wit53
+- 【大】 — `WITID` wit4
+
+## [KR6j0739 菩提心義--](https://github.com/kanripo/KR6j0739)
+
+`BASEEDITION` T · `CBETA_ID` T46n1953 · `GENRE` 諸宗 · `CUSTOM_ID` ZB6j0710 · `SOURCE` Taisho Tripitaka Vol. 46, No. 1953 · `EXTENT` 1卷
+
+**人物**
+
+**版本**
+- CBETA — `WITID` wit1
+
+## [KR6j0740 明佛法根本碑-唐-智慧](https://github.com/kanripo/KR6j0740)
+
+唐 · `BASEEDITION` T · `CBETA_ID` T46n1954 · `GENRE` 諸宗 · `CUSTOM_ID` ZB6j0711 · `SOURCE` Taisho Tripitaka Vol. 46, No. 1954 · `EXTENT` 1卷
+
+**人物**
+- 智慧 — 輪述
+
+**版本**
+- CBETA — `WITID` wit1
+- 【大】 — `WITID` wit4
+- 【大→原】 — `WITID` wit6
+
+## [KR6j0741 顯密圓通成佛心要集-元-道󰂎](https://github.com/kanripo/KR6j0741)
+
+元 · `BASEEDITION` T · `CBETA_ID` T46n1955 · `GENRE` 諸宗 · `CUSTOM_ID` ZB6j0712 · `SOURCE` Taisho Tripitaka Vol. 46, No. 1955 · `EXTENT` 2卷
+
+**人物**
+- 道󰂎 — 集
+
+**版本**
+- CBETA — `WITID` wit1
+- orig — `WITID` wit99
+
+## [KR6j0742 密呪圓因往生集-夏-智廣](https://github.com/kanripo/KR6j0742)
+
+夏 · `BASEEDITION` T · `CBETA_ID` T46n1956 · `GENRE` 諸宗 · `CUSTOM_ID` ZB6j0713 · `SOURCE` Taisho Tripitaka Vol. 46, No. 1956 · `EXTENT` 1卷
+
+**人物**
+- 智廣 — 等集
+
+**版本**
+- CBETA — `WITID` wit1
+- orig — `WITID` wit99
+
+## [KR6j0743 看命一掌金-唐-一行](https://github.com/kanripo/KR6j0743)
+
+唐 · `BASEEDITION` X · `CBETA_ID` X59n1043 · `GENRE` 諸宗 · `CUSTOM_ID` ZB6j0714 · `SOURCE` 卍 Xuzangjing Vol. 59, No. 1043 · `EXTENT` 1卷
+
+**人物**
+- 一行 — 著
+
+**版本**
+- CBETA — `WITID` wit1
+- orig — `WITID` wit99
+
+## [KR6j0744 持咒仙人飛鉢儀軌-唐-不空](https://github.com/kanripo/KR6j0744)
+
+唐 · `BASEEDITION` X · `CBETA_ID` X59n1048 · `GENRE` 諸宗 · `CUSTOM_ID` ZB6j0715 · `SOURCE` 卍 Xuzangjing Vol. 59, No. 1048 · `EXTENT` 1卷
+
+**人物**
+- 不空 — 拔出
+
+**版本**
+- CBETA — `WITID` wit1
+
+## [KR6j0745 成就夢想法-唐-不空](https://github.com/kanripo/KR6j0745)
+
+唐 · `BASEEDITION` X · `CBETA_ID` X59n1052 · `GENRE` 諸宗 · `CUSTOM_ID` ZB6j0716 · `SOURCE` 卍 Xuzangjing Vol. 59, No. 1052 · `EXTENT` 1卷
+
+**人物**
+- 不空 — 述
+
+**版本**
+- CBETA — `WITID` wit1
+
+## [KR6j0746 多利心菩薩念誦法-南天竺-跋折羅菩提](https://github.com/kanripo/KR6j0746)
+
+南天竺 · `BASEEDITION` X · `CBETA_ID` X59n1054 · `GENRE` 諸宗 · `CUSTOM_ID` ZB6j0717 · `SOURCE` 卍 Xuzangjing Vol. 59, No. 1054 · `EXTENT` 1卷
+
+**人物**
+- 跋折羅菩提 — 集撰
+
+**版本**
+- CBETA — `WITID` wit1
+- orig — `WITID` wit99
+
+## [KR6j0747 釋迦牟尼如來拔除苦惱現大神變飛空大鉢法-唐-般若](https://github.com/kanripo/KR6j0747)
+
+唐 · `BASEEDITION` X · `CBETA_ID` X59n1069 · `GENRE` 諸宗 · `CUSTOM_ID` ZB6j0718 · `SOURCE` 卍 Xuzangjing Vol. 59, No. 1069 · `EXTENT` 1卷
+
+**人物**
+- 般若 — 傳
+
+**版本**
+- CBETA — `WITID` wit1
+- orig — `WITID` wit99
+
+## [KR6j0748 金胎兩界師資相承-唐-海雲](https://github.com/kanripo/KR6j0748)
+
+唐 · `BASEEDITION` X · `CBETA_ID` X59n1073 · `GENRE` 諸宗 · `CUSTOM_ID` ZB6j0719 · `SOURCE` 卍 Xuzangjing Vol. 59, No. 1073 · `EXTENT` 1卷
+
+**人物**
+- 海雲 — 集
+
+**版本**
+- CBETA — `WITID` wit1
+
+## [KR6j0749 胎金兩界血脈-唐-造玄](https://github.com/kanripo/KR6j0749)
+
+唐 · `BASEEDITION` X · `CBETA_ID` X59n1074 · `GENRE` 諸宗 · `CUSTOM_ID` ZB6j0720 · `SOURCE` 卍 Xuzangjing Vol. 59, No. 1074 · `EXTENT` 1卷
+
+**人物**
+- 造玄 — 增補
+
+**版本**
+- CBETA — `WITID` wit1
+
+## [KR6j0750 準提淨業-明-謝于教](https://github.com/kanripo/KR6j0750)
+
+明 · `BASEEDITION` X · `CBETA_ID` X59n1077 · `GENRE` 諸宗 · `CUSTOM_ID` ZB6j0721 · `SOURCE` 卍 Xuzangjing Vol. 59, No. 1077 · `EXTENT` 3卷
+
+**人物**
+- 謝于教 — 著
+
+**版本**
+- CBETA — `WITID` wit15
+- orig — `WITID` wit99
+
+## [KR6j0751 準提心要-明-堯挺](https://github.com/kanripo/KR6j0751)
+
+明 · `BASEEDITION` X · `CBETA_ID` X59n1078 · `GENRE` 諸宗 · `CUSTOM_ID` ZB6j0722 · `SOURCE` 卍 Xuzangjing Vol. 59, No. 1078 · `EXTENT` 1卷
+
+**人物**
+- 堯挺 — 撰
+
+**版本**
+- CBETA — `WITID` wit15
+- orig — `WITID` wit99
+
+## [KR6j0752 持誦準提真言法要-清-弘贊](https://github.com/kanripo/KR6j0752)
+
+清 · `BASEEDITION` X · `CBETA_ID` X59n1079 · `GENRE` 諸宗 · `CUSTOM_ID` ZB6j0723 · `SOURCE` 卍 Xuzangjing Vol. 59, No. 1079 · `EXTENT` 1卷
+
+**人物**
+- 弘贊 — 輯
+
+**版本**
+- CBETA — `WITID` wit15
+- orig — `WITID` wit99
+
+## [KR6j0753 瑜伽集要施食儀軌-明-袾宏](https://github.com/kanripo/KR6j0753)
+
+明 · `BASEEDITION` X · `CBETA_ID` X59n1080 · `GENRE` 諸宗 · `CUSTOM_ID` ZB6j0724 · `SOURCE` 卍 Xuzangjing Vol. 59, No. 1080 · `EXTENT` 1卷
+
+**人物**
+- 袾宏 — 重訂
+
+**版本**
+- CBETA — `WITID` wit15
+- orig — `WITID` wit99
+
+## [KR6j0754 修設瑜伽集要施食壇儀-明-袾宏](https://github.com/kanripo/KR6j0754)
+
+明 · `BASEEDITION` X · `CBETA_ID` X59n1081 · `GENRE` 諸宗 · `CUSTOM_ID` ZB6j0725 · `SOURCE` 卍 Xuzangjing Vol. 59, No. 1081 · `EXTENT` 1卷
+
+**人物**
+- 袾宏 — 補註
+
+**版本**
+- CBETA — `WITID` wit1
+- orig — `WITID` wit99
+
+## [KR6j0755 於密滲施食旨槩-清-法藏](https://github.com/kanripo/KR6j0755)
+
+清 · `BASEEDITION` X · `CBETA_ID` X59n1082 · `GENRE` 諸宗 · `CUSTOM_ID` ZB6j0726 · `SOURCE` 卍 Xuzangjing Vol. 59, No. 1082 · `EXTENT` 1卷
+
+**人物**
+- 法藏 — 著
+
+**版本**
+- CBETA — `WITID` wit15
+- orig — `WITID` wit99
+
+## [KR6j0756 修習瑜伽集要施食壇儀-清-法藏](https://github.com/kanripo/KR6j0756)
+
+清 · `BASEEDITION` X · `CBETA_ID` X59n1083 · `GENRE` 諸宗 · `CUSTOM_ID` ZB6j0727 · `SOURCE` 卍 Xuzangjing Vol. 59, No. 1083 · `EXTENT` 2卷
+
+**人物**
+- 法藏 — 著
+
+**版本**
+- CBETA — `WITID` wit15
+- orig — `WITID` wit99
+
+## [KR6j0757 瑜伽燄口註集纂要儀軌-清-寂暹](https://github.com/kanripo/KR6j0757)
+
+清 · `BASEEDITION` X · `CBETA_ID` X59n1084 · `GENRE` 諸宗 · `CUSTOM_ID` ZB6j0728 · `SOURCE` 卍 Xuzangjing Vol. 59, No. 1084 · `EXTENT` 2卷
+
+**人物**
+- 寂暹 — 纂
+
+**版本**
+- CBETA — `WITID` wit15
+- orig — `WITID` wit99
+
+## [KR6j0758 佛母孔雀尊經科式-明-](https://github.com/kanripo/KR6j0758)
+
+明 · `BASEEDITION` X · `CBETA_ID` X74n1479 · `GENRE` 禮懺 · `CUSTOM_ID` ZB6j0729 · `SOURCE` 卍 Xuzangjing Vol. 74, No. 1479 · `EXTENT` 1卷
+
+**人物**
+
+**版本**
+- CBETA — `WITID` wit1
+
+## [KR6j0759 准提三昧行法-明-受登](https://github.com/kanripo/KR6j0759)
+
+明 · `BASEEDITION` X · `CBETA_ID` X74n1481 · `GENRE` 禮懺 · `CUSTOM_ID` ZB6j0730 · `SOURCE` 卍 Xuzangjing Vol. 74, No. 1481 · `EXTENT` 1卷
+
+**人物**
+- 受登 — 集
+
+**版本**
+- CBETA — `WITID` wit15
+- orig — `WITID` wit99
+
+## [KR6j0760 准提焚修悉地懺悔玄文-清-夏道人](https://github.com/kanripo/KR6j0760)
+
+清 · `BASEEDITION` X · `CBETA_ID` X74n1482 · `GENRE` 禮懺 · `CUSTOM_ID` ZB6j0731 · `SOURCE` 卍 Xuzangjing Vol. 74, No. 1482 · `EXTENT` 1卷
+
+**人物**
+- 夏道人 — 集
+
+**版本**
+- CBETA — `WITID` wit1
+- orig — `WITID` wit99
+
+## [KR6j0761 瑜伽集要燄口施食儀-唐-不空](https://github.com/kanripo/KR6j0761)
+
+唐 · `BASEEDITION` J · `CBETA_ID` J19nB047 · `CUSTOM_ID` ZB6j0732 · `SOURCE` Jiaxing Canon Vol. 19, No. B047 · `EXTENT` 1卷
+
+**人物**
+- 不空 — 譯
+- 不動金剛 — 西夏 · 重集
+- 受登 — 清 · 詮次
+
+**版本**
+- CBETA — `WITID` wit1
+- orig — `WITID` wit99

@@ -1,0 +1,400 @@
+# KR2b ZB2b 編年類
+
+[← 目録](../README.md) · [KR2 史部](KR2.md)
+
+<sub>由 [`tools/org2md.py`](../tools/org2md.py) 自動生成，請勿直接編輯；資料源為 [`KR2b.txt`](KR2b.txt)。</sub>
+
+## [KR2b0001 竹書紀年-梁-沈約](https://github.com/kanripo/KR2b0001)
+
+`CUSTOM_ID` ZB2b0001 · `SOURCE` 四庫全書 文淵閣版, V303.1, p1 · `EXTENT` 2 卷 · `BOOK` 1 · `_RESP` （梁）沈約
+
+**人物**
+- 沈約 — 梁 · 註 · 441 - 513
+
+**版本** WYG
+
+## [KR2b0002 竹書統箋-清-徐文靖](https://github.com/kanripo/KR2b0002)
+
+`CUSTOM_ID` ZB2b0002 · `SOURCE` 四庫全書 文淵閣版, V303.2, p43 · `EXTENT` 12 卷 · `BOOK` 5 · `_RESP` （清）徐文靖
+
+**人物**
+- 徐文靖 — 清 · 撰 · 1667 - 1756
+
+**版本** WYG
+
+**卷首** `TYPE` appendix · `EXTENT` 2 卷 · `BOOK` (5)
+
+## [KR2b0003 前漢紀-漢-荀悅](https://github.com/kanripo/KR2b0003)
+
+`CUSTOM_ID` ZB2b0003 · `SOURCE` 四庫全書 文淵閣版, V303.3, p203 · `EXTENT` 30 卷 · `BOOK` 6 · `_RESP` （漢）荀悅
+
+**人物**
+- 荀悅 — 漢 · 撰 · 148 - 209
+
+**版本** WYG
+
+## [KR2b0004 後漢紀-晉-袁宏](https://github.com/kanripo/KR2b0004)
+
+`CUSTOM_ID` ZB2b0004 · `SOURCE` 四庫全書 文淵閣版, V303.4, p491 · `EXTENT` 30 卷 · `BOOK` 12 · `_RESP` （晉）袁宏
+
+**人物**
+- 袁宏 — 晉 · 撰 · 328 - 376
+
+**版本** WYG
+
+## [KR2b0005 元經-隋-王通](https://github.com/kanripo/KR2b0005)
+
+`CUSTOM_ID` ZB2b0005 · `SOURCE` 四庫全書 文淵閣版, V303.5, p829 · `EXTENT` 10 卷 · `BOOK` 4 · `_RESP` （隋）王通,（唐）薛收,（宋）阮逸
+
+**人物**
+- 王通 — 隋 · 撰 · 584 - 618
+- 薛收 — 唐 · 續 · 傳
+- 阮逸 — 宋 · 註
+
+**版本** WYG
+
+## [KR2b0006 唐創業起居注-唐-溫大雅](https://github.com/kanripo/KR2b0006)
+
+`CUSTOM_ID` ZB2b0006 · `SOURCE` 四庫全書 文淵閣版, V303.6, p955 · `EXTENT` 3 卷 · `BOOK` 1 · `_RESP` （唐）溫大雅
+
+**人物**
+- 溫大雅 — 唐 · 撰
+
+**版本** WYG
+
+## [KR2b0007 資治通鑑-宋-司馬光](https://github.com/kanripo/KR2b0007)
+
+`CUSTOM_ID` ZB2b0007 · `SOURCE` 四庫全書 文淵閣版, V304.1, p1 - V310.1 · `EXTENT` 294 卷 · `BOOK` 144 · `_RESP` （宋）司馬光,（元）胡三省
+
+**人物**
+- 司馬光 — 宋 · 撰 · 1019 - 1086
+- 胡三省 — 元 · 注
+
+**版本** WYG
+
+## [KR2b0008 資治通鑑考異-宋-司馬光](https://github.com/kanripo/KR2b0008)
+
+`CUSTOM_ID` ZB2b0008 · `SOURCE` 四庫全書 文淵閣版, V311.1, p1 · `EXTENT` 30 卷 · `BOOK` 12 · `_RESP` （宋）司馬光
+
+**人物**
+- 司馬光 — 宋 · 撰 · 1019 - 1086
+
+**版本** WYG
+
+## [KR2b0009 資治通鑑釋例-宋-司馬光](https://github.com/kanripo/KR2b0009)
+
+`CUSTOM_ID` ZB2b0008a · `SOURCE` 四庫全書 文淵閣版, V311.2, p317 · `EXTENT` 1 卷 · `BOOK` # · `_RESP` （宋）司馬光
+
+**人物**
+- 司馬光 — 宋 · 撰 · 1019 - 1086
+
+**版本** WYG
+
+## [KR2b0010 資治通鑑目錄-宋-司馬光](https://github.com/kanripo/KR2b0010)
+
+`CUSTOM_ID` ZB2b0009 · `SOURCE` 四庫全書 文淵閣版, V311.3, p321 · `EXTENT` 30 卷 · `BOOK` 20 · `_RESP` （宋）司馬光
+
+**人物**
+- 司馬光 — 宋 · 撰 · 1019 - 1086
+
+**版本** WYG
+
+## [KR2b0011 通鑑地理通釋-宋-王應麟](https://github.com/kanripo/KR2b0011)
+
+`CUSTOM_ID` ZB2b0010 · `SOURCE` 四庫全書 文淵閣版, V312.1, p1 · `EXTENT` 14 卷 · `BOOK` 6 · `_RESP` （宋）王應麟
+
+**人物**
+- 王應麟 — 宋 · 撰 · 1223 - 1296
+
+**版本** WYG
+
+## [KR2b0012 通鑑釋文辨誤-元-胡三省](https://github.com/kanripo/KR2b0012)
+
+`CUSTOM_ID` ZB2b0011 · `SOURCE` 四庫全書 文淵閣版, V312.2, p217 · `EXTENT` 12 卷 · `BOOK` 6 · `_RESP` （元）胡三省
+
+**人物**
+- 胡三省 — 元 · 撰 · 1230 - 1287
+
+**版本** WYG
+
+## [KR2b0013 通鑑胡注擧正-清-陳景雲](https://github.com/kanripo/KR2b0013)
+
+`CUSTOM_ID` ZB2b0012 · `SOURCE` 四庫全書 文淵閣版, V312.3, p381 · `EXTENT` 1 卷 · `BOOK` 1 · `_RESP` （清）陳景雲
+
+**人物**
+- 陳景雲 — 清 · 撰 · 1670 - 1747
+
+**版本** WYG
+
+## [KR2b0014 稽古錄-宋-司馬光](https://github.com/kanripo/KR2b0014)
+
+`CUSTOM_ID` ZB2b0013 · `SOURCE` 四庫全書 文淵閣版, V312.4, p391 · `EXTENT` 20 卷 · `BOOK` 5 · `_RESP` （宋）司馬光
+
+**人物**
+- 司馬光 — 宋 · 撰 · 1019 - 1086
+
+**版本** WYG
+
+## [KR2b0015 資治通鑑外紀-宋-劉恕](https://github.com/kanripo/KR2b0015)
+
+`CUSTOM_ID` ZB2b0014 · `SOURCE` 四庫全書 文淵閣版, V312.5, p527 · `EXTENT` 10 卷 · `BOOK` 4 · `_RESP` （宋）劉恕
+
+**人物**
+- 劉恕 — 宋 · 撰 · 1032 - 1078
+
+**版本** WYG
+
+**資治通鑑外紀目錄** `TYPE` appendix · `EXTENT` 5 卷 · `BOOK` 2
+
+## [KR2b0016 資治通鑑釋文-宋-](https://github.com/kanripo/KR2b0016)
+
+`TYPE` text · `CUSTOM_ID` SB12n034 · `EXTENT` 三十卷 · `BOOK` 0203 - 0207 · `_RESP` （宋）史炤 · `ZB_ID` SB12n034
+
+**人物**
+- 史炤 — 宋 · 撰
+
+**版本**
+- SBCK — `EDITION` 烏程蔣氏密韻樓藏宋刊本
+
+**电子版**
+
+## [KR2b0017 皇王大紀-宋-胡宏](https://github.com/kanripo/KR2b0017)
+
+`CUSTOM_ID` ZB2b0015 · `SOURCE` 四庫全書 文淵閣版, V313.1, p1 · `EXTENT` 80 卷 · `BOOK` 18 · `_RESP` （宋）胡宏
+
+**人物**
+- 胡宏 — 宋 · 撰
+
+**版本** WYG
+
+## [KR2b0018 中興小紀-宋-熊克](https://github.com/kanripo/KR2b0018)
+
+`CUSTOM_ID` ZB2b0016 · `SOURCE` 四庫全書 文淵閣版, V313.2, p779 · `EXTENT` 40 卷 · `BOOK` 14 · `_RESP` （宋）熊克
+
+**人物**
+- 熊克 — 宋 · 撰
+
+**版本** WYG
+
+## [KR2b0019 續資治通鑑長編-宋-李燾](https://github.com/kanripo/KR2b0019)
+
+`CUSTOM_ID` ZB2b0017 · `SOURCE` 四庫全書 文淵閣版, V314.1, p1 - V322.1 · `EXTENT` 520 卷 · `BOOK` 192 · `_RESP` （宋）李燾
+
+**人物**
+- 李燾 — 宋 · 撰 · 1114 - 1183
+
+**版本** WYG
+
+**目錄** `TYPE` appendix · `EXTENT` 2 卷 · `BOOK` (192)
+
+## [KR2b0020 綱目續麟-明-張自勳](https://github.com/kanripo/KR2b0020)
+
+`CUSTOM_ID` ZB2b0018 · `SOURCE` 四庫全書 文淵閣版, V323.1, p1 · `EXTENT` 20 卷 · `BOOK` 14 · `_RESP` （明）張自勳
+
+**人物**
+- 張自勳 — 明 · 撰
+
+**版本** WYG
+
+**綱目續麟凡例** `TYPE` appendix · `EXTENT` 1 卷 · `BOOK` (14)
+
+**綱目續麟附錄** `TYPE` appendix · `EXTENT` 1 卷 · `BOOK` (14)
+
+**綱目續麟彙覽** `TYPE` appendix · `EXTENT` 3 卷 · `BOOK` (14)
+
+## [KR2b0021 綱目分註拾遺-清-芮長恤](https://github.com/kanripo/KR2b0021)
+
+`CUSTOM_ID` ZB2b0019 · `SOURCE` 四庫全書 文淵閣版, V323.2, p513 · `EXTENT` 4 卷 · `BOOK` 4 · `_RESP` （清）芮長恤
+
+**人物**
+- 芮長恤 — 清 · 撰
+
+**版本** WYG
+
+## [KR2b0022 綱目訂誤-清-陳景雲](https://github.com/kanripo/KR2b0022)
+
+`CUSTOM_ID` ZB2b0020 · `SOURCE` 四庫全書 文淵閣版, V323.3, p647 · `EXTENT` 4 卷 · `BOOK` 1 · `_RESP` （清）陳景雲
+
+**人物**
+- 陳景雲 — 清 · 撰 · 1670 - 1747
+
+**版本** WYG
+
+## [KR2b0023 大事記-宋-呂祖謙](https://github.com/kanripo/KR2b0023)
+
+`CUSTOM_ID` ZB2b0021 · `SOURCE` 四庫全書 文淵閣版, V324.1, p1 · `EXTENT` 12 卷 · `BOOK` 2 · `_RESP` （宋）呂祖謙
+
+**人物**
+- 呂祖謙 — 宋 · 撰 · 1137 - 1181
+
+**版本** WYG
+
+**大事記通釋** `EXTENT` 3 卷 · `BOOK` 1
+
+**大事記解題** `EXTENT` 12 卷 · `BOOK` 9
+
+## [KR2b0024 建炎以來繫年要錄-宋-李心傳](https://github.com/kanripo/KR2b0024)
+
+`CUSTOM_ID` ZB2b0022 · `SOURCE` 四庫全書 文淵閣版, V325.1, p1 - V327.1 · `EXTENT` 200 卷 · `BOOK` 72 · `_RESP` （宋）李心傳
+
+**人物**
+- 李心傳 — 宋 · 撰 · 1166 - 1243
+
+**版本** WYG
+
+**目錄** `TYPE` appendix · `EXTENT` 1 卷 · `BOOK` (72)
+
+## [KR2b0025 九朝編年備要-宋-陳均](https://github.com/kanripo/KR2b0025)
+
+`CUSTOM_ID` ZB2b0023 · `SOURCE` 四庫全書 文淵閣版, V328.1, p1 · `EXTENT` 30 卷 · `BOOK` 24 · `_RESP` （宋）陳均
+
+**人物**
+- 陳均 — 宋 · 撰 · fl. 1209 - 1234
+
+**版本** WYG
+
+## [KR2b0026 續宋編年資治通鑑-宋-劉時擧](https://github.com/kanripo/KR2b0026)
+
+`CUSTOM_ID` ZB2b0024 · `SOURCE` 四庫全書 文淵閣版, V328.2, p873 · `EXTENT` 15 卷 · `BOOK` 6 · `_RESP` （宋）劉時擧
+
+**人物**
+- 劉時擧 — 宋 · 撰
+
+**版本** WYG
+
+## [KR2b0027 編年通載殘-宋-章衡](https://github.com/kanripo/KR2b0027)
+
+`EXTENT` 四卷 · `_RESP` （宋）章衡 · `CUSTOM_ID` SB32n410
+
+**人物**
+- 章衡 — 宋 · 撰
+
+**版本**
+- SBCK — `EDITION` 宋刊本
+
+## [KR2b0028 西漢年紀-宋-王益之](https://github.com/kanripo/KR2b0028)
+
+`CUSTOM_ID` ZB2b0025 · `SOURCE` 四庫全書 文淵閣版, V329.1, p1 · `EXTENT` 30 卷 · `BOOK` 12 · `_RESP` （宋）王益之
+
+**人物**
+- 王益之 — 宋 · 撰
+
+**版本** WYG
+
+## [KR2b0029 靖康要錄-宋-闕名](https://github.com/kanripo/KR2b0029)
+
+`CUSTOM_ID` ZB2b0026 · `SOURCE` 四庫全書 文淵閣版, V329.2, p407 · `EXTENT` 12 卷 · `BOOK` 6 · `_RESP` （宋）闕名
+
+**人物**
+- 闕名 — 宋 · 撰
+
+**版本** WYG
+
+## [KR2b0030 兩朝綱目備要-元-闕名](https://github.com/kanripo/KR2b0030)
+
+`CUSTOM_ID` ZB2b0027 · `SOURCE` 四庫全書 文淵閣版, V329.3, p685 · `EXTENT` 16 卷 · `BOOK` 8 · `_RESP` （元）闕名
+
+**人物**
+- 闕名 — 元 · 撰
+
+**版本** WYG
+
+## [KR2b0031 宋季三朝政要-元-闕名](https://github.com/kanripo/KR2b0031)
+
+`CUSTOM_ID` ZB2b0028 · `SOURCE` 四庫全書 文淵閣版, V329.4, p961 · `EXTENT` 6 卷 · `BOOK` 4 · `_RESP` （元）闕名
+
+**人物**
+- 闕名 — 元 · 撰
+
+**版本** WYG
+
+## [KR2b0032 宋史全文-元-闕名](https://github.com/kanripo/KR2b0032)
+
+`CUSTOM_ID` ZB2b0029 · `SOURCE` 四庫全書 文淵閣版, V330.1, p1 - V331.1 · `EXTENT` 36 卷 · `BOOK` 36 · `_RESP` （元）闕名
+
+**人物**
+- 闕名 — 元 · 撰
+
+**版本** WYG
+
+## [KR2b0033 資治通鑑前編-宋-金履祥](https://github.com/kanripo/KR2b0033)
+
+`CUSTOM_ID` ZB2b0030 · `SOURCE` 四庫全書 文淵閣版, V332.1, p1 · `EXTENT` 18 卷 · `BOOK` 9 · `_RESP` （宋）金履祥
+
+**人物**
+- 金履祥 — 宋 · 撰 · 1232 - 1303
+
+**版本** WYG
+
+**資治通鑑前編舉要** `EXTENT` 3 卷 · `BOOK` 1
+
+## [KR2b0034 通鑑續編-元-陳桱](https://github.com/kanripo/KR2b0034)
+
+`CUSTOM_ID` ZB2b0031 · `SOURCE` 四庫全書 文淵閣版, V332.2, p435 · `EXTENT` 24 卷 · `BOOK` 12 · `_RESP` （元）陳桱
+
+**人物**
+- 陳桱 — 元 · 撰
+
+**版本** WYG
+
+## [KR2b0035 大事記續編-明-王禕](https://github.com/kanripo/KR2b0035)
+
+`CUSTOM_ID` ZB2b0032 · `SOURCE` 四庫全書 文淵閣版, V333.1, p1 - V334.1 · `EXTENT` 77 卷 · `BOOK` 30 · `_RESP` （明）王禕
+
+**人物**
+- 王禕 — 明 · 撰 · 1323 - 1374
+
+**版本** WYG
+
+## [KR2b0036 元史續編-明-胡粹中](https://github.com/kanripo/KR2b0036)
+
+`CUSTOM_ID` ZB2b0033 · `SOURCE` 四庫全書 文淵閣版, V334.2, p449 · `EXTENT` 16 卷 · `BOOK` 6 · `_RESP` （明）胡粹中
+
+**人物**
+- 胡粹中 — 明 · 撰
+
+**版本** WYG
+
+## [KR2b0037 御批歷代通鑑輯覽-清-高宗弘曆](https://github.com/kanripo/KR2b0037)
+
+`CUSTOM_ID` ZB2b0034 · `SOURCE` 四庫全書 文淵閣版, V335.1, p1 - V339.1 · `EXTENT` 116 卷 · `BOOK` 102 · `DATE` 乾隆三十二年 · `_RESP` （清）高宗弘曆,（清）傅恒
+
+**人物**
+- 高宗弘曆 — 清 · 批 · 1711 - 1799
+- 傅恒 — 清 · 奉敕撰
+
+**版本** WYG
+
+**(附)明唐桂二王本末** `TYPE` appendix · `EXTENT` 4 卷 · `BOOK` (102)
+
+## [KR2b0038 御定資治通鑑綱目三編-清-張廷玉](https://github.com/kanripo/KR2b0038)
+
+`CUSTOM_ID` ZB2b0035 · `SOURCE` 四庫全書 文淵閣版, V340.1, p1 · `EXTENT` 40 卷 · `BOOK` 18 · `DATE` 乾隆四十年 · `_RESP` （清）張廷玉
+
+**人物**
+- 張廷玉 — 清 · 奉敕撰 · 1672 - 1755
+
+**版本** WYG
+
+## [KR2b0039 皇清開國方略-清-阿桂](https://github.com/kanripo/KR2b0039)
+
+`CUSTOM_ID` ZB2b0036 · `SOURCE` 四庫全書 文淵閣版, V341.1, p1 · `EXTENT` 32 卷 · `BOOK` 14 · `DATE` 乾隆五十一年 · `_RESP` （清）阿桂,（清）梁國治
+
+**人物**
+- 阿桂 — 清 · 奉敕撰 · 1717 - 1797
+- 梁國治 — 清 · 奉敕撰
+
+**版本** WYG
+
+**御製開國方略聯句** `TYPE` appendix · `EXTENT` 1 卷 · `BOOK` (14)
+
+**卷首:發祥世紀** `TYPE` appendix · `EXTENT` 1 卷 · `BOOK` (14)
+
+## [KR2b0040 資治通鑑後編-清-徐乾學](https://github.com/kanripo/KR2b0040)
+
+`CUSTOM_ID` ZB2b0037 · `SOURCE` 四庫全書 文淵閣版, V342.1, p1 - V345.1 · `EXTENT` 184 卷 · `BOOK` 66 · `_RESP` （清）徐乾學
+
+**人物**
+- 徐乾學 — 清 · 撰 · 1631 - 1694
+
+**版本** WYG

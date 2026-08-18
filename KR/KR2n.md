@@ -1,0 +1,449 @@
+# KR2n ZB2n 目錄類
+
+[← 目録](../README.md) · [KR2 史部](KR2.md)
+
+<sub>由 [`tools/org2md.py`](../tools/org2md.py) 自動生成，請勿直接編輯；資料源為 [`KR2n.txt`](KR2n.txt)。</sub>
+
+## [KR2n0001 崇文總目-宋-王堯臣](https://github.com/kanripo/KR2n0001)
+
+`CUSTOM_ID` ZB2n0001 · `SOURCE` 四庫全書 文淵閣版, V674.1, p1 · `EXTENT` 12 卷 · `BOOK` 6
+
+**人物**
+- 王堯臣 — 宋 · 奉敕撰 · 1001 - 1056
+- 王洙 — 宋 · 奉敕撰
+- 歐陽修 — 宋 · 奉敕撰
+
+**版本** WYG
+
+## [KR2n0002 郡齋讀書志-宋-晁公武](https://github.com/kanripo/KR2n0002)
+
+`CUSTOM_ID` ZB2n0002 · `SOURCE` 四庫全書 文淵閣版, V674.2, p153 · `EXTENT` 4 卷 · `BOOK` 3
+
+**人物**
+- 晁公武 — 宋 · 撰 · fl. 1140 - 1171
+- 趙希弁 — 宋 · 續輯
+
+**版本** WYG
+
+**附志** `TYPE` appendix · `EXTENT` 1 卷 · `BOOK` 1
+
+**後志** `TYPE` appendix · `EXTENT` 2 卷 · `BOOK` 2
+- 人物
+  - 趙希弁 — 宋 · 編
+
+## [KR2n0003 遂初堂書目-宋-尤袤](https://github.com/kanripo/KR2n0003)
+
+`CUSTOM_ID` ZB2n0003 · `SOURCE` 四庫全書 文淵閣版, V674.3, p435 · `EXTENT` 1 卷 · `BOOK` 1
+
+**人物**
+- 尤袤 — 宋 · 撰 · 1127 - 1194
+
+**版本** WYG
+
+## [KR2n0004 子略-宋-高似孫](https://github.com/kanripo/KR2n0004)
+
+`CUSTOM_ID` ZB2n0004 · `SOURCE` 四庫全書 文淵閣版, V674.4, p491 · `EXTENT` 4 卷 · `BOOK` 1 · `DATE` 1184
+
+**人物**
+- 高似孫 — 宋 · 撰
+
+**版本** WYG
+
+## [KR2n0005 直齋書錄解題-宋-陳振孫](https://github.com/kanripo/KR2n0005)
+
+`CUSTOM_ID` ZB2n0005 · `SOURCE` 四庫全書 文淵閣版, V674.5, p525 · `EXTENT` 22 卷 · `BOOK` 12
+
+**人物**
+- 陳振孫 — 宋 · 撰 · fl. 1211 - 1249
+
+**版本** WYG
+
+## [KR2n0006 漢藝文志考證-宋-王應麟](https://github.com/kanripo/KR2n0006)
+
+`CUSTOM_ID` ZB2n0006 · `SOURCE` 四庫全書 文淵閣版, V675.1, p1 · `EXTENT` 10 卷 · `BOOK` 2
+
+**人物**
+- 王應麟 — 宋 · 撰 · 1223 - 1296
+
+**版本** WYG
+
+## [KR2n0007 文淵閣書目-明-楊士奇](https://github.com/kanripo/KR2n0007)
+
+`CUSTOM_ID` ZB2n0007 · `SOURCE` 四庫全書 文淵閣版, V675.2, p111 · `EXTENT` 4 卷 · `BOOK` 4
+
+**人物**
+- 楊士奇 — 明 · 編 · 1365 - 1444
+
+**版本** WYG
+
+## [KR2n0008 授經圖義例-明-朱睦㮮](https://github.com/kanripo/KR2n0008)
+
+`CUSTOM_ID` ZB2n0008 · `SOURCE` 四庫全書 文淵閣版, V675.3, p231 · `EXTENT` 20 卷 · `BOOK` 4
+
+**人物**
+- 朱睦㮮 — 明 · 撰 · 1517 - 1586
+
+**版本** WYG
+
+## [KR2n0009 欽定天祿琳琅書目-清-于敏中](https://github.com/kanripo/KR2n0009)
+
+`CUSTOM_ID` ZB2n0009 · `SOURCE` 四庫全書 文淵閣版, V675.4, p335 · `EXTENT` 10 卷 · `BOOK` 5 · `DATE` 乾隆四十年
+
+**人物**
+- 于敏中 — 清 · 奉敕編 · 1714 - 1779
+- 王際華 — 清 · 奉敕編
+- 梁國治 — 清 · 奉敕編
+
+**版本** WYG
+
+## [KR2n0010 千頃堂書目-清-黃虞稷](https://github.com/kanripo/KR2n0010)
+
+`CUSTOM_ID` ZB2n0010 · `SOURCE` 四庫全書 文淵閣版, V676.1, p1 · `EXTENT` 32 卷 · `BOOK` 18
+
+**人物**
+- 黃虞稷 — 清 · 撰 · 1629 - 1691
+
+**版本** WYG
+
+## [KR2n0011 經義考-清-朱彝尊](https://github.com/kanripo/KR2n0011)
+
+`CUSTOM_ID` ZB2n0011 · `SOURCE` 四庫全書 文淵閣版, V677.1, p1 - V680.1 · `EXTENT` 存297 卷 · `BOOK` 78
+
+**人物**
+- 朱彝尊 — 清 · 撰 · 1629 - 1709
+
+**版本** WYG
+
+## [KR2n0012 集古錄-宋-歐陽修](https://github.com/kanripo/KR2n0012)
+
+`CUSTOM_ID` ZB2n0012 · `SOURCE` 四庫全書 文淵閣版, V681.1, p1 · `EXTENT` 10 卷 · `BOOK` 5
+
+**人物**
+- 歐陽修 — 宋 · 撰 · 1007 - 1072
+
+**版本** WYG
+
+## [KR2n0013 金石錄-宋-趙明誠](https://github.com/kanripo/KR2n0013)
+
+`CUSTOM_ID` ZB2n0013 · `SOURCE` 四庫全書 文淵閣版, V681.2, p147 · `EXTENT` 30 卷 · `BOOK` 6
+
+**人物**
+- 趙明誠 — 宋 · 撰 · 1081 - 1129
+
+**版本** WYG
+
+## [KR2n0014 法帖刋誤-宋-黃伯思](https://github.com/kanripo/KR2n0014)
+
+`CUSTOM_ID` ZB2n0014 · `SOURCE` 四庫全書 文淵閣版, V681.3, p377 · `EXTENT` 2 卷 · `BOOK` 1
+
+**人物**
+- 黃伯思 — 宋 · 撰 · 1079 - 1118
+
+**版本** WYG
+
+## [KR2n0015 法帖釋文-宋-劉次莊](https://github.com/kanripo/KR2n0015)
+
+`CUSTOM_ID` ZB2n0015 · `SOURCE` 四庫全書 文淵閣版, V681.4, p395 · `EXTENT` 10 卷 · `BOOK` 1
+
+**人物**
+- 劉次莊 — 宋 · 撰 · fl. 1092 - 1102
+
+**版本** WYG
+
+## [KR2n0016 籀史-宋-翟耆年](https://github.com/kanripo/KR2n0016)
+
+`CUSTOM_ID` ZB2n0016 · `SOURCE` 四庫全書 文淵閣版, V681.5, p427 · `EXTENT` 1 卷 · `BOOK` 1
+
+**人物**
+- 翟耆年 — 宋 · 撰 · fl. 1142
+
+**版本** WYG
+
+## [KR2n0017 隸釋-宋-洪适](https://github.com/kanripo/KR2n0017)
+
+`CUSTOM_ID` ZB2n0017 · `SOURCE` 四庫全書 文淵閣版, V681.6, p443 · `EXTENT` 27 卷 · `BOOK` 12
+
+**人物**
+- 洪适 — 宋 · 撰 · 1117 - 1184
+
+**版本** WYG
+
+## [KR2n0018 隸續-宋-洪适](https://github.com/kanripo/KR2n0018)
+
+`CUSTOM_ID` ZB2n0018 · `SOURCE` 四庫全書 文淵閣版, V681.7, p759 · `EXTENT` 21 卷 · `BOOK` 3
+
+**人物**
+- 洪适 — 宋 · 撰 · 1117 - 1184
+
+**版本** WYG
+
+## [KR2n0019 絳帖平-宋-姜夔](https://github.com/kanripo/KR2n0019)
+
+`CUSTOM_ID` ZB2n0019 · `SOURCE` 四庫全書 文淵閣版, V682.1, p1 · `EXTENT` 6 卷 · `BOOK` 1
+
+**人物**
+- 姜夔 — 宋 · 撰 · ca. 1155 - ca. 1235
+
+**版本** WYG
+
+## [KR2n0020 石刻鋪敍-宋-曾宏父](https://github.com/kanripo/KR2n0020)
+
+`CUSTOM_ID` ZB2n0020 · `SOURCE` 四庫全書 文淵閣版, V682.2, p37 · `EXTENT` 2 卷 · `BOOK` 1
+
+**人物**
+- 曾宏父 — 宋 · 撰 · 13th cent
+
+**版本** WYG
+
+## [KR2n0021 法帖譜系-宋-曹士冕](https://github.com/kanripo/KR2n0021)
+
+`CUSTOM_ID` ZB2n0021 · `SOURCE` 四庫全書 文淵閣版, V682.3, p61 · `EXTENT` 2 卷 · `BOOK` 1
+
+**人物**
+- 曹士冕 — 宋 · 撰 · fl. 1240 - 1245
+
+**版本** WYG
+
+## [KR2n0022 蘭亭考-宋-桑世昌](https://github.com/kanripo/KR2n0022)
+
+`CUSTOM_ID` ZB2n0022 · `SOURCE` 四庫全書 文淵閣版, V682.4, p73 · `EXTENT` 12 卷 · `BOOK` 4
+
+**人物**
+- 桑世昌 — 宋 · 撰 · fl. 1208
+- 高似孫 — 宋 · 刪定
+
+**版本** WYG
+
+## [KR2n0023 蘭亭續考-宋-俞松](https://github.com/kanripo/KR2n0023)
+
+`CUSTOM_ID` ZB2n0023 · `SOURCE` 四庫全書 文淵閣版, V682.5, p155 · `EXTENT` 2 卷 · `BOOK` 1
+
+**人物**
+- 俞松 — 宋 · 撰 · fl. 1065
+
+**版本** WYG
+
+## [KR2n0024 寶刻叢編-宋-陳思](https://github.com/kanripo/KR2n0024)
+
+`CUSTOM_ID` ZB2n0024 · `SOURCE` 四庫全書 文淵閣版, V682.6, p181 · `EXTENT` 20 卷 · `BOOK` 8
+
+**人物**
+- 陳思 — 宋 · 撰 · fl. 1259
+
+**版本** WYG
+
+## [KR2n0025 輿地碑記目-宋-王象之](https://github.com/kanripo/KR2n0025)
+
+`CUSTOM_ID` ZB2n0025 · `SOURCE` 四庫全書 文淵閣版, V682.7, p517 · `EXTENT` 4 卷 · `BOOK` 2
+
+**人物**
+- 王象之 — 宋 · 撰 · fl. 1221
+
+**版本** WYG
+
+## [KR2n0026 寶刻類編-宋-闕名](https://github.com/kanripo/KR2n0026)
+
+`CUSTOM_ID` ZB2n0026 · `SOURCE` 四庫全書 文淵閣版, V682.8, p583 · `EXTENT` 8 卷 · `BOOK` 4
+
+**人物**
+- 闕名 — 宋 · 撰
+
+**版本** WYG
+
+## [KR2n0027 古刻叢鈔-明-陶宗儀](https://github.com/kanripo/KR2n0027)
+
+`CUSTOM_ID` ZB2n0027 · `SOURCE` 四庫全書 文淵閣版, V683.1, p1 · `EXTENT` 1 卷 · `BOOK` 1
+
+**人物**
+- 陶宗儀 — 明 · 編 · fl. 1360 - 1368
+
+**版本** WYG
+
+## [KR2n0028 名蹟錄-明-朱珪](https://github.com/kanripo/KR2n0028)
+
+`CUSTOM_ID` ZB2n0028 · `SOURCE` 四庫全書 文淵閣版, V683.2, p25 · `EXTENT` 5 卷 · `BOOK` 2
+
+**人物**
+- 朱珪 — 明 · 編 · 1731 - 1806
+
+**版本** WYG
+
+**附錄** `TYPE` appendix · `EXTENT` 1 卷 · `BOOK` (2)
+
+## [KR2n0029 吳中金石新編-明-陳暐](https://github.com/kanripo/KR2n0029)
+
+`CUSTOM_ID` ZB2n0029 · `SOURCE` 四庫全書 文淵閣版, V683.3, p93 · `EXTENT` 8 卷 · `BOOK` 6
+
+**人物**
+- 陳暐 — 明 · 撰
+
+**版本** WYG
+
+## [KR2n0030 金薤琳琅-明-都穆](https://github.com/kanripo/KR2n0030)
+
+`CUSTOM_ID` ZB2n0030 · `SOURCE` 四庫全書 文淵閣版, V683.4, p223 · `EXTENT` 20 卷 · `BOOK` 6
+
+**人物**
+- 都穆 — 明 · 撰 · 1458 - 1525
+
+**版本** WYG
+
+## [KR2n0031 法帖釋文考異-明-顧從義](https://github.com/kanripo/KR2n0031)
+
+`CUSTOM_ID` ZB2n0031 · `SOURCE` 四庫全書 文淵閣版, V683.5, p357 · `EXTENT` 10 卷 · `BOOK` 2
+
+**人物**
+- 顧從義 — 明 · 撰 · 1523 - 1588
+
+**版本** WYG
+
+## [KR2n0032 金石林時地考-明-趙均](https://github.com/kanripo/KR2n0032)
+
+`CUSTOM_ID` ZB2n0032 · `SOURCE` 四庫全書 文淵閣版, V683.6, p417 · `EXTENT` 2 卷 · `BOOK` 1
+
+**人物**
+- 趙均 — 明 · 撰 · 1591 - 1640
+
+**版本** WYG
+
+## [KR2n0033 石墨鐫華-明-趙崡](https://github.com/kanripo/KR2n0033)
+
+`CUSTOM_ID` ZB2n0033 · `SOURCE` 四庫全書 文淵閣版, V683.7, p445 · `EXTENT` 6 卷 · `BOOK` 4 · `DATE` 1585
+
+**人物**
+- 趙崡 — 明 · 撰
+
+**版本** WYG
+
+**附錄** `TYPE` appendix · `EXTENT` 2 卷 · `BOOK` (4)
+
+## [KR2n0034 金石史-明-郭宗昌](https://github.com/kanripo/KR2n0034)
+
+`CUSTOM_ID` ZB2n0034 · `SOURCE` 四庫全書 文淵閣版, V683.8, p533 · `EXTENT` 2 卷 · `BOOK` 1
+
+**人物**
+- 郭宗昌 — 明 · 撰 · d. 1652
+
+**版本** WYG
+
+## [KR2n0035 欽定重刻淳化閣帖釋文-清-于敏中](https://github.com/kanripo/KR2n0035)
+
+`CUSTOM_ID` ZB2n0035 · `SOURCE` 四庫全書 文淵閣版, V683.9, p559 · `EXTENT` 10 卷 · `BOOK` 5 · `DATE` 乾隆三十四年
+
+**人物**
+- 于敏中 — 清 · 奉敕校正 · 1714 - 1779
+- 王際華 — 清 · 奉敕校正
+- 裘日修 — 清 · 奉敕校正
+
+**版本** WYG
+
+## [KR2n0036 求古錄-清-顧炎武](https://github.com/kanripo/KR2n0036)
+
+`CUSTOM_ID` ZB2n0036 · `SOURCE` 四庫全書 文淵閣版, V683.10, p659 · `EXTENT` 1 卷 · `BOOK` 1
+
+**人物**
+- 顧炎武 — 清 · 撰 · 1613 - 1682
+
+**版本** WYG
+
+## [KR2n0037 金石文字記-清-顧炎武](https://github.com/kanripo/KR2n0037)
+
+`CUSTOM_ID` ZB2n0037 · `SOURCE` 四庫全書 文淵閣版, V683.11, p701 · `EXTENT` 6 卷 · `BOOK` 6
+
+**人物**
+- 顧炎武 — 清 · 撰 · 1613 - 1682
+
+**版本** WYG
+
+## [KR2n0038 石經考-清-顧炎武](https://github.com/kanripo/KR2n0038)
+
+`CUSTOM_ID` ZB2n0038 · `SOURCE` 四庫全書 文淵閣版, V683.12, p833 · `EXTENT` 1 卷 · `BOOK` 1
+
+**人物**
+- 顧炎武 — 清 · 撰 · 1613 - 1682
+
+**版本** WYG
+
+## [KR2n0039 萬氏石經考-清-萬斯同](https://github.com/kanripo/KR2n0039)
+
+`CUSTOM_ID` ZB2n0039 · `SOURCE` 四庫全書 文淵閣版, V683.13, p853 · `EXTENT` 2 卷 · `BOOK` 1
+
+**人物**
+- 萬斯同 — 清 · 撰 · 1638 - 1702
+
+**版本** WYG
+
+## [KR2n0040 來齋金石刻考略-清-林侗](https://github.com/kanripo/KR2n0040)
+
+`CUSTOM_ID` ZB2n0040 · `SOURCE` 四庫全書 文淵閣版, V684.1, p1 · `EXTENT` 3 卷 · `BOOK` 3
+
+**人物**
+- 林侗 — 清 · 撰 · 1627 - 1714
+
+**版本** WYG
+
+## [KR2n0041 崇陽石刻集記-清-葉封](https://github.com/kanripo/KR2n0041)
+
+`CUSTOM_ID` ZB2n0041 · `SOURCE` 四庫全書 文淵閣版, V684.2, p97 · `EXTENT` 2 卷 · `BOOK` 2
+
+**人物**
+- 葉封 — 清 · 撰 · 1623 - 1687
+
+**版本** WYG
+
+**(附)紀遺** `TYPE` appendix · `EXTENT` 1 卷 · `BOOK` (2)
+
+## [KR2n0042 金石文考略-清-李光暎](https://github.com/kanripo/KR2n0042)
+
+`CUSTOM_ID` ZB2n0042 · `SOURCE` 四庫全書 文淵閣版, V684.3, p169 · `EXTENT` 16 卷 · `BOOK` 10
+
+**人物**
+- 李光暎 — 清 · 撰 · fl. 1729
+
+**版本** WYG
+
+## [KR2n0043 分隸偶存-清-萬經](https://github.com/kanripo/KR2n0043)
+
+`CUSTOM_ID` ZB2n0043 · `SOURCE` 四庫全書 文淵閣版, V684.4, p447 · `EXTENT` 2 卷 · `BOOK` 2
+
+**人物**
+- 萬經 — 清 · 撰 · 1659 - 1741
+
+**版本** WYG
+
+## [KR2n0044 淳化祕閣法帖考正-清-王澍](https://github.com/kanripo/KR2n0044)
+
+`CUSTOM_ID` ZB2n0044 · `SOURCE` 四庫全書 文淵閣版, V684.5, p503 · `EXTENT` 12 卷 · `BOOK` 4
+
+**人物**
+- 王澍 — 清 · 撰 · 1668 - 1743
+
+**版本** WYG
+
+## [KR2n0045 竹雲題跋-清-王澍](https://github.com/kanripo/KR2n0045)
+
+`CUSTOM_ID` ZB2n0045 · `SOURCE` 四庫全書 文淵閣版, V684.6, p643 · `EXTENT` 4 卷 · `BOOK` 4
+
+**人物**
+- 王澍 — 清 · 撰 · 1668 - 1743
+
+**版本** WYG
+
+## [KR2n0046 金石經眼錄-清-褚峻](https://github.com/kanripo/KR2n0046)
+
+`CUSTOM_ID` ZB2n0046 · `SOURCE` 四庫全書 文淵閣版, V684.7, p711 · `EXTENT` 1 卷 · `BOOK` 1
+
+**人物**
+- 褚峻 — 清 · 摹圖 · fl. 1694 - 1745
+- 牛運震 — 清 · 補說
+
+**版本** WYG
+
+## [KR2n0047 石經考異-清-杭世駿](https://github.com/kanripo/KR2n0047)
+
+`CUSTOM_ID` ZB2n0047 · `SOURCE` 四庫全書 文淵閣版, V684.8, p765 · `EXTENT` 2 卷 · `BOOK` 1
+
+**人物**
+- 杭世駿 — 清 · 撰 · 1696 - 1773
+
+**版本** WYG

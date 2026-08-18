@@ -1,0 +1,19654 @@
+# 正統道藏
+
+[← 漢籍リポジトリ目録](../README.md)
+
+<sub>由 [`tools/org2md.py`](../tools/org2md.py) 自動生成，請勿直接編輯；資料源為 [`ztdz.org`](ztdz.org)。</sub>
+
+## 洞　真　部 CH01
+
+分類	洞　真　部　經　名 (作者)	上海版	新文豐	中華道藏	涵芬樓
+
+### CMTS0101	本文類 Benwen Fundamental Scriptures
+
+#### DZ0001 靈寶無量度人上品妙經 Lingbao wuliang duren shangpin miaojing +
+
+[KR5a0001](https://github.com/kanripo/KR5a0001) · `CUSTOM_ID` DZ0001 · `HK` CH010101 · `凱希` KX0001 · `三家本` Vol 1, p0001a · `Z中華道藏` ZHDZ34p0315 · `ZHnum` ZH34_002 · `X新文豐` XWDZ01p0001 · `涵芬樓` HFL天上004
+
+靈寶無量度人上品妙經  
+DZJY: JY001  
+DZJY0: JY001  
+DZ:   DZ0001  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0002 元始無量度人上品妙經直音 Yuanshi wuliang duren shangpin miaojing zhiyin
+
+[KR5a0002](https://github.com/kanripo/KR5a0002) · `CUSTOM_ID` DZ0002 · `HK` CH010102 · `凱希` KX0002 · `三家本` Vol 1, p0417b · `Z中華道藏` ZHDZ34p0745 · `ZHnum` ZH34_003 · `X新文豐` XWDZ01p0640 · `涵芬樓` HFL洪上044
+
+元始無量度人上品妙經直音  
+DZ:   DZ0002  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0003 元始說先天道德經註解 Yuanshi shuo xiantian daode jing zhujie
+
+[KR5a0003](https://github.com/kanripo/KR5a0003) · `CUSTOM_ID` DZ0003 · `HK` CH010103 · `凱希` KX0003 · `三家本` Vol 1, p0425a · `Z中華道藏` ZHDZ11p0160 · `ZHnum` ZH11_002 · `X新文豐` XWDZ01p0652 · `涵芬樓` HFL洪上090
+
+元始說先天道德經註解(宋-李嘉謀)  
+DZJY: JY005  
+DZJY0: JY005  
+DZ:   DZ0003  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0004 無上內秘真藏經 Wushang neibi zhenzang jing
+
+[KR5a0004](https://github.com/kanripo/KR5a0004) · `CUSTOM_ID` DZ0004 · `HK` CH010104 · `凱希` KX0004 · `三家本` Vol 1, p0452b · `Z中華道藏` ZHDZ05p0412 · `ZHnum` ZH05_022 · `X新文豐` XWDZ01p0694 · `涵芬樓` HFL洪中100
+
+無上內秘真藏經  
+DZJY: JY004  
+DZJY0: JY004  
+DZ:   DZ0004  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0005 太上無極總真文昌大洞仙經 Taishang wuji zongzhen Wenchang dadong xianjing
+
+[KR5a0005](https://github.com/kanripo/KR5a0005) · `CUSTOM_ID` DZ0005 · `HK` CH010105 · `凱希` KX0005 · `三家本` Vol 1, p0496a · `Z中華道藏` ZHDZ06p0437 · `ZHnum` ZH06_093 · `X新文豐` XWDZ01p0761 · `涵芬樓` HFL荒上004
+
+太上無極總真文昌大洞仙經  
+DZ:   DZ0005  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0006 上清大洞真經 Shangqing dadong zhenjing
+
+[KR5a0006](https://github.com/kanripo/KR5a0006) · `CUSTOM_ID` DZ0006 · `HK` CH010106 · `凱希` KX0006 · `三家本` Vol 1, p0512b · `Z中華道藏` ZHDZ01p0001 · `ZHnum` ZH01_001 · `X新文豐` XWDZ01p0786 · `涵芬樓` HFL荒上102
+
+上清大洞真經  
+DZ:   DZ0006  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0007 大洞玉經 Dadong yujing
+
+[KR5a0007](https://github.com/kanripo/KR5a0007) · `CUSTOM_ID` DZ0007 · `HK` CH010107 · `凱希` KX0007 · `三家本` Vol 1, p0556a · `Z中華道藏` ZHDZ01p0054 · `ZHnum` ZH01_003 · `X新文豐` XWDZ02p0001 · `涵芬樓` HFL日上004
+
+大洞玉經  
+DZ:   DZ0007  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0008 太上三十六部尊經 Taishang sanshiliu bu zunjing
+
+[KR5a0008](https://github.com/kanripo/KR5a0008) · `CUSTOM_ID` DZ0008 · `HK` CH010108 · `凱希` KX0008 · `三家本` Vol 1, p0576a · `Z中華道藏` ZHDZ05p0374 · `ZHnum` ZH05_020 · `X新文豐` XWDZ02p0032 · `涵芬樓` HFL日上124
+
+太上三十六尊經  
+DZ:   DZ0008  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0009 太上一乘海空智藏經 Taishang yisheng haikong zhizang jing
+
+[KR5a0009](https://github.com/kanripo/KR5a0009) · `CUSTOM_ID` DZ0009 · `HK` CH010109 · `凱希` KX0009 · `三家本` Vol 1, p0608a · `Z中華道藏` ZHDZ05p0281 · `ZHnum` ZH05_019 · `X新文豐` XWDZ01p0608 · `涵芬樓` HFL月上004
+
+太上一乘海空智藏經(一名七寶莊嚴經)  
+DZ:   DZ0009  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0010 高上玉皇本行集經 Gaoshang yuhuang benxing jijing
+
+[KR5a0010](https://github.com/kanripo/KR5a0010) · `CUSTOM_ID` DZ0010 · `HK` CH010110 · `凱希` KX0010 · `三家本` Vol 1, p0695c · `Z中華道藏` ZHDZ06p0272 · `ZHnum` ZH06_088 · `X新文豐` XWDZ02p0219 · `涵芬樓` HFL盈上004
+
+高上玉皇本行集經(一)  
+DZ:   DZ0010  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0011 高上玉皇本行集經 Gaoshang yuhuang benxing jijing
+
+[KR5a0011](https://github.com/kanripo/KR5a0011) · `CUSTOM_ID` DZ0011 · `HK` CH010111 · `凱希` KX0011 · `三家本` Vol 1, p0709a · `Z中華道藏` ZHDZ06p0286 · `ZHnum` ZH06_089 · `X新文豐` XWDZ02p0240 · `涵芬樓` HFL盈上084
+
+高上玉皇本行集經(二)  
+DZJY: JY088  
+DZJY0: JY088  
+DZ:   DZ0011  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0012 高上玉皇本行經髓 Gaoshang yuhuang benxing jingsui
+
+[KR5a0012](https://github.com/kanripo/KR5a0012) · `CUSTOM_ID` DZ0012 · `HK` CH010112 · `凱希` KX0012 · `三家本` Vol 1, p0745b · `Z中華道藏` ZHDZ06p0323 · `ZHnum` ZH06_090 · `X新文豐` XWDZ02p0297 · `涵芬樓` HFL盈中150
+
+高上玉皇本行經髓  
+DZ:   DZ0012  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0013 高上玉皇心印妙經 Gaoshang yuhuang xinyin miaojing
+
+[KR5a0013](https://github.com/kanripo/KR5a0013) · `CUSTOM_ID` DZ0013 · `HK` CH010113 · `凱希` KX0013 · `三家本` Vol 1, p0748b · `Z中華道藏` ZHDZ06p0326 · `ZHnum` ZH06_091 · `X新文豐` XWDZ02p0302 · `涵芬樓` HFL盈中168
+
+高上玉皇心印經  
+DZ:   DZ0013  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0014 高上玉皇胎息經 Gaoshang yuhuang taixi jing +
+
+[KR5a0014](https://github.com/kanripo/KR5a0014) · `CUSTOM_ID` DZ0014 · `HK` CH010114 · `凱希` KX0014 · `三家本` Vol 1, p0748c · `Z中華道藏` ZHDZ23p0184 · `ZHnum` ZH23_029 · `X新文豐` XWDZ02p0302 · `涵芬樓` HFL盈中170
+
+高上玉皇胎息經  
+DZ:   DZ0014  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0015 無上九霄玉清大梵紫微玄都雷霆玉經 Wushang jiuxiao yuqing dafan ziwei xuanbu leiting yujing
+
+[KR5a0015](https://github.com/kanripo/KR5a0015) · `CUSTOM_ID` DZ0015 · `HK` CH010115 · `凱希` KX0015 · `三家本` Vol 1, p0749a · `Z中華道藏` ZHDZ31p0287 · `ZHnum` ZH31_009 · `X新文豐` XWDZ02p0303 · `涵芬樓` HFL盈下004
+
+無上九霄玉清大梵紫微玄都雷霆玉經  
+DZ:   DZ0015  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0016 九天應元雷聲普化天尊玉樞寶經 Jiutian yingyuan leisheng puhua tianzun yushu baojing
+
+[KR5a0016](https://github.com/kanripo/KR5a0016) · `CUSTOM_ID` DZ0016 · `HK` CH010116 · `凱希` KX0016 · `三家本` Vol 1, p0758b · `Z中華道藏` ZHDZ31p0297 · `ZHnum` ZH31_010 · `X新文豐` XWDZ02p0318 · `涵芬樓` HFL盈下058
+
+九天應元雷聲普化天尊玉樞寶經  
+DZ:   DZ0016  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0017 太上說朝天謝雷真經 Taishang shuo chaotian xielei zhenjing
+
+[KR5a0017](https://github.com/kanripo/KR5a0017) · `CUSTOM_ID` DZ0017 · `HK` CH010117 · `凱希` KX0017 · `三家本` Vol 1, p0762a · `Z中華道藏` ZHDZ31p0328 · `ZHnum` ZH31_014 · `X新文豐` XWDZ02p0324 · `涵芬樓` HFL盈下080
+
+太上說朝天謝雷真經  
+DZ:   DZ0017  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0018 太上虛皇天尊四十九章經 Taishang xuhuang tianzun sishijiu zhangjing
+
+[KR5a0018](https://github.com/kanripo/KR5a0018) · `CUSTOM_ID` DZ0018 · `HK` CH010118 · `凱希` KX0018 · `三家本` Vol 1, p0768a · `Z中華道藏` ZHDZ05p0407 · `ZHnum` ZH05_021 · `X新文豐` XWDZ02p0333 · `涵芬樓` HFL盈下116
+
+太上虛皇天尊四十九章經  
+DZ:   DZ0018  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0019 太上昇玄消災護命妙經 Taishang shengxuan xiaozai huming miaojing
+
+[KR5a0019](https://github.com/kanripo/KR5a0019) · `CUSTOM_ID` DZ0019 · `HK` CH010119 · `凱希` KX0019 · `三家本` Vol 1, p0772c · `Z中華道藏` ZHDZ06p0069 · `ZHnum` ZH06_019 · `X新文豐` XWDZ02p0340 · `涵芬樓` HFL盈下144
+
+太上昇玄消災護命妙經  
+DZ:   DZ0019  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0020 三光注齡資福延壽妙經 Sanguang zhuling zifu yanshou miaojing
+
+[KR5a0020](https://github.com/kanripo/KR5a0020) · `CUSTOM_ID` DZ0020 · `HK` CH010120 · `凱希` KX0020 · `三家本` Vol 1, p0773b · `Z中華道藏` ZHDZ06p0220 · `ZHnum` ZH06_068 · `X新文豐` XWDZ02p0341 · `涵芬樓` HFL盈下148
+
+三光注齡資福延壽妙經  
+DZ:   DZ0020  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0021 太上長生延壽集福德經 Taishang changsheng yanshou jifu dejing
+
+[KR5a0021](https://github.com/kanripo/KR5a0021) · `CUSTOM_ID` DZ0021 · `HK` CH010121 · `凱希` KX0021 · `三家本` Vol 1, p0773c · `Z中華道藏` ZHDZ06p0219 · `ZHnum` ZH06_067 · `X新文豐` XWDZ02p0342 · `涵芬樓` HFL盈下150
+
+太上長生延壽集福德經  
+DZ:   DZ0021  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0022 元始五老赤書玉篇真文天書經 Yuanshi wulao chishu yupian zhenwen tianshu jing
+
+[KR5a0022](https://github.com/kanripo/KR5a0022) · `CUSTOM_ID` DZ0022 · `HK` CH010122 · `凱希` KX0022 · `三家本` Vol 1, p0774b · `Z中華道藏` ZHDZ03p0001 · `ZHnum` ZH03_001 · `X新文豐` XWDZ02p0343 · `涵芬樓` HFL昃上004
+
+元始五老赤書玉篇真文天書經  
+DZ:   DZ0022  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0023 太上諸天靈書度命妙經 Taishang zhutian lingshu duming miaojing
+
+[KR5a0023](https://github.com/kanripo/KR5a0023) · `CUSTOM_ID` DZ0023 · `HK` CH010123 · `凱希` KX0023 · `三家本` Vol 1, p0799c · `Z中華道藏` ZHDZ03p0740 · `ZHnum` ZH03_039 · `X新文豐` XWDZ02p0382 · `涵芬樓` HFL昃上156
+
+太上諸天靈書度命妙經  
+DZ:   DZ0023  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0024 元始天尊說生天得道經 Yuanshi tianzun shuo shengtian dedao jing
+
+[KR5a0024](https://github.com/kanripo/KR5a0024) · `CUSTOM_ID` DZ0024 · `HK` CH010124 · `凱希` KX0024 · `三家本` Vol 1, p0806a · `Z中華道藏` ZHDZ06p0108 · `ZHnum` ZH06_023 · `X新文豐` XWDZ02p0393 · `涵芬樓` HFL昃下004
+
+元始天尊說生天得道經  
+DZJY: JY011  
+DZJY0: JY011  
+DZ:   DZ0024  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0025 元始天尊說得道了身經 Yuanshi tianzun shuo dedao liaoshen jing
+
+[KR5a0025](https://github.com/kanripo/KR5a0025) · `CUSTOM_ID` DZ0025 · `HK` CH010125 · `凱希` KX0025 · `三家本` Vol 1, p0806c · `Z中華道藏` ZHDZ06p0111 · `ZHnum` ZH06_025 · `X新文豐` XWDZ02p0395 · `涵芬樓` HFL昃下008
+
+元始天尊說得道了身經  
+DZJY: JY012  
+DZJY0: JY012  
+DZ:   DZ0025  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0026 太上九天延祥滌厄四聖妙經 Taishang jiutian yanxiang die sisheng miaojing
+
+[KR5a0026](https://github.com/kanripo/KR5a0026) · `CUSTOM_ID` DZ0026 · `HK` CH010126 · `凱希` KX0026 · `三家本` Vol 1, p0808a · `Z中華道藏` ZHDZ06p0211 · `ZHnum` ZH06_064 · `X新文豐` XWDZ02p0397 · `涵芬樓` HFL昃下016
+
+太上九天延祥滌厄四聖妙經  
+DZ:   DZ0026  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0027 元始天尊說北方真武妙經 Yuanshi tianzun shuo beifang Zhenwu miaojing
+
+[KR5a0027](https://github.com/kanripo/KR5a0027) · `CUSTOM_ID` DZ0027 · `HK` CH010127 · `凱希` KX0027 · `三家本` Vol 1, p0812c · `Z中華道藏` ZHDZ30p0522 · `ZHnum` ZH30_036 · `X新文豐` XWDZ02p0404 · `涵芬樓` HFL昃下044
+
+元始天尊說北方真武妙經  
+DZ:   DZ0027  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0028 元始天尊說梓潼帝君應驗經 Yuanshi tianzun shuo zitong dijun yingyan jing
+
+[KR5a0028](https://github.com/kanripo/KR5a0028) · `CUSTOM_ID` DZ0028 · `HK` CH010128 · `凱希` KX0028 · `三家本` Vol 1, p0815a · `Z中華道藏` ZHDZ06p0571 · `ZHnum` ZH06_096 · `X新文豐` XWDZ02p0408 · `涵芬樓` HFL昃下058
+
+元始天尊說梓童帝君應驗經  
+DZ:   DZ0028  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0029 元始天尊說梓潼帝君本願經 Yuanshi tianzun shuo zitong dijun benyuan jing
+
+[KR5a0029](https://github.com/kanripo/KR5a0029) · `CUSTOM_ID` DZ0029 · `HK` CH010129 · `凱希` KX0029 · `三家本` Vol 1, p0816b · `Z中華道藏` ZHDZ06p0573 · `ZHnum` ZH06_097 · `X新文豐` XWDZ02p0410 · `涵芬樓` HFL昃下066
+
+元始天尊說梓童帝君本願經  
+DZJY: JY015  
+DZJY0: JY015  
+DZ:   DZ0029  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0030 元始八威龍文經 Yuanshi bawei longwen jing
+
+[KR5a0030](https://github.com/kanripo/KR5a0030) · `CUSTOM_ID` DZ0030 · `HK` CH010130 · `凱希` KX0030 · `三家本` Vol 1, p0820b · `Z中華道藏` ZHDZ06p0774 · `ZHnum` ZH06_122 · `X新文豐` XWDZ02p0416 · `涵芬樓` HFL昃下090
+
+元始八威龍文經  
+DZ:   DZ0030  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0031 黃帝陰符經 Huangdi yinfu jing
+
+[KR5a0031](https://github.com/kanripo/KR5a0031) · `CUSTOM_ID` DZ0031 · `HK` CH010131 · `凱希` KX0031 · `三家本` Vol 1, p0821b · `Z中華道藏` ZHDZ15p0695 · `ZHnum` ZH15_013 · `X新文豐` XWDZ02p0418 · `涵芬樓` HFL昃下096
+
+黃帝陰符經  
+DZ:   DZ0031  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0032 混元陽符經 Hunyuan yangfu jing
+
+[KR5a0032](https://github.com/kanripo/KR5a0032) · `CUSTOM_ID` DZ0032 · `HK` CH010132 · `凱希` KX0032 · `三家本` Vol 1, p0822a · `Z中華道藏` ZHDZ19p0064 · `ZHnum` ZH19_011 · `X新文豐` XWDZ02p0419 · `涵芬樓` HFL昃下100
+
+混元陽符經  
+DZ:   DZ0032  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0033 上清黃氣陽精三道順行經 Shangqing huangqi yangjing sandao shunxing jing
+
+[KR5a0033](https://github.com/kanripo/KR5a0033) · `CUSTOM_ID` DZ0033 · `HK` CH010133 · `凱希` KX0033 · `三家本` Vol 1, p0822b · `Z中華道藏` ZHDZ01p0267 · `ZHnum` ZH01_028 · `X新文豐` XWDZ02p0420 · `涵芬樓` HFL昃下102
+
+上清黃氣陽精三道願行經(藏月隱日經)  
+DZ:   DZ0033  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0034 太上開明天地本真經 Taishang kai mingtian diben zhenjing
+
+[KR5a0034](https://github.com/kanripo/KR5a0034) · `CUSTOM_ID` DZ0034 · `HK` CH010134 · `凱希` KX0034 · `三家本` Vol 1, p0832a · `Z中華道藏` ZHDZ19p0664 · `ZHnum` ZH19_082 · `X新文豐` XWDZ02p0435 · `涵芬樓` HFL昃下160
+
+太上開明天地本真經  
+DZ:   DZ0034  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0035 太上玄都妙本清靜身心經 Taishang xuandu miaoben qingjing shenxin jing
+
+[KR5a0035](https://github.com/kanripo/KR5a0035) · `CUSTOM_ID` DZ0035 · `HK` CH010135 · `凱希` KX0035 · `三家本` Vol 1, p0833b · `Z中華道藏` ZHDZ06p0083 · `ZHnum` ZH06_012 · `X新文豐` XWDZ02p0439 · `涵芬樓` HFL昃下168
+
+太上玄都妙本清靜身心經  
+DZ:   DZ0035  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0036 太上太玄女青三元品誡拔罪妙經 Taishang taixuan nüqing sanyuan pinjie bazui miaojing
+
+[KR5a0036](https://github.com/kanripo/KR5a0036) · `CUSTOM_ID` DZ0036 · `HK` CH010136 · `凱希` KX0036 · `三家本` Vol 1, p0835b · `Z中華道藏` ZHDZ03p0785 · `ZHnum` ZH03_045 · `X新文豐` XWDZ02p0441 · `涵芬樓` HFL辰上004
+
+太上太玄女青三元品誡拔罪妙經  
+DZ:   DZ0036  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0037 元始天尊說變化空洞妙經 Yuanshi tianzun shuo bianhua kongdong miaojing
+
+[KR5a0037](https://github.com/kanripo/KR5a0037) · `CUSTOM_ID` DZ0037 · `HK` CH010137 · `凱希` KX0037 · `三家本` Vol 1, p0845c · `Z中華道藏` ZHDZ04p0048 · `ZHnum` ZH04_006 · `X新文豐` XWDZ02p0457 · `涵芬樓` HFL辰上066
+
+元始天尊說變化空洞妙經  
+DZ:   DZ0037  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0038 太上昇玄三一融神變化妙經 Taishang shengxuan sanyi rongshen bianhua miaojing
+
+[KR5a0038](https://github.com/kanripo/KR5a0038) · `CUSTOM_ID` DZ0038 · `HK` CH010138 · `凱希` KX0038 · `三家本` Vol 1, p0851b · `Z中華道藏` ZHDZ05p0145 · `ZHnum` ZH05_011 · `X新文豐` XWDZ02p0466 · `涵芬樓` HFL辰上106
+
+太上昇玄三一融神變化妙經  
+DZ:   DZ0038  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0039 太上導引三光九變妙經 Taishang daoyin sanguang jiubian miaojing
+
+[KR5a0039](https://github.com/kanripo/KR5a0039) · `CUSTOM_ID` DZ0039 · `HK` CH010139 · `凱希` KX0039 · `三家本` Vol 1, p0855b · `Z中華道藏` ZHDZ04p0005 · `ZHnum` ZH04_002 · `X新文豐` XWDZ02p0472 · `涵芬樓` HFL辰上124
+
+太上導引三光九變妙經  
+DZ:   DZ0039  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0040 太上導引三光寶真妙經 Taishang daoyin sanguang baozhen miaojing
+
+[KR5a0040](https://github.com/kanripo/KR5a0040) · `CUSTOM_ID` DZ0040 · `HK` CH010140 · `凱希` KX0040 · `三家本` Vol 1, p0858c · `Z中華道藏` ZHDZ04p0006 · `ZHnum` ZH04_002 · `X新文豐` XWDZ02p0477 · `涵芬樓` HFL辰上144
+
+太上導引三光寶真妙經  
+DZ:   DZ0040  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0041 太上修真體元妙道經 Taishang xiuzhen tiyuan miaodao jing
+
+[KR5a0041](https://github.com/kanripo/KR5a0041) · `CUSTOM_ID` DZ0041 · `HK` CH010141 · `凱希` KX0041 · `三家本` Vol 1, p0860a · `Z中華道藏` ZHDZ19p0656 · `ZHnum` ZH19_081 · `X新文豐` XWDZ02p0479 · `涵芬樓` HFL辰下004
+
+太上修真體元妙道經(宋-劉元瑞)  
+DZ:   DZ0041  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0042 玉清元始玄黃九光真經 Yuqing yuanshi xuanhuang jiuguang zhenjing
+
+[KR5a0042](https://github.com/kanripo/KR5a0042) · `CUSTOM_ID` DZ0042 · `HK` CH010142 · `凱希` KX0042 · `三家本` Vol 1, p0867a · `Z中華道藏` ZHDZ06p0769 · `ZHnum` ZH06_118 · `X新文豐` XWDZ02p0490 · `涵芬樓` HFL辰下047
+
+玉清元始玄黃九光真經  
+DZ:   DZ0042  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0043 元始天尊說十一曜大消災神咒經 Yuanshi tianzun shuo shiyi yueda xiaozai shenzhou jing
+
+[KR5a0043](https://github.com/kanripo/KR5a0043) · `CUSTOM_ID` DZ0043 · `HK` CH010143 · `凱希` KX0043 · `三家本` Vol 1, p0868b · `Z中華道藏` ZHDZ06p0194 · `ZHnum` ZH06_054 · `X新文豐` XWDZ02p0492 · `涵芬樓` HFL辰下054
+
+元始天尊說十一曜大消災神咒經  
+DZ:   DZ0043  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0044 太上洞真五星秘授經 Taishang dongzhen wuxing bishou jing
+
+[KR5a0044](https://github.com/kanripo/KR5a0044) · `CUSTOM_ID` DZ0044 · `HK` CH010144 · `凱希` KX0044 · `三家本` Vol 1, p0870b · `Z中華道藏` ZHDZ06p0192 · `ZHnum` ZH06_053 · `X新文豐` XWDZ02p0495 · `涵芬樓` HFL辰下066
+
+太上洞真五星秘授經  
+DZ:   DZ0044  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0045 玉清無上靈寶自然北斗本生真經 Yuqing wushang lingbao ziran beidou bensheng zhenjing
+
+[KR5a0045](https://github.com/kanripo/KR5a0045) · `CUSTOM_ID` DZ0045 · `HK` CH010145 · `凱希` KX0045 · `三家本` Vol 1, p0872a · `Z中華道藏` ZHDZ06p0767 · `ZHnum` ZH06_117 · `X新文豐` XWDZ02p0498 · `涵芬樓` HFL辰下075
+
+玉清無上靈寶自然北斗本生真經  
+DZ:   DZ0045  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0046 太乙元真保命長生經 Taiyi yuanzhen baoming changsheng jing
+
+[KR5a0046](https://github.com/kanripo/KR5a0046) · `CUSTOM_ID` DZ0046 · `HK` CH010146 · `凱希` KX0046 · `三家本` Vol 1, p0873b · `Z中華道藏` ZHDZ23p0144 · `ZHnum` ZH23_019 · `X新文豐` XWDZ02p0500 · `涵芬樓` HFL辰下084
+
+太乙元真保命長生經  
+DZ:   DZ0046  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0047 太上元始天尊證果真經 Taishang yuanshi tianzun zhengguo zhenjing
+
+[KR5a0047](https://github.com/kanripo/KR5a0047) · `CUSTOM_ID` DZ0047 · `HK` CH010147 · `凱希` KX0047 · `三家本` Vol 1, p0874a · `Z中華道藏` ZHDZ06p0202 · `ZHnum` ZH06_059 · `X新文豐` XWDZ02p0501 · `涵芬樓` HFL辰下088
+
+太上元始天尊證果真經  
+DZ:   DZ0047  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0048 太上元始天尊說續命妙經 Taishang yuanshi tianzun shuo xuming miaojing
+
+[KR5a0048](https://github.com/kanripo/KR5a0048) · `CUSTOM_ID` DZ0048 · `HK` CH010148 · `凱希` KX0048 · `三家本` Vol 1, p0874b · `Z中華道藏` ZHDZ06p0203 · `ZHnum` ZH06_060 · `X新文豐` XWDZ02p0501 · `涵芬樓` HFL辰下090
+
+太上元始天尊說續命妙經  
+DZ:   DZ0048  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0049 洞真太極北帝紫微神咒妙經 Dongzhen taiji beidi ziwei shenzhou miaojing
+
+[KR5a0049](https://github.com/kanripo/KR5a0049) · `CUSTOM_ID` DZ0049 · `HK` CH010149 · `凱希` KX0049 · `三家本` Vol 1, p0874c · `Z中華道藏` ZHDZ30p0160 · `ZHnum` ZH30_015 · `X新文豐` XWDZ02p0502 · `涵芬樓` HFL辰下092
+
+洞真太極北帝紫微神咒妙經  
+DZ:   DZ0049  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0050 太上說六甲直符保胎護命妙經 Taishang shuo liujia zhifu baotai huming miaojing
+
+[KR5a0050](https://github.com/kanripo/KR5a0050) · `CUSTOM_ID` DZ0050 · `HK` CH010150 · `凱希` KX0050 · `三家本` Vol 1, p0878c · `Z中華道藏` ZHDZ06p0196 · `ZHnum` ZH06_055 · `X新文豐` XWDZ02p0508 · `涵芬樓` HFL辰下116
+
+太上說六甲直符保胎護命妙經  
+DZ:   DZ0050  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0051 太上元始天尊說大雨龍王經 Taishang yuanshi tianzun shuo dayu longwang jing
+
+[KR5a0051](https://github.com/kanripo/KR5a0051) · `CUSTOM_ID` DZ0051 · `HK` CH010151 · `凱希` KX0051 · `三家本` Vol 1, p0881b · `Z中華道藏` ZHDZ06p0218 · `ZHnum` ZH06_066 · `X新文豐` XWDZ02p0512 · `涵芬樓` HFL辰下132
+
+太上元始天尊說大雨龍王經  
+DZ:   DZ0051  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0052 太上護國祈雨消魔經 Taishang huguo qiyu xiaomo jing
+
+[KR5a0052](https://github.com/kanripo/KR5a0052) · `CUSTOM_ID` DZ0052 · `HK` CH010152 · `凱希` KX0052 · `三家本` Vol 1, p0882b · `Z中華道藏` ZHDZ06p0216 · `ZHnum` ZH06_065 · `X新文豐` XWDZ02p0514 · `涵芬樓` HFL辰下138
+
+太上護國祈雨消魔經  
+DZ:   DZ0052  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0053 太上洞淵北帝天蓬護命消災神咒妙經 Taishang dongyuan beidi tianpeng huming xiaozai shenzhou miaojing
+
+[KR5a0053](https://github.com/kanripo/KR5a0053) · `CUSTOM_ID` DZ0053 · `HK` CH010153 · `凱希` KX0053 · `三家本` Vol 1, p0883c · `Z中華道藏` ZHDZ30p0120 · `ZHnum` ZH30_005 · `X新文豐` XWDZ02p0516 · `涵芬樓` HFL辰下146
+
+太上洞淵北帝天蓬護命消災神咒妙經  
+DZ:   DZ0053  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0054 太上洞淵辭瘟神咒妙經 Taishang dongyuan ciwen shenzhou miaojing
+
+[KR5a0054](https://github.com/kanripo/KR5a0054) · `CUSTOM_ID` DZ0054 · `HK` CH010154 · `凱希` KX0054 · `三家本` Vol 1, p0886a · `Z中華道藏` ZHDZ30p0123 · `ZHnum` ZH30_006 · `X新文豐` XWDZ02p0520 · `涵芬樓` HFL辰下160
+
+太上洞淵辭瘟神咒妙經  
+DZ:   DZ0054  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0055 高上太霄琅書瓊文帝章經 Gaoshang taixiao langshu qiongwen di zhangjing
+
+[KR5a0055](https://github.com/kanripo/KR5a0055) · `CUSTOM_ID` DZ0055 · `HK` CH010155 · `凱希` KX0055 · `三家本` Vol 1, p0886c · `Z中華道藏` ZHDZ01p0636 · `ZHnum` ZH01_066 · `X新文豐` XWDZ02p0521 · `涵芬樓` HFL宿上004
+
+高上太霄琅書瓊文帝章經  
+DZ:   DZ0055  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0056 太上玉佩金璫太極金書上經 Taishang yupei jindang taiji jinshu shangjing
+
+[KR5a0056](https://github.com/kanripo/KR5a0056) · `CUSTOM_ID` DZ0056 · `HK` CH010156 · `凱希` KX0056 · `三家本` Vol 1, p0896b · `Z中華道藏` ZHDZ01p0518 · `ZHnum` ZH01_059 · `X新文豐` XWDZ02p0536 · `涵芬樓` HFL宿上062
+
+太上玉珮金璫太極金書上經  
+DZ:   DZ0056  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0057 上方天尊說真元通仙道經 Shangfang tianzun shuo zhenyuan tong xiandao jing
+
+[KR5a0057](https://github.com/kanripo/KR5a0057) · `CUSTOM_ID` DZ0057 · `HK` CH010157 · `凱希` KX0057 · `三家本` Vol 1, p0905a · `Z中華道藏` ZHDZ30p0739 · `ZHnum` ZH30_051 · `X新文豐` XWDZ02p0549 · `涵芬樓` HFL宿上114
+
+上方天尊說真元通仙道經(附釋音)  
+DZ:   DZ0057  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0058 無上大乘要決妙經 Wushang dasheng yaojue miaojing
+
+[KR5a0058](https://github.com/kanripo/KR5a0058) · `CUSTOM_ID` DZ0058 · `HK` CH010158 · `凱希` KX0058 · `三家本` Vol 2, p0001a · `Z中華道藏` ZHDZ05p0487 · `ZHnum` ZH05_025 · `X新文豐` XWDZ02p0561 · `涵芬樓` HFL宿中004
+
+無上大乘要訣妙經  
+DZ:   DZ0058  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0059 元始洞真決疑經 Yuanshi dongzhen jueyi jing
+
+[KR5a0059](https://github.com/kanripo/KR5a0059) · `CUSTOM_ID` DZ0059 · `HK` CH010159 · `凱希` KX0059 · `三家本` Vol 2, p0004c · `Z中華道藏` ZHDZ05p0269 · `ZHnum` ZH05_017 · `X新文豐` XWDZ02p0567 · `涵芬樓` HFL宿中026
+
+元始洞真決疑經  
+DZ:   DZ0059  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0060 元始天尊說玄微妙經 Yuanshi tianzun shuo xuanwei miaojing
+
+[KR5a0060](https://github.com/kanripo/KR5a0060) · `CUSTOM_ID` DZ0060 · `HK` CH010160 · `凱希` KX0060 · `三家本` Vol 2, p0010b · `Z中華道藏` ZHDZ02p0099 · `ZHnum` ZH02_016 · `X新文豐` XWDZ02p0576 · `涵芬樓` HFL宿中060
+
+元始天尊說玄微妙經  
+DZ:   DZ0060  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0061 太上洞真賢門經 Taishang dongzhen xianmen jing
+
+[KR5a0061](https://github.com/kanripo/KR5a0061) · `CUSTOM_ID` DZ0061 · `HK` CH010161 · `凱希` KX0061 · `三家本` Vol 2, p0012c · `Z中華道藏` ZHDZ04p0251 · `ZHnum` ZH04_035 · `X新文豐` XWDZ02p0580 · `涵芬樓` HFL宿中074
+
+太上洞真賢門經  
+DZJY: JY080  
+DZJY0: JY080  
+DZ:   DZ0061  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0062 元始天王歡樂經 Yuanshi tianwang huanle jing
+
+[KR5a0062](https://github.com/kanripo/KR5a0062) · `CUSTOM_ID` DZ0062 · `HK` CH010162 · `凱希` KX0062 · `三家本` Vol 2, p0024a · `Z中華道藏` ZHDZ06p0186 · `ZHnum` ZH06_052 · `X新文豐` XWDZ02p0597 · `涵芬樓` HFL宿下004
+
+元始天王歡樂經  
+DZ:   DZ0062  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0063 玉清胎元內養真經 Yuqing taiyuan neiyang zhenjing
+
+[KR5a0063](https://github.com/kanripo/KR5a0063) · `CUSTOM_ID` DZ0063 · `HK` CH010163 · `凱希` KX0063 · `三家本` Vol 2, p0029a · `Z中華道藏` ZHDZ06p0771 · `ZHnum` ZH06_119 · `X新文豐` XWDZ02p0605 · `涵芬樓` HFL宿下034
+
+玉清胎元內養真經  
+DZ:   DZ0063  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0064 玉清無上內景真經 Yuqing wushang neijing zhenjing
+
+[KR5a0064](https://github.com/kanripo/KR5a0064) · `CUSTOM_ID` DZ0064 · `HK` CH010164 · `凱希` KX0064 · `三家本` Vol 2, p0030a · `Z中華道藏` ZHDZ06p0772 · `ZHnum` ZH06_120 · `X新文豐` XWDZ02p0607 · `涵芬樓` HFL宿下040
+
+玉清無上內景真經  
+DZ:   DZ0064  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0065 太上真一報父母恩重經 Taishang zhenyi bao fumu enzhong jing
+
+[KR5a0065](https://github.com/kanripo/KR5a0065) · `CUSTOM_ID` DZ0065 · `HK` CH010165 · `凱希` KX0065 · `三家本` Vol 2, p0030c · `Z中華道藏` ZHDZ06p0158 · `ZHnum` ZH06_036 · `X新文豐` XWDZ02p0608 · `涵芬樓` HFL宿下044
+
+太上真一報父母恩重經  
+DZ:   DZ0065  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0066 元始洞真慈善孝子報恩成道經 Yuanshi dongzhen cishan xiaozi baoen chengdao jing
+
+[KR5a0066](https://github.com/kanripo/KR5a0066) · `CUSTOM_ID` DZ0066 · `HK` CH010166 · `凱希` KX0066 · `三家本` Vol 2, p0031b · `Z中華道藏` ZHDZ31p0383 · `ZHnum` ZH31_021 · `X新文豐` XWDZ02p0609 · `涵芬樓` HFL宿下048
+
+元始洞真慈善孝子報恩成道經  
+DZ:   DZ0066  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0067 太上元始天尊說消殄蟲蝗經 Taishang yuanshi tianzun shuo xiaotian chonghuang jing
+
+[KR5a0067](https://github.com/kanripo/KR5a0067) · `CUSTOM_ID` DZ0067 · `HK` CH010167 · `凱希` KX0067 · `三家本` Vol 2, p0033b · `Z中華道藏` ZHDZ04p0064 · `ZHnum` ZH04_064 · `X新文豐` XWDZ02p0612 · `涵芬樓` HFL宿下060
+
+太上元始天尊說消殄蟲蝗經  
+DZ:   DZ0067  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0068 太上安鎮九壘龍神妙經 Taishang anzhen jiulei longshen miaojing
+
+[KR5a0068](https://github.com/kanripo/KR5a0068) · `CUSTOM_ID` DZ0068 · `HK` CH010168 · `凱希` KX0068 · `三家本` Vol 2, p0034a · `Z中華道藏` ZHDZ04p0347 · `ZHnum` ZH04_065 · `X新文豐` XWDZ02p0613 · `涵芬樓` HFL宿下064
+
+太上安鎮九壘龍神妙經  
+DZ:   DZ0068  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0069 太上洞真安灶經 Taishang dongzhen anzao jing
+
+[KR5a0069](https://github.com/kanripo/KR5a0069) · `CUSTOM_ID` DZ0069 · `HK` CH010169 · `凱希` KX0069 · `三家本` Vol 2, p0034c · `Z中華道藏` ZHDZ04p0344 · `ZHnum` ZH04_062 · `X新文豐` XWDZ02p0614 · `涵芬樓` HFL宿下068
+
+太上洞真安經  
+DZ:   DZ0069  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0070 太上元始天尊說金光明經 Taishang yuanshi tianzun shuo jin guangming jing
+
+[KR5a0070](https://github.com/kanripo/KR5a0070) · `CUSTOM_ID` DZ0070 · `HK` CH010170 · `凱希` KX0070 · `三家本` Vol 2, p0035b · `Z中華道藏` ZHDZ06p0199 · `ZHnum` ZH06_056 · `X新文豐` XWDZ02p0615 · `涵芬樓` HFL宿下071
+
+太上元始天尊說金光明經  
+DZ:   DZ0070  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0071 元始天尊說三官寶號經 Yuanshi tianzun shuo sanguan baohao jing
+
+[KR5a0071](https://github.com/kanripo/KR5a0071) · `CUSTOM_ID` DZ0071 · `HK` CH010171 · `凱希` KX0071 · `三家本` Vol 2, p0036a · `Z中華道藏` ZHDZ06p0247 · `ZHnum` ZH06_079 · `X新文豐` XWDZ02p0616 · `涵芬樓` HFL宿下074
+
+元始天尊說三官寶號經  
+DZ:   DZ0071  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0072 元始天尊濟度血湖真經 Yuanshi tianzun jidu xuehu zhenjing
+
+[KR5a0072](https://github.com/kanripo/KR5a0072) · `CUSTOM_ID` DZ0072 · `HK` CH010172 · `凱希` KX0072 · `三家本` Vol 2, p0036c · `Z中華道藏` ZHDZ06p0204 · `ZHnum` ZH06_061 · `X新文豐` XWDZ02p0617 · `涵芬樓` HFL宿下078
+
+元始天尊濟度血湖真經  
+DZ:   DZ0072  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0073 元始天尊說酆都滅罪經 Yuanshi tianzun shuo Fengdu miezui jing
+
+[KR5a0073](https://github.com/kanripo/KR5a0073) · `CUSTOM_ID` DZ0073 · `HK` CH010173 · `凱希` KX0073 · `三家本` Vol 2, p0041a · `Z中華道藏` ZHDZ06p0209 · `ZHnum` ZH06_062 · `X新文豐` XWDZ02p0624 · `涵芬樓` HFL宿下104
+
+元始天尊說酆都滅罪經  
+DZ:   DZ0073  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0074 太上說九幽拔罪心印妙經 Taishang shuo jiuyou bazui xinyin miaojing
+
+[KR5a0074](https://github.com/kanripo/KR5a0074) · `CUSTOM_ID` DZ0074 · `HK` CH010174 · `凱希` KX0074 · `三家本` Vol 2, p0042a · `Z中華道藏` ZHDZ06p0185 · `ZHnum` ZH06_051 · `X新文豐` XWDZ02p0626 · `涵芬樓` HFL宿下110
+
+太上說九幽拔罪心印妙經  
+DZ:   DZ0074  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0075 元始天尊說甘露昇天神咒妙經 Yuanshi tianzun shuo ganlu shengtian shenzhou miaojing
+
+[KR5a0075](https://github.com/kanripo/KR5a0075) · `CUSTOM_ID` DZ0075 · `HK` CH010175 · `凱希` KX0075 · `三家本` Vol 2, p0042c · `Z中華道藏` ZHDZ06p0200 · `ZHnum` ZH06_057 · `X新文豐` XWDZ02p0627 · `涵芬樓` HFL宿下114
+
+元始天尊說甘露昇天神咒妙經  
+DZ:   DZ0075  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0076 元始說未w法食往生經 Yuanshi shuo gongde fashi wangsheng jing
+
+[KR5a0076](https://github.com/kanripo/KR5a0076) · `CUSTOM_ID` DZ0076 · `HK` CH010176 · `凱希` KX0076 · `三家本` Vol 2, p0043c · `Z中華道藏` ZHDZ06p0201 · `ZHnum` ZH06_058 · `X新文豐` XWDZ02p0629 · `涵芬樓` HFL宿下120
+
+元始說功德法食往生經  
+DZ:   DZ0076  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0077 太上玉華洞章拔亡度世昇仙妙經 Taishang yuhua dongzhang bawang dushi shengxian miaojing
+
+[KR5a0077](https://github.com/kanripo/KR5a0077) · `CUSTOM_ID` DZ0077 · `HK` CH010177 · `凱希` KX0077 · `三家本` Vol 2, p0044c · `Z中華道藏` ZHDZ06p0242 · `ZHnum` ZH06_078 · `X新文豐` XWDZ02p0631 · `涵芬樓` HFL宿下126
+
+太上玉華洞章拔亡度世昇仙妙經  
+DZ:   DZ0077  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0078 太上三洞神咒 Taishang sandong shenzhou
+
+[KR5a0078](https://github.com/kanripo/KR5a0078) · `CUSTOM_ID` DZ0078 · `HK` CH010178 · `凱希` KX0078 · `三家本` Vol 2, p0048c · `Z中華道藏` ZHDZ32p0690 · `ZHnum` ZH32_064 · `X新文豐` XWDZ02p0637 · `涵芬樓` HFL列上004
+
+太上三洞神咒  
+DZ:   DZ0078  
+Contents
+
+**Work notes**
+
+**Comments**
+
+### CMTS0102	神符類 Shenfu Sacred Symbols
+
+#### DZ0079 三洞神符記 Sandong shenfu ji
+
+[KR5a0079](https://github.com/kanripo/KR5a0079) · `CUSTOM_ID` DZ0079 · `HK` CH010201 · `凱希` KX0079 · `三家本` Vol 2, p0142c · `Z中華道藏` ZHDZ05p0533 · `ZHnum` ZH05_030 · `X新文豐` XWDZ02p0781 · `涵芬樓` HFL張上004
+
+三洞神符記  
+DZ:   DZ0079  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0080 雲篆度人妙經 Yunzhuan duren miaojing
+
+[KR5a0080](https://github.com/kanripo/KR5a0080) · `CUSTOM_ID` DZ0080 · `HK` CH010202 · `凱希` KX0080 · `三家本` Vol 2, p0150b · `Z中華道藏` ZHDZ03p0331 · `ZHnum` ZH03_027 · `X新文豐` XWDZ02p0793 · `涵芬樓` HFL張上050
+
+雲篆度人妙經  
+DZ:   DZ0080  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0081 洞真太微黃書天帝君石景金陽素經 Dongzhen taiwei huangshu tian dijun shijing jinyang sujing
+
+[KR5a0081](https://github.com/kanripo/KR5a0081) · `CUSTOM_ID` DZ0081 · `HK` CH010203 · `凱希` KX0081 · `三家本` Vol 2, p0162a · `Z中華道藏` ZHDZ02p0447 · `ZHnum` ZH02_052 · `X新文豐` XWDZ02p0811 · `涵芬樓` HFL張上120
+
+洞真太微黃書天帝君石景金陽素經  
+DZ:   DZ0081  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0082 上清洞真元經五籍符 Shangqing dongzhen yuanjing wu jifu
+
+[KR5a0082](https://github.com/kanripo/KR5a0082) · `CUSTOM_ID` DZ0082 · `HK` CH010204 · `凱希` KX0082 · `三家本` Vol 2, p0166a · `Z中華道藏` ZHDZ01p0395 · `ZHnum` ZH01_040 · `X新文豐` XWDZ02p0817 · `涵芬樓` HFL張下004
+
+上清洞真元經五籍符  
+DZ:   DZ0082  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0083 白羽黑翮靈飛玉符 Baiyu heihe lingfei yufu
+
+[KR5a0083](https://github.com/kanripo/KR5a0083) · `CUSTOM_ID` DZ0083 · `HK` CH010205 · `凱希` KX0083 · `三家本` Vol 2, p0167c · `Z中華道藏` ZHDZ01p0494 · `ZHnum` ZH01_055 · `X新文豐` XWDZ02p0820 · `涵芬樓` HFL張下014
+
+白羽黑翩靈飛玉符(元-李道純)  
+DZ:   DZ0083  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0084 上清瓊宮靈飛六甲左右上符 Shangqing qionggong lingfei liujia zuoyou shangfu
+
+[KR5a0084](https://github.com/kanripo/KR5a0084) · `CUSTOM_ID` DZ0084 · `HK` CH010206 · `凱希` KX0084 · `三家本` Vol 2, p0169c · `Z中華道藏` ZHDZ01p0502 · `ZHnum` ZH01_057 · `X新文豐` XWDZ02p0823 · `涵芬樓` HFL張下026
+
+上清瓊宮靈飛六甲左右上符  
+DZ:   DZ0084  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0085 太上洞真經洞章符 Taishang dongzhen jingdong zhangfu
+
+[KR5a0085](https://github.com/kanripo/KR5a0085) · `CUSTOM_ID` DZ0085 · `HK` CH010207 · `凱希` KX0085 · `三家本` Vol 2, p0177b · `Z中華道藏` ZHDZ32p0655 · `ZHnum` ZH32_053 · `X新文豐` XWDZ02p0835 · `涵芬樓` HFL張下072
+
+太上洞真經洞章符  
+DZ:   DZ0085  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0086 太上秘法鎮宅靈符 Taishang bifa zhenzhe lingfu
+
+[KR5a0086](https://github.com/kanripo/KR5a0086) · `CUSTOM_ID` DZ0086 · `HK` CH010208 · `凱希` KX0086 · `三家本` Vol 2, p0180a · `Z中華道藏` ZHDZ32p0621 · `ZHnum` ZH32_051 · `X新文豐` XWDZ02p0839 · `涵芬樓` HFL張下088
+
+太上秘法鎮宅靈符  
+DZ:   DZ0086  
+Contents
+
+**Work notes**
+
+**Comments**
+
+### CMTS0103	玉訣類 Yujue Exegeses
+
+#### DZ0087 元始無量度人上品妙經四註 Yuanshi wuliang duren shangpin miaojing sizhu
+
+[KR5a0087](https://github.com/kanripo/KR5a0087) · `CUSTOM_ID` DZ0087 · `HK` CH010301 · `凱希` KX0087 · `三家本` Vol 2, p0187a · `Z中華道藏` ZHDZ03p0353 · `ZHnum` ZH03_030 · `X新文豐` XWDZ03p0001 · `涵芬樓` HFL寒上004
+
+元始無量度人上品妙經四註(附釋音)(宋-陳景元)  
+DZ:   DZ0087  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0088 元始無量度人上品妙經註 Taishang dongxuan lingbao wuliang duren shangpin miaojing zhu
+
+[KR5a0088](https://github.com/kanripo/KR5a0088) · `CUSTOM_ID` DZ0088 · `HK` CH010302 · `凱希` KX0088 · `三家本` Vol 2, p0250c · `Z中華道藏` ZHDZ03p0505 · `ZHnum` ZH03_034 · `X新文豐` XWDZ03p0099 · `涵芬樓` HFL來上004
+
+元始無量度人上品妙經註(青元真人)  
+DZ:   DZ0088  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0089 元始無量度人上品妙經通義 Yuanshi wuliang duren shangpin miaojing tongyi
+
+[KR5a0089](https://github.com/kanripo/KR5a0089) · `CUSTOM_ID` DZ0089 · `HK` CH010303 · `凱希` KX0089 · `三家本` Vol 2, p0292b · `Z中華道藏` ZHDZ03p0697 · `ZHnum` ZH03_038 · `X新文豐` XWDZ03p0163 · `涵芬樓` HFL來中104
+
+元始無量度人上品妙經通義(明-張宇初)  
+DZ:   DZ0089  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0090 元始無量度人上品妙經內義 Yuanshi wuliang duren shangpin miaojing neiyi
+
+`CUSTOM_ID` DZ0090 · `HK` CH010304 · `凱希` KX0090 · `三家本` Vol 2, p0332a · `Z中華道藏` ZHDZ03p0549 · `ZHnum` ZH03_035 · `X新文豐` XWDZ03p0225 · `涵芬樓` HFL暑上004
+
+元始無量度人上品妙經內義(宋-蕭應叟)  
+DZ:   DZ0090  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0090 附內義丹旨綱目舉要(宋-林元鼎)
+
+`nopin` · `CUSTOM_ID` DZ0090 · `HK` CH010305 · `凱希` xx · `三家本` x · `Z中華道藏` ZHDZ03p0549 · `ZHnum` ZH03_035 · `X新文豐` XWDZ03p0291 · `涵芬樓` HFL暑下140
+
+附內義丹旨綱目舉要(宋-林元鼎)  
+DZ:   DZ0090  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0091 太上洞玄靈寶無量度人上品妙經註 Taishang dongxuan lingbao wuliang duren shangpin miaojing zhu
+
+[KR5a0092](https://github.com/kanripo/KR5a0092) · `CUSTOM_ID` DZ0091 · `HK` CH010306 · `凱希` KX0091 · `三家本` Vol 2, p0392c · `Z中華道藏` ZHDZ03p0615 · `ZHnum` ZH03_036 · `X新文豐` XWDZ03p0315 · `涵芬樓` HFL往上004
+
+太上洞玄靈寶無量度人上品妙經註(元-陳致虛)  
+DZJY: JY002  
+DZJY0: JY002  
+DZ:   DZ0091  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0092 元始無量度人上品妙經註 Yuanshi wuliang duren shangpin miaojing zhu
+
+[KR5a0093](https://github.com/kanripo/KR5a0093) · `CUSTOM_ID` DZ0092 · `HK` CH010307 · `凱希` KX0092 · `三家本` Vol 2, p0440b · `Z中華道藏` ZHDZ03p0666 · `ZHnum` ZH03_037 · `X新文豐` XWDZ03p0389 · `涵芬樓` HFL往下090
+
+太上洞玄靈寶無量度人上品妙經註解(元-薜季昭)  
+DZ:   DZ0092  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0093 太上洞玄靈寶無量度人上品經法 Taishang dongxuan lingbao wuliang duren shangpin jingfa
+
+[KR5a0094](https://github.com/kanripo/KR5a0094) · `CUSTOM_ID` DZ0093 · `HK` CH010308 · `凱希` KX0093 · `三家本` Vol 2, p0469b · `Z中華道藏` ZHDZ03p0426 · `ZHnum` ZH03_032 · `X新文豐` XWDZ03p0433 · `涵芬樓` HFL秋上004
+
+太上洞玄靈寶無量度人上品妙經法(陳椿榮)  
+DZJY: JY003  
+DZJY0: JY003  
+DZ:   DZ0093  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0094 洞玄靈寶度人經大梵隱語疏義 Dongxuan lingbao duren jing dafan yinyu shuyi
+
+[KR5a0095](https://github.com/kanripo/KR5a0095) · `CUSTOM_ID` DZ0094 · `HK` CH010309 · `凱希` KX0094 · `三家本` Vol 2, p0519c · `Z中華道藏` ZHDZ03p0341 · `ZHnum` ZH03_028 · `X新文豐` XWDZ03p0510 · `涵芬樓` HFL秋下134
+
+洞玄靈寶度人經大梵隱語疏義  
+DZ:   DZ0094  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0095 洞玄靈寶無量度人經訣音義 Dongxuan lingbao wuliang duren jingjue yinyi
+
+[KR5a0096](https://github.com/kanripo/KR5a0096) · `CUSTOM_ID` DZ0095 · `HK` CH010310 · `凱希` KX0095 · `三家本` Vol 2, p0527a · `Z中華道藏` ZHDZ03p0349 · `ZHnum` ZH03_029 · `X新文豐` XWDZ03p0521 · `涵芬樓` HFL秋下178
+
+洞玄靈寶無量度人經訣音義(唐-張萬福)  
+DZ:   DZ0095  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0096 真藏經要訣 Zhenzang jing yaojue
+
+[KR5a0097](https://github.com/kanripo/KR5a0097) · `CUSTOM_ID` DZ0096 · `HK` CH010311 · `凱希` KX0096 · `三家本` Vol 2, p0530a · `Z中華道藏` ZHDZ05p0461 · `ZHnum` ZH05_023 · `X新文豐` XWDZ03p0526 · `涵芬樓` HFL秋下196
+
+真藏經要訣  
+DZ:   DZ0096  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0097 太上靈寶諸天內音自然玉字 Taishang lingbao zhutian neiyin ziran yuzi
+
+[KR5a0098](https://github.com/kanripo/KR5a0098) · `CUSTOM_ID` DZ0097 · `HK` CH010312 · `凱希` KX0097 · `三家本` Vol 2, p0532a · `Z中華道藏` ZHDZ03p0206 · `ZHnum` ZH03_015 · `X新文豐` XWDZ03p0529 · `涵芬樓` HFL收上004
+
+太上靈寶諸天內音自然玉字  
+DZ:   DZ0097  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0098 諸天靈書度命妙經義疏 Zhutian lingshu duming miaojing yishu
+
+[KR5a0099](https://github.com/kanripo/KR5a0099) · `CUSTOM_ID` DZ0098 · `HK` CH010313 · `凱希` KX0098 · `三家本` Vol 2, p0564a · `Z中華道藏` ZHDZ03p0747 · `ZHnum` ZH03_040 · `X新文豐` XWDZ03p0579 · `涵芬樓` HFL收下004
+
+諸天靈書度命妙經義疏  
+DZ:   DZ0098  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0099 九天應元雷聲普化天尊玉樞寶經集註 Jiutian yingyuan leisheng puhua tianzun yushu baojing jizhu
+
+[KR5a0100](https://github.com/kanripo/KR5a0100) · `CUSTOM_ID` DZ0099 · `HK` CH010314 · `凱希` KX0099 · `三家本` Vol 2, p0569a · `Z中華道藏` ZHDZ31p0301 · `ZHnum` ZH31_011 · `X新文豐` XWDZ03p0587 · `涵芬樓` HFL收下034
+
+九天應元雷聲普化天尊玉樞寶經集註(宋-白玉蟾)  
+DZ:   DZ0099  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0100 太上昇玄說消災護命妙經註 Taishang shengxuan shuo xiaozai huming miaojing zhu
+
+[KR5a0101](https://github.com/kanripo/KR5a0101) · `CUSTOM_ID` DZ0100 · `HK` CH010315 · `凱希` KX0100 · `三家本` Vol 2, p0588a · `Z中華道藏` ZHDZ06p0103 · `ZHnum` ZH06_022 · `X新文豐` XWDZ03p0616 · `涵芬樓` HFL收下148
+
+太上昇玄說消災護命妙經註(元-王玠)  
+DZJY: JY010  
+DZJY0: JY010  
+DZ:   DZ0100  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0101 太上昇玄消災護命妙經註 Taishang shengxuan xiaozai huming miaojing zhu
+
+[KR5a0102](https://github.com/kanripo/KR5a0102) · `CUSTOM_ID` DZ0101 · `HK` CH010316 · `凱希` KX0101 · `三家本` Vol 2, p0592a · `Z中華道藏` ZHDZ06p0100 · `ZHnum` ZH06_021 · `X新文豐` XWDZ03p0622 · `涵芬樓` HFL收下172
+
+太上昇玄消災護命妙經註(元-李道純)  
+DZ:   DZ0101  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0102 元始天尊說太古經註 Yuanshi tianzun shuo taigu jing zhu
+
+[KR5a0103](https://github.com/kanripo/KR5a0103) · `CUSTOM_ID` DZ0102 · `HK` CH010317 · `凱希` KX0102 · `三家本` Vol 2, p0593c · `Z中華道藏` ZHDZ06p0113 · `ZHnum` ZH06_026 · `X新文豐` XWDZ03p0625 · `涵芬樓` HFL收下182
+
+元始天尊說太古經註(長詮子)  
+DZ:   DZ0102  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0103 玉清無極總真文昌大洞仙經註 Yuqing wuji zongzhen Wenchang dadong xianjing zhu
+
+[KR5a0104](https://github.com/kanripo/KR5a0104) · `CUSTOM_ID` DZ0103 · `HK` CH010318 · `凱希` KX0103 · `三家本` Vol 2, p0597b · `Z中華道藏` ZHDZ06p0454 · `ZHnum` ZH06_094 · `X新文豐` XWDZ03p0631 · `涵芬樓` HFL冬上004
+
+玉清無極總真文昌大洞仙經(元-衛琪)  
+DZ:   DZ0103  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0104 上清大洞真經玉訣音義 Shangqing dadong zhenjing yujue yinyi
+
+[KR5a0105](https://github.com/kanripo/KR5a0105) · `CUSTOM_ID` DZ0104 · `HK` CH010319 · `凱希` KX0104 · `三家本` Vol 2, p0705c · `Z中華道藏` ZHDZ01p0047 · `ZHnum` ZH01_002 · `X新文豐` XWDZ03p0799 · `涵芬樓` HFL藏上004
+
+上清大洞真經玉訣音義(宋-陳景元)  
+DZ:   DZ0104  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0105 太上大通經註 Taishang datong jing zhu
+
+[KR5a0106](https://github.com/kanripo/KR5a0106) · `CUSTOM_ID` DZ0105 · `HK` CH010320 · `凱希` KX0105 · `三家本` Vol 2, p0711a · `Z中華道藏` ZHDZ06p0095 · `ZHnum` ZH06_018 · `X新文豐` XWDZ03p0808 · `涵芬樓` HFL藏上036
+
+太上大通經註(元-李道純)  
+DZJY: JY059  
+DZJY0: JY059  
+DZ:   DZ0105  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0106 太上赤文洞古經註 Taishang chiwen donggu jing zhu
+
+[KR5a0107](https://github.com/kanripo/KR5a0107) · `CUSTOM_ID` DZ0106 · `HK` CH010321 · `凱希` KX0106 · `三家本` Vol 2, p0712b · `Z中華道藏` ZHDZ06p0117 · `ZHnum` ZH06_027 · `X新文豐` XWDZ03p0810 · `涵芬樓` HFL藏上044
+
+太上赤文洞古經註(長詮子)  
+DZJY: JY058  
+DZJY0: JY058  
+DZ:   DZ0106  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0107 無上赤文洞古真經註 Wushang chiwen donggu zhenjing zhu
+
+[KR5a0108](https://github.com/kanripo/KR5a0108) · `CUSTOM_ID` DZ0107 · `HK` CH010322 · `凱希` KX0107 · `三家本` Vol 2, p0714c · `Z中華道藏` ZHDZ06p0120 · `ZHnum` ZH06_028 · `X新文豐` XWDZ03p0814 · `涵芬樓` HFL藏上046
+
+無上赤文洞古真經註(元-李道純)  
+DZ:   DZ0107  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0108 黃帝陰符經集註 Huangdi yinfu jing jizhu
+
+[KR5a0109](https://github.com/kanripo/KR5a0109) · `CUSTOM_ID` DZ0108 · `HK` CH010323 · `凱希` KX0108 · `三家本` Vol 2, p0716c · `Z中華道藏` ZHDZ15p0696 · `ZHnum` ZH15_014 · `X新文豐` XWDZ03p0817 · `涵芬樓` HFL藏上070
+
+黃帝陰符經集註(唐-李筌)  
+DZ:   DZ0108  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0109 黃帝陰符經講義 Huangdi yinfu jing jiangyi
+
+[KR5a0110](https://github.com/kanripo/KR5a0110) · `CUSTOM_ID` DZ0109 · `HK` CH010324 · `凱希` KX0109 · `三家本` Vol 2, p0721b · `Z中華道藏` ZHDZ15p0762 · `ZHnum` ZH15_024 · `X新文豐` XWDZ03p0824 · `涵芬樓` HFL藏上098
+
+黃帝陰符經講義(宋-夏元鼎)  
+DZ:   DZ0109  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### xx 黃帝陰符經講義圖說(宋-夏元鼎)
+
+`nopin` · `CUSTOM_ID` xx · `HK` CH010325 · `凱希` xx · `三家本` x · `Z中華道藏` XX · `ZHnum` XX · `X新文豐` XWDZ03p0838 · `涵芬樓` HFL藏下
+
+黃帝陰符經講義圖說(宋-夏元鼎)  
+DZ:   xx  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0110 黃帝陰符經疏 Huangdi yinfu jing shu
+
+[KR5a0111](https://github.com/kanripo/KR5a0111) · `CUSTOM_ID` DZ0110 · `HK` CH010326 · `凱希` KX0110 · `三家本` Vol 2, p0736a · `Z中華道藏` ZHDZ15p0751 · `ZHnum` ZH15_023 · `X新文豐` XWDZ04p0001 · `涵芬樓` HFL閨上010
+
+黃帝陰符經疏(唐-李筌)  
+DZ:   DZ0110  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0111 黃帝陰符經集解 Huangdi yinfu jing jie
+
+[KR5a0112](https://github.com/kanripo/KR5a0112) · `CUSTOM_ID` DZ0111 · `HK` CH010327 · `凱希` KX0111 · `三家本` Vol 2, p0746b · `Z中華道藏` ZHDZ15p0781 · `ZHnum` ZH15_026 · `X新文豐` XWDZ04p0017 · `涵芬樓` HFL閨上066
+
+黃帝陰符經集解(宋--)  
+DZJY: JY115  
+DZJY0: JY115  
+DZ:   DZ0111  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0112 黃帝陰符經註 Huangdi yinfu jing zhu
+
+[KR5a0113](https://github.com/kanripo/KR5a0113) · `CUSTOM_ID` DZ0112 · `HK` CH010328 · `凱希` KX0112 · `三家本` Vol 2, p0755b · `Z中華道藏` ZHDZ15p0701 · `ZHnum` ZH15_015 · `X新文豐` XWDZ04p0030 · `涵芬樓` HFL閨上120
+
+黃帝陰符經註(唐-張果)  
+DZ:   DZ0112  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0113 黃帝陰符經解 Huandi yinfu jing jingjie
+
+[KR5a0114](https://github.com/kanripo/KR5a0114) · `CUSTOM_ID` DZ0113 · `HK` CH010329 · `凱希` KX0113 · `三家本` Vol 2, p0759a · `Z中華道藏` ZHDZ15p0726 · `ZHnum` ZH15_020 · `X新文豐` XWDZ04p0036 · `涵芬樓` HFL閨上142
+
+黃帝陰符經解(宋-蹇昌辰)  
+DZ:   DZ0113  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0114 黃帝陰符經註解 Huangdi yinfu jing zhujie
+
+[KR5a0115](https://github.com/kanripo/KR5a0115) · `CUSTOM_ID` DZ0114 · `HK` CH010330 · `凱希` KX0114 · `三家本` Vol 2, p0766b · `Z中華道藏` ZHDZ15p0734 · `ZHnum` ZH15_021 · `X新文豐` XWDZ04p0047 · `涵芬樓` HFL閨下004
+
+黃帝陰符經註解(任照一)  
+DZ:   DZ0114  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0115 黃帝陰符經註 Huangdi yinfu jing zhu
+
+[KR5a0116](https://github.com/kanripo/KR5a0116) · `CUSTOM_ID` DZ0115 · `HK` CH010331 · `凱希` KX0115 · `三家本` Vol 2, p0773a · `Z中華道藏` ZHDZ15p0706 · `ZHnum` ZH15_016 · `X新文豐` XWDZ04p0058 · `涵芬樓` HFL閨下048
+
+黃帝陰符經註(黃居真)  
+DZ:   DZ0115  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0116 黃帝陰符經註 Huangdi yinfu jing zhu
+
+[KR5a0117](https://github.com/kanripo/KR5a0117) · `CUSTOM_ID` DZ0116 · `HK` CH010332 · `凱希` KX0116 · `三家本` Vol 2, p0777a · `Z中華道藏` ZHDZ15p0711 · `ZHnum` ZH15_017 · `X新文豐` XWDZ04p0060 · `涵芬樓` HFL閨下068
+
+黃帝陰符經註(宋-沈亞夫)  
+DZJY: JY117  
+DZJY0: JY117  
+DZ:   DZ0116  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0117 黃帝陰符經註 Huangdi yinfu jing zhu
+
+[KR5a0118](https://github.com/kanripo/KR5a0118) · `CUSTOM_ID` DZ0117 · `HK` CH010333 · `凱希` KX0117 · `三家本` Vol 2, p0779c · `Z中華道藏` ZHDZ15p0714 · `ZHnum` ZH15_018 · `X新文豐` XWDZ04p0068 · `涵芬樓` HFL閨下084
+
+黃帝陰符經註(蔡)  
+DZ:   DZ0117  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0118 黃帝陰符經解義 Huangdi yinfu jing jieyi
+
+[KR5a0119](https://github.com/kanripo/KR5a0119) · `CUSTOM_ID` DZ0118 · `HK` CH010334 · `凱希` KX0118 · `三家本` Vol 2, p0782a · `Z中華道藏` ZHDZ15p0717 · `ZHnum` ZH15_019 · `X新文豐` XWDZ04p0072 · `涵芬樓` HFL閨下098
+
+黃帝陰符經解義(宋-蕭真宰)  
+DZ:   DZ0118  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0119 陰符經三皇玉訣 Yinfu jing sanhuang yujue
+
+[KR5a0120](https://github.com/kanripo/KR5a0120) · `CUSTOM_ID` DZ0119 · `HK` CH010335 · `凱希` KX0119 · `三家本` Vol 2, p0789c · `Z中華道藏` ZHDZ15p0791 · `ZHnum` ZH15_027 · `X新文豐` XWDZ04p0085 · `涵芬樓` HFL餘上004
+
+陰符經三皇玉訣  
+DZ:   DZ0119  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0120 黃帝陰符經心法 Huangdi yinfu jing xinfa
+
+[KR5a0121](https://github.com/kanripo/KR5a0121) · `CUSTOM_ID` DZ0120 · `HK` CH010336 · `凱希` KX0120 · `三家本` Vol 2, p0799c · `Z中華道藏` ZHDZ15p0802 · `ZHnum` ZH15_028 · `X新文豐` XWDZ04p0110 · `涵芬樓` HFL餘上090
+
+黃帝陰符經心法(元-胥元一)  
+DZ:   DZ0120  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0121 黃帝陰符經註 Huangdi yinfu jing zhu
+
+[KR5a0122](https://github.com/kanripo/KR5a0122) · `CUSTOM_ID` DZ0121 · `HK` CH010337 · `凱希` KX0121 · `三家本` Vol 2, p0809a · `Z中華道藏` ZHDZ15p0820 · `ZHnum` ZH15_030 · `X新文豐` XWDZ04p0115 · `涵芬樓` HFL餘上120
+
+黃帝陰符經註(金-唐淳)  
+DZ:   DZ0121  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0122 黃帝陰符經註 Huangdi yinfu jing zhu
+
+[KR5a0123](https://github.com/kanripo/KR5a0123) · `CUSTOM_ID` DZ0122 · `HK` CH010338 · `凱希` KX0122 · `三家本` Vol 2, p0817b · `Z中華道藏` ZHDZ15p0813 · `ZHnum` ZH15_029 · `X新文豐` XWDZ04p0128 · `涵芬樓` HFL餘上170
+
+黃帝陰符經註(金-劉處玄)  
+DZ:   DZ0122  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0123 黃帝陰符經註 Huangdi yinfu jing zhu
+
+[KR5a0124](https://github.com/kanripo/KR5a0124) · `CUSTOM_ID` DZ0123 · `HK` CH010339 · `凱希` KX0123 · `三家本` Vol 2, p0823b · `Z中華道藏` ZHDZ15p0829 · `ZHnum` ZH15_031 · `X新文豐` XWDZ02p0823 · `涵芬樓` HFL餘下004
+
+黃帝陰符經註(金-侯善淵)  
+DZ:   DZ0123  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0124 黃帝陰符經註解 Huangdi yinfu jing zhujie
+
+[KR5a0125](https://github.com/kanripo/KR5a0125) · `CUSTOM_ID` DZ0124 · `HK` CH010340 · `凱希` KX0124 · `三家本` Vol 2, p0826b · `Z中華道藏` ZHDZ15p0777 · `ZHnum` ZH15_025 · `X新文豐` XWDZ04p0142 · `涵芬樓` HFL餘下022
+
+黃帝陰符經註解(宋-鄒訢)  
+DZ:   DZ0124  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0125 黃帝陰符經註 Huangdi yinfu jing zhu
+
+[KR5a0126](https://github.com/kanripo/KR5a0126) · `CUSTOM_ID` DZ0125 · `HK` CH010341 · `凱希` KX0125 · `三家本` Vol 2, p0829c · `Z中華道藏` ZHDZ15p0832 · `ZHnum` ZH15_032 · `X新文豐` XWDZ04p0147 · `涵芬樓` HFL餘下044
+
+黃帝陰符經註(宋-俞琰)  
+DZ:   DZ0125  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0126 黃帝陰符經夾頌解註 Huangdi yinfu jing jiasong jiezhu
+
+[KR5a0127](https://github.com/kanripo/KR5a0127) · `CUSTOM_ID` DZ0126 · `HK` CH010342 · `凱希` KX0126 · `三家本` Vol 2, p0833c · `Z中華道藏` ZHDZ15p0837 · `ZHnum` ZH15_033 · `X新文豐` XWDZ04p0153 · `涵芬樓` HFL餘下070
+
+黃帝陰符經註夾頌解註(元王玠)  
+DZ:   DZ0126  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0127 黃帝陰符經集解 Huangdi yinfu jing jijie
+
+[KR5a0128](https://github.com/kanripo/KR5a0128) · `CUSTOM_ID` DZ0127 · `HK` CH010343 · `凱希` KX0127 · `三家本` Vol 2, p0845c · `Z中華道藏` ZHDZ15p0741 · `ZHnum` ZH15_022 · `X新文豐` XWDZ04p0172 · `涵芬樓` HFL餘下138
+
+黃帝陰符經集解(宋-袁淑真)  
+DZ:   DZ0127  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0128 太上求仙定錄尺素真訣玉文 Taishang qiuxian dinglu chisu zhenjue yuwen
+
+[KR5a0129](https://github.com/kanripo/KR5a0129) · `CUSTOM_ID` DZ0128 · `HK` CH010344 · `凱希` KX0128 · `三家本` Vol 2, p0855a · `Z中華道藏` ZHDZ02p0711 · `ZHnum` ZH02_092 · `X新文豐` XWDZ04p0185 · `涵芬樓` HFL成上004
+
+太上求仙定錄尺素真訣玉文  
+DZ:   DZ0128  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0129 太霄琅書瓊文帝章訣 Taixiao langshu qiongwen di zhangjue
+
+[KR5a0130](https://github.com/kanripo/KR5a0130) · `CUSTOM_ID` DZ0129 · `HK` CH010345 · `凱希` KX0129 · `三家本` Vol 2, p0865b · `Z中華道藏` ZHDZ01p0703 · `ZHnum` ZH01_068 · `X新文豐` XWDZ04p0201 · `涵芬樓` HFL成上066
+
+太霄琅書瓊文帝章訣  
+DZ:   DZ0129  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0130 胎息經註 Taixi jing zhu +
+
+[KR5a0131](https://github.com/kanripo/KR5a0131) · `CUSTOM_ID` DZ0130 · `HK` CH010346 · `凱希` KX0130 · `三家本` Vol 2, p0868c · `Z中華道藏` ZHDZ23p0186 · `ZHnum` ZH23_030 · `X新文豐` XWDZ04p0206 · `涵芬樓` HFL成上086
+
+胎息經註(幻真先生)  
+DZJY: JY095  
+DZJY0: JY095  
+DZ:   DZ0130  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0131 胎息秘要歌訣 Taixi biyao gejue +
+
+[KR5a0132](https://github.com/kanripo/KR5a0132) · `CUSTOM_ID` DZ0131 · `HK` CH010347 · `凱希` KX0131 · `三家本` Vol 2, p0869c · `Z中華道藏` ZHDZ23p0188 · `ZHnum` ZH23_031 · `X新文豐` XWDZ04p0208 · `涵芬樓` HFL成上092
+
+胎息秘要歌訣  
+DZ:   DZ0131  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0132 太清真人絡命訣 Taiqing zhenren luoming jue
+
+[KR5a0133](https://github.com/kanripo/KR5a0133) · `CUSTOM_ID` DZ0132 · `HK` CH010348 · `凱希` KX0142 · `三家本` Vol 2, p0968c · `Z中華道藏` ZHDZ02p0401 · `ZHnum` ZH02_038 · `X新文豐` XWDZ04p0210 · `涵芬樓` HFL成上100
+
+太清真人絡命訣  
+DZ:   DZ0132  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0133 太上洞房內經註 Taishang dongfang neijing zhu
+
+[KR5a0134](https://github.com/kanripo/KR5a0134) · `CUSTOM_ID` DZ0133 · `HK` CH010349 · `凱希` KX0132 · `三家本` Vol 2, p0871a · `Z中華道藏` ZHDZ02p0084 · `ZHnum` ZH02_013 · `X新文豐` XWDZ04p0215 · `涵芬樓` HFL成上118
+
+太上洞房內經註(周真人)  
+DZ:   DZ0133  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0134 陰真君還丹歌註 Yinzhen jun huandan ge zhu
+
+[KR5a0135](https://github.com/kanripo/KR5a0135) · `CUSTOM_ID` DZ0134 · `HK` CH010350 · `凱希` KX0133 · `三家本` Vol 2, p0874a · `Z中華道藏` ZHDZ19p0174 · `ZHnum` ZH19_028 · `X新文豐` XWDZ04p0221 · `涵芬樓` HFL成上142
+
+陰真君還丹歌訣注(宋-陳摶)  
+DZ:   DZ0134  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0135 崔公入藥經註解 Cuigong ruyao jing zhujie
+
+[KR5a0136](https://github.com/kanripo/KR5a0136) · `CUSTOM_ID` DZ0135 · `HK` CH010351 · `凱希` KX0134 · `三家本` Vol 2, p0878a · `Z中華道藏` ZHDZ27p0730 · `ZHnum` ZH27_040 · `X新文豐` XWDZ04p0227 · `涵芬樓` HFL成下004
+
+崔公入藥鏡註解(元-混然子)  
+DZ:   DZ0135  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0136 呂純陽真人沁園春丹詞註解 Lü, Chunyang zhenren shenyuan chundan ci zhujie
+
+[KR5a0137](https://github.com/kanripo/KR5a0137) · `CUSTOM_ID` DZ0136 · `HK` CH010352 · `凱希` KX0135 · `三家本` Vol 2, p0881a · `Z中華道藏` ZHDZ19p0170 · `ZHnum` ZH19_027 · `X新文豐` XWDZ04p0237 · `涵芬樓` HFL成下040
+
+呂純陽真人沁園春丹詞註解(宋-全陽子)  
+DZ:   DZ0136  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0137 青天歌註釋 Qingtian ge zhushi
+
+[KR5a0138](https://github.com/kanripo/KR5a0138) · `CUSTOM_ID` DZ0137 · `HK` CH010353 · `凱希` KX0136 · `三家本` Vol 2, p0887a · `Z中華道藏` ZHDZ27p0727 · `ZHnum` ZH27_039 · `X新文豐` XWDZ04p0243 · `涵芬樓` HFL成下062
+
+青天歌註釋(元-混然子)  
+DZ:   DZ0137  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0138 學仙辨真訣 Xuexian bianzhen jue
+
+[KR5a0139](https://github.com/kanripo/KR5a0139) · `CUSTOM_ID` DZ0138 · `HK` CH010354 · `凱希` KX0137 · `三家本` Vol 2, p0890c · `Z中華道藏` ZHDZ19p0178 · `ZHnum` ZH19_029 · `X新文豐` XWDZ04p0248 · `涵芬樓` HFL成下080
+
+學仙辨真訣  
+DZ:   DZ0138  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0139 太上洞真凝神修行經訣 Taishang dongzhen ningshen xiuxing jingjue
+
+[KR5a0140](https://github.com/kanripo/KR5a0140) · `CUSTOM_ID` DZ0139 · `HK` CH010355 · `凱希` KX0138 · `三家本` Vol 2, p0893c · `Z中華道藏` ZHDZ19p0152 · `ZHnum` ZH19_025 · `X新文豐` XWDZ04p0251 · `涵芬樓` HFL成下092
+
+太上洞真凝神修行經訣  
+DZ:   DZ0139  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0140 上清握中訣 Shangqing wozhong jue
+
+[KR5a0141](https://github.com/kanripo/KR5a0141) · `CUSTOM_ID` DZ0140 · `HK` CH010356 · `凱希` KX0139 · `三家本` Vol 2, p0895c · `Z中華道藏` ZHDZ02p0281 · `ZHnum` ZH02_024 · `X新文豐` XWDZ04p0253 · `涵芬樓` HFL成下100
+
+上清握中訣  
+DZ:   DZ0140  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0141 紫陽真人悟真篇註疏 Ziyang zhenren wuzhen pian zhushu
+
+[KR5a0142](https://github.com/kanripo/KR5a0142) · `CUSTOM_ID` DZ0141 · `HK` CH010357 · `凱希` KX0140 · `三家本` Vol 2, p0897a · `Z中華道藏` ZHDZ19p0289 · `ZHnum` ZH19_058 · `X新文豐` XWDZ04p0273 · `涵芬樓` HFL律上004
+
+紫陽真人悟真篇註疏  
+DZJY: JY179  
+DZJY0: JY179  
+DZ:   DZ0141  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0142 紫妖鈉人悟真篇三註 Ziyang zhenren wuzhen pian sanzhu
+
+[KR5a0143](https://github.com/kanripo/KR5a0143) · `CUSTOM_ID` DZ0142 · `HK` CH010358 · `凱希` KX0141 · `三家本` Vol 2, p0910a · `Z中華道藏` ZHDZ19p0400 · `ZHnum` ZH19_062 · `X新文豐` XWDZ04p0363 · `涵芬樓` HFL律上042
+
+紫陽真人悟真篇三註  
+DZJY: JY175  
+DZJY0: JY175  
+DZ:   DZ0142  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0143 紫陽真人悟真直指詳說三乘秘要 Ziyang zhenren wuzhen zhizhi xiangshuo sansheng biyao
+
+[KR5a0144](https://github.com/kanripo/KR5a0144) · `CUSTOM_ID` DZ0143 · `HK` CH010359 · `凱希` KX0143 · `三家本` Vol 2, p1019b · `Z中華道藏` ZHDZ19p0352 · `ZHnum` ZH19_059 · `X新文豐` XWDZ04p0440 · `涵芬樓` HFL律下118
+
+紫陽真人悟真直指詳說三乘秘要(宋-翁葆光)  
+DZJY: JY177  
+DZJY0: JY177  
+DZ:   DZ0143  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0144 紫陽真人悟真篇拾遺 Ziyang zhenren wuzhen pian sheyi
+
+[KR5a0145](https://github.com/kanripo/KR5a0145) · `CUSTOM_ID` DZ0144 · `HK` CH010360 · `凱希` KX0144 · `三家本` Vol 2, p1030b · `Z中華道藏` ZHDZ19p0363 · `ZHnum` ZH19_060 · `X新文豐` XWDZ04p0457 · `涵芬樓` HFL律下182
+
+紫陽真人悟真篇拾遺(宋-翁葆光)  
+DZJY: JY176  
+DZJY0: JY176  
+DZ:   DZ0144  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0145 悟真篇註釋 Wuzhen pian jiangyi
+
+[KR5a0146](https://github.com/kanripo/KR5a0146) · `CUSTOM_ID` DZ0145 · `HK` CH010361 · `凱希` KX0145 · `三家本` Vol 3, p0001a · `Z中華道藏` ZHDZ19p0367 · `ZHnum` ZH19_061 · `X新文豐` XWDZ04p0463 · `涵芬樓` HFL呂上004
+
+悟真篇註釋(宋-翁葆光)  
+DZ:   DZ0145  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0146 紫陽真人悟真篇講義 Ziyang zhenren wuzhen pian jiangyi +
+
+[KR5a0147](https://github.com/kanripo/KR5a0147) · `CUSTOM_ID` DZ0146 · `HK` CH010362 · `凱希` KX0146 · `三家本` Vol 3, p0032b · `Z中華道藏` ZHDZ19p0455 · `ZHnum` ZH19_063 · `X新文豐` XWDZ04p0511 · `涵芬樓` HFL呂下004
+
+紫陽真人悟真篇講義(宋-夏元鼎)  
+DZ:   DZ0146  
+Contents
+
+**Work notes**
+
+**Comments**
+
+### CMTS0104	靈圖類 Lingtu Diagrams
+
+#### DZ0147 靈寶無量度人上品妙經符圖 Lingbao wuliang duren shangpin miaojing futu
+
+[KR5a0148](https://github.com/kanripo/KR5a0148) · `CUSTOM_ID` DZ0147 · `HK` CH010401 · `凱希` KX0147 · `三家本` Vol 3, p0062b · `Z中華道藏` ZHDZ03p0479 · `ZHnum` ZH03_033 · `X新文豐` XWDZ04p0557 · `涵芬樓` HFL調上004
+
+靈寶無量度人上品妙經符圖(宋-劉元道)  
+DZ:   DZ0147  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0148 無量度人上品妙經旁通圖 Wuliang duren shangpin miaojing bangtong tu
+
+[KR5a0149](https://github.com/kanripo/KR5a0149) · `CUSTOM_ID` DZ0148 · `HK` CH010402 · `凱希` KX0148 · `三家本` Vol 3, p0088a · `Z中華道藏` ZHDZ03p0420 · `ZHnum` ZH03_031 · `X新文豐` XWDZ04p0596 · `涵芬樓` HFL調上158
+
+無量度人上品妙經旁通圖(蕭道存)  
+DZ:   DZ0148  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0149 修真太極混元圖 Xiuzhen taiji hunyuan tu
+
+[KR5a0150](https://github.com/kanripo/KR5a0150) · `CUSTOM_ID` DZ0149 · `HK` CH010403 · `凱希` KX0149 · `三家本` Vol 3, p0093c · `Z中華道藏` ZHDZ19p0724 · `ZHnum` ZH19_093 · `X新文豐` XWDZ04p0605 · `涵芬樓` HFL調下004
+
+修真太極混元圖  
+DZ:   DZ0149  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0150 修真太極混元指玄圖 Xiuzhen taiji hunyuan zhixuan tu
+
+[KR5a0151](https://github.com/kanripo/KR5a0151) · `CUSTOM_ID` DZ0150 · `HK` CH010404 · `凱希` KX0150 · `三家本` Vol 3, p0099c · `Z中華道藏` ZHDZ19p0731 · `ZHnum` ZH19_094 · `X新文豐` XWDZ04p0615 · `涵芬樓` HFL調下040
+
+修真太極混元指玄圖(宋-龍眉子)  
+DZ:   DZ0150  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0151 金液還丹印證圖 Jinye huandan yinzheng tu
+
+[KR5a0152](https://github.com/kanripo/KR5a0152) · `CUSTOM_ID` DZ0151 · `HK` CH010405 · `凱希` KX0151 · `三家本` Vol 3, p0102c · `Z中華道藏` ZHDZ19p0714 · `ZHnum` ZH19_092 · `X新文豐` XWDZ04p0620 · `涵芬樓` HFL調下058
+
+金液還丹印證圖  
+DZ:   DZ0151  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0152 修真歷驗鈔圖 Xiuzhen liyan chaotu
+
+[KR5a0153](https://github.com/kanripo/KR5a0153) · `CUSTOM_ID` DZ0152 · `HK` CH010406 · `凱希` KX0152 · `三家本` Vol 3, p0110b · `Z中華道藏` ZHDZ18p0792 · `ZHnum` ZH18_093 · `X新文豐` XWDZ04p0632 · `涵芬樓` HFL調下104
+
+修真歷驗鈔圖  
+DZ:   DZ0152  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0153 龍虎手鑑圖 Longhu shoujian tu
+
+[KR5a0154](https://github.com/kanripo/KR5a0154) · `CUSTOM_ID` DZ0153 · `HK` CH010407 · `凱希` KX0153 · `三家本` Vol 3, p0116b · `Z中華道藏` ZHDZ19p0735 · `ZHnum` ZH19_095 · `X新文豐` XWDZ04p0641 · `涵芬樓` HFL調下140
+
+龍虎手鑑圖  
+DZ:   DZ0153  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0154 上清太玄九陽圖 Shangqing taixuan jiuyang tu
+
+[KR5a0155](https://github.com/kanripo/KR5a0155) · `CUSTOM_ID` DZ0154 · `HK` CH010408 · `凱希` KX0154 · `三家本` Vol 3, p0118a · `Z中華道藏` ZHDZ27p0251 · `ZHnum` ZH27_011 · `X新文豐` XWDZ04p0644 · `涵芬樓` HFL調下150
+
+上清太玄九陽圖(金-侯善淵)  
+DZ:   DZ0154  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0155 三才定位圖 Sancai dingwei tu
+
+[KR5a0156](https://github.com/kanripo/KR5a0156) · `CUSTOM_ID` DZ0155 · `HK` CH010409 · `凱希` KX0155 · `三家本` Vol 3, p0122a · `Z中華道藏` ZHDZ48p0108 · `ZHnum` ZH48_005 · `X新文豐` XWDZ04p0650 · `涵芬樓` HFL調下174
+
+三才定位圖(宋-張商英)  
+DZ:   DZ0155  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0156 上清洞真九宮紫房圖 Shangqing dongzhen jiugong zifang tu
+
+[KR5a0157](https://github.com/kanripo/KR5a0157) · `CUSTOM_ID` DZ0156 · `HK` CH010410 · `凱希` KX0156 · `三家本` Vol 3, p0128b · `Z中華道藏` ZHDZ02p0416 · `ZHnum` ZH02_042 · `X新文豐` XWDZ04p0660 · `涵芬樓` HFL調下219
+
+上清洞真九宮紫房圖  
+DZ:   DZ0156  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0157 周易圖 Zhouyi tu
+
+[KR5a0158](https://github.com/kanripo/KR5a0158) · `CUSTOM_ID` DZ0157 · `HK` CH010411 · `凱希` KX0157 · `三家本` Vol 3, p0130b · `Z中華道藏` ZHDZ16p0536 · `ZHnum` ZH16_016 · `X新文豐` XWDZ04p0663 · `涵芬樓` HFL陽上004
+
+周易圖(宋-)  
+DZ:   DZ0157  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0158 大易象數鉤深圖 Dayi xiangshu goushen tu
+
+[KR5a0159](https://github.com/kanripo/KR5a0159) · `CUSTOM_ID` DZ0158 · `HK` CH010412 · `凱希` KX0158 · `三家本` Vol 3, p0165c · `Z中華道藏` ZHDZ16p0573 · `ZHnum` ZH16_017 · `X新文豐` XWDZ04p0715 · `涵芬樓` HFL陽下004
+
+大易象數鉤深圖(元-張理)  
+DZ:   DZ0158  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0159 易數鉤隱圖 Yishu gouyin tu
+
+[KR5a0160](https://github.com/kanripo/KR5a0160) · `CUSTOM_ID` DZ0159 · `HK` CH010413 · `凱希` KX0159 · `三家本` Vol 3, p0201a · `Z中華道藏` ZHDZ16p0511 · `ZHnum` ZH16_014 · `X新文豐` XWDZ04p0769 · `涵芬樓` HFL雲上004
+
+易數鉤深圖(宋-劉牧)  
+DZ:   DZ0159  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0160 易數鉤隱圖遺論九事 Yishu gouyin tu yilun jiushi
+
+[KR5a0161](https://github.com/kanripo/KR5a0161) · `CUSTOM_ID` DZ0160 · `HK` CH010414 · `凱希` KX0160 · `三家本` Vol 3, p0217b · `Z中華道藏` ZHDZ16p0530 · `ZHnum` ZH16_015 · `X新文豐` XWDZ04p0794 · `涵芬樓` HFL雲上102
+
+遺論九事(宋-劉牧)  
+DZ:   DZ0160  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0161 易象圖說內篇 Yixiang tushuo neipian
+
+[KR5a0162](https://github.com/kanripo/KR5a0162) · `CUSTOM_ID` DZ0161 · `HK` CH010415 · `凱希` KX0161 · `三家本` Vol 3, p0222a · `Z中華道藏` ZHDZ17p0001 · `ZHnum` ZH17_001 · `X新文豐` XWDZ04p0810 · `涵芬樓` HFL雲上130
+
+易象圖說內篇(元-張理)  
+DZ:   DZ0161  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0162 易象圖說外篇 Yixiang tushuo waipian
+
+[KR5a0163](https://github.com/kanripo/KR5a0163) · `CUSTOM_ID` DZ0162 · `HK` CH010416 · `凱希` xx · `三家本` x · `Z中華道藏` ZHDZ17p0022 · `ZHnum` ZH17_002 · `X新文豐` XWDZ04p0832 · `涵芬樓` HFL雲下084
+
+易象圖說外篇(元-張理)  
+DZ:   DZ0162  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0163 玄元十子圖 Xuanyuan shizi tu
+
+[KR5a0164](https://github.com/kanripo/KR5a0164) · `CUSTOM_ID` DZ0163 · `HK` CH010417 · `凱希` KX0162 · `三家本` Vol 3, p0257c · `Z中華道藏` ZHDZ46p0155 · `ZHnum` ZH46_006 · `X新文豐` XWDZ04p0856 · `涵芬樓` HFL雲下180
+
+玄元十子圖(趙孟頫)  
+DZJY: JY292  
+DZJY0: JY292  
+DZ:   DZ0163  
+Contents
+
+**Work notes**
+
+**Comments**
+
+### CMTS0105	譜籙類 Pulu Annals
+
+#### DZ0164 上清三尊譜錄 Shangqing sanzun pulu
+
+[KR5a0165](https://github.com/kanripo/KR5a0165) · `CUSTOM_ID` DZ0164 · `HK` CH010501 · `凱希` KX0163 · `三家本` Vol 3, p0262a · `Z中華道藏` ZHDZ02p0634 · `ZHnum` ZH02_087 · `X新文豐` XWDZ05p0001 · `涵芬樓` HFL騰上004
+
+上清三尊譜籙  
+DZJY: JY288  
+DZJY0: JY288  
+DZ:   DZ0164  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0165 靈寶自然九天生神三寶大有金書 Lingbao ziran jiutian shengshen sanbao dayou jinshu
+
+[KR5a0166](https://github.com/kanripo/KR5a0166) · `CUSTOM_ID` DZ0165 · `HK` CH010502 · `凱希` KX0164 · `三家本` Vol 3, p0266a · `Z中華道藏` ZHDZ03p0085 · `ZHnum` ZH03_010 · `X新文豐` XWDZ05p0008 · `涵芬樓` HFL騰上028
+
+靈寶自然九天生神三尊大有金書  
+DZ:   DZ0165  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0166 元始上真眾仙記 Yuanshi shangzhen zhongxian ji
+
+[KR5a0167](https://github.com/kanripo/KR5a0167) · `CUSTOM_ID` DZ0166 · `HK` CH010503 · `凱希` KX0165 · `三家本` Vol 3, p0269a · `Z中華道藏` ZHDZ02p0630 · `ZHnum` ZH02_086 · `X新文豐` XWDZ05p0013 · `涵芬樓` HFL騰上046
+
+元始上真眾仙記(枕中書)(晉-葛洪)  
+DZ:   DZ0166  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0167 洞玄靈寶真靈位業圖 Zhenling weiye tu
+
+[KR5a0168](https://github.com/kanripo/KR5a0168) · `CUSTOM_ID` DZ0167 · `HK` CH010504 · `凱希` KX0166 · `三家本` Vol 3, p0272a · `Z中華道藏` ZHDZ02p0721 · `ZHnum` ZH02_093 · `X新文豐` XWDZ05p0018 · `涵芬樓` HFL騰上064
+
+洞玄靈寶真靈位業圖(梁-陶弘景)  
+DZJY: JY239  
+DZJY0: JY239  
+DZ:   DZ0167  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0168 元始高上玉檢大錄 Yuanshi gaoshang yujian dalu
+
+[KR5a0169](https://github.com/kanripo/KR5a0169) · `CUSTOM_ID` DZ0168 · `HK` CH010505 · `凱希` KX0167 · `三家本` Vol 3, p0282b · `Z中華道藏` ZHDZ02p0596 · `ZHnum` ZH02_081 · `X新文豐` XWDZ05p0034 · `涵芬樓` HFL騰上126
+
+元始高上玉檢大籙  
+DZ:   DZ0168  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0169 清河內傳 Qinghe neizhuan
+
+[KR5a0170](https://github.com/kanripo/KR5a0170) · `CUSTOM_ID` DZ0169 · `HK` CH010506 · `凱希` KX0168 · `三家本` Vol 3, p0286b · `Z中華道藏` ZHDZ06p0612 · `ZHnum` ZH06_099 · `X新文豐` XWDZ05p0040 · `涵芬樓` HFL騰上150
+
+清河內傳  
+DZ:   DZ0169  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0170 梓潼帝君化書 Zitong dijun huashu
+
+[KR5a0171](https://github.com/kanripo/KR5a0171) · `CUSTOM_ID` DZ0170 · `HK` CH010507 · `凱希` KX0169 · `三家本` Vol 3, p0292b · `Z中華道藏` ZHDZ06p0577 · `ZHnum` ZH06_098 · `X新文豐` XWDZ05p0049 · `涵芬樓` HFL騰下004
+
+梓潼帝君化書  
+DZJY: JY255  
+DZJY0: JY255  
+DZ:   DZ0170  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0171 清微仙譜 Qingwei xianpu
+
+[KR5a0172](https://github.com/kanripo/KR5a0172) · `CUSTOM_ID` DZ0171 · `HK` CH010508 · `凱希` KX0170 · `三家本` Vol 3, p0326c · `Z中華道藏` ZHDZ31p0001 · `ZHnum` ZH31_001 · `X新文豐` XWDZ05p0101 · `涵芬樓` HFL致上004
+
+清微仙譜  
+DZ:   DZ0171  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0172 三茅真君加封事典 Sanmao zhenjun jiafeng shidian
+
+[KR5a0173](https://github.com/kanripo/KR5a0173) · `CUSTOM_ID` DZ0172 · `HK` CH010509 · `凱希` KX0171 · `三家本` Vol 3, p0332b · `Z中華道藏` ZHDZ46p0296 · `ZHnum` ZH46_020 · `X新文豐` XWDZ05p0110 · `涵芬樓` HFL致上038
+
+三茅真君加封事典(宋-張大淳)  
+DZ:   DZ0172  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0173 金蓮正宗記 Jinlian zhengzong ji
+
+[KR5a0174](https://github.com/kanripo/KR5a0174) · `CUSTOM_ID` DZ0173 · `HK` CH010510 · `凱希` KX0172 · `三家本` Vol 3, p0343c · `Z中華道藏` ZHDZ46p0029 · `ZHnum` ZH47_003 · `X新文豐` ZHDZ46p0029 · `涵芬樓` XWDZ05p0127 HFL致上106
+
+金蓮正宗記(元-  
+DZJY: JY301  
+DZJY0: JY301  
+DZ:   DZ0173  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0174 金蓮正宗仙源像傳 Jinlian zhengzong xianyuan xiangzhuan
+
+[KR5a0175](https://github.com/kanripo/KR5a0175) · `CUSTOM_ID` DZ0174 · `HK` CH010511 · `凱希` KX0173 · `三家本` Vol 3, p0365b · `Z中華道藏` ZHDZ47p0054 · `ZHnum` ZH47_004 · `X新文豐` XWDZ05p0160 · `涵芬樓` HFL致下054
+
+金蓮正宗仙源像傳(元-劉志玄)  
+DZJY: JY302  
+DZJY0: JY302  
+DZ:   DZ0174  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0175 七真年譜 Qizhen nianpu
+
+[KR5a0176](https://github.com/kanripo/KR5a0176) · `CUSTOM_ID` DZ0175 · `HK` CH010512 · `凱希` KX0174 · `三家本` Vol 3, p0380b · `Z中華道藏` ZHDZ47p0069 · `ZHnum` ZH47_005 · `X新文豐` XWDZ05p0183 · `涵芬樓` HFL致下144
+
+七真年譜(元-李道謙)  
+DZJY: JY303  
+DZJY0: JY303  
+DZ:   DZ0175  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0176 玄風慶會錄 Xuanfeng qinghui lu
+
+[KR5a0177](https://github.com/kanripo/KR5a0177) · `CUSTOM_ID` DZ0176 · `HK` CH010513 · `凱希` KX0175 · `三家本` Vol 3, p0387c · `Z中華道藏` ZHDZ47p0025 · `ZHnum` ZH47_002 · `X新文豐` XWDZ05p0194 · `涵芬樓` HFL致下188
+
+玄風慶會錄(元-移刺楚)  
+DZ:   DZ0176  
+Contents
+
+**Work notes**
+
+**Comments**
+
+### CMTS0106	戒律類 Jielü Precepts
+
+#### DZ0177 太上洞真智慧上品大誡 Taishang dongzhen zhihui shangpin dajie +
+
+[KR5a0178](https://github.com/kanripo/KR5a0178) · `CUSTOM_ID` DZ0177 · `HK` CH010601 · `凱希` KX0176 · `三家本` Vol 3, p0391a · `Z中華道藏` ZHDZ03p0258 · `ZHnum` ZH03_018 · `X新文豐` XWDZ05p0199 · `涵芬樓` HFL雨上004
+
+太上洞真智慧上品大誡  
+DZJY: JY269  
+DZJY0: JY269  
+DZ:   DZ0177  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0178 三洞眾戒文 Sandong zhongjie wen
+
+[KR5a0179](https://github.com/kanripo/KR5a0179) · `CUSTOM_ID` DZ0178 · `HK` CH010602 · `凱希` KX0177 · `三家本` Vol 3, p0396b · `Z中華道藏` ZHDZ42p0139 · `ZHnum` ZH42_016 · `X新文豐` XWDZ05p0208 · `涵芬樓` HFL雨上036
+
+三洞眾戒文(唐-張萬福)  
+DZJY: JY270  
+DZJY0: JY270  
+DZ:   DZ0178  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0179 太微靈書紫文仙忌真記上經 Taiwei lingshu ziwen xianji zhenji shangjing +
+
+[KR5a0180](https://github.com/kanripo/KR5a0180) · `CUSTOM_ID` DZ0179 · `HK` CH010603 · `凱希` KX0178 · `三家本` Vol 3, p0402a · `Z中華道藏` ZHDZ01p0304 · `ZHnum` ZH01_031 · `X新文豐` XWDZ05p0217 · `涵芬樓` HFL雨上070
+
+太微靈書紫文仙忌真記上經  
+DZJY: JY271  
+DZJY0: JY271  
+DZ:   DZ0179  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0180 虛皇天尊初真十戒文 Xuhuang tianzun chuzhen shijie wen
+
+[KR5a0181](https://github.com/kanripo/KR5a0181) · `CUSTOM_ID` DZ0180 · `HK` CH010604 · `凱希` KX0179 · `三家本` Vol 3, p0403b · `Z中華道藏` ZHDZ42p0646 · `ZHnum` ZH42_028 · `X新文豐` XWDZ05p0219 · `涵芬樓` HFL雨上078
+
+虛皇天尊初真十戒文  
+DZJY: JY272  
+DZJY0: JY272  
+DZ:   DZ0180  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0181 太上九真妙戒金籙度命拔罪妙經 Taishang jiuzhen miaojie jinlu duming bazui miaojing
+
+[KR5a0182](https://github.com/kanripo/KR5a0182) · `CUSTOM_ID` DZ0181 · `HK` CH010605 · `凱希` KX0180 · `三家本` Vol 3, p0406a · `Z中華道藏` ZHDZ06p0181 · `ZHnum` ZH06_050 · `X新文豐` XWDZ05p0223 · `涵芬樓` HFL雨上094
+
+太上九真妙戒金籙度命拔罪妙經  
+DZJY: JY273  
+DZJY0: JY273  
+DZ:   DZ0181  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0182 太上十二上品飛天法輪勸戒妙經 Taishang shier shangpin feitian falun quanjie miaojing +
+
+[KR5a0183](https://github.com/kanripo/KR5a0183) · `CUSTOM_ID` DZ0182 · `HK` CH010606 · `凱希` KX0181 · `三家本` Vol 3, p0409a · `Z中華道藏` ZHDZ04p0193 · `ZHnum` ZH04_028 · `X新文豐` XWDZ05p0228 · `涵芬樓` HFL雨上112
+
+太上十二上品飛天法輪勸戒妙經  
+DZJY: JY274  
+DZJY0: JY274  
+DZ:   DZ0182  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0183 太極真人說二十四門戒經 Taiji zhenren shuo ershisi men jiejing +
+
+[KR5a0184](https://github.com/kanripo/KR5a0184) · `CUSTOM_ID` DZ0183 · `HK` CH010607 · `凱希` KX0182 · `三家本` Vol 3, p0412b · `Z中華道藏` ZHDZ04p0190 · `ZHnum` ZH04_027 · `X新文豐` XWDZ05p0233 · `涵芬樓` HFL雨上132
+
+太極真人說二十四門戒經  
+DZJY: JY275  
+DZJY0: JY275  
+DZ:   DZ0183  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0184 太真玉帝四極明科經 Taizhen yudi siji mingke jing
+
+[KR5a0185](https://github.com/kanripo/KR5a0185) · `CUSTOM_ID` DZ0184 · `HK` CH010608 · `凱希` KX0183 · `三家本` Vol 3, p0415a · `Z中華道藏` ZHDZ02p0752 · `ZHnum` ZH02_097 · `X新文豐` XWDZ05p0237 · `涵芬樓` HFL雨上148
+
+太真玉帝四極明科經  
+DZ:   DZ0184  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0185 赤松子中誡經 Chisongzi zhongjie jing +
+
+[KR5a0186](https://github.com/kanripo/KR5a0186) · `CUSTOM_ID` DZ0185 · `HK` CH010609 · `凱希` KX0184 · `三家本` Vol 3, p0444b · `Z中華道藏` ZHDZ42p0655 · `ZHnum` ZH42_031 · `X新文豐` XWDZ05p0282 · `涵芬樓` HFL雨下110
+
+赤松子中誡經  
+DZ:   DZ0185  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0186 太微仙君旦L格 Taiwei xianjun gongguo ge
+
+[KR5a0187](https://github.com/kanripo/KR5a0187) · `CUSTOM_ID` DZ0186 · `HK` CH010610 · `凱希` KX0185 · `三家本` Vol 3, p0449a · `Z中華道藏` ZHDZ42p0811 · `ZHnum` ZH42_034 · `X新文豐` XWDZ05p0289 · `涵芬樓` HFL雨下138
+
+太微仙君功過格  
+DZ:   DZ0186  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0187 太清五十八願文 Taiqing wushiba yuanwen +
+
+[KR5a0188](https://github.com/kanripo/KR5a0188) · `CUSTOM_ID` DZ0187 · `HK` CH010611 · `凱希` KX0187 · `三家本` Vol 3, p0456a · `Z中華道藏` ZHDZ08p0612 · `ZHnum` ZH04_044 · `X新文豐` XWDZ05p0296 · `涵芬樓` HFL雨下141
+
+太清五十八願文  
+DZ:   DZ0187  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0188 玄都律文 Xuandu lüwen +
+
+[KR5a0189](https://github.com/kanripo/KR5a0189) · `CUSTOM_ID` DZ0188 · `HK` CH010612 · `凱希` KX0186 · `三家本` Vol 3, p0453c · `Z中華道藏` ZHDZ04p0292 · `ZHnum` ZH08_067 · `X新文豐` XWDZ05p0300 · `涵芬樓` HFL
+
+玄都律文  
+DZ:   DZ0188  
+Contents
+
+**Work notes**
+
+**Comments**
+
+### CMTS0107	威儀類 Weiyi Solemn Rites
+
+#### DZ0189 太上靈寶朝天謝罪大懺 Taishang lingbao chaotian xiezui dachan
+
+[KR5a0190](https://github.com/kanripo/KR5a0190) · `CUSTOM_ID` DZ0189 · `HK` CH010701 · `凱希` KX0188 · `三家本` Vol 3, p0463b · `Z中華道藏` ZHDZ44p0058 · `ZHnum` ZH44_022 · `X新文豐` XWDZ05p0311 · `涵芬樓` HFL露上004
+
+太上靈寶朝天謝罪大懺  
+DZJY: JY248  
+DZJY0: JY248  
+DZ:   DZ0189  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0190 太上玉清謝罪登真寶懺 Taishang yuqing xiezui dengzhen baochan
+
+[KR5a0191](https://github.com/kanripo/KR5a0191) · `CUSTOM_ID` DZ0190 · `HK` CH010702 · `凱希` KX0189 · `三家本` Vol 3, p0510b · `Z中華道藏` ZHDZ44p0050 · `ZHnum` ZH44_019 · `X新文豐` XWDZ05p0383 · `涵芬樓` HFL結上004
+
+太上玉清謝罪登真寶懺  
+DZ:   DZ0190  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0191 太上上清禳災延壽寶懺 Taishang shangqing rangzai yanshou baochan
+
+[KR5a0192](https://github.com/kanripo/KR5a0192) · `CUSTOM_ID` DZ0191 · `HK` CH010703 · `凱希` KX0190 · `三家本` Vol 3, p0512b · `Z中華道藏` ZHDZ44p0053 · `ZHnum` ZH44_020 · `X新文豐` XWDZ05p0387 · `涵芬樓` HFL結上016
+
+太上上清禳災延壽寶懺  
+DZ:   DZ0191  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0192 太上泰清拔罪昇天寶懺 Taishang taiqing bazui shengtian baochan
+
+[KR5a0193](https://github.com/kanripo/KR5a0193) · `CUSTOM_ID` DZ0192 · `HK` CH010704 · `凱希` KX0191 · `三家本` Vol 3, p0514b · `Z中華道藏` ZHDZ44p0055 · `ZHnum` ZH44_021 · `X新文豐` XWDZ05p0390 · `涵芬樓` HFL結上028
+
+太上泰清拔罪昇天寶懺  
+DZ:   DZ0192  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0193 玉皇宥罪錫福寶懺 Yuhuang youzui xifu baochan
+
+[KR5a0194](https://github.com/kanripo/KR5a0194) · `CUSTOM_ID` DZ0193 · `HK` CH010705 · `凱希` KX0192 · `三家本` Vol 3, p0516c · `Z中華道藏` ZHDZ44p0258 · `ZHnum` ZH44_034 · `X新文豐` XWDZ05p0394 · `涵芬樓` HFL結上042
+
+玉皇赦罪錫福寶懺(辛漢臣)  
+DZJY: JY096  
+DZJY0: JY096  
+DZ:   DZ0193  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0194 高上玉皇滿願寶懺 Gaoshang yuhuang manyuan baochan
+
+[KR5a0195](https://github.com/kanripo/KR5a0195) · `CUSTOM_ID` DZ0194 · `HK` CH010706 · `凱希` KX0193 · `三家本` Vol 3, p0524c · `Z中華道藏` ZHDZ44p0266 · `ZHnum` ZH44_035 · `X新文豐` XWDZ05p0406 · `涵芬樓` HFL結上090
+
+高上玉皇滿願寶懺  
+DZ:   DZ0194  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0195 九天應元雷聲普化天尊玉樞寶懺 Jiutian yingyuan leisheng puhua tianzun yushu baochan
+
+[KR5a0196](https://github.com/kanripo/KR5a0196) · `CUSTOM_ID` DZ0195 · `HK` CH010707 · `凱希` KX0194 · `三家本` Vol 3, p0549a · `Z中華道藏` ZHDZ31p0321 · `ZHnum` ZH31_012 · `X新文豐` XWDZ05p0444 · `涵芬樓` HFL結下092
+
+九天應元雷聲普化天尊玉樞寶懺  
+DZ:   DZ0195  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0196 雷霆玉樞宥罪法懺 Leiting yushu youzui fachan
+
+[KR5a0197](https://github.com/kanripo/KR5a0197) · `CUSTOM_ID` DZ0196 · `HK` CH010708 · `凱希` KX0195 · `三家本` Vol 3, p0552c · `Z中華道藏` ZHDZ31p0325 · `ZHnum` ZH31_013 · `X新文豐` XWDZ05p0450 · `涵芬樓` HFL結下114
+
+雷霆玉樞宥罪法懺  
+DZ:   DZ0196  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0197 玉皇十七慈光燈儀 Yuhuang shiqi ciguang deng yi
+
+[KR5a0198](https://github.com/kanripo/KR5a0198) · `CUSTOM_ID` DZ0197 · `HK` CH010709 · `凱希` KX0196 · `三家本` Vol 3, p0555c · `Z中華道藏` ZHDZ44p0001 · `ZHnum` ZH44_001 · `X新文豐` XWDZ05p0455 · `涵芬樓` HFL為上004
+
+玉皇十七慈光燈儀  
+DZJY: JY097  
+DZJY0: JY097  
+DZ:   DZ0197  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0198 上清十一大曜燈儀 Shangqing shiyi dayao dengyi
+
+[KR5a0199](https://github.com/kanripo/KR5a0199) · `CUSTOM_ID` DZ0198 · `HK` CH010710 · `凱希` KX0197 · `三家本` Vol 3, p0562b · `Z中華道藏` ZHDZ44p0008 · `ZHnum` ZH44_002 · `X新文豐` XWDZ05p0466 · `涵芬樓` HFL為上044
+
+上清十一大曜燈儀  
+DZ:   DZ0198  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0199 南斗延壽燈儀 Nandou yanshou dengyi
+
+[KR5a0200](https://github.com/kanripo/KR5a0200) · `CUSTOM_ID` DZ0199 · `HK` CH010711 · `凱希` KX0198 · `三家本` Vol 3, p0565a · `Z中華道藏` ZHDZ44p0011 · `ZHnum` ZH44_003 · `X新文豐` XWDZ05p0470 · `涵芬樓` HFL為上060
+
+南斗延壽燈儀  
+DZ:   DZ0199  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0200 北斗七元星燈儀 Beidou qi yuanxing dengyi
+
+[KR5a0201](https://github.com/kanripo/KR5a0201) · `CUSTOM_ID` DZ0200 · `HK` CH010712 · `凱希` KX0199 · `三家本` Vol 3, p0567a · `Z中華道藏` ZHDZ44p0014 · `ZHnum` ZH44_004 · `X新文豐` XWDZ05p0473 · `涵芬樓` HFL為上072
+
+北斗七元星燈儀  
+DZ:   DZ0200  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0201 北斗本命延壽燈儀 Beidou benming yanshou dengyi
+
+[KR5a0202](https://github.com/kanripo/KR5a0202) · `CUSTOM_ID` DZ0201 · `HK` CH010713 · `凱希` KX0200 · `三家本` Vol 3, p0569b · `Z中華道藏` ZHDZ44p0017 · `ZHnum` ZH44_005 · `X新文豐` XWDZ05p0477 · `涵芬樓` HFL為上087
+
+北斗本命延壽燈儀  
+DZ:   DZ0201  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0202 三官燈儀 Sanguan dengyi
+
+[KR5a0203](https://github.com/kanripo/KR5a0203) · `CUSTOM_ID` DZ0202 · `HK` CH010714 · `凱希` KX0201 · `三家本` Vol 3, p0570c · `Z中華道藏` ZHDZ44p0019 · `ZHnum` ZH44_006 · `X新文豐` XWDZ05p0479 · `涵芬樓` HFL為上094
+
+三官燈儀  
+DZ:   DZ0202  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0203 玄都燈儀 Xuandi dengyi
+
+[KR5a0204](https://github.com/kanripo/KR5a0204) · `CUSTOM_ID` DZ0203 · `HK` CH010715 · `凱希` KX0202 · `三家本` Vol 3, p0572a · `Z中華道藏` ZHDZ44p0021 · `ZHnum` ZH44_007 · `X新文豐` XWDZ05p0481 · `涵芬樓` HFL為上102
+
+玄帝燈儀  
+DZ:   DZ0203  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0204 九天三茅司命仙燈儀 Jiutian sanmao siming xian dengyi
+
+[KR5a0205](https://github.com/kanripo/KR5a0205) · `CUSTOM_ID` DZ0204 · `HK` CH010716 · `凱希` KX0203 · `三家本` Vol 3, p0573c · `Z中華道藏` ZHDZ44p0023 · `ZHnum` ZH44_008 · `X新文豐` XWDZ05p0484 · `涵芬樓` HFL為上112
+
+九天三茅司命仙燈儀  
+DZ:   DZ0204  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0205 萬靈燈儀 Wanling dengyi
+
+[KR5a0206](https://github.com/kanripo/KR5a0206) · `CUSTOM_ID` DZ0205 · `HK` CH010717 · `凱希` KX0204 · `三家本` Vol 3, p0575b · `Z中華道藏` ZHDZ44p0025 · `ZHnum` ZH44_009 · `X新文豐` XWDZ05p0487 · `涵芬樓` HFL為上122
+
+萬靈燈儀  
+DZ:   DZ0205  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0206 五顯靈觀大帝燈儀 Wuxian lingguan dadi dengyi
+
+[KR5a0207](https://github.com/kanripo/KR5a0207) · `CUSTOM_ID` DZ0206 · `HK` CH010718 · `凱希` KX0205 · `三家本` Vol 3, p0576c · `Z中華道藏` ZHDZ44p0027 · `ZHnum` ZH44_010 · `X新文豐` XWDZ05p0489 · `涵芬樓` HFL為上130
+
+五顯靈觀大帝燈儀  
+DZ:   DZ0206  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0207 土司燈儀 Tusi dengyi
+
+[KR5a0208](https://github.com/kanripo/KR5a0208) · `CUSTOM_ID` DZ0207 · `HK` CH010719 · `凱希` KX0206 · `三家本` Vol 3, p0578b · `Z中華道藏` ZHDZ44p0029 · `ZHnum` ZH44_011 · `X新文豐` XWDZ05p0492 · `涵芬樓` HFL為上140
+
+土司燈儀  
+DZ:   DZ0207  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0208 東廚司命燈儀 Dongchu siming dengyi
+
+[KR5a0209](https://github.com/kanripo/KR5a0209) · `CUSTOM_ID` DZ0208 · `HK` CH010720 · `凱希` KX0207 · `三家本` Vol 3, p0581a · `Z中華道藏` ZHDZ44p0032 · `ZHnum` ZH44_012 · `X新文豐` XWDZ05p0496 · `涵芬樓` HFL為上156
+
+東廚司命燈儀  
+DZ:   DZ0208  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0209 正一瘟司辟毒神燈儀 Zhengyi wensi pidu shen dengyi
+
+[KR5a0210](https://github.com/kanripo/KR5a0210) · `CUSTOM_ID` DZ0209 · `HK` CH010721 · `凱希` KX0208 · `三家本` Vol 3, p0582c · `Z中華道藏` ZHDZ44p0032 · `ZHnum` ZH44_013 · `X新文豐` XWDZ05p0499 · `涵芬樓` HFL為下004
+
+正一殟司辟毒神燈儀  
+DZ:   DZ0209  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0210 離明端象燈儀 Liming duanxiang dengyi
+
+[KR5a0211](https://github.com/kanripo/KR5a0211) · `CUSTOM_ID` DZ0210 · `HK` CH010722 · `凱希` KX0209 · `三家本` Vol 3, p0584b · `Z中華道藏` ZHDZ44p0036 · `ZHnum` ZH44_014 · `X新文豐` XWDZ05p0502 · `涵芬樓` HFL為下014
+
+慈明瑞象燈儀  
+DZ:   DZ0210  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0211 黃籙九陽梵氣燈儀 Huanglu jiuyang fanqi dengyi
+
+[KR5a0212](https://github.com/kanripo/KR5a0212) · `CUSTOM_ID` DZ0211 · `HK` CH010723 · `凱希` KX0210 · `三家本` Vol 3, p0586c · `Z中華道藏` ZHDZ44p0039 · `ZHnum` ZH44_015 · `X新文豐` XWDZ05p0506 · `涵芬樓` HFL為下028
+
+黃籙九陽梵燈儀  
+DZ:   DZ0211  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0212 黃籙九卮燈儀 Huanglu jiue dengyi
+
+[KR5a0213](https://github.com/kanripo/KR5a0213) · `CUSTOM_ID` DZ0212 · `HK` CH010724 · `凱希` KX0211 · `三家本` Vol 3, p0590b · `Z中華道藏` ZHDZ44p0043 · `ZHnum` ZH44_016 · `X新文豐` XWDZ05p0512 · `涵芬樓` HFL為下050
+
+黃籙九燈儀  
+DZ:   DZ0212  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0213 黃籙破獄燈儀 Huanglu poyu dengyi
+
+[KR5a0214](https://github.com/kanripo/KR5a0214) · `CUSTOM_ID` DZ0213 · `HK` CH010725 · `凱希` KX0212 · `三家本` Vol 3, p0591c · `Z中華道藏` ZHDZ44p0045 · `ZHnum` ZH44_017 · `X新文豐` XWDZ05p0514 · `涵芬樓` HFL為下058
+
+黃籙破獄燈儀  
+DZ:   DZ0213  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0214 黃籙五苦輪燈儀 Huanglu wuku lun dengyi
+
+[KR5a0215](https://github.com/kanripo/KR5a0215) · `CUSTOM_ID` DZ0214 · `HK` CH010726 · `凱希` KX0213 · `三家本` Vol 3, p0594b · `Z中華道藏` ZHDZ44p0048 · `ZHnum` ZH44_018 · `X新文豐` XWDZ05p0518 · `涵芬樓` HFL為下074
+
+黃籙五苦輪燈儀  
+DZ:   DZ0214  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0215 地府十王拔度儀 Difu shiwang badu yi
+
+[KR5a0216](https://github.com/kanripo/KR5a0216) · `CUSTOM_ID` DZ0215 · `HK` CH010727 · `凱希` KX0214 · `三家本` Vol 3, p0596a · `Z中華道藏` ZHDZ44p0417 · `ZHnum` ZH44_054 · `X新文豐` XWDZ05p0521 · `涵芬樓` HFL為下084
+
+地府十王拔度儀  
+DZ:   DZ0215  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0216 上清天寶齋初夜儀 Shangqing tianbao zhaichu yeyi
+
+[KR5a0217](https://github.com/kanripo/KR5a0217) · `CUSTOM_ID` DZ0216 · `HK` CH010728 · `凱希` KX0215 · `三家本` Vol 3, p0600a · `Z中華道藏` ZHDZ44p0383 · `ZHnum` ZH44_047 · `X新文豐` XWDZ05p0527 · `涵芬樓` HFL為下108
+
+上清天寶齋初夜儀  
+DZ:   DZ0216  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0217 太乙火府奏祈禳儀 Taiyi huofu zougao qirang yi
+
+[KR5a0218](https://github.com/kanripo/KR5a0218) · `CUSTOM_ID` DZ0217 · `HK` CH010729 · `凱希` KX0216 · `三家本` Vol 3, p0603b · `Z中華道藏` ZHDZ32p0790 · `ZHnum` ZH32_065 · `X新文豐` XWDZ05p0532 · `涵芬樓` HFL為下128
+
+太乙火府奏告祈禳儀  
+DZ:   DZ0217  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0218 清微玄樞奏告儀 Qingwei xuanshu zougao yi
+
+[KR5a0219](https://github.com/kanripo/KR5a0219) · `CUSTOM_ID` DZ0218 · `HK` CH010730 · `凱希` KX0217 · `三家本` Vol 3, p0609a · `Z中華道藏` ZHDZ31p0170 · `ZHnum` ZH31_006 · `X新文豐` XWDZ05p0541 · `涵芬樓` HFL為下162
+
+清微玄樞奏告儀  
+DZ:   DZ0218  
+Contents
+
+**Work notes**
+
+**Comments**
+
+### CMTS0108	方法類 Fangfa Techniques
+
+#### DZ0219 靈寶無量度人上經大法 Lingbao wuliang duren dafa
+
+[KR5a0220](https://github.com/kanripo/KR5a0220) · `CUSTOM_ID` DZ0219 · `HK` CH010801 · `凱希` KX0218 · `三家本` Vol 3, p0613b · `Z中華道藏` ZHDZ35p0001 · `ZHnum` ZH35_001 · `X新文豐` XWDZ05p0549 · `涵芬樓` HFL霜上004
+
+靈寶無量度人上經大法  
+DZ:   DZ0219  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0220 無上玄元三天玉堂大法 Wushang xuanyuan santian yutang dafa
+
+[KR5a0221](https://github.com/kanripo/KR5a0221) · `CUSTOM_ID` DZ0220 · `HK` CH010802 · `凱希` KX0219 · `三家本` Vol 4, p0001a · `Z中華道藏` ZHDZ30p0387 · `ZHnum` ZH30_033 · `X新文豐` XWDZ06p0341 · `涵芬樓` HFL崑上004
+
+無上玄元三天玉堂大法  
+DZ:   DZ0220  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0221 無上三天玉堂正宗高奔內景玉書 Wushang santian yutang zhengzong gaoben neijing yushu
+
+[KR5a0222](https://github.com/kanripo/KR5a0222) · `CUSTOM_ID` DZ0221 · `HK` CH010803 · `凱希` KX0220 · `三家本` Vol 4, p0122c · `Z中華道藏` ZHDZ30p0507 · `ZHnum` ZH30_034 · `X新文豐` XWDZ06p0529 · `涵芬樓` HFL劍上130
+
+無上三天玉堂正宗高奕內景玉書  
+DZ:   DZ0221  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0222 清微神烈秘法 Qingwei shenlie bifa
+
+[KR5a0223](https://github.com/kanripo/KR5a0223) · `CUSTOM_ID` DZ0222 · `HK` CH010804 · `凱希` KX0221 · `三家本` Vol 4, p0135b · `Z中華道藏` ZHDZ31p0039 · `ZHnum` ZH31_004 · `X新文豐` XWDZ06p0549 · `涵芬樓` HFL劍下020
+
+清微神烈秘法  
+DZ:   DZ0222  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0223 清微元降大法 Qingwei yuanjiang dafa
+
+[KR5a0224](https://github.com/kanripo/KR5a0224) · `CUSTOM_ID` DZ0223 · `HK` CH010805 · `凱希` KX0222 · `三家本` Vol 4, p0153a · `Z中華道藏` ZHDZ31p0057 · `ZHnum` ZH31_005 · `X新文豐` XWDZ06p0577 · `涵芬樓` HFL號上004
+
+清微元降大法  
+DZ:   DZ0223  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0224 清微齋法 Qingwei zhaifa
+
+[KR5a0225](https://github.com/kanripo/KR5a0225) · `CUSTOM_ID` DZ0224 · `HK` CH010806 · `凱希` KX0223 · `三家本` Vol 4, p0282b · `Z中華道藏` ZHDZ31p0011 · `ZHnum` ZH31_003 · `X新文豐` XWDZ06p0657 · `涵芬樓` HFL闕下004
+
+清微齋法  
+DZ:   DZ0224  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0225 太上九要心印妙經 Taishang jiuyao xinyin miaojing
+
+[KR5a0226](https://github.com/kanripo/KR5a0226) · `CUSTOM_ID` DZ0225 · `HK` CH010807 · `凱希` KX0224 · `三家本` Vol 4, p0311a · `Z中華道藏` ZHDZ19p0001 · `ZHnum` ZH19_001 · `X新文豐` XWDZ06p0823 · `涵芬樓` HFL珠上004
+
+太上九要心印妙經  
+DZ:   DZ0225  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0226 紫元君授道傳心法 Ziyuan jun shoudao chuanxin fa
+
+[KR5a0227](https://github.com/kanripo/KR5a0227) · `CUSTOM_ID` DZ0226 · `HK` CH010808 · `凱希` KX0225 · `三家本` Vol 4, p0314a · `Z中華道藏` ZHDZ19p0143 · `ZHnum` ZH19_021 · `X新文豐` XWDZ06p0828 · `涵芬樓` HFL珠上022
+
+紫元君授道傳心法(漢-陰長生)  
+DZ:   DZ0226  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0227 真龍虎九仙經 Zhen longhu jiuxian jing
+
+[KR5a0228](https://github.com/kanripo/KR5a0228) · `CUSTOM_ID` DZ0227 · `HK` CH010809 · `凱希` KX0226 · `三家本` Vol 4, p0317a · `Z中華道藏` ZHDZ19p0070 · `ZHnum` ZH19_014 · `X新文豐` XWDZ06p0833 · `涵芬樓` HFL珠上040
+
+真龍虎九仙經  
+DZ:   DZ0227  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0228 龍虎中丹訣 Jiuhuan qifan longhu jindan xili zhenjue
+
+[KR5a0229](https://github.com/kanripo/KR5a0229) · `CUSTOM_ID` DZ0228 · `HK` CH010810 · `凱希` KX0227 · `三家本` Vol 4, p0321c · `Z中華道藏` ZHDZ19p0219 · `ZHnum` ZH19_039 · `X新文豐` XWDZ06p0840 · `涵芬樓` HFL珠上068
+
+龍虎中丹訣  
+DZ:   DZ0228  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0229 九還七返龍虎金丹析理真訣 Longhu jindan zhenjue
+
+[KR5a0230](https://github.com/kanripo/KR5a0230) · `CUSTOM_ID` DZ0229 · `HK` CH010811 · `凱希` KX0228 · `三家本` Vol 4, p0324a · `Z中華道藏` ZHDZ19p0234 · `ZHnum` ZH19_043 · `X新文豐` XWDZ06p0844 · `涵芬樓` HFL珠上082
+
+九還七返龍虎金丹析理真訣(程昭述)  
+DZ:   DZ0229  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0230 諸真論還丹訣 Zhu zhen lun huandan jue
+
+[KR5a0231](https://github.com/kanripo/KR5a0231) · `CUSTOM_ID` DZ0230 · `HK` CH010812 · `凱希` KX0229 · `三家本` Vol 4, p0327a · `Z中華道藏` ZHDZ19p0222 · `ZHnum` ZH19_040 · `X新文豐` XWDZ06p0849 · `涵芬樓` HFL珠上100
+
+諸真論還丹訣  
+DZ:   DZ0230  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0231 真一金丹訣 Zhenyi jindan jue
+
+[KR5a0232](https://github.com/kanripo/KR5a0232) · `CUSTOM_ID` DZ0231 · `HK` CH010813 · `凱希` KX0230 · `三家本` Vol 4, p0328c · `Z中華道藏` ZHDZ19p0273 · `ZHnum` ZH19_053 · `X新文豐` XWDZ06p0852 · `涵芬樓` HFL珠上110
+
+真一金丹訣(宋-王常集)  
+DZ:   DZ0231  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0232 還丹秘訣養赤子神方 Huandan bijue Yangchizi shenfang
+
+[KR5a0233](https://github.com/kanripo/KR5a0233) · `CUSTOM_ID` DZ0232 · `HK` CH010814 · `凱希` KX0231 · `三家本` Vol 4, p0331c · `Z中華道藏` ZHDZ19p0669 · `ZHnum` ZH19_084 · `X新文豐` XWDZ06p0857 · `涵芬樓` HFL珠上128
+
+還丹秘訣養赤子神方(宋-許明道)  
+DZ:   DZ0232  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0233 還丹眾仙論 Huandan zhongxian lun
+
+[KR5a0234](https://github.com/kanripo/KR5a0234) · `CUSTOM_ID` DZ0233 · `HK` CH010815 · `凱希` KX0232 · `三家本` Vol 4, p0333c · `Z中華道藏` ZHDZ18p0734 · `ZHnum` ZH18_083 · `X新文豐` XWDZ06p0861 · `涵芬樓` HFL珠下004
+
+還丹眾仙論(宋-楊在集)  
+DZ:   DZ0233  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0234 修丹妙用至理論 Xiudan miaoyong zhili lun
+
+[KR5a0235](https://github.com/kanripo/KR5a0235) · `CUSTOM_ID` DZ0234 · `HK` CH010816 · `凱希` KX0233 · `三家本` Vol 4, p0342a · `Z中華道藏` ZHDZ18p0743 · `ZHnum` ZH18_084 · `X新文豐` XWDZ06p0874 · `涵芬樓` HFL珠下054
+
+修丹妙用至理論  
+DZ:   DZ0234  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0235 丹經極論 Danjing jilun
+
+[KR5a0236](https://github.com/kanripo/KR5a0236) · `CUSTOM_ID` DZ0235 · `HK` CH010817 · `凱希` KX0234 · `三家本` Vol 4, p0345b · `Z中華道藏` ZHDZ19p0707 · `ZHnum` ZH19_090 · `X新文豐` XWDZ06p0849 · `涵芬樓` HFL珠下074
+
+丹經極論  
+DZ:   DZ0235  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0236 金晶論 Jinjing lun
+
+[KR5a0237](https://github.com/kanripo/KR5a0237) · `CUSTOM_ID` DZ0236 · `HK` CH010818 · `凱希` KX0235 · `三家本` Vol 4, p0349a · `Z中華道藏` ZHDZ19p0216 · `ZHnum` ZH19_038 · `X新文豐` XWDZ06p0885 · `涵芬樓` HFL珠下096
+
+金晶論  
+DZ:   DZ0236  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0237 還丹顯妙通幽集 Huandan xianmiao tongyou ji
+
+[KR5a0238](https://github.com/kanripo/KR5a0238) · `CUSTOM_ID` DZ0237 · `HK` CH010819 · `凱希` KX0236 · `三家本` Vol 4, p0351a · `Z中華道藏` ZHDZ19p0219 · `ZHnum` ZH19_042 · `X新文豐` XWDZ06p0888 · `涵芬樓` HFL珠下108
+
+還丹顯妙通幽集(潛真子)  
+DZ:   DZ0237  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0238 元陽子金液集 Yuanyangzi jinye ji
+
+[KR5a0239](https://github.com/kanripo/KR5a0239) · `CUSTOM_ID` DZ0238 · `HK` CH010820 · `凱希` KX0237 · `三家本` Vol 4, p0354c · `Z中華道藏` ZHDZ18p0657 · `ZHnum` ZH18_072 · `X新文豐` XWDZ06p0894 · `涵芬樓` HFL珠下130
+
+元陽子金液集  
+DZ:   DZ0238  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0239 還丹金液歌註 Huandan jinye ge zhu
+
+[KR5a0240](https://github.com/kanripo/KR5a0240) · `CUSTOM_ID` DZ0239 · `HK` CH010821 · `凱希` KX0238 · `三家本` Vol 4, p0359c · `Z中華道藏` ZHDZ18p0667 · `ZHnum` ZH18_074 · `X新文豐` XWDZ06p0902 · `涵芬樓` HFL珠下160
+
+還丹金液歌註  
+DZ:   DZ0239  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0240 玉清金笥青華秘文金寶內鍊丹訣 Yuqing jinsi qinghua biwen jinbao neilian danjue
+
+[KR5a0241](https://github.com/kanripo/KR5a0241) · `CUSTOM_ID` DZ0240 · `HK` CH010822 · `凱希` KX0239 · `三家本` Vol 4, p0362b · `Z中華道藏` ZHDZ19p0492 · `ZHnum` ZH19_065 · `X新文豐` XWDZ07p0001 · `涵芬樓` HFL稱上004
+
+玉清金笥青華秘文金寶內鍊丹訣(宋-張伯端)  
+DZJY: JY174  
+DZJY0: JY174  
+DZ:   DZ0240  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0241 碧虛子親傳直指 Bixuzi qinzhuan zhizhi
+
+[KR5a0242](https://github.com/kanripo/KR5a0242) · `CUSTOM_ID` DZ0241 · `HK` CH010823 · `凱希` KX0240 · `三家本` Vol 4, p0378c · `Z中華道藏` ZHDZ19p0580 · `ZHnum` ZH19_073 · `X新文豐` XWDZ07p0026 · `涵芬樓` HFL稱上102
+
+碧虛子親傳直指(宋-陳景元)  
+DZ:   DZ0241  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0242 紙舟先生全真直指 Zhizhou xiansheng quanzhen zhizhi
+
+[KR5a0243](https://github.com/kanripo/KR5a0243) · `CUSTOM_ID` DZ0242 · `HK` CH010824 · `凱希` KX0241 · `三家本` Vol 4, p0382b · `Z中華道藏` ZHDZ27p0419 · `ZHnum` ZH27_022 · `X新文豐` XWDZ07p0032 · `涵芬樓` HFL稱上124
+
+紙舟先生全真直指(金月巖)  
+DZ:   DZ0242  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0243 陳虛白規中指南 Chen Xubai guizhong zhinan
+
+[KR5a0244](https://github.com/kanripo/KR5a0244) · `CUSTOM_ID` DZ0243 · `HK` CH010825 · `凱希` KX0242 · `三家本` Vol 4, p0384c · `Z中華道藏` ZHDZ27p0615 · `ZHnum` ZH27_033 · `X新文豐` XWDZ07p0036 · `涵芬樓` HFL稱上138
+
+陳虛白規中指南(元-陳沖素)  
+DZJY: JY211  
+DZJY0: JY211  
+DZ:   DZ0243  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0244 大丹直指 Dadan zhizhi +
+
+[KR5a0245](https://github.com/kanripo/KR5a0245) · `CUSTOM_ID` DZ0244 · `HK` CH010826 · `凱希` KX0243 · `三家本` Vol 4, p0391c · `Z中華道藏` ZHDZ26p0631 · `ZHnum` ZH26_036 · `X新文豐` XWDZ07p0047 · `涵芬樓` HFL稱下004
+
+大丹直指(金-邱處機)  
+DZ:   DZ0244  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0245 玉谿子丹經指要 Yuqizi danjing zhiyao
+
+[KR5a0246](https://github.com/kanripo/KR5a0246) · `CUSTOM_ID` DZ0245 · `HK` CH010827 · `凱希` KX0244 · `三家本` Vol 4, p0404b · `Z中華道藏` ZHDZ19p0616 · `ZHnum` ZH19_078 · `X新文豐` XWDZ04p0404 · `涵芬樓` HFL稱下080
+
+玉豁子丹經指要(宋-李簡易)  
+DZ:   DZ0245  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0246 西山群仙會真記 Xishan qunxian huizhen ji
+
+[KR5a0247](https://github.com/kanripo/KR5a0247) · `CUSTOM_ID` DZ0246 · `HK` CH010828 · `凱希` KX0245 · `三家本` Vol 4, p0422a · `Z中華道藏` ZHDZ19p0120 · `ZHnum` ZH19_020 · `X新文豐` XWDZ07p0095 · `涵芬樓` HFL夜上004
+
+西山群仙會真記(唐-施肩吾)  
+DZJY: JY307  
+DZJY0: JY307  
+DZ:   DZ0246  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0247 會真集 Huizhen ji
+
+[KR5a0248](https://github.com/kanripo/KR5a0248) · `CUSTOM_ID` DZ0247 · `HK` CH010829 · `凱希` KX0246 · `三家本` Vol 4, p0442a · `Z中華道藏` ZHDZ27p0363 · `ZHnum` ZH27_018 · `X新文豐` XWDZ07p0126 · `涵芬樓` HFL夜上124
+
+會真集(金-王吉昌)  
+DZ:   DZ0247  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0248 啟真集 Qizhen ji
+
+[KR5a0249](https://github.com/kanripo/KR5a0249) · `CUSTOM_ID` DZ0248 · `HK` CH010830 · `凱希` KX0247 · `三家本` Vol 4, p0467a · `Z中華道藏` ZHDZ27p0389 · `ZHnum` ZH27_019 · `X新文豐` XWDZ07p0165 · `涵芬樓` HFL夜下088
+
+啟真集(金-劉志淵)  
+DZ:   DZ0248  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0249 中和集 Zhonghe ji +
+
+[KR5a0250](https://github.com/kanripo/KR5a0250) · `CUSTOM_ID` DZ0249 · `HK` CH010831 · `凱希` KX0248 · `三家本` Vol 4, p0482b · `Z中華道藏` ZHDZ27p0272 · `ZHnum` ZH27_014 · `X新文豐` XWDZ07p0189 · `涵芬樓` HFL光上004
+
+中和集(元-李道純)  
+DZJY: JY226  
+DZJY0: JY226  
+DZ:   DZ0249  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0250 三天易髓 Santian yisui
+
+[KR5a0251](https://github.com/kanripo/KR5a0251) · `CUSTOM_ID` DZ0250 · `HK` CH010832 · `凱希` KX0249 · `三家本` Vol 4, p0524b · `Z中華道藏` ZHDZ27p0358 · `ZHnum` ZH27_017 · `X新文豐` XWDZ07p0254 · `涵芬樓` HFL光下060
+
+三天易髓(元-李道純)  
+DZ:   DZ0250  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0251 全真集玄秘要 Quanzhen ji xuanbi yao
+
+[KR5a0252](https://github.com/kanripo/KR5a0252) · `CUSTOM_ID` DZ0251 · `HK` CH010833 · `凱希` KX0250 · `三家本` Vol 4, p0528b · `Z中華道藏` ZHDZ27p0351 · `ZHnum` ZH27_016 · `X新文豐` XWDZ07p0260 · `涵芬樓` HFL光下084
+
+全真集玄秘要(元-李道純)  
+DZ:   DZ0251  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0252 谷神篇 Gushen pian
+
+[KR5a0253](https://github.com/kanripo/KR5a0253) · `CUSTOM_ID` DZ0252 · `HK` CH010834 · `凱希` KX0251 · `三家本` Vol 4, p0534b · `Z中華道藏` ZHDZ19p0724 · `ZHnum` ZH19_097 · `X新文豐` XWDZ07p0269 · `涵芬樓` HFL光下120
+
+谷神篇(元-林轅)  
+DZ:   DZ0252  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0253 金闕帝君三元真一經 Jinque dijun sanyuan zhenyi jing
+
+[KR5a0254](https://github.com/kanripo/KR5a0254) · `CUSTOM_ID` DZ0253 · `HK` CH010835 · `凱希` KX0252 · `三家本` Vol 4, p0548c · `Z中華道藏` ZHDZ02p0089 · `ZHnum` ZH02_014 · `X新文豐` XWDZ07p0291 · `涵芬樓` HFL果上004
+
+金闕帝君三元真一經  
+DZ:   DZ0253  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0254 大洞金華玉經 Dadong jinhua yujing
+
+[KR5a0255](https://github.com/kanripo/KR5a0255) · `CUSTOM_ID` DZ0254 · `HK` CH010836 · `凱希` KX0253 · `三家本` Vol 4, p0551a · `Z中華道藏` ZHDZ01p0097 · `ZHnum` ZH01_005 · `X新文豐` XWDZ07p0293 · `涵芬樓` HFL果上018
+
+大洞金華玉經  
+DZ:   DZ0254  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0255 太微靈書紫文琅玕華丹神真上經 Taiwei lingshu ziwen lianggan huadan shenzhen shangjing
+
+[KR5a0256](https://github.com/kanripo/KR5a0256) · `CUSTOM_ID` DZ0255 · `HK` CH010837 · `凱希` KX0254 · `三家本` Vol 4, p0555a · `Z中華道藏` ZHDZ01p0306 · `ZHnum` ZH01_032 · `X新文豐` XWDZ07p0295 · `涵芬樓` HFL果上042
+
+太微靈書紫文琅玕華丹神真上經  
+DZ:   DZ0255  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0256 玉景九天金霄威神王祝太元上經 Yujing jiutian jinxiao weishen wangzhu taiyuan shangjing
+
+[KR5a0257](https://github.com/kanripo/KR5a0257) · `CUSTOM_ID` DZ0256 · `HK` CH010838 · `凱希` KX0255 · `三家本` Vol 4, p0557c · `Z中華道藏` ZHDZ01p0468 · `ZHnum` ZH01_051 · `X新文豐` XWDZ07p0301 · `涵芬樓` HFL果上058
+
+玉景九天金霄威神王祝太元上經  
+DZ:   DZ0256  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0257 洞真太微黃書九天八籙真文 Dongzhen taiwei huangshu jiutian balu zhenwen
+
+[KR5a0258](https://github.com/kanripo/KR5a0258) · `CUSTOM_ID` DZ0257 · `HK` CH010839 · `凱希` KX0256 · `三家本` Vol 4, p0561a · `Z中華道藏` ZHDZ02p0452 · `ZHnum` ZH02_053 · `X新文豐` XWDZ07p0305 · `涵芬樓` HFL果上078
+
+洞真太微黃書九天八籙真文  
+DZ:   DZ0257  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0258 太玄八景籙 Taixuan bajing lu
+
+[KR5a0259](https://github.com/kanripo/KR5a0259) · `CUSTOM_ID` DZ0258 · `HK` CH010840 · `凱希` KX0257 · `三家本` Vol 4, p0563c · `Z中華道藏` ZHDZ02p0601 · `ZHnum` ZH02_082 · `X新文豐` XWDZ07p0310 · `涵芬樓` HFL果上094
+
+太微八景籙  
+DZ:   DZ0258  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0259 陶真人內丹賦 Tao zhenren neidan fu
+
+[KR5a0260](https://github.com/kanripo/KR5a0260) · `CUSTOM_ID` DZ0259 · `HK` CH010841 · `凱希` KX0258 · `三家本` Vol 4, p0578a · `Z中華道藏` ZHDZ18p0671 · `ZHnum` ZH18_075 · `X新文豐` XWDZ07p0314 · `涵芬樓` HFL果下004
+
+陶真人內丹賦  
+DZ:   DZ0259  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0260 擒玄賦 Qinxuan fu
+
+[KR5a0261](https://github.com/kanripo/KR5a0261) · `CUSTOM_ID` DZ0260 · `HK` CH010842 · `凱希` KX0259 · `三家本` Vol 4, p0584a · `Z中華道藏` ZHDZ19p0280 · `ZHnum` ZH19_055 · `X新文豐` XWDZ07p0337 · `涵芬樓` HFL果下042
+
+擒玄賦  
+DZ:   DZ0260  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0261 金丹賦 Jindan fu
+
+[KR5a0262](https://github.com/kanripo/KR5a0262) · `CUSTOM_ID` DZ0261 · `HK` CH010843 · `凱希` KX0260 · `三家本` Vol 4, p0587b · `Z中華道藏` ZHDZ18p0678 · `ZHnum` ZH18_076 · `X新文豐` XWDZ07p0352 · `涵芬樓` HFL果下062
+
+金丹賦(馬蒞昭)  
+DZ:   DZ0261  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0262 谷神賦 Gushen fu
+
+[KR5a0263](https://github.com/kanripo/KR5a0263) · `CUSTOM_ID` DZ0262 · `HK` CH010844 · `凱希` KX0261 · `三家本` Vol 4, p0603a · `Z中華道藏` ZHDZ19p0277 · `ZHnum` ZH19_054 · `X新文豐` XWDZ07p0376 · `涵芬樓` HFL果下156
+
+谷神賦(大信)  
+DZ:   DZ0262  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0263a 修真十書雜著指玄篇(宋-石泰)
+
+`nopin` · `CUSTOM_ID` DZ0263a · `HK` CH010845 · `凱希` KX0262 · `三家本` Vol 4, p0605c · `Z中華道藏` ZHDZ19p0761 · `ZHnum` ZH19_099-01 · `X新文豐` XWDZ07p0381 · `涵芬樓` HFL珍上004
+
+修真十書雜著指玄篇(宋-石泰)  
+DZ:   DZ0263a  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0263b 修真十書金丹大成集(元-蕭廷芝)
+
+`nopin` · `CUSTOM_ID` DZ0263b · `HK` CH010846 · `凱希` KX0263 · `三家本` Vol 4, p0633b · `Z中華道藏` ZHDZ19p0789 · `ZHnum` ZH19_099-02 · `X新文豐` XWDZ07p0423 · `涵芬樓` HFL珍下004
+
+修真十書金丹大成集(元-蕭廷芝)  
+DZJY: JY210  
+DZJY0: JY210  
+DZ:   DZ0263b  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0263c 修真十書鍾呂傳道集(唐-施肩吾)
+
+`nopin` · `CUSTOM_ID` DZ0263c · `HK` CH010847 · `凱希` KX0264 · `三家本` Vol 4, p0656c · `Z中華道藏` ZHDZ19p0814 · `ZHnum` 00 · `X新文豐` XWDZ07p0459 · `涵芬樓` HFL李上004
+
+修真十書鍾呂傳道集(唐-施肩吾)  
+DZJY: JY149  
+DZJY0: JY149  
+DZ:   DZ0263c  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0263d 修真十書雜著捷徑
+
+`nopin` · `CUSTOM_ID` DZ0263d · `HK` CH010848 · `凱希` KX0265 · `三家本` Vol 4, p0682b · `Z中華道藏` ZHDZ19p0841 · `ZHnum` ZH19_099-03 · `X新文豐` XWDZ07p0499 · `涵芬樓` HFL李中004
+
+修真十書雜著捷徑  
+DZ:   DZ0263d  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0263e 修真十書悟真篇
+
+`nopin` · `CUSTOM_ID` DZ0263e · `HK` CH010849 · `凱希` KX0266 · `三家本` Vol 4, p0711b · `Z中華道藏` ZHDZ19p0871 · `ZHnum` ZH19_099-04 · `X新文豐` XWDZ07p0544 · `涵芬樓` HFL李下030
+
+修真十書悟真篇  
+DZ:   DZ0263e  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0263f 修真十書玉隆集(宋-白玉蟾)
+
+`nopin` · `CUSTOM_ID` DZ0263f · `HK` CH010850 · `凱希` KX0267 · `三家本` Vol 4, p0750b · `Z中華道藏` ZHDZ19p0911 · `ZHnum` ZH19_099-04 · `X新文豐` XWDZ07p0604 · `涵芬樓` HFL奈上118
+
+修真十書玉隆集(宋-白玉蟾)  
+DZ:   DZ0263f  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0263g 修真十書上清集
+
+`nopin` · `CUSTOM_ID` DZ0263g · `HK` CH010851 · `凱希` KX0268 · `三家本` Vol 4, p0772b · `Z中華道藏` ZHDZ19p0934 · `ZHnum` ZH19_099-07 · `X新文豐` XWDZ07p0637 · `涵芬樓` HFL奈下046
+
+修真十書上清集  
+DZ:   DZ0263g  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0263h 修真十書武夷集
+
+`nopin` · `CUSTOM_ID` DZ0263h · `HK` CH010852 · `凱希` KX0269 · `三家本` Vol 4, p0797c · `Z中華道藏` ZHDZ19p0960 · `ZHnum` ZH19_099-08 · `X新文豐` XWDZ07p0676 · `涵芬樓` HFL菜上038
+
+修真十書武夷集  
+DZ:   DZ0263h  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0263i 修真十書盤山語錄(元-王志謹)
+
+`nopin` · `CUSTOM_ID` DZ0263i · `HK` CH010853 · `凱希` KX0270 · `三家本` Vol 4, p0822a · `Z中華道藏` ZHDZ19p0984 · `ZHnum` ZH19_099-09 · `X新文豐` XWDZ07p0713 · `涵芬樓` HFL菜下004
+
+修真十書盤山語錄(元-王志謹)  
+DZ:   DZ0263i  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0263j 修真十書黃庭內景五臟六腑圖(唐-胡愔)
+
+`nopin` · `CUSTOM_ID` DZ0263j · `HK` CH010854 · `凱希` KX0271 · `三家本` Vol 4, p0835c · `Z中華道藏` ZHDZ19p0999 · `ZHnum` ZH19_099-10 · `X新文豐` XWDZ07p0734 · `涵芬樓` HFL菜下086
+
+修真十書黃庭內景五臟六腑圖(唐-胡愔)  
+DZ:   DZ0263j  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0263k 修真十書黃庭內景玉經註(梁丘子)
+
+`nopin` · `CUSTOM_ID` DZ0263k · `HK` CH010855 · `凱希` KX0272 · `三家本` Vol 4, p0844a · `Z中華道藏` ZHDZ23p0039 · `ZHnum` ZH23_004 · `X新文豐` XWDZ07p0746 · `涵芬樓` HFL重上004
+
+修真十書黃庭內景玉經註(梁丘子)  
+DZ:   DZ0263k  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0263l 修真十書黃庭外景玉經註
+
+`nopin` · `CUSTOM_ID` DZ0263l · `HK` CH010856 · `凱希` KX0273 · `三家本` Vol 4, p0869b · `Z中華道藏` ZHDZ19p1033 · `ZHnum` 00 · `X新文豐` XWDZ07p0786 · `涵芬樓` HFL重上094
+
+修真十書黃庭外景玉經註  
+DZJY: JY078  
+DZJY0: JY078  
+DZ:   DZ0263l  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0264 真氣還元銘 Zhenqi huanyuan ming +
+
+[KR5a0276](https://github.com/kanripo/KR5a0276) · `CUSTOM_ID` DZ0264 · `HK` CH010857 · `凱希` KX0274 · `三家本` Vol 4, p0879a · `Z中華道藏` ZHDZ23p0148 · `ZHnum` ZH23_022 · `X新文豐` XWDZ07p0801 · `涵芬樓` HFL重上152
+
+真氣還元鉻(強名子)  
+DZ:   DZ0264  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0265 還丹歌訣 Huandan ge jue
+
+[KR5a0277](https://github.com/kanripo/KR5a0277) · `CUSTOM_ID` DZ0265 · `HK` CH010858 · `凱希` KX0275 · `三家本` Vol 4, p0885b · `Z中華道藏` ZHDZ18p0657 · `ZHnum` ZH18_073 · `X新文豐` XWDZ07p0811 · `涵芬樓` HFL重下004
+
+還丹歌訣(元陽子)  
+DZ:   DZ0265  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0266 金液還丹百問訣 Huandan baiwen jue
+
+[KR5a0278](https://github.com/kanripo/KR5a0278) · `CUSTOM_ID` DZ0266 · `HK` CH010859 · `凱希` KX0276 · `三家本` Vol 4, p0893b · `Z中華道藏` ZHDZ18p0702 · `ZHnum` ZH18_079 · `X新文豐` XWDZ07p0824 · `涵芬樓` HFL重下052
+
+金液還丹百問訣(李光玄)  
+DZ:   DZ0266  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0267 上乘修真三要 Shangsheng xiuzhen sanyao
+
+[KR5a0279](https://github.com/kanripo/KR5a0279) · `CUSTOM_ID` DZ0267 · `HK` CH010860 · `凱希` KX0277 · `三家本` Vol 4, p0903c · `Z中華道藏` ZHDZ27p0107 · `ZHnum` ZH27_005 · `X新文豐` XWDZ07p0840 · `涵芬樓` HFL重下114
+
+上乘修真三要(圓明老人)  
+DZ:   DZ0267  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0268 乾元子三始論 Qianyuanzi sanshi lun
+
+[KR5a0280](https://github.com/kanripo/KR5a0280) · `CUSTOM_ID` DZ0268 · `HK` CH010861 · `凱希` KX0278 · `三家本` Vol 4, p0912c · `Z中華道藏` ZHDZ26p0088 · `ZHnum` ZH26_010 · `X新文豐` XWDZ07p0854 · `涵芬樓` HFL重下166
+
+乾元子三始論  
+DZ:   DZ0268  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0269 至真龍虎大丹詩 Zhizhenzi longhu dadan shi
+
+[KR5a0281](https://github.com/kanripo/KR5a0281) · `CUSTOM_ID` DZ0269 · `HK` CH010862 · `凱希` KX0279 · `三家本` Vol 4, p0913c · `Z中華道藏` ZHDZ19p0270 · `ZHnum` ZH19_052 · `X新文豐` XWDZ07p0856 · `涵芬樓` HFL重下172
+
+至真子龍虎大丹詩(宋-周方)  
+DZ:   DZ0269  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0270 破迷正道歌 Pomi zhengdao ge
+
+[KR5a0282](https://github.com/kanripo/KR5a0282) · `CUSTOM_ID` DZ0270 · `HK` CH010863 · `凱希` KX0280 · `三家本` Vol 4, p0916b · `Z中華道藏` ZHDZ19p0150 · `ZHnum` ZH19_024 · `X新文豐` XWDZ08p0001 · `涵芬樓` HFL芥上004
+
+破迷正道歌(漢-鍾離權)  
+DZ:   DZ0270  
+Contents
+
+**Work notes**
+
+**Comments**
+
+### CMTS0109	眾術類 Zhongshu Miscelleneous Techniques
+
+#### DZ0271 太玄朗然子進道詩 Taixuan Langranzi jindao shi
+
+[KR5a0283](https://github.com/kanripo/KR5a0283) · `CUSTOM_ID` DZ0271 · `HK` CH010901 · `凱希` KX0281 · `三家本` Vol 4, p0918b · `Z中華道藏` ZHDZ19p0262 · `ZHnum` ZH19_049 · `X新文豐` XWDZ08p0005 · `涵芬樓` HFL芥上016
+
+太玄朗然子進道詩  
+DZ:   DZ0271  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0272 了明篇 Liaoming pian
+
+[KR5a0284](https://github.com/kanripo/KR5a0284) · `CUSTOM_ID` DZ0272 · `HK` CH010902 · `凱希` KX0282 · `三家本` Vol 4, p0921a · `Z中華道藏` ZHDZ19p0701 · `ZHnum` ZH19_089 · `X新文豐` XWDZ08p0009 · `涵芬樓` HFL芥上032
+
+了明篇(元-王惟一)  
+DZ:   DZ0272  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0273 明道篇 Mingdao pian
+
+[KR5a0285](https://github.com/kanripo/KR5a0285) · `CUSTOM_ID` DZ0273 · `HK` CH010903 · `凱希` KX0283 · `三家本` Vol 4, p0926b · `Z中華道藏` ZHDZ31p0358 · `ZHnum` ZH31_018 · `X新文豐` XWDZ08p0017 · `涵芬樓` HFL芥上064
+
+明道篇(元-王惟一)  
+DZ:   DZ0273  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0274 真仙秘傳火候法 Zhenxian bichuan huohou fa
+
+[KR5a0286](https://github.com/kanripo/KR5a0286) · `CUSTOM_ID` DZ0274 · `HK` CH010904 · `凱希` KX0284 · `三家本` Vol 4, p0932c · `Z中華道藏` ZHDZ19p0666 · `ZHnum` ZH19_083 · `X新文豐` XWDZ08p0027 · `涵芬樓` HFL芥上102
+
+真仙秘傳火候法(宋-王慶升)  
+DZ:   DZ0274  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0275 三極至命筌蹄 Sanji zhiming quanti
+
+[KR5a0287](https://github.com/kanripo/KR5a0287) · `CUSTOM_ID` DZ0275 · `HK` CH010905 · `凱希` KX0285 · `三家本` Vol 4, p0935c · `Z中華道藏` ZHDZ19p0604 · `ZHnum` ZH19_077 · `X新文豐` XWDZ08p0032 · `涵芬樓` HFL芥上120
+
+三極至命筌諦  
+DZ:   DZ0275  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0276 析疑指迷論 Xiyi zhimi lun
+
+[KR5a0288](https://github.com/kanripo/KR5a0288) · `CUSTOM_ID` DZ0276 · `HK` CH010906 · `凱希` KX0286 · `三家本` Vol 4, p0947b · `Z中華道藏` ZHDZ27p0256 · `ZHnum` ZH27_012 · `X新文豐` XWDZ08p0051 · `涵芬樓` HFL芥下004
+
+析疑指迷論(元-牛道淳)  
+DZJY: JY184  
+DZJY0: JY184  
+DZ:   DZ0276  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0277 修真精義雜論 Xiuzhen jingyi zalun
+
+[KR5a0289](https://github.com/kanripo/KR5a0289) · `CUSTOM_ID` DZ0277 · `HK` CH010907 · `凱希` KX0287 · `三家本` Vol 4, p0953b · `Z中華道藏` ZHDZ23p0168 · `ZHnum` ZH23_027 · `X新文豐` XWDZ08p0061 · `涵芬樓` HFL芥下040
+
+修真精義雜論(唐-白雲子)  
+DZ:   DZ0277  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0278 清微丹訣 Qingwei danjue
+
+[KR5a0290](https://github.com/kanripo/KR5a0290) · `CUSTOM_ID` DZ0278 · `HK` CH010908 · `凱希` KX0288 · `三家本` Vol 4, p0961c · `Z中華道藏` ZHDZ31p0007 · `ZHnum` ZH31_002 · `X新文豐` XWDZ08p0074 · `涵芬樓` HFL芥下090
+
+清微丹訣  
+DZ:   DZ0278  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0279 先天金丹大道玄奧口訣 Xiantian jindan dadao xuanao koujue
+
+[KR5a0291](https://github.com/kanripo/KR5a0291) · `CUSTOM_ID` DZ0279 · `HK` CH010909 · `凱希` KX0289 · `三家本` Vol 4, p0965a · `Z中華道藏` ZHDZ19p0692 · `ZHnum` ZH19_087 · `X新文豐` XWDZ08p0079 · `涵芬樓` HFL芥下110
+
+先天金丹大道玄奧口訣(宋-霍濟之)  
+DZ:   DZ0279  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0280 金液大丹口訣 Jinye dadan koujue
+
+[KR5a0292](https://github.com/kanripo/KR5a0292) · `CUSTOM_ID` DZ0280 · `HK` CH010910 · `凱希` KX0290 · `三家本` Vol 4, p0969c · `Z中華道藏` ZHDZ19p0697 · `ZHnum` ZH19_088 · `X新文豐` XWDZ08p0086 · `涵芬樓` HFL芥下138
+
+金液大丹口訣  
+DZ:   DZ0280  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0281 抱一子三峰老人丹訣 Baoyizi Sanfeng laoren danjue
+
+[KR5a0293](https://github.com/kanripo/KR5a0293) · `CUSTOM_ID` DZ0281 · `HK` CH010911 · `凱希` KX0291 · `三家本` Vol 4, p0973b · `Z中華道藏` ZHDZ27p0422 · `ZHnum` ZH27_023 · `X新文豐` XWDZ08p0092 · `涵芬樓` HFL芥下160
+
+抱一子三峰老人丹訣(金月巖)  
+DZ:   DZ0281  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0282 黃帝宅經 Huangdi zhejing
+
+[KR5a0294](https://github.com/kanripo/KR5a0294) · `CUSTOM_ID` DZ0282 · `HK` CH010912 · `凱希` KX0292 · `三家本` Vol 4, p0979b · `Z中華道藏` ZHDZ32p0184 · `ZHnum` ZH32_014 · `X新文豐` XWDZ08p0101 · `涵芬樓` HFL薑上004
+
+黃帝宅經  
+DZ:   DZ0282  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0283 黃帝龍首經 Huangdi longshou jing
+
+[KR5a0295](https://github.com/kanripo/KR5a0295) · `CUSTOM_ID` DZ0283 · `HK` CH010913 · `凱希` KX0293 · `三家本` Vol 4, p0985a · `Z中華道藏` ZHDZ32p0153 · `ZHnum` ZH32_011 · `X新文豐` XWDZ08p0110 · `涵芬樓` HFL薑上038
+
+黃帝龍首經  
+DZ:   DZ0283  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0284 黃帝金匱玉衡經 Huangdi jinkui yuheng jing
+
+[KR5a0296](https://github.com/kanripo/KR5a0296) · `CUSTOM_ID` DZ0284 · `HK` CH010914 · `凱希` KX0294 · `三家本` Vol 4, p1002c · `Z中華道藏` ZHDZ32p0172 · `ZHnum` ZH32_012 · `X新文豐` XWDZ08p0137 · `涵芬樓` HFL薑上144
+
+黃帝金匱玉衡經  
+DZ:   DZ0284  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0285 黃帝授三子玄女經 Huangdi Shousanzi xuannü, jing
+
+[KR5a0297](https://github.com/kanripo/KR5a0297) · `CUSTOM_ID` DZ0285 · `HK` CH010915 · `凱希` KX0295 · `三家本` Vol 5, p0001a · `Z中華道藏` ZHDZ32p0182 · `ZHnum` ZH32_013 · `X新文豐` XWDZ08p0149 · `涵芬樓` HFL薑下004
+
+黃帝授三子玄女經  
+DZ:   DZ0285  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0286 太上登真三矯靈應經 Taishang dengzhen sanjiao lingying jing
+
+[KR5a0298](https://github.com/kanripo/KR5a0298) · `CUSTOM_ID` DZ0286 · `HK` CH010916 · `凱希` KX0296 · `三家本` Vol 4, p0797c · `Z中華道藏` ZHDZ32p0483 · `ZHnum` ZH32_032 · `X新文豐` XWDZ08p0152 · `涵芬樓` HFL薑下012
+
+太上登真三矯靈應經  
+DZ:   DZ0286  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0287 通占大象曆星經 Tongzhan daxiang lixing jing
+
+[KR5a0299](https://github.com/kanripo/KR5a0299) · `CUSTOM_ID` DZ0287 · `HK` CH010917 · `凱希` KX0297 · `三家本` Vol 5, p0004c · `Z中華道藏` ZHDZ32p0286 · `ZHnum` ZH32_016 · `X新文豐` XWDZ08p0156 · `涵芬樓` HFL薑下026
+
+通占大象曆星經  
+DZ:   DZ0287  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0288 靈臺經 Lingtai jing
+
+[KR5a0300](https://github.com/kanripo/KR5a0300) · `CUSTOM_ID` DZ0288 · `HK` CH010918 · `凱希` KX0298 · `三家本` Vol 5, p0022c · `Z中華道藏` ZHDZ32p0316 · `ZHnum` ZH32_020 · `X新文豐` XWDZ08p0183 · `涵芬樓` HFL薑下134
+
+靈臺經  
+DZ:   DZ0288  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0289 秤星靈臺秘要經 Chengxing lingtai biyao jing
+
+[KR5a0301](https://github.com/kanripo/KR5a0301) · `CUSTOM_ID` DZ0289 · `HK` CH010919 · `凱希` KX0299 · `三家本` Vol 5, p0029c · `Z中華道藏` ZHDZ32p0313 · `ZHnum` ZH32_019 · `X新文豐` XWDZ08p0194 · `涵芬樓` HFL薑下176
+
+秤星靈臺秘要經  
+DZ:   DZ0289  
+Contents
+
+**Work notes**
+
+**Comments**
+
+### CMTS0110	記傳類 Jizhuan Hagiography
+
+#### DZ0290 廣黃帝本行記 Guang Huangdi benxing ji
+
+[KR5a0302](https://github.com/kanripo/KR5a0302) · `CUSTOM_ID` DZ0290 · `HK` CH011001 · `凱希` KX0300 · `三家本` Vol 5, p0032a · `Z中華道藏` ZHDZ45p0565 · `ZHnum` ZH45_016 · `X新文豐` XWDZ08p0199 · `涵芬樓` HFL海上004
+
+廣黃帝本行記(唐-王瓘)  
+DZ:   DZ0290  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0291 穆天子傳 Mutianzi zhuan
+
+[KR5a0303](https://github.com/kanripo/KR5a0303) · `CUSTOM_ID` DZ0291 · `HK` CH011002 · `凱希` KX0301 · `三家本` Vol 5, p0036a · `Z中華道藏` ZHDZ45p0570 · `ZHnum` ZH45_017 · `X新文豐` XWDZ08p0206 · `涵芬樓` HFL海上028
+
+穆天子傳(晉-郭璞)  
+DZ:   DZ0291  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0292 漢武帝內傳 Han Wudi neizhuan
+
+[KR5a0304](https://github.com/kanripo/KR5a0304) · `CUSTOM_ID` DZ0292 · `HK` CH011003 · `凱希` KX0302 · `三家本` Vol 5, p0047c · `Z中華道藏` ZHDZ46p0160 · `ZHnum` ZH46_007 · `X新文豐` XWDZ08p0224 · `涵芬樓` HFL海上098
+
+漢武帝內傳(漢-班固)  
+DZ:   DZ0292  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0293 漢武帝外傳 Han Wudi waizhuan +
+
+[KR5a0305](https://github.com/kanripo/KR5a0305) · `CUSTOM_ID` DZ0293 · `HK` CH011004 · `凱希` KX0303 · `三家本` Vol 5, p0058a · `Z中華道藏` ZHDZ46p0172 · `ZHnum` ZH46_008 · `X新文豐` XWDZ08p0240 · `涵芬樓` HFL海上160
+
+漢武帝外傳(漢-班固)  
+DZ:   DZ0293  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0294 列仙傳 Liexian zhuan
+
+[KR5a0306](https://github.com/kanripo/KR5a0306) · `CUSTOM_ID` DZ0294 · `HK` CH011005 · `凱希` KX0304 · `三家本` Vol 5, p0064b · `Z中華道藏` ZHDZ45p0001 · `ZHnum` ZH45_001 · `X新文豐` XWDZ08p0251 · `涵芬樓` HFL海下004
+
+列仙傳  
+DZ:   DZ0294  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0295 續仙傳 Xuxian zhuan
+
+[KR5a0307](https://github.com/kanripo/KR5a0307) · `CUSTOM_ID` DZ0295 · `HK` CH011006 · `凱希` KX0305 · `三家本` Vol 5, p0077a · `Z中華道藏` ZHDZ45p0409 · `ZHnum` ZH45_011 · `X新文豐` XWDZ08p0271 · `涵芬樓` HFL海下080
+
+續仙傳  
+DZ:   DZ0295  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0296 歷世真仙體道通鑑 Lishi zhenxian tidao tongjian
+
+[KR5a0308](https://github.com/kanripo/KR5a0308) · `CUSTOM_ID` DZ0296 · `HK` CH011007 · `凱希` KX0306 · `三家本` Vol 5, p0099a · `Z中華道藏` ZHDZ47p0213 · `ZHnum` ZH47_009 · `X新文豐` XWDZ08p0305 · `涵芬樓` HFL鹹上004
+
+歷世真仙體道通鑑(元-趙道一)  
+DZ:   DZ0296  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0297 歷史真仙體道通鑑續篇 Lishi zhenxian tidao tongjian xupian
+
+[KR5a0309](https://github.com/kanripo/KR5a0309) · `CUSTOM_ID` DZ0297 · `HK` CH011008 · `凱希` KX0307 · `三家本` Vol 5, p0414c · `Z中華道藏` ZHDZ47p0579 · `ZHnum` ZH47_010 · `X新文豐` XWDZ08p0789 · `涵芬樓` HFL羽上004
+
+歷世真仙體道通鑑續編(元-趙道一)  
+DZ:   DZ0297  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0298 歷世真仙體道通鑑後集 Lishi zhenxian tidao tongjian houji
+
+[KR5a0310](https://github.com/kanripo/KR5a0310) · `CUSTOM_ID` DZ0298 · `HK` CH011009 · `凱希` KX0308 · `三家本` Vol 5, p0448b · `Z中華道藏` ZHDZ47p0617 · `ZHnum` ZH47_011 · `X新文豐` XWDZ08p0841 · `涵芬樓` HFL羽下004
+
+歷世真仙體道通鑑後集(元-趙道一)  
+DZ:   DZ0298  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0299 疑仙傳 Yixian zhuan
+
+[KR5a0311](https://github.com/kanripo/KR5a0311) · `CUSTOM_ID` DZ0299 · `HK` CH011010 · `凱希` KX0309 · `三家本` Vol 5, p0489b · `Z中華道藏` ZHDZ45p0433 · `ZHnum` ZH45_012 · `X新文豐` XWDZ09p0001 · `涵芬樓` HFL翔上004
+
+疑仙傳(宋-隱夫玉)  
+DZ:   DZ0299  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0300 華陽陶隱居內傳 Huayang Tao Yinju neizhuan
+
+[KR5a0312](https://github.com/kanripo/KR5a0312) · `CUSTOM_ID` DZ0300 · `HK` CH011011 · `凱希` KX0310 · `三家本` Vol 5, p0499b · `Z中華道藏` ZHDZ46p0210 · `ZHnum` ZH46_013 · `X新文豐` XWDZ09p0017 · `涵芬樓` HFL翔上064
+
+華陽陶隱君內傳(宋-賈嵩)  
+DZ:   DZ0300  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0301 桓真人升神記 Huan zhenren shengxian ji
+
+[KR5a0313](https://github.com/kanripo/KR5a0313) · `CUSTOM_ID` DZ0301 · `HK` CH011012 · `凱希` KX0311 · `三家本` Vol 5, p0513b · `Z中華道藏` ZHDZ46p0240 · `ZHnum` ZH46_015 · `X新文豐` XWDZ09p0038 · `涵芬樓` HFL翔上148
+
+桓真人昇仙記(梁-)  
+DZ:   DZ0301  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0302 周氏冥通記 Zhoushi mingtong ji
+
+[KR5a0314](https://github.com/kanripo/KR5a0314) · `CUSTOM_ID` DZ0302 · `HK` CH011013 · `凱希` KX0312 · `三家本` Vol 5, p0518a · `Z中華道藏` ZHDZ46p0245 · `ZHnum` ZH46_016 · `X新文豐` XWDZ09p0045 · `涵芬樓` HFL翔下004
+
+周氏冥通記(梁-陶弘景)  
+DZ:   DZ0302  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0303 紫陽真人內傳 Ziyang zhenren neizhuan
+
+[KR5a0315](https://github.com/kanripo/KR5a0315) · `CUSTOM_ID` DZ0303 · `HK` CH011014 · `凱希` KX0313 · `三家本` Vol 5, p0542b · `Z中華道藏` ZHDZ46p0190 · `ZHnum` ZH46_010 · `X新文豐` XWDZ09p0082 · `涵芬樓` HFL翔下150
+
+紫陽真人內傳  
+DZ:   DZ0303  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0304 茅山志 Maoshan zhi
+
+[KR5a0316](https://github.com/kanripo/KR5a0316) · `CUSTOM_ID` DZ0304 · `HK` CH011015 · `凱希` KX0314 · `三家本` Vol 5, p0548c · `Z中華道藏` ZHDZ48p0366 · `ZHnum` ZH48_015 · `X新文豐` XWDZ09p0093 · `涵芬樓` HFL龍上004
+
+茅山誌(元-劉大彬)  
+DZ:   DZ0304  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0305 純陽帝君神化妙通紀 Chunyang dijun shenhua miaotong ji
+
+[KR5a0317](https://github.com/kanripo/KR5a0317) · `CUSTOM_ID` DZ0305 · `HK` CH011016 · `凱希` KX0315 · `三家本` Vol 5, p0703c · `Z中華道藏` ZHDZ46p0447 · `ZHnum` ZH46_030 · `X新文豐` XWDZ09p0333 · `涵芬樓` HFL帝上004
+
+純陽帝君神化妙通紀(元-苗善時)  
+DZ:   DZ0305  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0306 太華希夷志 Taihua xiyi zhi
+
+[KR5a0318](https://github.com/kanripo/KR5a0318) · `CUSTOM_ID` DZ0306 · `HK` CH011017 · `凱希` KX0316 · `三家本` Vol 5, p0734a · `Z中華道藏` ZHDZ48p0198 · `ZHnum` ZH48_013 · `X新文豐` XWDZ09p0379 · `涵芬樓` HFL帝下004
+
+太華希夷誌(元-張輅)  
+DZ:   DZ0306  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0307 西嶽華山誌 Xiyue Huashan zhi
+
+[KR5a0319](https://github.com/kanripo/KR5a0319) · `CUSTOM_ID` DZ0307 · `HK` CH011018 · `凱希` KX0317 · `三家本` Vol 5, p0744a · `Z中華道藏` ZHDZ48p0189 · `ZHnum` ZH48_012 · `X新文豐` XWDZ09p0395 · `涵芬樓` HFL帝下064
+
+西嶽華山誌(金-王處一)  
+DZ:   DZ0307  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0308 凝陽董真人遇仙記 Ning Yangdong zhenren yuxian ji
+
+[KR5a0320](https://github.com/kanripo/KR5a0320) · `CUSTOM_ID` DZ0308 · `HK` CH011019 · `凱希` KX0318 · `三家本` Vol 5, p0753a · `Z中華道藏` ZHDZ46p0529 · `ZHnum` ZH46_032 · `X新文豐` XWDZ09p0409 · `涵芬樓` HFL帝下118
+
+凝陽董真人遇仙記(金-祿昭聞)  
+DZ:   DZ0308  
+Contents
+
+**Work notes**
+
+**Comments**
+
+### CMTS0111	讚頌類 Zansong Hymns
+
+#### DZ0309 諸師真誥 Zhushi zhen'gao
+
+[KR5a0321](https://github.com/kanripo/KR5a0321) · `CUSTOM_ID` DZ0309 · `HK` CH011101 · `凱希` KX0319 · `三家本` Vol 5, p0758b · `Z中華道藏` ZHDZ44p0431 · `ZHnum` ZH44_056 · `X新文豐` XWDZ09p0417 · `涵芬樓` HFL鳥上004
+
+諸師真誥  
+DZ:   DZ0309  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0310 金籙齋三洞讚詠儀 Jin luzhai sandong zanyong yi
+
+[KR5a0322](https://github.com/kanripo/KR5a0322) · `CUSTOM_ID` DZ0310 · `HK` CH011102 · `凱希` KX0320 · `三家本` Vol 5, p0764a · `Z中華道藏` ZHDZ43p0034 · `ZHnum` ZH43_010 · `X新文豐` XWDZ09p0426 · `涵芬樓` HFL鳥上038
+
+金籙齋三洞讚詠儀(宋-張商英)  
+DZ:   DZ0310  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0311 黃帝陰符經頌 Huangdi yinfu jing song
+
+[KR5a0323](https://github.com/kanripo/KR5a0323) · `CUSTOM_ID` DZ0311 · `HK` CH011103 · `凱希` KX0321 · `三家本` Vol 5, p0772c · `Z中華道藏` ZHDZ15p0850 · `ZHnum` ZH15_034 · `X新文豐` XWDZ09p0439 · `涵芬樓` HFL鳥上090
+
+黃帝陰符經頌(元陽子)  
+DZJY: JY119  
+DZJY0: JY119  
+DZ:   DZ0311  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0312 太上昇玄消災護命妙經頌 Taishang shengxuan xiaozai huming miaojing song
+
+[KR5a0324](https://github.com/kanripo/KR5a0324) · `CUSTOM_ID` DZ0312 · `HK` CH011104 · `凱希` KX0322 · `三家本` Vol 5, p0775a · `Z中華道藏` ZHDZ06p0097 · `ZHnum` ZH06_020 · `X新文豐` XWDZ09p0443 · `涵芬樓` HFL鳥上104
+
+太上昇玄消災護命妙經頌(唐-司馬承禎)  
+DZ:   DZ0312  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0313 生天經頌解 Shengtian jing songjie
+
+[KR5a0325](https://github.com/kanripo/KR5a0325) · `CUSTOM_ID` DZ0313 · `HK` CH011105 · `凱希` KX0323 · `三家本` Vol 5, p0777b · `Z中華道藏` ZHDZ06p0109 · `ZHnum` ZH06_024 · `X新文豐` XWDZ05p0777 · `涵芬樓` HFL鳥下004
+
+生天經頌解(金-超然子)  
+DZ:   DZ0313  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0314 三洞讚頌靈章 Sandong zansong lingzhang
+
+[KR5a0326](https://github.com/kanripo/KR5a0326) · `CUSTOM_ID` DZ0314 · `HK` CH011106 · `凱希` KX0324 · `三家本` Vol 5, p0779b · `Z中華道藏` ZHDZ44p0544 · `ZHnum` ZH44_059 · `X新文豐` XWDZ09p0451 · `涵芬樓` HFL鳥下016
+
+三洞讚頌靈章  
+DZ:   DZ0314  
+Contents
+
+**Work notes**
+
+**Comments**
+
+### CMTS0112	表奏類 Biaozou Memorials
+
+#### DZ0315 宋真宗御製玉京集 Song Zhenzong yuzhi yujing ji
+
+[KR5a0327](https://github.com/kanripo/KR5a0327) · `CUSTOM_ID` DZ0315 · `HK` CH011201 · `凱希` KX0325 · `三家本` Vol 5, p0795c · `Z中華道藏` ZHDZ44p0561 · `ZHnum` ZH44_060 · `X新文豐` XWDZ09p0477 · `涵芬樓` HFL官上004
+
+宋真宗御製玉京集(宋真宗)  
+DZ:   DZ0315  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0316 太上濟度章赦 Taishang jidu zhangshe
+
+[KR5a0328](https://github.com/kanripo/KR5a0328) · `CUSTOM_ID` DZ0316 · `HK` CH011202 · `凱希` KX0326 · `三家本` Vol 5, p0818b · `Z中華道藏` ZHDZ08p0709 · `ZHnum` ZH08_070 · `X新文豐` XWDZ09p0513 · `涵芬樓` HFL官下004
+
+太上濟度章赦  
+DZJY: JY281  
+DZJY0: JY281  
+DZ:   DZ0316  
+Contents
+
+**Work notes**
+
+**Comments**
+
+## 洞　玄　部 CH02
+
+分類	洞　玄　部　經　名(作者)	上海版	新文豐	中華道藏	涵芬樓
+
+### CMTS0201	本文類
+
+#### DZ0317 靈寶天尊說洪恩靈濟真君妙經 Lingbao tianzun shuo Hong'en lingji zhenjun
+
+[KR5b0001](https://github.com/kanripo/KR5b0001) · `CUSTOM_ID` DZ0317 · `HK` CH020101 · `凱希` KX0327 · `三家本` Vol 5, p0841c · `Z中華道藏` ZHDZ31p0623 · `ZHnum` ZH31_055 · `X新文豐` XWDZ10p0001 · `涵芬樓` HFL人上004
+
+靈寶天尊說洪恩靈濟真君妙經  
+DZ:   DZ0317  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0318 洞玄靈寶自然九天生神章經 Dongxuan lingbao ziran jiutian shengshen zhangjing
+
+[KR5b0002](https://github.com/kanripo/KR5b0002) · `CUSTOM_ID` DZ0318 · `HK` CH020102 · `凱希` KX0328 · `三家本` Vol 5, p0843b · `Z中華道藏` ZHDZ03p0079 · `ZHnum` ZH03_009 · `X新文豐` XWDZ10p0004 · `涵芬樓` HFL人上014
+
+洞玄靈寶自然九天生神章經  
+DZ:   DZ0318  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0319 洞玄靈寶本相運度劫期經 Dongxuan lingbao benxiang yundu jieqi jing
+
+[KR5b0003](https://github.com/kanripo/KR5b0003) · `CUSTOM_ID` DZ0319 · `HK` CH020103 · `凱希` KX0329 · `三家本` Vol 5, p0849a · `Z中華道藏` ZHDZ05p0053 · `ZHnum` ZH05_003 · `X新文豐` XWDZ10p0013 · `涵芬樓` HFL人上048
+
+洞玄靈寶本相運度劫期經  
+DZ:   DZ0319  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0320 洞玄靈寶丹水飛術運度小劫妙經 Dongxuan lingbao danshui feishu yundu xiaojie miaojing
+
+[KR5b0004](https://github.com/kanripo/KR5b0004) · `CUSTOM_ID` DZ0320 · `HK` CH020104 · `凱希` KX0330 · `三家本` Vol 5, p0854a · `Z中華道藏` ZHDZ03p0052 · `ZHnum` ZH03_004 · `X新文豐` XWDZ10p0021 · `涵芬樓` HFL人上078
+
+洞玄靈寶丹水飛術運度小劫妙經  
+DZ:   DZ0320  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0321 洞玄靈寶諸天世界造化經 Dongxuan lingbao zhutian shijie zaohua jing
+
+[KR5b0005](https://github.com/kanripo/KR5b0005) · `CUSTOM_ID` DZ0321 · `HK` CH020105 · `凱希` KX0331 · `三家本` Vol 5, p0861b · `Z中華道藏` ZHDZ04p0145 · `ZHnum` ZH04_018 · `X新文豐` XWDZ10p0032 · `涵芬樓` HFL人上122
+
+洞玄靈寶諸天世界造化經  
+DZJY: JY037  
+DZJY0: JY037  
+DZ:   DZ0321  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0322 太上洞玄靈寶天地運度自然妙經 Taishang dongxuan lingbao tiandi yundu ziran miaojing
+
+[KR5b0006](https://github.com/kanripo/KR5b0006) · `CUSTOM_ID` DZ0322 · `HK` CH020106 · `凱希` KX0332 · `三家本` Vol 5, p0865b · `Z中華道藏` ZHDZ03p0060 · `ZHnum` ZH03_005 · `X新文豐` XWDZ10p0039 · `涵芬樓` HFL人中004
+
+太上靈寶天地運度自然妙經  
+DZ:   DZ0322  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0323 太上洞玄靈寶三元無量壽經 Taishang dongxuan lingbao sanyuan wuliang shoujing
+
+[KR5b0007](https://github.com/kanripo/KR5b0007) · `CUSTOM_ID` DZ0323 · `HK` CH020107 · `凱希` KX0333 · `三家本` Vol 5, p0867c · `Z中華道藏` ZHDZ04p0162 · `ZHnum` ZH04_021 · `X新文豐` XWDZ10p0043 · `涵芬樓` HFL人中018
+
+太上洞玄靈寶三元無量壽經  
+DZ:   DZ0323  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0324 上清五常變通萬化鬱冥經 Shangqing wuchang biantong wanhua yuming jing
+
+[KR5b0008](https://github.com/kanripo/KR5b0008) · `CUSTOM_ID` DZ0324 · `HK` CH020108 · `凱希` KX0334 · `三家本` Vol 5, p0872b · `Z中華道藏` ZHDZ02p0032 · `ZHnum` ZH02_005 · `X新文豐` XWDZ10p0050 · `涵芬樓` HFL人中046
+
+上清五常變通萬化鬱冥經  
+DZ:   DZ0324  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0325 太上洞玄靈寶智慧定志通微經 Taishang dongxuan lingbao zhihui dingzhi tongwei jing
+
+[KR5b0009](https://github.com/kanripo/KR5b0009) · `CUSTOM_ID` DZ0325 · `HK` CH020109 · `凱希` KX0335 · `三家本` Vol 5, p0888a · `Z中華道藏` ZHDZ03p0299 · `ZHnum` ZH03_023 · `X新文豐` XWDZ10p0075 · `涵芬樓` HFL人下004
+
+太上洞玄靈寶智慧定志通微經  
+DZ:   DZ0325  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0326 太上洞玄靈寶觀妙經 Taishang dongxuan lingbao guanmiao jing
+
+[KR5b0010](https://github.com/kanripo/KR5b0010) · `CUSTOM_ID` DZ0326 · `HK` CH020110 · `凱希` KX0336 · `三家本` Vol 5, p0896b · `Z中華道藏` ZHDZ06p0089 · `ZHnum` ZH06_015 · `X新文豐` XWDZ10p0082 · `涵芬樓` HFL人下054
+
+太上洞玄靈寶觀妙經  
+DZ:   DZ0326  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0327 太上洞玄靈寶天尊說大通經 Taishang dongxuan lingbao tianzun shuo datong jing
+
+[KR5b0011](https://github.com/kanripo/KR5b0011) · `CUSTOM_ID` DZ0327 · `HK` CH020111 · `凱希` KX0337 · `三家本` Vol 5, p0897a · `Z中華道藏` ZHDZ06p0094 · `ZHnum` ZH06_017 · `X新文豐` XWDZ19p0089 · `涵芬樓` HFL人下058
+
+太上洞玄靈寶天尊說大通經  
+DZ:   DZ0327  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0328 太上洞玄靈寶護諸童子經 Taishang dongxuan lingbao huzhu tongzi jing
+
+[KR5b0012](https://github.com/kanripo/KR5b0012) · `CUSTOM_ID` DZ0328 · `HK` CH020112 · `凱希` KX0338 · `三家本` Vol 5, p0897b · `Z中華道藏` ZHDZ04p0288 · `ZHnum` ZH04_042 · `X新文豐` XWDZ19p0089 · `涵芬樓` HFL人下060
+
+太上洞玄靈寶護諸童子經  
+DZ:   DZ0328  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0329 太上洞玄靈寶開演秘密藏經 Taishang dongxuan lingbao kaiyan bimi zangjing
+
+[KR5b0013](https://github.com/kanripo/KR5b0013) · `CUSTOM_ID` DZ0329 · `HK` CH020113 · `凱希` KX0339 · `三家本` Vol 5, p0898b · `Z中華道藏` ZHDZ05p0275 · `ZHnum` ZH05_018 · `X新文豐` XWDZ10p0091 · `涵芬樓` HFL人下066
+
+太上洞玄靈寶開演秘密藏經  
+DZJY: JY036  
+DZJY0: JY036  
+DZ:   DZ0329  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0330 太上洞玄靈寶真文要解上經 Taishang dongxuan lingbao zhenwen yaojie shangjing
+
+[KR5b0014](https://github.com/kanripo/KR5b0014) · `CUSTOM_ID` DZ0330 · `HK` CH020114 · `凱希` KX0340 · `三家本` Vol 5, p0903b · `Z中華道藏` ZHDZ04p0091 · `ZHnum` ZH04_009 · `X新文豐` XWDZ10p0099 · `涵芬樓` HFL人下096
+
+太上洞玄靈寶真文要解上經  
+DZJY: JY039  
+DZJY0: JY039  
+DZ:   DZ0330  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0331 太上黃庭內景玉經 Taishang huangting neijing yujing +
+
+[KR5b0015](https://github.com/kanripo/KR5b0015) · `CUSTOM_ID` DZ0331 · `HK` CH020115 · `凱希` KX0341 · `三家本` Vol 5, p0908c · `Z中華道藏` ZHDZ23p0001 · `ZHnum` ZH23_001 · `X新文豐` XWDZ10p0107 · `涵芬樓` HFL人下128
+
+太上黃庭內景玉經  
+DZ:   DZ0331  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0332 太上黃庭外景玉經 Taishang huangting waijing jing +
+
+[KR5b0016](https://github.com/kanripo/KR5b0016) · `CUSTOM_ID` DZ0332 · `HK` CH020116 · `凱希` KX0342 · `三家本` Vol 5, p0913a · `Z中華道藏` ZHDZ23p0007 · `ZHnum` ZH23_002 · `X新文豐` XWDZ10p0114 · `涵芬樓` HFL人下154
+
+太上黃庭外景玉經  
+DZ:   DZ0332  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0333 靈寶天尊說祿庫受生經 Lingbao tianzun shuo luku shousheng jing
+
+[KR5b0017](https://github.com/kanripo/KR5b0017) · `CUSTOM_ID` DZ0333 · `HK` CH020117 · `凱希` KX0343 · `三家本` Vol 5, p0915a · `Z中華道藏` ZHDZ04p0286 · `ZHnum` ZH04_041 · `X新文豐` XWDZ10p0117 · `涵芬樓` HFL人下166
+
+靈寶天尊說祿庫受生經  
+DZ:   DZ0333  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0334 太上靈寶元陽妙經 Taishang lingbao yuanyang miaojing
+
+[KR5b0018](https://github.com/kanripo/KR5b0018) · `CUSTOM_ID` DZ0334 · `HK` CH020118 · `凱希` KX0344 · `三家本` Vol 5, p0916c · `Z中華道藏` ZHDZ04p0655 · `ZHnum` ZH04_098 · `X新文豐` XWDZ10p0121 · `涵芬樓` HFL皇上004
+
+太上靈寶元陽妙經  
+DZ:   DZ0334  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0335 太上洞淵神咒經 Taishang dongyuan shenzhou jing
+
+[KR5b0019](https://github.com/kanripo/KR5b0019) · `CUSTOM_ID` DZ0335 · `HK` CH020119 · `凱希` KX0345 · `三家本` Vol 6, p0001a · `Z中華道藏` ZHDZ30p0001 · `ZHnum` ZH30_001 · `X新文豐` XWDZ10p0229 · `涵芬樓` HFL始上004
+
+太上洞淵神咒經  
+DZ:   DZ0335  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0336 太上洞玄靈寶業報因緣經 Taishang dongxuan lingbao yebao yinyuan jing
+
+[KR5b0020](https://github.com/kanripo/KR5b0020) · `CUSTOM_ID` DZ0336 · `HK` CH020120 · `凱希` KX0346 · `三家本` Vol 6, p0081a · `Z中華道藏` ZHDZ05p0153 · `ZHnum` ZH05_013 · `X新文豐` XWDZ10p0353 · `涵芬樓` HFL文上004
+
+太上洞玄靈寶業報因緣經  
+DZJY: JY040  
+DZJY0: JY040  
+DZ:   DZ0336  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0337 太上洞玄靈寶十號未w因緣妙經 Taishang dongxuan lingbao shihao gongde yinyuan miaojing
+
+[KR5b0021](https://github.com/kanripo/KR5b0021) · `CUSTOM_ID` DZ0337 · `HK` CH020121 · `凱希` KX0347 · `三家本` Vol 6, p0129c · `Z中華道藏` ZHDZ04p0218 · `ZHnum` ZH04_031 · `X新文豐` XWDZ10p0429 · `涵芬樓` HFL字上004
+
+太上洞玄靈寶十號功德因緣妙經  
+DZJY: JY038  
+DZJY0: JY038  
+DZ:   DZ0337  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0338 太上洞玄靈寶宿命因緣明經 Taishang dongxuan lingbao suming yinyuan miaojing
+
+[KR5b0022](https://github.com/kanripo/KR5b0022) · `CUSTOM_ID` DZ0338 · `HK` CH020122 · `凱希` KX0348 · `三家本` Vol 6, p0132c · `Z中華道藏` ZHDZ04p0001 · `ZHnum` ZH04_001 · `X新文豐` XWDZ10p0434 · `涵芬樓` HFL字上022
+
+太上洞玄靈寶宿命因緣明經  
+DZ:   DZ0338  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0339 太上洞玄靈寶出家因緣經 Taishang dongxuan lingbao chujia yinyuan jing
+
+[KR5b0023](https://github.com/kanripo/KR5b0023) · `CUSTOM_ID` DZ0339 · `HK` CH020123 · `凱希` KX0349 · `三家本` Vol 6, p0136b · `Z中華道藏` ZHDZ04p0262 · `ZHnum` ZH04_036 · `X新文豐` XWDZ10p0440 · `涵芬樓` HFL字上044
+
+太上洞玄靈寶出家因緣經  
+DZJY: JY041  
+DZJY0: JY041  
+DZ:   DZ0339  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0340 太上洞玄靈寶轉神度命經 Taishang dongxuan lingbao zhuanshen duming jing
+
+[KR5b0024](https://github.com/kanripo/KR5b0024) · `CUSTOM_ID` DZ0340 · `HK` CH020124 · `凱希` KX0350 · `三家本` Vol 6, p0143a · `Z中華道藏` ZHDZ04p0269 · `ZHnum` ZH04_037 · `X新文豐` XWDZ10p0450 · `涵芬樓` HFL字上084
+
+太上洞玄靈寶轉神度命經  
+DZ:   DZ0340  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0341 太上洞玄靈寶十師度人妙經 Taishang dongxuan lingbao shishi duren miaojing
+
+[KR5b0025](https://github.com/kanripo/KR5b0025) · `CUSTOM_ID` DZ0341 · `HK` CH020125 · `凱希` KX0351 · `三家本` Vol 6, p0146b · `Z中華道藏` ZHDZ04p0273 · `ZHnum` ZH04_038 · `X新文豐` XWDZ10p0455 · `涵芬樓` HFL字上104
+
+太上洞玄靈寶十師度人妙經  
+DZ:   DZ0341  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0342 太上洞玄靈寶太玄普慈勸世經 Taishang dongxuan lingbao taixuan puci quanshi jing
+
+[KR5b0026](https://github.com/kanripo/KR5b0026) · `CUSTOM_ID` DZ0342 · `HK` CH020126 · `凱希` KX0352 · `三家本` Vol 6, p0150a · `Z中華道藏` ZHDZ04p0282 · `ZHnum` ZH04_040 · `X新文豐` XWDZ10p0461 · `涵芬樓` HFL字上126
+
+太上洞玄靈寶業太玄普慈勸世經  
+DZ:   DZ0342  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0343 太上洞玄靈寶四方大願經 Taishang dongxuan lingbao sifang dayuan jing
+
+[KR5b0027](https://github.com/kanripo/KR5b0027) · `CUSTOM_ID` DZ0343 · `HK` CH020127 · `凱希` KX0353 · `三家本` Vol 6, p0153c · `Z中華道藏` ZHDZ04p0290 · `ZHnum` ZH04_043 · `X新文豐` XWDZ10p0467 · `涵芬樓` HFL字上148
+
+太上洞玄靈寶四方大願經  
+DZ:   DZ0343  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0344 太上洞玄靈寶智慧本願大戒上品經 Taishang dongxuan lingbao zhihui benyuan dajie shangpin jing
+
+[KR5b0028](https://github.com/kanripo/KR5b0028) · `CUSTOM_ID` DZ0344 · `HK` CH020128 · `凱希` KX0354 · `三家本` Vol 6, p0155b · `Z中華道藏` ZHDZ04p0111 · `ZHnum` ZH04_012 · `X新文豐` XWDZ10p0471 · `涵芬樓` HFL字下004
+
+太上洞玄靈寶智慧本願大戒上品經  
+DZ:   DZ0344  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0345 太上洞玄靈寶誡業本行上品妙經 Taishang dongxuan lingbao jieye benxing shangpin miaojing +
+
+[KR5b0029](https://github.com/kanripo/KR5b0029) · `CUSTOM_ID` DZ0345 · `HK` CH020129 · `凱希` KX0355 · `三家本` Vol 6, p0161b · `Z中華道藏` ZHDZ04p0152 · `ZHnum` ZH04_020 · `X新文豐` XWDZ10p0481 · `涵芬樓` HFL字下042
+
+太上洞玄靈寶誠業本行上品妙經  
+DZ:   DZ0345  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0346 太上洞玄靈寶真一勸誡法輪妙經 Taishang dongxuan lingbao zhenyi quanjie falun miaojing
+
+[KR5b0030](https://github.com/kanripo/KR5b0030) · `CUSTOM_ID` DZ0346 · `HK` CH020130 · `凱希` KX0356 · `三家本` Vol 6, p0170c · `Z中華道藏` ZHDZ03p0313 · `ZHnum` ZH03_025-1 · `X新文豐` XWDZ10p0495 · `涵芬樓` HFL字下098
+
+太上洞玄靈寶真一勸誡法輪妙經  
+DZ:   DZ0346  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0347 太上玄一真人說妙通轉神入定經 Taishang xuanyi zhenren shuo miaotong zhuanshen ruding jing
+
+[KR5b0031](https://github.com/kanripo/KR5b0031) · `CUSTOM_ID` DZ0347 · `HK` CH020133 · `凱希` KX0357 · `三家本` Vol 6, p0172c · `Z中華道藏` ZHDZ03p0322 · `ZHnum` ZH03_025-4 · `X新文豐` XWDZ10p0498 · `涵芬樓` HFL字下110
+
+太上玄一真人說妙通轉神入定經  
+DZ:   DZ0347  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0348 太上玄一真人說勸誡法輪妙經 Taishang xuanyi zhenren shuo quanjie falun miaojing
+
+[KR5b0032](https://github.com/kanripo/KR5b0032) · `CUSTOM_ID` DZ0348 · `HK` CH020131 · `凱希` KX0358 · `三家本` Vol 6, p0175c · `Z中華道藏` ZHDZ03p0315 · `ZHnum` ZH03_025-2 · `X新文豐` XWDZ10p0503 · `涵芬樓` HFL字下128
+
+太上玄一真人說勸誡法輪妙經  
+DZ:   DZ0348  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0455 太上玄一真人說三途五苦勸戒經 Taishang xuanyi zhenren shuo santu wuku quanjie jing
+
+[KR5b0139](https://github.com/kanripo/KR5b0139) · `CUSTOM_ID` DZ0455 · `HK` CH020132 · `凱希` xx · `三家本` x · `Z中華道藏` ZHDZ03p0317 · `ZHnum` ZH03_025-3 · `X新文豐` XWDZ10p0495 · `涵芬樓` HFL　//cf CH020602
+
+太上玄一真人說三途五苦勸誡經  
+DZ:   DZ0455  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0349 太上洞玄靈寶法燭經 Taishang dongxuan lingbao fazhuo jing
+
+[KR5b0033](https://github.com/kanripo/KR5b0033) · `CUSTOM_ID` DZ0349 · `HK` CH020134 · `凱希` KX0359 · `三家本` Vol 6, p0178a · `Z中華道藏` ZHDZ04p0415 · `ZHnum` ZH04_078 · `X新文豐` XWDZ10p0507 · `涵芬樓` HFL字下142
+
+太上洞玄靈寶法燭經  
+DZJY: JY042  
+DZJY0: JY042  
+DZ:   DZ0349  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0350 太上靈寶智慧觀身經 Taishang lingbao zhihui guanshen jing
+
+[KR5b0034](https://github.com/kanripo/KR5b0034) · `CUSTOM_ID` DZ0350 · `HK` CH020135 · `凱希` KX0360 · `三家本` Vol 6, p0181b · `Z中華道藏` ZHDZ06p0088 · `ZHnum` ZH06_014 · `X新文豐` XWDZ10p0512 · `涵芬樓` HFL字下162
+
+太上洞玄靈寶智慧觀身經  
+DZJY: JY043  
+DZJY0: JY043  
+DZ:   DZ0350  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0351 太一救苦護身妙經 Taiyi jiuku hushen miaojing
+
+[KR5b0035](https://github.com/kanripo/KR5b0035) · `CUSTOM_ID` DZ0351 · `HK` CH020136 · `凱希` KX0361 · `三家本` Vol 6, p0182a · `Z中華道藏` ZHDZ04p0326 · `ZHnum` ZH04_052 · `X新文豐` XWDZ10p0513 · `涵芬樓` HFL字下165
+
+太一救苦護身妙經  
+DZJY: JY044  
+DZJY0: JY044  
+DZ:   DZ0351  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0352 太上洞玄靈寶赤書玉訣妙經 Taishang dongxuan lingbao chishu yujue
+
+[KR5b0036](https://github.com/kanripo/KR5b0036) · `CUSTOM_ID` DZ0352 · `HK` CH020137 · `凱希` KX0362 · `三家本` Vol 6, p0184a · `Z中華道藏` ZHDZ03p0026 · `ZHnum` ZH03_002 · `X新文豐` XWDZ10p0517 · `涵芬樓` HFL乃上004
+
+太上洞玄靈寶赤書玉訣妙經  
+DZ:   DZ0352  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0353 上清金匱玉鏡修真指玄妙經 Shangqing jinkui yujing xiuzhen zhixuan miaojing
+
+[KR5b0037](https://github.com/kanripo/KR5b0037) · `CUSTOM_ID` DZ0353 · `HK` CH020138 · `凱希` KX0363 · `三家本` Vol 6, p0205b · `Z中華道藏` ZHDZ02p0441 · `ZHnum` ZH02_051 · `X新文豐` XWDZ10p0550 · `涵芬樓` HFL乃上132
+
+上清金匱玉鏡修真指玄妙經  
+DZJY: JY026  
+DZJY0: JY026  
+DZ:   DZ0353  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0354 上清三元玉檢三元布經 Shangqing sanyuan yujian sanyuan bujing
+
+[KR5b0038](https://github.com/kanripo/KR5b0038) · `CUSTOM_ID` DZ0354 · `HK` CH020139 · `凱希` KX0364 · `三家本` Vol 6, p0211a · `Z中華道藏` ZHDZ01p0344 · `ZHnum` ZH01_036 · `X新文豐` XWDZ10p0559 · `涵芬樓` HFL乃中004
+
+上清三元玉檢三元布經  
+DZ:   DZ0354  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0355 太上洞玄靈寶福日妙經 Taishang dongxuan lingbao furi miaojing
+
+[KR5b0039](https://github.com/kanripo/KR5b0039) · `CUSTOM_ID` DZ0355 · `HK` CH020140 · `凱希` KX0365 · `三家本` Vol 6, p0226c · `Z中華道藏` ZHDZ04p0189 · `ZHnum` ZH04_026 · `X新文豐` XWDZ10p0581 · `涵芬樓` HFL乃中090
+
+太上洞玄靈寶福日妙經  
+DZJY: JY027  
+DZJY0: JY027  
+DZ:   DZ0355  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0356 洞玄靈寶上師說救護身命經 Dongxuan lingbao shangshi shuo jiuhu shenming jing
+
+[KR5b0040](https://github.com/kanripo/KR5b0040) · `CUSTOM_ID` DZ0356 · `HK` CH020141 · `凱希` KX0366 · `三家本` Vol 6, p0227c · `Z中華道藏` ZHDZ04p0747 · `ZHnum` ZH04_100 · `X新文豐` XWDZ10p0583 · `涵芬樓` HFL乃中096
+
+太上洞玄靈寶上師說救護身命經  
+DZ:   DZ0356  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0357 太上靈寶天尊說讓災蚺抶剋 Taishang lingbao tianzun rangzai du'e jing
+
+[KR5b0041](https://github.com/kanripo/KR5b0041) · `CUSTOM_ID` DZ0357 · `HK` CH020142 · `凱希` KX0367 · `三家本` Vol 6, p0231c · `Z中華道藏` ZHDZ04p0335 · `ZHnum` ZH04_056 · `X新文豐` XWDZ10p0589 · `涵芬樓` HFL乃中120
+
+太上靈寶天尊說禳災度厄經  
+DZJY: JY028  
+DZJY0: JY028  
+DZ:   DZ0357  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0358 太上神咒延壽妙經 Taishang shenzhou yanshou miaojing
+
+[KR5b0042](https://github.com/kanripo/KR5b0042) · `CUSTOM_ID` DZ0358 · `HK` CH020143 · `凱希` KX0368 · `三家本` Vol 6, p0232b · `Z中華道藏` ZHDZ06p0221 · `ZHnum` ZH06_069 · `X新文豐` XWDZ10p0590 · `涵芬樓` HFL乃中124
+
+太上神咒延壽妙經  
+DZJY: JY029  
+DZJY0: JY029  
+DZ:   DZ0358  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0359 太上洞玄靈寶消禳火災經 Taishang dongxuan lingbao xiaorang huozai jing
+
+[KR5b0043](https://github.com/kanripo/KR5b0043) · `CUSTOM_ID` DZ0359 · `HK` CH020144 · `凱希` KX0370 · `三家本` Vol 6, p0234a · `Z中華道藏` ZHDZ04p0337 · `ZHnum` ZH04_058 · `X新文豐` XWDZ06p0233 · `涵芬樓` HFL乃中128
+
+太上洞玄靈寶消禳火災經  
+DZ:   DZ0359  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0360 太上洞玄靈寶天尊說養蠶營種經 Taishang dongxuan lingbao tianzun shuo yangcan yingzhong jing
+
+[KR5b0044](https://github.com/kanripo/KR5b0044) · `CUSTOM_ID` DZ0360 · `HK` CH020145 · `凱希` KX0371 · `三家本` Vol 6, p0237a · `Z中華道藏` ZHDZ04p0338 · `ZHnum` ZH04_059 · `X新文豐` XWDZ10p0592 · `涵芬樓` HFL乃中134
+
+太上洞玄靈寶天尊說養蠶營種經  
+DZ:   DZ0360  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0361 太上洞玄靈寶八威召龍妙經 Taishang dongxuan lingbao bawei zhaolong miaojing
+
+[KR5b0045](https://github.com/kanripo/KR5b0045) · `CUSTOM_ID` DZ0361 · `HK` CH020146 · `凱希` KX0372 · `三家本` Vol 6, p0245c · `Z中華道藏` ZHDZ04p0338 · `ZHnum` ZH03_016 · `X新文豐` XWDZ10p0597 · `涵芬樓` HFL乃下004
+
+太上洞玄靈寶八威召龍妙經  
+DZ:   DZ0361  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0362 太上洞玄靈寶說請雨龍王經 Taishang dongyuan shuo qingyu longwang jing
+
+[KR5b0046](https://github.com/kanripo/KR5b0046) · `CUSTOM_ID` DZ0362 · `HK` CH020147 · `凱希` KX0373 · `三家本` Vol 6, p0247a · `Z中華道藏` ZHDZ30p0124 · `ZHnum` ZH30_007 · `X新文豐` XWDZ10p0611 · `涵芬樓` HFL乃下057
+
+太上洞淵說請雨龍王經  
+DZJY: JY030  
+DZJY0: JY030  
+DZ:   DZ0362  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0363 太上召諸神龍安鎮墳墓經 Taishang zhaozhu shenlong anzhen fenmu jing
+
+[KR5b0047](https://github.com/kanripo/KR5b0047) · `CUSTOM_ID` DZ0363 · `HK` CH020148 · `凱希` KX0374 · `三家本` Vol 6, p0248a · `Z中華道藏` ZHDZ30p0126 · `ZHnum` ZH30_008 · `X新文豐` XWDZ10p0613 · `涵芬樓` HFL乃下064
+
+太上召諸龍神安鎮墳墓經  
+DZ:   DZ0363  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0364 太上靈寶補謝灶王經 Taishang lingbao buxie zaowang jing
+
+[KR5b0048](https://github.com/kanripo/KR5b0048) · `CUSTOM_ID` DZ0364 · `HK` CH020149 · `凱希` KX0375 · `三家本` Vol 6, p0249a · `Z中華道藏` ZHDZ04p0342 · `ZHnum` ZH04_061 · `X新文豐` XWDZ10p0614 · `涵芬樓` HFL乃下070
+
+太上洞玄靈寶補謝灶王經  
+DZ:   DZ0364  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0365 太上說利益蠶王妙經 Taishang shuo liyi canwang miaojing
+
+[KR5b0049](https://github.com/kanripo/KR5b0049) · `CUSTOM_ID` DZ0365 · `HK` CH020150 · `凱希` KX0376 · `三家本` Vol 6, p0249c · `Z中華道藏` ZHDZ04p0341 · `ZHnum` ZH04_060 · `X新文豐` XWDZ10p0616 · `涵芬樓` HFL乃下076
+
+太上說利益蠶王妙經  
+DZ:   DZ0365  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0366 太上說牛黃妙經 Taishang shuo niuguang miaojing
+
+[KR5b0050](https://github.com/kanripo/KR5b0050) · `CUSTOM_ID` DZ0366 · `HK` CH020151 · `凱希` KX0377 · `三家本` Vol 6, p0250b · `Z中華道藏` ZHDZ04p0345 · `ZHnum` ZH04_063 · `X新文豐` XWDZ10p0617 · `涵芬樓` HFL乃下080
+
+太上說牛瀇妙經  
+DZ:   DZ0366  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0367 上清洞玄明燈上經 Shangqing dongxuan mingdeng shangjing
+
+[KR5b0051](https://github.com/kanripo/KR5b0051) · `CUSTOM_ID` DZ0367 · `HK` CH020152 · `凱希` KX0378 · `三家本` Vol 6, p0252c · `Z中華道藏` ZHDZ04p0345 · `ZHnum` ZH02_070 · `X新文豐` XWDZ10p0618 · `涵芬樓` HFL乃下084
+
+上清洞玄明燈上經  
+DZ:   DZ0367  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0368 太上洞玄靈元上經 Taishang dongxuan lingyuan shangjing
+
+[KR5b0052](https://github.com/kanripo/KR5b0052) · `CUSTOM_ID` DZ0368 · `HK` CH020153 · `凱希` xx · `三家本` x · `Z中華道藏` ZHDZ08p0173 · `ZHnum` ZH08_009 · `X新文豐` XWDZ10p0622 · `涵芬樓` HFL乃下098
+
+太上洞玄寶元上經  
+DZJY: JY031  
+DZJY0: JY031  
+DZ:   DZ0368  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0369 太上洞玄靈寶滅度五鍊生尸妙經 Taishang dongxuan lingbao miedu wulian shengshi miaojing
+
+[KR5b0053](https://github.com/kanripo/KR5b0053) · `CUSTOM_ID` DZ0369 · `HK` CH020154 · `凱希` KX0379 · `三家本` Vol 6, p0259c · `Z中華道藏` ZHDZ03p0753 · `ZHnum` ZH03_041 · `X新文豐` XWDZ10p0633 · `涵芬樓` HFL服上004
+
+太上洞玄靈寶滅度五鍊生屍妙經  
+DZ:   DZ0369  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0370 太上洞玄靈寶三元玉京玄都大獻經 Taishang dongxuan lingbao sanyuan yujing xuandu daxian jing
+
+[KR5b0054](https://github.com/kanripo/KR5b0054) · `CUSTOM_ID` DZ0370 · `HK` CH020155 · `凱希` KX0380 · `三家本` Vol 6, p0266a · `Z中華道藏` ZHDZ04p0167 · `ZHnum` ZH04_022 · `X新文豐` XWDZ10p0643 · `涵芬樓` HFL服上042
+
+太上洞玄靈寶三元玉京玄都大獻經  
+DZ:   DZ0370  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0371 太上洞玄靈寶三塗五苦拔度生死妙經 Taishang dongxuan lingbao santu wuku badu shengsi miaojing
+
+[KR5b0055](https://github.com/kanripo/KR5b0055) · `CUSTOM_ID` DZ0371 · `HK` CH020156 · `凱希` KX0381 · `三家本` Vol 6, p0275c · `Z中華道藏` ZHDZ04p0295 · `ZHnum` ZH04_045 · `X新文豐` XWDZ10p0658 · `涵芬樓` HFL服上100
+
+太上洞玄靈寶三塗五苦拔度生死妙經  
+DZ:   DZ0371  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0372 太上道君說解冤拔度妙經 Taishang daojun shuo jieyuan badu miaojing
+
+[KR5b0056](https://github.com/kanripo/KR5b0056) · `CUSTOM_ID` DZ0372 · `HK` CH020157 · `凱希` KX0382 · `三家本` Vol 6, p0278a · `Z中華道藏` ZHDZ06p0222 · `ZHnum` ZH06_070 · `X新文豐` XWDZ10p0662 · `涵芬樓` HFL服上114
+
+太上道君說解冤拔度妙經  
+DZ:   DZ0372  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0373 太上洞玄靈寶往生救苦妙經 Taishang dongxuan lingbao wangsheng jiuku miaojing
+
+[KR5b0057](https://github.com/kanripo/KR5b0057) · `CUSTOM_ID` DZ0373 · `HK` CH020158 · `凱希` KX0383 · `三家本` Vol 6, p0278c · `Z中華道藏` ZHDZ04p0298 · `ZHnum` ZH04_046 · `X新文豐` XWDZ10p0663 · `涵芬樓` HFL服上118
+
+太上洞玄靈寶往生救苦妙經  
+DZ:   DZ0373  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0374 太上洞玄靈寶救苦妙經 Taishang dongxuan lingbao jiuku miaojing
+
+[KR5b0058](https://github.com/kanripo/KR5b0058) · `CUSTOM_ID` DZ0374 · `HK` CH020159 · `凱希` KX0384 · `三家本` Vol 6, p0283b · `Z中華道藏` ZHDZ04p0314 · `ZHnum` ZH04_050 · `X新文豐` XWDZ10p0670 · `涵芬樓` HFL服上146
+
+太上洞玄靈寶救苦妙經  
+DZ:   DZ0374  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0375 太上洞玄靈寶天尊說濟苦經 Taishang dongxuan lingbao tianzun shuo jiku jing
+
+[KR5b0059](https://github.com/kanripo/KR5b0059) · `CUSTOM_ID` DZ0375 · `HK` CH020160 · `凱希` KX0385 · `三家本` Vol 6, p0284c · `Z中華道藏` ZHDZ04p0310 · `ZHnum` ZH04_048 · `X新文豐` XWDZ10p0672 · `涵芬樓` HFL服上154
+
+太上洞玄靈寶天尊說濟苦經  
+DZ:   DZ0375  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0376 太上洞玄靈寶淨供妙經 Taishang dongxuan lingbao jinggong miaojing
+
+[KR5b0060](https://github.com/kanripo/KR5b0060) · `CUSTOM_ID` DZ0376 · `HK` CH020161 · `凱希` KX0386 · `三家本` Vol 6, p0285c · `Z中華道藏` ZHDZ04p0181 · `ZHnum` ZH04_024 · `X新文豐` XWDZ10p0674 · `涵芬樓` HFL服上160
+
+太上洞玄靈寶淨供妙經  
+DZJY: JY032  
+DZJY0: JY032  
+DZ:   DZ0376  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0377 太上靈寶洪福滅罪像名經 Taishang lingbao hongfu miezui xiangming jing
+
+[KR5b0061](https://github.com/kanripo/KR5b0061) · `CUSTOM_ID` DZ0377 · `HK` CH020162 · `凱希` KX0387 · `三家本` Vol 6, p0289a · `Z中華道藏` ZHDZ04p0229 · `ZHnum` ZH04_033 · `X新文豐` XWDZ10p0679 · `涵芬樓` HFL服下004
+
+太上靈寶洪福滅罪像名經  
+DZJY: JY033  
+DZJY0: JY033  
+DZ:   DZ0377  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0378 太上洐崢天尊說消愆滅罪經 Taishang jiuku tianzun shuo xiaoqian miezui jing
+
+[KR5b0062](https://github.com/kanripo/KR5b0062) · `CUSTOM_ID` DZ0378 · `HK` CH020163 · `凱希` KX0388 · `三家本` Vol 6, p0302b · `Z中華道藏` ZHDZ04p0328 · `ZHnum` ZH04_053 · `X新文豐` XWDZ10p0700 · `涵芬樓` HFL服下084
+
+太上救苦天尊說消愆滅罪經  
+DZ:   DZ0378  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0379 太上說酆都拔苦愈樂妙經 Taishang shuo Fengdu baku yule miaojing
+
+[KR5b0063](https://github.com/kanripo/KR5b0063) · `CUSTOM_ID` DZ0379 · `HK` CH020164 · `凱希` KX0389 · `三家本` Vol 6, p0303b · `Z中華道藏` ZHDZ06p0210 · `ZHnum` ZH06_063 · `X新文豐` XWDZ10p0702 · `涵芬樓` HFL服下090
+
+太上說酆都拔苦愈樂妙經  
+DZ:   DZ0379  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0380 洞玄靈寶道要經 Dongxuan lingbao daoyao jing
+
+[KR5b0064](https://github.com/kanripo/KR5b0064) · `CUSTOM_ID` DZ0380 · `HK` CH020165 · `凱希` KX0390 · `三家本` Vol 6, p0303c · `Z中華道藏` ZHDZ31p0389 · `ZHnum` ZH31_023 · `X新文豐` XWDZ10p0703 · `涵芬樓` HFL服下092
+
+洞玄靈寶道要經  
+DZ:   DZ0380  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0381 洞玄靈寶飛仙上品妙經 Dongxuan lingbao feixian shangpin miaojing
+
+[KR5b0065](https://github.com/kanripo/KR5b0065) · `CUSTOM_ID` DZ0381 · `HK` CH020166 · `凱希` KX0391 · `三家本` Vol 6, p0306b · `Z中華道藏` ZHDZ30p0117 · `ZHnum` ZH30_003 · `X新文豐` XWDZ10p0707 · `涵芬樓` HFL服下108
+
+洞玄靈寶飛仙上品妙經  
+DZ:   DZ0381  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### xx 太上靈寶天尊說延壽妙經
+
+`nopin` · `CUSTOM_ID` xx · `HK` CH020167 · `凱希` KX0392 · `三家本` Vol 6, p0308b · `Z中華道藏` XX · `ZHnum` XX · `X新文豐` XWDZ10p0710 · `涵芬樓` HFL服下120
+
+太上靈寶天尊說延壽妙經  
+DZ:   xx  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0383 太上七星神咒經 Taishang qixing shenzhou jing
+
+[KR5b0067](https://github.com/kanripo/KR5b0067) · `CUSTOM_ID` DZ0383 · `HK` CH020168 · `凱希` KX0393 · `三家本` Vol 6, p0309a · `Z中華道藏` ZHDZ06p0240 · `ZHnum` ZH06_076 · `X新文豐` XWDZ10p0711 · `涵芬樓` HFL服下124
+
+太上七星神咒經  
+DZ:   DZ0383  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0384 太上虛黃保生神咒經 Taishang xuhuang baosheng shenzhou jing
+
+[KR5b0068](https://github.com/kanripo/KR5b0068) · `CUSTOM_ID` DZ0384 · `HK` CH020169 · `凱希` KX0394 · `三家本` Vol 6, p0309c · `Z中華道藏` ZHDZ06p0239 · `ZHnum` ZH06_075 · `X新文豐` XWDZ10p0712 · `涵芬樓` HFL服下128
+
+太上虛皇保生神咒經  
+DZ:   DZ0384  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0385 太上洞玄三洞開天風雷禹步制魔神咒經 Taishang dongxuan sandong kaitian fenglei yubu zhimo shenzhou jing
+
+[KR5b0069](https://github.com/kanripo/KR5b0069) · `CUSTOM_ID` DZ0385 · `HK` CH020170 · `凱希` KX0395 · `三家本` Vol 6, p0310a · `Z中華道藏` ZHDZ32p0682 · `ZHnum` ZH32_061 · `X新文豐` XWDZ10p0713 · `涵芬樓` HFL服下130
+
+太上洞玄三洞開天風雷禹步制魔神咒經  
+DZ:   DZ0385  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0386 太上洞玄三昧帝心光明正印太極紫微伏魔制鬼拯救惡道集福吉祥神咒 Taishang dongyuan sanmei dixin guangming zhengyin taiji ziwei fumo zhigui zhengjiu edao jifu jixiang shenzhou
+
+[KR5b0070](https://github.com/kanripo/KR5b0070) · `CUSTOM_ID` DZ0386 · `HK` CH020171 · `凱希` KX0396 · `三家本` Vol 6, p0311b · `Z中華道藏` ZHDZ30p0127 · `ZHnum` ZH30_009 · `X新文豐` XWDZ10p0715 · `涵芬樓` HFL服下138
+
+太上洞淵三昧帝心光明正印太極紫微伏魔制鬼拯救惡道集福吉祥神咒  
+DZJY: JY034  
+DZJY0: JY034  
+DZ:   DZ0386  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0387 太上三生解冤妙經 Taishang sansheng jieyuan miaojing
+
+[KR5b0071](https://github.com/kanripo/KR5b0071) · `CUSTOM_ID` DZ0387 · `HK` CH020172 · `凱希` KX0397 · `三家本` Vol 6, p0313a · `Z中華道藏` ZHDZ04p0329 · `ZHnum` ZH04_054 · `X新文豐` XWDZ10p0718 · `涵芬樓` HFL服下148
+
+太上三生解冤妙經  
+DZ:   DZ0387  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0382 太上靈寶天尊說延壽妙經 Taishang lingbao tianzun shuo yanshou miaojing
+
+[KR5b0066](https://github.com/kanripo/KR5b0066) · `CUSTOM_ID` DZ0382 · `HK` CH020173 · `凱希` KX0369 · `三家本` Vol 6, p0233a · `Z中華道藏` ZHDZ04p0336 · `ZHnum` ZH04_057 · `X新文豐` XWDZ10p0590 · `涵芬樓` HFL　 //cf CH020167
+
+太上靈寶天尊說延壽妙經  
+DZ:   DZ0382  
+Contents
+
+**Work notes**
+
+**Comments**
+
+### CMTS0202	神符類
+
+#### DZ0388 太上靈寶五符序 Taishang lingbao wufu xu
+
+[KR5b0072](https://github.com/kanripo/KR5b0072) · `CUSTOM_ID` DZ0388 · `HK` CH020201 · `凱希` KX0398 · `三家本` Vol 6, p0315a · `Z中華道藏` ZHDZ04p0054 · `ZHnum` ZH04_007 · `X新文豐` XWDZ10p0721 · `涵芬樓` HFL衣上004
+
+太上靈寶五符序  
+DZ:   DZ0388  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0389 太上洞玄靈寶素靈真符 Taishang dongxuan lingbao suling zhenfu
+
+[KR5b0073](https://github.com/kanripo/KR5b0073) · `CUSTOM_ID` DZ0389 · `HK` CH020202 · `凱希` KX0399 · `三家本` Vol 6, p0343b · `Z中華道藏` ZHDZ32p0582 · `ZHnum` ZH32_044 · `X新文豐` XWDZ10p0765 · `涵芬樓` HFL衣中004
+
+太上洞玄靈寶素靈真符  
+DZ:   DZ0389  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0390 太上洞玄靈寶五嶽神符 Taishang dongxuan lingbao wuyue shenfu
+
+[KR5b0074](https://github.com/kanripo/KR5b0074) · `CUSTOM_ID` DZ0390 · `HK` CH020203 · `凱希` KX0400 · `三家本` Vol 6, p0361c · `Z中華道藏` ZHDZ04p0370 · `ZHnum` ZH04_069 · `X新文豐` XWDZ10p0793 · `涵芬樓` HFL衣中114
+
+太上洞玄靈寶五嶽真符  
+DZ:   DZ0390  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0391 上清金母求仙上法 Shangqing jinmu qiuxian shangfa
+
+[KR5b0075](https://github.com/kanripo/KR5b0075) · `CUSTOM_ID` DZ0391 · `HK` CH020204 · `凱希` KX0401 · `三家本` Vol 6, p0366c · `Z中華道藏` ZHDZ04p0375 · `ZHnum` ZH04_070 · `X新文豐` ZHDZ04p0375 · `涵芬樓` XWDZ10p0801 HFL衣下004
+
+上清金母求仙上法(  
+DZ:   DZ0391  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0392 上清豁落七元符 Shangqing huoluo qiyuan fu
+
+[KR5b0076](https://github.com/kanripo/KR5b0076) · `CUSTOM_ID` DZ0392 · `HK` CH020205 · `凱希` KX0402 · `三家本` Vol 6, p0374b · `Z中華道藏` ZHDZ02p0554 · `ZHnum` ZH02_076 · `X新文豐` XWDZ10p0813 · `涵芬樓` HFL衣下050
+
+上清轄落七元符  
+DZ:   DZ0392  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0393 太上洞玄靈寶大綱鈔 Taishang dongxuan lingbao dagang chao
+
+[KR5b0077](https://github.com/kanripo/KR5b0077) · `CUSTOM_ID` DZ0393 · `HK` CH020206 · `凱希` KX0403 · `三家本` Vol 6, p0376a · `Z中華道藏` ZHDZ04p0442 · `ZHnum` ZH04_081 · `X新文豐` XWDZ10p0816 · `涵芬樓` HFL衣下060
+
+太上洞玄靈寶大綱鈔(唐-閭丘方遠)  
+DZ:   DZ0393  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0394 上清太一金闕玉璽金真紀 Shangqing taiyi jinque yuxi jinzhen ji
+
+[KR5b0078](https://github.com/kanripo/KR5b0078) · `CUSTOM_ID` DZ0394 · `HK` CH020207 · `凱希` KX0404 · `三家本` Vol 6, p0377a · `Z中華道藏` ZHDZ32p0658 · `ZHnum` ZH32_054 · `X新文豐` XWDZ10p0818 · `涵芬樓` HFL衣下066
+
+上清太一金闕玉璽金真紀  
+DZ:   DZ0394  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0395 太上洞玄靈寶投簡符文要訣 Taishang dongxuan lingbao toujian fuwen yaojue
+
+[KR5b0079](https://github.com/kanripo/KR5b0079) · `CUSTOM_ID` DZ0395 · `HK` CH020208 · `凱希` KX0405 · `三家本` Vol 6, p0379c · `Z中華道藏` ZHDZ04p0388 · `ZHnum` ZH04_072 · `X新文豐` XWDZ10p0822 · `涵芬樓` HFL衣下082
+
+太上洞玄靈寶投簡符文要訣  
+DZ:   DZ0395  
+Contents
+
+**Work notes**
+
+**Comments**
+
+### CMTS0203	玉訣類
+
+#### DZ0396 洞玄靈寶自然九天生神章經解義 Dongxuan lingbao ziran jiutian shengshen zhangjing jieyi
+
+[KR5b0080](https://github.com/kanripo/KR5b0080) · `CUSTOM_ID` DZ0396 · `HK` CH020301 · `凱希` KX0406 · `三家本` Vol 6, p0389c · `Z中華道藏` ZHDZ03p0131 · `ZHnum` ZH03_012 · `X新文豐` XWDZ11p0001 · `涵芬樓` HFL裳上004
+
+洞玄靈寶自然九天生神章經解義(宋-董思靖)  
+DZJY: JY020  
+DZJY0: JY020  
+DZ:   DZ0396  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0397 洞玄靈寶自然九天生神玉章經解 Dongxuan lingbao ziran jiutian shengshen yu zhangjing jie
+
+[KR5b0081](https://github.com/kanripo/KR5b0081) · `CUSTOM_ID` DZ0397 · `HK` CH020302 · `凱希` KX0407 · `三家本` Vol 6, p0425a · `Z中華道藏` ZHDZ03p0089 · `ZHnum` ZH03_011 · `X新文豐` XWDZ11p0055 · `涵芬樓` HFL裳下004
+
+洞玄靈寶自然九天生神玉章經解(宋-王希巢)  
+DZJY: JY021  
+DZJY0: JY021  
+DZ:   DZ0397  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0398 洞玄靈寶自然九天生神章經註 Dongxuan lingbao ziran jiutian shengshen zhangjing zhu
+
+[KR5b0082](https://github.com/kanripo/KR5b0082) · `CUSTOM_ID` DZ0398 · `HK` CH020303 · `凱希` KX0408 · `三家本` Vol 6, p0464a · `Z中華道藏` ZHDZ03p0169 · `ZHnum` ZH03_013 · `X新文豐` XWDZ11p0114 · `涵芬樓` HFL推上004
+
+洞玄靈寶自然九天生神章經注(華陽)  
+DZJY: JY022  
+DZJY0: JY022  
+DZ:   DZ0398  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### xx 洞玄靈寶自然九天生神章經音釋(華陽)
+
+`nopin` · `CUSTOM_ID` xx · `HK` CH020304 · `凱希` xx · `三家本` xx · `Z中華道藏` XX · `ZHnum` XX · `X新文豐` XWDZ11p0148 · `涵芬樓` HFL推上142
+
+洞玄靈寶自然九天生神章經音釋(華陽)  
+DZ:   xx  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0399 太上洞玄靈寶天尊說救苦妙經註解 Taishang dongxuan lingbao tianzun shuo jiuku miaojing
+
+[KR5b0083](https://github.com/kanripo/KR5b0083) · `CUSTOM_ID` DZ0399 · `HK` CH020305 · `凱希` KX0409 · `三家本` Vol 6, p0487b · `Z中華道藏` ZHDZ04p0316 · `ZHnum` ZH04_051 · `X新文豐` XWDZ11p0149 · `涵芬樓` HFL推中004
+
+太上洞玄靈寶天尊說救苦妙經註解(洞陽子)  
+DZJY: JY023  
+DZJY0: JY023  
+DZ:   DZ0399  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0400 洞玄靈寶定觀經註 Dongxuan lingbao dingguan jing zhu
+
+[KR5b0084](https://github.com/kanripo/KR5b0084) · `CUSTOM_ID` DZ0400 · `HK` CH020306 · `凱希` KX0410 · `三家本` Vol 6, p0497a · `Z中華道藏` ZHDZ06p0093 · `ZHnum` ZH06_016 · `X新文豐` XWDZ11p0164 · `涵芬樓` HFL推中062
+
+洞玄靈寶定觀經註  
+DZJY: JY035  
+DZJY0: JY035  
+DZ:   DZ0400  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0401 黃庭內景玉經註 Huangting neijing yujing zhu
+
+[KR5b0085](https://github.com/kanripo/KR5b0085) · `CUSTOM_ID` DZ0401 · `HK` CH020307 · `凱希` KX0411 · `三家本` Vol 6, p0499c · `Z中華道藏` ZHDZ23p0064 · `ZHnum` ZH23_007 · `X新文豐` XWDZ11p0168 · `涵芬樓` HFL推中078
+
+黃庭內景玉經註(一)(金-劉處玄)  
+DZ:   DZ0401  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0402 黃庭內景玉經註 Huangting neijing yujing zhu
+
+[KR5b0086](https://github.com/kanripo/KR5b0086) · `CUSTOM_ID` DZ0402 · `HK` CH020308 · `凱希` KX0412 · `三家本` Vol 6, p0515a · `Z中華道藏` ZHDZ23p0010 · `ZHnum` ZH23_003 · `X新文豐` ZHDZ23p0010 · `涵芬樓` XWDZ11p0191 HFL推下004
+
+黃庭內景玉經註(二)  
+DZJY: JY077  
+DZJY0: JY077  
+DZ:   DZ0402  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0403 黃庭外景玉經註 Huangting waijing yujing zhu
+
+[KR5b0087](https://github.com/kanripo/KR5b0087) · `CUSTOM_ID` DZ0403 · `HK` CH020309 · `凱希` KX0413 · `三家本` Vol 6, p0541a · `Z中華道藏` ZHDZ23p0060 · `ZHnum` ZH23_006 · `X新文豐` XWDZ11p0231 · `涵芬樓` HFL推下160
+
+黃庭內外景玉經解(蔣慎修)  
+DZ:   DZ0403  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0404 上清丹元玉真帝皇飛仙上經 Shangqing danyuan yuzhen dihuang feixian shangjing
+
+[KR5b0088](https://github.com/kanripo/KR5b0088) · `CUSTOM_ID` DZ0404 · `HK` CH020310 · `凱希` KX0414 · `三家本` Vol 6, p0544c · `Z中華道藏` ZHDZ02p0424 · `ZHnum` ZH02_045 · `X新文豐` XWDZ11p0237 · `涵芬樓` HFL位上004
+
+上清丹元玉真帝皇飛仙上經  
+DZ:   DZ0404  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0405 上清紫精君皇初紫靈道君洞房上經 Shangqing zijing junhuang chu ziling daojun dongfang shangjing
+
+[KR5b0089](https://github.com/kanripo/KR5b0089) · `CUSTOM_ID` DZ0405 · `HK` CH020311 · `凱希` KX0415 · `三家本` Vol 6, p0546b · `Z中華道藏` ZHDZ02p0070 · `ZHnum` ZH02_010 · `X新文豐` XWDZ11p0240 · `涵芬樓` HFL位上014
+
+上清紫精君皇初紫靈道君洞房上經  
+DZ:   DZ0405  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0406 上清紫微帝君南極元君玉經寶訣 Shangqing ziwei dijun nanji yuanjun yujing baojue
+
+[KR5b0090](https://github.com/kanripo/KR5b0090) · `CUSTOM_ID` DZ0406 · `HK` CH020312 · `凱希` KX0416 · `三家本` Vol 6, p0552c · `Z中華道藏` ZHDZ02p0077 · `ZHnum` ZH02_011 · `X新文豐` XWDZ11p0250 · `涵芬樓` HFL位上052
+
+上清紫微帝君南極元君玉經寶訣  
+DZ:   DZ0406  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0407 靈寶大鍊內旨行持機要 Lingbao dalian neizhi xingchi jiyao
+
+[KR5b0091](https://github.com/kanripo/KR5b0091) · `CUSTOM_ID` DZ0407 · `HK` CH020313 · `凱希` KX0417 · `三家本` Vol 6, p0556a · `Z中華道藏` ZHDZ19p0075 · `ZHnum` ZH19_015 · `X新文豐` XWDZ11p0255 · `涵芬樓` HFL位上072
+
+靈寶大鍊內旨行持機要  
+DZ:   DZ0407  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0408 上清胎精記解結行事訣 Shangqing taijing ji jiejie xingshi jue
+
+[KR5b0092](https://github.com/kanripo/KR5b0092) · `CUSTOM_ID` DZ0408 · `HK` CH020314 · `凱希` KX0418 · `三家本` Vol 6, p0557a · `Z中華道藏` ZHDZ01p0437 · `ZHnum` ZH01_045 · `X新文豐` XWDZ11p0257 · `涵芬樓` HFL位上078
+
+上清胎精記解行事訣  
+DZ:   DZ0408  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0409 上清華晨三奔玉訣 Shangqing huachen sanben yujue
+
+[KR5b0093](https://github.com/kanripo/KR5b0093) · `CUSTOM_ID` DZ0409 · `HK` CH020315 · `凱希` KX0419 · `三家本` Vol 6, p0561c · `Z中華道藏` ZHDZ02p0428 · `ZHnum` ZH02_047 · `X新文豐` XWDZ11p0264 · `涵芬樓` HFL位上106
+
+上清華晨三奔玉訣  
+DZ:   DZ0409  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0410 太上洞玄靈寶眾簡文 Taishang dongxuan lingbao zhongjian wen
+
+[KR5b0094](https://github.com/kanripo/KR5b0094) · `CUSTOM_ID` DZ0410 · `HK` CH020316 · `凱希` KX0420 · `三家本` Vol 6, p0563b · `Z中華道藏` ZHDZ04p0383 · `ZHnum` ZH04_071 · `X新文豐` XWDZ11p0267 · `涵芬樓` HFL位上116
+
+太上洞玄靈寶眾簡文(劉宋-陸修靜)  
+DZ:   DZ0410  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0411 太上洞玄靈寶五帝醮祭招真玉訣 Taishang dongxuan lingbao wudi jiaoji zhaozhen yujue
+
+[KR5b0095](https://github.com/kanripo/KR5b0095) · `CUSTOM_ID` DZ0411 · `HK` CH020317 · `凱希` KX0421 · `三家本` Vol 6, p0567c · `Z中華道藏` ZHDZ04p0398 · `ZHnum` ZH04_073 · `X新文豐` XWDZ11p0273 · `涵芬樓` HFL位上142
+
+太上洞玄靈寶五帝醮祭招真玉訣  
+DZ:   DZ0411  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0412 上清佩符文青券訣 Shangqing peifu wen qingquan jue
+
+[KR5b0096](https://github.com/kanripo/KR5b0096) · `CUSTOM_ID` DZ0412 · `HK` CH020318 · `凱希` KX0422 · `三家本` Vol 6, p0570a · `Z中華道藏` ZHDZ02p0540 · `ZHnum` ZH02_075 · `X新文豐` XWDZ11p0277 · `涵芬樓` HFL位下004
+
+上清佩符文青卷訣  
+DZ:   DZ0412  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0413 上清佩符文白券訣 Shangqing peifu wen baiquan jue
+
+[KR5b0097](https://github.com/kanripo/KR5b0097) · `CUSTOM_ID` DZ0413 · `HK` CH020319 · `凱希` KX0423 · `三家本` Vol 6, p0573b · `Z中華道藏` ZHDZ02p0543 · `ZHnum` ZH02_075 · `X新文豐` XWDZ11p0282 · `涵芬樓` HFL位下024
+
+上清佩符文白卷訣  
+DZ:   DZ0413  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0414 上清佩符文絳券訣 Shangqing peifu wen jiangquan jue
+
+[KR5b0098](https://github.com/kanripo/KR5b0098) · `CUSTOM_ID` DZ0414 · `HK` CH020320 · `凱希` KX0424 · `三家本` Vol 6, p0577a · `Z中華道藏` ZHDZ02p0548 · `ZHnum` ZH02_075 · `X新文豐` XWDZ11p0288 · `涵芬樓` HFL位下046
+
+上清佩符文絳卷訣  
+DZ:   DZ0414  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0415 上清佩符文黑券訣 Shangqing peifu wen heiquan jue
+
+[KR5b0099](https://github.com/kanripo/KR5b0099) · `CUSTOM_ID` DZ0415 · `HK` CH020321 · `凱希` KX0425 · `三家本` Vol 6, p0578b · `Z中華道藏` ZHDZ02p0549 · `ZHnum` ZH02_075 · `X新文豐` XWDZ11p0290 · `涵芬樓` HFL位下-54
+
+上清佩符文黑卷訣  
+DZ:   DZ0415  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0416 上清佩符文黃券訣 Shangqing peifu wen huangquan jue
+
+[KR5b0100](https://github.com/kanripo/KR5b0100) · `CUSTOM_ID` DZ0416 · `HK` CH020322 · `凱希` KX0426 · `三家本` Vol 6, p0579b · `Z中華道藏` ZHDZ02p0551 · `ZHnum` ZH02_075 · `X新文豐` XWDZ11p0291 · `涵芬樓` HFL位下060
+
+上清佩符文黃卷訣  
+DZ:   DZ0416  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0417 太上大道三元品誡謝罪上法 Taishang dadao sanyuan pinjie xiezui shangfa
+
+[KR5b0101](https://github.com/kanripo/KR5b0101) · `CUSTOM_ID` DZ0417 · `HK` CH020323 · `凱希` KX0427 · `三家本` Vol 6, p0581c · `Z中華道藏` ZHDZ03p0784 · `ZHnum` ZH03_044 · `X新文豐` XWDZ11p0295 · `涵芬樓` HFL位下074
+
+太上大道三元品誡謝罪上法  
+DZ:   DZ0417  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0418 固氣還神九轉瓊丹論 Guqi huanshen jiuzhuan qiongdan lun
+
+[KR5b0102](https://github.com/kanripo/KR5b0102) · `CUSTOM_ID` DZ0418 · `HK` CH020324 · `凱希` KX0428 · `三家本` Vol 6, p0587a · `Z中華道藏` ZHDZ19p0208 · `ZHnum` ZH19_036 · `X新文豐` XWDZ11p0303 · `涵芬樓` HFL位下106
+
+固氣還神九轉瓊丹論  
+DZ:   DZ0418  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0419 靈寶眾真丹訣 Lingbao zhongzhen danjue
+
+[KR5b0103](https://github.com/kanripo/KR5b0103) · `CUSTOM_ID` DZ0419 · `HK` CH020325 · `凱希` KX0429 · `三家本` Vol 6, p0591b · `Z中華道藏` ZHDZ18p0062 · `ZHnum` ZH18_008 · `X新文豐` XWDZ11p0310 · `涵芬樓` HFL位下132
+
+靈寶眾真丹訣  
+DZ:   DZ0419  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0420 神仙服餌丹石行藥法 Shenxian fuer danshi xingyao fa
+
+[KR5b0104](https://github.com/kanripo/KR5b0104) · `CUSTOM_ID` DZ0420 · `HK` CH020326 · `凱希` KX0430 · `三家本` Vol 6, p0596c · `Z中華道藏` ZHDZ18p0170 · `ZHnum` ZH18_014 · `X新文豐` XWDZ11p0318 · `涵芬樓` HFL位下164
+
+神仙服餌丹石行藥法(京里先生)  
+DZ:   DZ0420  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0421 登真隱訣 Dengzhen yinjue +
+
+[KR5b0105](https://github.com/kanripo/KR5b0105) · `CUSTOM_ID` DZ0421 · `HK` CH020327 · `凱希` KX0431 · `三家本` Vol 6, p0606b · `Z中華道藏` ZHDZ02p0245 · `ZHnum` ZH02_022 · `X新文豐` XWDZ11p0331 · `涵芬樓` HFL遜上004
+
+登真隱訣(梁-陶弘景)  
+DZ:   DZ0421  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0422 上清三真旨要玉訣 Shangqing sanzhen zhiyao yujue
+
+[KR5b0106](https://github.com/kanripo/KR5b0106) · `CUSTOM_ID` DZ0422 · `HK` CH020328 · `凱希` KX0432 · `三家本` Vol 6, p0626b · `Z中華道藏` ZHDZ02p0269 · `ZHnum` ZH02_023 · `X新文豐` XWDZ11p0362 · `涵芬樓` HFL遜上124
+
+上清三真旨要玉訣  
+DZ:   DZ0422  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0423 上清洞真解過訣 Shangqing dongzhen jieguo jue
+
+[KR5b0107](https://github.com/kanripo/KR5b0107) · `CUSTOM_ID` DZ0423 · `HK` CH020329 · `凱希` KX0433 · `三家本` Vol 6, p0633a · `Z中華道藏` ZHDZ02p0329 · `ZHnum` ZH02_031 · `X新文豐` XWDZ11p0372 · `涵芬樓` HFL遜中004
+
+上清洞真解過訣  
+DZ:   DZ0423  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0424 上清明堂元真經訣 Shangqing mingtang yuanzhen jing jue
+
+[KR5b0108](https://github.com/kanripo/KR5b0108) · `CUSTOM_ID` DZ0424 · `HK` CH020330 · `凱希` KX0434 · `三家本` Vol 6, p0638c · `Z中華道藏` ZHDZ02p0325 · `ZHnum` ZH02_030 · `X新文豐` XWDZ11p0381 · `涵芬樓` HFL遜中038
+
+上清明堂元真經訣  
+DZ:   DZ0424  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0425 上清太極隱注玉經寶訣 Shangqing taiji yinzhu yujing baojue
+
+[KR5b0109](https://github.com/kanripo/KR5b0109) · `CUSTOM_ID` DZ0425 · `HK` CH020331 · `凱希` KX0435 · `三家本` Vol 6, p0642a · `Z中華道藏` ZHDZ04p0090 · `ZHnum` ZH04_008 · `X新文豐` XWDZ11p0386 · `涵芬樓` HFL遜中058
+
+上清太極隱注玉經寶訣  
+DZ:   DZ0425  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0426 上清太上八素真經 Shangqing taishang basu zhenjing
+
+[KR5b0110](https://github.com/kanripo/KR5b0110) · `CUSTOM_ID` DZ0426 · `HK` CH020332 · `凱希` KX0436 · `三家本` Vol 6, p0648c · `Z中華道藏` ZHDZ01p0171 · `ZHnum` ZH01_013 · `X新文豐` XWDZ11p0396 · `涵芬樓` HFL遜中98
+
+上清太上八素真經  
+DZ:   DZ0426  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0427 上清修皜夙訣 Shangqing xiuxing jing jue
+
+[KR5b0111](https://github.com/kanripo/KR5b0111) · `CUSTOM_ID` DZ0427 · `HK` CH020333 · `凱希` KX0437 · `三家本` Vol 6, p0658a · `Z中華道藏` ZHDZ02p0381 · `ZHnum` ZH02_036 · `X新文豐` XWDZ11p0410 · `涵芬樓` HFL遜下004
+
+上清修行經訣  
+DZ:   DZ0427  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0428 太上飛行九晨玉經 Taishang feixing jiuchen yujing
+
+[KR5b0112](https://github.com/kanripo/KR5b0112) · `CUSTOM_ID` DZ0428 · `HK` CH020334 · `凱希` KX0438 · `三家本` Vol 6, p0667c · `Z中華道藏` ZHDZ02p0006 · `ZHnum` ZH02_002 · `X新文豐` XWDZ11p0425 · `涵芬樓` HFL遜下062
+
+太上飛行九晨玉經  
+DZ:   DZ0428  
+Contents
+
+**Work notes**
+
+**Comments**
+
+### CMTS0204	靈圖類
+
+#### DZ0429 上清長生寶鑑圖 Shangqing changsheng baojian tu
+
+[KR5b0113](https://github.com/kanripo/KR5b0113) · `CUSTOM_ID` DZ0429 · `HK` CH020401 · `凱希` KX0439 · `三家本` Vol 6, p0679a · `Z中華道藏` ZHDZ02p0535 · `ZHnum` ZH02_073 · `X新文豐` XWDZ11p0442 · `涵芬樓` HFL國上004
+
+上清長生寶鑑圖  
+DZ:   DZ0429  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0430 上清八道秘言圖 Shangqing badao biyan tu
+
+[KR5b0114](https://github.com/kanripo/KR5b0114) · `CUSTOM_ID` DZ0430 · `HK` CH020402 · `凱希` KX0440 · `三家本` Vol 6, p0680b · `Z中華道藏` ZHDZ01p0245 · `ZHnum` ZH01_023 · `X新文豐` XWDZ11p0445 · `涵芬樓` HFL國上012
+
+上清八道秘言圖  
+DZ:   DZ0430  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0431 上清含象劍鑑圖 Shangqing hanxiang jianjian tu
+
+[KR5b0115](https://github.com/kanripo/KR5b0115) · `CUSTOM_ID` DZ0431 · `HK` CH020403 · `凱希` KX0441 · `三家本` Vol 6, p0683c · `Z中華道藏` ZHDZ02p0537 · `ZHnum` ZH02_074 · `X新文豐` XWDZ11p0450 · `涵芬樓` HFL國上032
+
+上清含象劍鑑圖(唐-司馬丞禎)  
+DZ:   DZ0431  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0432 黃庭內景五臟六腑補瀉圖 Huangting neijing wuzang liufu buxie tu
+
+[KR5b0116](https://github.com/kanripo/KR5b0116) · `CUSTOM_ID` DZ0432 · `HK` CH020404 · `凱希` KX0442 · `三家本` Vol 6, p0686c · `Z中華道藏` ZHDZ23p0108 · `ZHnum` ZH23_012 · `X新文豐` XWDZ11p0455 · `涵芬樓` HFL國上050
+
+黃庭內景五臟六腑補瀉圖(唐-胡愔)  
+DZ:   DZ0432  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0433 七域修真證品圖 Qiyu xiuzhen zhengpin tu
+
+[KR5b0117](https://github.com/kanripo/KR5b0117) · `CUSTOM_ID` DZ0433 · `HK` CH020405 · `凱希` KX0443 · `三家本` Vol 6, p0693c · `Z中華道藏` ZHDZ02p0732 · `ZHnum` ZH02_094 · `X新文豐` XWDZ11p0466 · `涵芬樓` HFL國上092
+
+七域修真證品圖  
+DZ:   DZ0433  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0434 玄覽人鳥山經圖 Xuanlan renniao shanjing tu
+
+[KR5b0118](https://github.com/kanripo/KR5b0118) · `CUSTOM_ID` DZ0434 · `HK` CH020406 · `凱希` KX0444 · `三家本` Vol 6, p0696b · `Z中華道藏` ZHDZ04p0367 · `ZHnum` ZH04_068 · `X新文豐` XWDZ11p0470 · `涵芬樓` HFL國上108
+
+玄寶人鳥山經圖  
+DZ:   DZ0434  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0435 太上玉晨鬱儀結璘奔日月圖 Taishang yuchen yuyi jielin ben riyue tu
+
+[KR5b0119](https://github.com/kanripo/KR5b0119) · `CUSTOM_ID` DZ0435 · `HK` CH020407 · `凱希` KX0445 · `三家本` Vol 6, p0698b · `Z中華道藏` ZHDZ01p0249 · `ZHnum` ZH01_024 · `X新文豐` XWDZ11p0473 · `涵芬樓` HFL國上120
+
+太上玉晨鬱儀結璘奔日月圖  
+DZ:   DZ0435  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0436 上方大洞真元妙經品 Shangfang dadong zhenyuan miaojing pin
+
+[KR5b0120](https://github.com/kanripo/KR5b0120) · `CUSTOM_ID` DZ0436 · `HK` CH020408 · `凱希` KX0446 · `三家本` Vol 6, p0704c · `Z中華道藏` ZHDZ30p0747 · `ZHnum` ZH30_052 · `X新文豐` XWDZ11p0482 · `涵芬樓` HFL國上158
+
+上方大洞真元妙經品  
+DZ:   DZ0436  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0437 上方大洞真元妙經圖 Shangfang dadong zhenyuan miaojing tu
+
+[KR5b0121](https://github.com/kanripo/KR5b0121) · `CUSTOM_ID` DZ0437 · `HK` CH020409 · `凱希` KX0447 · `三家本` Vol 6, p0706c · `Z中華道藏` ZHDZ30p0750 · `ZHnum` ZH30_053 · `X新文豐` XWDZ11p0486 · `涵芬樓` HFL國上170
+
+上方大洞真元妙經圖  
+DZ:   DZ0437  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0438 上方大洞真元陰陽陟降圖書後解 Shangfang dadong zhenyuan yinyang zhijiang tushu houjie
+
+[KR5b0122](https://github.com/kanripo/KR5b0122) · `CUSTOM_ID` DZ0438 · `HK` CH020410 · `凱希` KX0448 · `三家本` Vol 6, p0709c · `Z中華道藏` ZHDZ30p0754 · `ZHnum` ZH30_054 · `X新文豐` XWDZ11p0491 · `涵芬樓` HFL國下004
+
+上方大洞真元陰陽陟降圖書後解  
+DZ:   DZ0438  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0439 上方大洞真元圖書繼說終篇 Shangfang dadong zhenyuan tushu jishuo zhongpian
+
+[KR5b0123](https://github.com/kanripo/KR5b0123) · `CUSTOM_ID` DZ0439 · `HK` CH020411 · `凱希` KX0449 · `三家本` Vol 6, p0714a · `Z中華道藏` ZHDZ30p0759 · `ZHnum` ZH30_055 · `X新文豐` XWDZ11p0498 · `涵芬樓` HFL國下030
+
+上方大洞真元圖書繼說終篇  
+DZ:   DZ0439  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0440 酗茈v真君圖傳 Xu taishi zhenjun tuzhuan
+
+[KR5b0124](https://github.com/kanripo/KR5b0124) · `CUSTOM_ID` DZ0440 · `HK` CH020412 · `凱希` KX0450 · `三家本` Vol 6, p0716a · `Z中華道藏` ZHDZ46p0426 · `ZHnum` ZH46_029 · `X新文豐` XWDZ11p0501 · `涵芬樓` HFL國下042
+
+許太史真君圖傳  
+DZ:   DZ0440  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0441 洞玄靈寶五嶽古本真形圖 Dongxuan lingbao wuyue guben zhenxing tu
+
+[KR5b0125](https://github.com/kanripo/KR5b0125) · `CUSTOM_ID` DZ0441 · `HK` CH020413 · `凱希` KX0451 · `三家本` Vol 6, p0735b · `Z中華道藏` ZHDZ04p0348 · `ZHnum` ZH04_066 · `X新文豐` XWDZ11p0530 · `涵芬樓` HFL國下158
+
+洞玄靈寶五嶽古本真形圖(漢-東方朔)  
+DZ:   DZ0441  
+Contents
+
+**Work notes**
+
+**Comments**
+
+### CMTS0205	譜籙類
+
+#### DZ0442 上清後聖道君列紀 Shangqing housheng daojun lieji
+
+[KR5b0126](https://github.com/kanripo/KR5b0126) · `CUSTOM_ID` DZ0442 · `HK` CH020501 · `凱希` KX0452 · `三家本` Vol 6, p0744b · `Z中華道藏` ZHDZ02p0106 · `ZHnum` ZH02_019 · `X新文豐` XWDZ11p0544 · `涵芬樓` HFL有上004
+
+上清後聖道君列記  
+DZ:   DZ0442  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0443 上清高上玉真眾道綜監寶諱 Shangqing gaoshang yuzhen zhongdao zongjian baohui
+
+[KR5b0127](https://github.com/kanripo/KR5b0127) · `CUSTOM_ID` DZ0443 · `HK` CH020502 · `凱希` KX0453 · `三家本` Vol 6, p0748c · `Z中華道藏` ZHDZ02p0708 · `ZHnum` ZH02_091 · `X新文豐` XWDZ11p0551 · `涵芬樓` HFL有上028
+
+上清高上玉真眾道綜監寶諱  
+DZ:   DZ0443  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0444 洞玄靈寶三師記 Dongxuan lingbao sanshi ji
+
+[KR5b0128](https://github.com/kanripo/KR5b0128) · `CUSTOM_ID` DZ0444 · `HK` CH020503 · `凱希` KX0454 · `三家本` Vol 6, p0751a · `Z中華道藏` ZHDZ46p0272 · `ZHnum` ZH46_017 · `X新文豐` XWDZ11p0555 · `涵芬樓` HFL有上042
+
+洞玄靈寶三師記(唐-劉處靜)  
+DZ:   DZ0444  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0445 洞玄靈寶三師名諱形狀居觀方所文 Dongxuan lingbao sanshi minghui xingzhuang juguan fangsuo wen
+
+[KR5b0129](https://github.com/kanripo/KR5b0129) · `CUSTOM_ID` DZ0445 · `HK` CH020504 · `凱希` KX0455 · `三家本` Vol 6, p0754a · `Z中華道藏` ZHDZ42p0128 · `ZHnum` ZH42_014 · `X新文豐` XWDZ11p0560 · `涵芬樓` HFL有上060
+
+洞玄靈寶三師名諱形狀居觀方所文(唐-張萬福)  
+DZ:   DZ0445  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0446 上清眾經諸真聖秘 Shangqing zhongjing zhuzhen shengbi
+
+[KR5b0130](https://github.com/kanripo/KR5b0130) · `CUSTOM_ID` DZ0446 · `HK` CH020505 · `凱希` KX0456 · `三家本` Vol 6, p0755c · `Z中華道藏` ZHDZ02p0656 · `ZHnum` ZH02_090 · `X新文豐` XWDZ11p0563 · `涵芬樓` HFL有上071
+
+上清眾經諸真聖秘  
+DZ:   DZ0446  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0447 陳u君仙傳 Xu zhenjun xianzhuan
+
+[KR5b0131](https://github.com/kanripo/KR5b0131) · `CUSTOM_ID` DZ0447 · `HK` CH020506 · `凱希` KX0457 · `三家本` Vol 6, p0809b · `Z中華道藏` ZHDZ46p0420 · `ZHnum` ZH46_028 · `X新文豐` XWDZ11p0645 · `涵芬樓` HFL虞上004
+
+許真君仙傳  
+DZ:   DZ0447  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0448 西山陳u君八十五化錄 Xishan Xu zhenjun bashiwu hualu
+
+[KR5b0132](https://github.com/kanripo/KR5b0132) · `CUSTOM_ID` DZ0448 · `HK` CH020507 · `凱希` KX0458 · `三家本` Vol 6, p0815a · `Z中華道藏` ZHDZ46p0394 · `ZHnum` ZH46_027 · `X新文豐` XWDZ11p0654 · `涵芬樓` HFL虞上038
+
+西山許真君八十五化錄(宋-施岑)  
+DZ:   DZ0448  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0449 孝道吳酗G真君傳 Xiaodao Wu Xu er zhenjun zhuan
+
+[KR5b0133](https://github.com/kanripo/KR5b0133) · `CUSTOM_ID` DZ0449 · `HK` CH020508 · `凱希` KX0459 · `三家本` Vol 6, p0841a · `Z中華道藏` ZHDZ46p0389 · `ZHnum` ZH46_026 · `X新文豐` XWDZ11p0693 · `涵芬樓` HFL虞下004
+
+孝道吳許二真君傳  
+DZ:   DZ0449  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0450 太極葛仙公傳 Taiji Ge xiangong zhuan
+
+[KR5b0134](https://github.com/kanripo/KR5b0134) · `CUSTOM_ID` DZ0450 · `HK` CH020509 · `凱希` KX0460 · `三家本` Vol 6, p0845b · `Z中華道藏` ZHDZ46p0179 · `ZHnum` ZH46_009 · `X新文豐` XWDZ11p0700 · `涵芬樓` HFL虞下030
+
+太極葛仙公傳(譚嗣先)  
+DZJY: JY138  
+DZJY0: JY138  
+DZ:   DZ0450  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0451 雲阜山申仙翁傳 Yunfu shan Shen xianweng zhuan
+
+[KR5b0135](https://github.com/kanripo/KR5b0135) · `CUSTOM_ID` DZ0451 · `HK` CH020510 · `凱希` KX0461 · `三家本` Vol 6, p0855a · `Z中華道藏` ZHDZ46p0535 · `ZHnum` ZH46_033 · `X新文豐` XWDZ11p0715 · `涵芬樓` HFL虞下038
+
+雲阜山申仙翁傳(元-)  
+DZ:   DZ0451  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0452 南嶽九真人傳 Nanyue Jiu zhenren zhuan
+
+[KR5b0136](https://github.com/kanripo/KR5b0136) · `CUSTOM_ID` DZ0452 · `HK` CH020511 · `凱希` KX0462 · `三家本` Vol 6, p0859b · `Z中華道藏` ZHDZ46p0619 · `ZHnum` ZH46_036 · `X新文豐` XWDZ11p0722 · `涵芬樓` HFL虞下114
+
+南嶽九真人傳(廖侁)  
+DZ:   DZ0452  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0453 南嶽小錄 Nanyue xiaolu
+
+[KR5b0137](https://github.com/kanripo/KR5b0137) · `CUSTOM_ID` DZ0453 · `HK` CH020512 · `凱希` KX0463 · `三家本` Vol 6, p0861c · `Z中華道藏` ZHDZ46p0622 · `ZHnum` ZH46_037 · `X新文豐` XWDZ11p0725 · `涵芬樓` HFL虞下157
+
+南嶽小錄(唐-李沖昭)  
+DZ:   DZ0453  
+Contents
+
+**Work notes**
+
+**Comments**
+
+### CMTS0206	戒律類
+
+#### DZ0454 太上洞玄靈寶上品戒經 Taishang dongxuan lingbao shangpin jiejing
+
+[KR5b0138](https://github.com/kanripo/KR5b0138) · `CUSTOM_ID` DZ0454 · `HK` CH020601 · `凱希` KX0464 · `三家本` Vol 6, p0866c · `Z中華道藏` ZHDZ03p0265 · `ZHnum` ZH03_019 · `X新文豐` XWDZ11p0733 · `涵芬樓` HFL陶上004
+
+太上洞玄靈寶上品戒經  
+DZ:   DZ0454  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0455 太上玄一真人說三塗五苦勸戒經
+
+[KR5b0139](https://github.com/kanripo/KR5b0139) · `nopin` · `CUSTOM_ID` DZ0455 · `HK` CH020602 · `凱希` KX0465 · `三家本` Vol 6, p0869b · `Z中華道藏` ZHDZ03p0317 · `ZHnum` 00 · `X新文豐` XWDZ11p0737 · `涵芬樓` HFL陶上020
+
+太上玄一真人說三塗五苦勸戒經  
+DZ:   DZ0455  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0456 太上洞玄靈寶三元品戒未w輕重經 Taishang dongxuan lingbao sanyuan pinjie gongde qingzhong jing +
+
+[KR5b0140](https://github.com/kanripo/KR5b0140) · `CUSTOM_ID` DZ0456 · `HK` CH020603 · `凱希` KX0466 · `三家本` Vol 6, p0873a · `Z中華道藏` ZHDZ03p0766 · `ZHnum` ZH03_043 · `X新文豐` XWDZ11p0743 · `涵芬樓` HFL陶上042
+
+太上洞玄靈寶三元品戒功德輕重經  
+DZ:   DZ0456  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0457 太上洞玄靈寶智慧罪根上品大戒經 Taishang dongxuan lingbao zhihui zuigen shangpin dajie jing +
+
+[KR5b0141](https://github.com/kanripo/KR5b0141) · `CUSTOM_ID` DZ0457 · `HK` CH020604 · `凱希` KX0467 · `三家本` Vol 6, p0885c · `Z中華道藏` ZHDZ03p0248 · `ZHnum` ZH03_017 · `X新文豐` XWDZ11p0762 · `涵芬樓` HFL陶上118
+
+太上洞玄靈寶智慧罪根上品大戒經  
+DZ:   DZ0457  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0458 上清眾真教戒德行經 Shangqing zhongzhen jiaojie dexing jing
+
+[KR5b0142](https://github.com/kanripo/KR5b0142) · `CUSTOM_ID` DZ0458 · `HK` CH020605 · `凱希` KX0468 · `三家本` Vol 6, p0895b · `Z中華道藏` ZHDZ02p0310 · `ZHnum` ZH02_028 · `X新文豐` XWDZ11p0777 · `涵芬樓` HFL陶下004
+
+上清眾真教戒德行經  
+DZ:   DZ0458  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0459 洞玄靈寶天尊說十戒經 Dongxuan lingbao tianzun shuo shijie jing +
+
+[KR5b0143](https://github.com/kanripo/KR5b0143) · `CUSTOM_ID` DZ0459 · `HK` CH020606 · `凱希` KX0469 · `三家本` Vol 6, p0899c · `Z中華道藏` ZHDZ42p0649 · `ZHnum` ZH42_029 · `X新文豐` XWDZ11p0784 · `涵芬樓` HFL陶下020
+
+洞玄靈寶天尊說十戒經  
+DZ:   DZ0459  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0460 太上洞玄靈寶宣戒首悔眾罪保護經 Taishang dongxuan lingbao xuanjie shouhui zhongzui baohu jing
+
+[KR5b0144](https://github.com/kanripo/KR5b0144) · `CUSTOM_ID` DZ0460 · `HK` CH020607 · `凱希` KX0470 · `三家本` Vol 6, p0900b · `Z中華道藏` ZHDZ05p0116 · `ZHnum` ZH05_008 · `X新文豐` XWDZ11p0785 · `涵芬樓` HFL陶下034
+
+太上洞玄靈寶宣戒首悔眾罪保護經  
+DZ:   DZ0460  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0461 上清骨髓靈文鬼律 Shangqing gusui lingwen guilü
+
+[KR5b0145](https://github.com/kanripo/KR5b0145) · `CUSTOM_ID` DZ0461 · `HK` CH020608 · `凱希` KX0471 · `三家本` Vol 6, p0908c · `Z中華道藏` ZHDZ30p0295 · `ZHnum` ZH30_030 · `X新文豐` XWDZ11p0798 · `涵芬樓` HFL陶下084
+
+上清骨髓靈文鬼律(宋-鄧有功)  
+DZ:   DZ0461  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0462 太上洞玄靈寶法身製論 Taishang dongxuan lingbao fashen zhilun
+
+[KR5b0146](https://github.com/kanripo/KR5b0146) · `CUSTOM_ID` DZ0462 · `HK` CH020609 · `凱希` KX0472 · `三家本` Vol 6, p0921a · `Z中華道藏` ZHDZ42p0078 · `ZHnum` ZH42_006 · `X新文豐` XWDZ11p0817 · `涵芬樓` HFL陶下158
+
+太上洞玄靈寶法身製論  
+DZ:   DZ0462  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0463 要修科儀戒律鈔 Yaoxiu keyi jielü chao
+
+[KR5b0147](https://github.com/kanripo/KR5b0147) · `CUSTOM_ID` DZ0463 · `HK` CH020610 · `凱希` KX0473 · `三家本` Vol 6, p0922a · `Z中華道藏` ZHDZ42p0159 · `ZHnum` ZH42_019 · `X新文豐` XWDZ11p0819 · `涵芬樓` HFL唐上004
+
+要修科儀戒律鈔(朱法滿)  
+DZJY: JY280  
+DZJY0: JY280  
+DZ:   DZ0463  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0464 齋戒籙 Zhaijie lu
+
+[KR5b0148](https://github.com/kanripo/KR5b0148) · `CUSTOM_ID` DZ0464 · `HK` CH020611 · `凱希` KX0474 · `三家本` Vol 6, p1002c · `Z中華道藏` ZHDZ42p0245 · `ZHnum` ZH42_020 · `X新文豐` XWDZ11p0943 · `涵芬樓` HFL弔下088
+
+齋戒籙  
+DZ:   DZ0464  
+Contents
+
+**Work notes**
+
+**Comments**
+
+### CMTS0207	威儀類
+
+#### DZ0465 靈寶領教濟度金書目錄 Lingbao lingjiao jidu jinshu mulu
+
+[KR5b0149](https://github.com/kanripo/KR5b0149) · `CUSTOM_ID` DZ0465 · `HK` CH0207001 · `凱希` KX0475 · `三家本` Vol 7, p0001a · `Z中華道藏` ZHDZ39p0001 · `ZHnum` 00 · `X新文豐` XWDZ12p0026 · `涵芬樓` HFL民上004
+
+靈寶領教濟度金書目錄  
+DZ:   DZ0465  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0466 靈寶領教濟度金書 Lingbao lingjiao jidu jinshu
+
+[KR5b0150](https://github.com/kanripo/KR5b0150) · `CUSTOM_ID` DZ0466 · `HK` CH0207001 · `凱希` xx · `三家本` xx · `Z中華道藏` ZHDZ39p0001 · `ZHnum` 00 · `X新文豐` XWDZ12p0026 · `涵芬樓` HFL民上004
+
+靈寶領教濟度金書  
+DZ:   DZ0466  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0467 大明玄教立成齋醮儀 Daming xuanjiao licheng zhaijiao yi
+
+[KR5b0151](https://github.com/kanripo/KR5b0151) · `CUSTOM_ID` DZ0467 · `HK` CH0207002 · `凱希` KX0476 · `三家本` Vol 9, p0001a · `Z中華道藏` ZHDZ44p0616 · `ZHnum` ZH44_063 · `X新文豐` XWDZ15p0001 · `涵芬樓` HFL壹上004
+
+大明玄教立成齋醮儀範(明-宗真宗)  
+DZ:   DZ0467  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0468 洪恩靈濟真君自然行道儀 Hong'en lingji zhenjun ziran xingdao yi
+
+[KR5b0152](https://github.com/kanripo/KR5b0152) · `CUSTOM_ID` DZ0468 · `HK` CH0207003 · `凱希` KX0477 · `三家本` Vol 9, p0008b · `Z中華道藏` ZHDZ31p0628 · `ZHnum` ZH31_057 · `X新文豐` XWDZ15p0013 · `涵芬樓` HFL壹上048
+
+洪恩靈濟真君自然行道儀  
+DZ:   DZ0468  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0469 洪恩靈濟真君集福宿啟儀 Hong'en lingji zhenjun jifu suqi yi
+
+[KR5b0153](https://github.com/kanripo/KR5b0153) · `CUSTOM_ID` DZ0469 · `HK` CH0207004 · `凱希` KX0478 · `三家本` Vol 9, p0010c · `Z中華道藏` ZHDZ31p0630 · `ZHnum` ZH31_058 · `X新文豐` XWDZ15p0017 · `涵芬樓` HFL壹上062
+
+洪恩靈濟真君集福宿啟儀  
+DZ:   DZ0469  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0470 洪恩靈濟真君集福早朝儀 Hong'en lingji zhenjun jifu zaochao yi
+
+[KR5b0154](https://github.com/kanripo/KR5b0154) · `CUSTOM_ID` DZ0470 · `HK` CH0207005 · `凱希` KX0479 · `三家本` Vol 9, p0012c · `Z中華道藏` ZHDZ31p0632 · `ZHnum` ZH31_059 · `X新文豐` XWDZ15p0020 · `涵芬樓` HFL壹上
+
+洪恩靈濟真君集福早朝儀  
+DZ:   DZ0470  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0471 洪恩靈濟真君集福午朝儀 Hong'en lingji zhenjun jifu wuchao yi
+
+[KR5b0155](https://github.com/kanripo/KR5b0155) · `CUSTOM_ID` DZ0471 · `HK` CH0207006 · `凱希` KX0480 · `三家本` Vol 9, p0015b · `Z中華道藏` ZHDZ31p0635 · `ZHnum` ZH31_060 · `X新文豐` XWDZ15p0024 · `涵芬樓` HFL壹上088
+
+洪恩靈濟真君集福午朝儀  
+DZ:   DZ0471  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0472 洪恩靈濟真君集福晚朝儀 Hong'en lingji zhenjun jifu wanchao yi
+
+[KR5b0156](https://github.com/kanripo/KR5b0156) · `CUSTOM_ID` DZ0472 · `HK` CH0207007 · `凱希` KX0481 · `三家本` Vol 9, p0018b · `Z中華道藏` ZHDZ31p0638 · `ZHnum` ZH31_061 · `X新文豐` XWDZ15p0029 · `涵芬樓` HFL壹上106
+
+洪恩靈濟真君集福晚朝儀  
+DZ:   DZ0472  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0473 洪恩靈濟真君祈謝設醮科 Hong'en lingji zhenjun qixie shejiao ke
+
+[KR5b0157](https://github.com/kanripo/KR5b0157) · `CUSTOM_ID` DZ0473 · `HK` CH0207008 · `凱希` KX0482 · `三家本` Vol 9, p0021b · `Z中華道藏` ZHDZ31p0641 · `ZHnum` ZH31_062 · `X新文豐` XWDZ15p0034 · `涵芬樓` HFL壹上124
+
+洪恩靈濟真君祈謝設醮科  
+DZ:   DZ0473  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0474 洪恩靈濟真君禮願文 Hong'en lingji zhenjun liyuan wen
+
+[KR5b0158](https://github.com/kanripo/KR5b0158) · `CUSTOM_ID` DZ0474 · `HK` CH0207009 · `凱希` KX0483 · `三家本` Vol 9, p0024b · `Z中華道藏` ZHDZ31p0651 · `ZHnum` ZH31_064 · `X新文豐` XWDZ15p0039 · `涵芬樓` HFL壹上142
+
+洪恩靈濟真君禮願文  
+DZ:   DZ0474  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0475 洪恩靈濟真君七政星燈儀 Hong'en lingji zhenjun qizheng xingdeng yi
+
+[KR5b0159](https://github.com/kanripo/KR5b0159) · `CUSTOM_ID` DZ0475 · `HK` CH0207010 · `凱希` KX0484 · `三家本` Vol 9, p0039a · `Z中華道藏` ZHDZ31p0645 · `ZHnum` ZH31_063 · `X新文豐` XWDZ09p0039 · `涵芬樓` HFL壹下004
+
+洪恩靈濟真君七政星燈儀  
+DZ:   DZ0475  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0476 洪恩靈濟真君事實 Hong'en lingji zhenjun shishi
+
+[KR5b0160](https://github.com/kanripo/KR5b0160) · `CUSTOM_ID` DZ0476 · `HK` CH0207011 · `凱希` KX0485 · `三家本` Vol 9, p0044b · `Z中華道藏` ZHDZ31p0625 · `ZHnum` ZH31_056 · `X新文豐` XWDZ15p0070 · `涵芬樓` HFL壹下036
+
+洪恩靈濟真君事實  
+DZ:   DZ0476  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0477 羅天大醮早朝儀 Luotian dajiao zaochao yi
+
+[KR5b0161](https://github.com/kanripo/KR5b0161) · `CUSTOM_ID` DZ0477 · `HK` CH0207012 · `凱希` KX0486 · `三家本` Vol 9, p0047b · `Z中華道藏` ZHDZ44p0372 · `ZHnum` ZH44_045 · `X新文豐` XWDZ15p0075 · `涵芬樓` HFL壹下054
+
+羅天大醮早朝科  
+DZ:   DZ0477  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0478 羅天大醮午朝儀 Luotian dajiao wuchao yi
+
+[KR5b0162](https://github.com/kanripo/KR5b0162) · `CUSTOM_ID` DZ0478 · `HK` CH0207013 · `凱希` KX0487 · `三家本` Vol 9, p0049c · `Z中華道藏` ZHDZ44p0374 · `ZHnum` ZH44_045 · `X新文豐` XWDZ15p0079 · `涵芬樓` HFL壹下067
+
+羅天大醮午朝科  
+DZ:   DZ0478  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0479 羅天大醮晚朝儀 Luotian dajiao wanchao yi
+
+[KR5b0163](https://github.com/kanripo/KR5b0163) · `CUSTOM_ID` DZ0479 · `HK` CH0207014 · `凱希` KX0488 · `三家本` Vol 9, p0052a · `Z中華道藏` ZHDZ44p0347 · `ZHnum` ZH44_045 · `X新文豐` XWDZ15p0083 · `涵芬樓` HFL壹下082
+
+羅天大醮晚朝科  
+DZ:   DZ0479  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0480 羅天大醮設醮儀 Luotian dajiao shejiao yi
+
+[KR5b0164](https://github.com/kanripo/KR5b0164) · `CUSTOM_ID` DZ0480 · `HK` CH0207015 · `凱希` KX0489 · `三家本` Vol 9, p0054c · `Z中華道藏` ZHDZ44p0380 · `ZHnum` ZH44_046 · `X新文豐` XWDZ15p0087 · `涵芬樓` HFL壹下098
+
+羅天大醮設醮儀  
+DZ:   DZ0480  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0481 玄門報孝追薦儀 Xuanmen baoxiao zhuijian yi
+
+[KR5b0165](https://github.com/kanripo/KR5b0165) · `CUSTOM_ID` DZ0481 · `HK` CH0207016 · `凱希` KX0490 · `三家本` Vol 9, p0057c · `Z中華道藏` ZHDZ44p0407 · `ZHnum` ZH44_052 · `X新文豐` XWDZ15p0092 · `涵芬樓` HFL壹下116
+
+玄門報孝追薦儀  
+DZ:   DZ0481  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0482 諸師聖誕沖舉酌獻儀 Zhushi shengdan chongju zhuoxian yi
+
+[KR5b0166](https://github.com/kanripo/KR5b0166) · `CUSTOM_ID` DZ0482 · `HK` CH0207017 · `凱希` KX0491 · `三家本` Vol 9, p0062c · `Z中華道藏` ZHDZ44p0412 · `ZHnum` ZH44_053 · `X新文豐` XWDZ15p0100 · `涵芬樓` HFL壹下146
+
+諸師聖誕沖舉酌獻儀  
+DZ:   DZ0482  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0483 金籙齋啟壇儀 Jinlu zhaiqi tan yi
+
+[KR5b0167](https://github.com/kanripo/KR5b0167) · `CUSTOM_ID` DZ0483 · `HK` CH0207018 · `凱希` KX0492 · `三家本` Vol 9, p0067a · `Z中華道藏` ZHDZ43p0007 · `ZHnum` ZH43_002 · `X新文豐` XWDZ15p0107 · `涵芬樓` HFL體上004
+
+金籙齋啟壇儀(前蜀-杜光庭)  
+DZ:   DZ0483  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0484 金籙大齋宿啟儀 Jinlu dazhai suqi yi
+
+[KR5b0168](https://github.com/kanripo/KR5b0168) · `CUSTOM_ID` DZ0484 · `HK` CH0207019 · `凱希` KX0493 · `三家本` Vol 9, p0070c · `Z中華道藏` ZHDZ43p0014 · `ZHnum` ZH43_004 · `X新文豐` XWDZ15p0113 · `涵芬樓` HFL體上026
+
+金籙大齋宿啟儀  
+DZ:   DZ0484  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0485 金籙大齋啟盟儀 Jinlu dazhai qiming yi
+
+[KR5b0169](https://github.com/kanripo/KR5b0169) · `CUSTOM_ID` DZ0485 · `HK` CH0207020 · `凱希` KX0494 · `三家本` Vol 9, p0072c · `Z中華道藏` ZHDZ43p0016 · `ZHnum` ZH43_005 · `X新文豐` XWDZ15p0116 · `涵芬樓` HFL體上038
+
+金籙大齋啟盟儀  
+DZ:   DZ0485  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0486 金籙大齋補職說戒儀 Jinlu dazhai buzhi shuojie yi
+
+[KR5b0170](https://github.com/kanripo/KR5b0170) · `CUSTOM_ID` DZ0486 · `HK` CH0207021 · `凱希` KX0495 · `三家本` Vol 9, p0074a · `Z中華道藏` ZHDZ43p0018 · `ZHnum` ZH43_006 · `X新文豐` XWDZ15p0118 · `涵芬樓` HFL體上046
+
+金籙大齋補職說戒儀  
+DZ:   DZ0486  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0487a 金籙早朝儀
+
+`nopin` · `CUSTOM_ID` DZ0487a · `HK` CH0207022 · `凱希` KX0496 · `三家本` Vol 9, p0077a · `Z中華道藏` ZHDZ43p0021 · `ZHnum` 00 · `X新文豐` XWDZ15p0123 · `涵芬樓` HFL體上064
+
+金籙早朝儀  
+DZ:   DZ0487a  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0487b 金籙午朝儀
+
+`nopin` · `CUSTOM_ID` DZ0487b · `HK` CH0207023 · `凱希` KX0497 · `三家本` Vol 9, p0079b · `Z中華道藏` ZHDZ43p0023 · `ZHnum` 00 · `X新文豐` XWDZ15p0127 · `涵芬樓` HFL體上078
+
+金籙午朝儀  
+DZ:   DZ0487b  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0487c 金籙晚朝儀
+
+`nopin` · `CUSTOM_ID` DZ0487c · `HK` CH0207024 · `凱希` KX0498 · `三家本` Vol 9, p0081b · `Z中華道藏` ZHDZ43p0025 · `ZHnum` 00 · `X新文豐` XWDZ15p0130 · `涵芬樓` HFL體上088
+
+金籙晚朝儀  
+DZ:   DZ0487c  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0488 金籙齋懺方儀 Jinlu zhaichan fangyi
+
+[KR5b0174](https://github.com/kanripo/KR5b0174) · `CUSTOM_ID` DZ0488 · `HK` CH0207025 · `凱希` KX0499 · `三家本` Vol 9, p0083c · `Z中華道藏` ZHDZ43p0011 · `ZHnum` ZH43_003 · `X新文豐` XWDZ15p0134 · `涵芬樓` HFL體上104
+
+金籙齋懺方儀(前蜀-杜光庭)  
+DZ:   DZ0488  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0489 金籙解壇儀 Jinlu jietan yi
+
+[KR5b0175](https://github.com/kanripo/KR5b0175) · `CUSTOM_ID` DZ0489 · `HK` CH0207026 · `凱希` KX0500 · `三家本` Vol 9, p0086c · `Z中華道藏` ZHDZ43p0028 · `ZHnum` ZH43_008 · `X新文豐` XWDZ15p0139 · `涵芬樓` HFL體上122
+
+金籙解壇儀  
+DZ:   DZ0489  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0490 金籙設醮儀 Jinlu shejiao yi
+
+[KR5b0176](https://github.com/kanripo/KR5b0176) · `CUSTOM_ID` DZ0490 · `HK` CH0207027 · `凱希` KX0501 · `三家本` Vol 9, p0088c · `Z中華道藏` ZHDZ43p0043 · `ZHnum` ZH43_011 · `X新文豐` XWDZ15p0142 · `涵芬樓` HFL體上134
+
+金籙設醮儀  
+DZ:   DZ0490  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0491 金籙放生儀 Jinlu fangsheng yi
+
+[KR5b0177](https://github.com/kanripo/KR5b0177) · `CUSTOM_ID` DZ0491 · `HK` CH0207028 · `凱希` KX0502 · `三家本` Vol 9, p0091a · `Z中華道藏` ZHDZ43p0046 · `ZHnum` ZH43_012 · `X新文豐` XWDZ15p0146 · `涵芬樓` HFL體上148
+
+金籙放生儀  
+DZ:   DZ0491  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0492a 金籙祈禱早朝儀
+
+`nopin` · `CUSTOM_ID` DZ0492a · `HK` CH0207029 · `凱希` KX0503 · `三家本` Vol 9, p0092b · `Z中華道藏` ZHDZ43p0048 · `ZHnum` 00 · `X新文豐` XWDZ15p0148 · `涵芬樓` HFL體上156
+
+金籙祈禱早朝儀  
+DZ:   DZ0492a  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0492b 金籙祈禱午朝儀
+
+`nopin` · `CUSTOM_ID` DZ0492b · `HK` CH0207030 · `凱希` KX0504 · `三家本` Vol 9, p0094c · `Z中華道藏` ZHDZ43p0050 · `ZHnum` 00 · `X新文豐` XWDZ15p0152 · `涵芬樓` HFL體上170
+
+金籙祈禱午朝儀  
+DZ:   DZ0492b  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0492c 金籙祈禱晚朝儀
+
+`nopin` · `CUSTOM_ID` DZ0492c · `HK` CH0207031 · `凱希` KX0505 · `三家本` Vol 9, p0097a · `Z中華道藏` ZHDZ43p0052 · `ZHnum` 00 · `X新文豐` XWDZ15p0156 · `涵芬樓` HFL體上183
+
+金籙祈禱晚朝儀  
+DZ:   DZ0492c  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0493 金籙上壽三獻儀 Jinlu shangshou sanxian yi
+
+[KR5b0181](https://github.com/kanripo/KR5b0181) · `CUSTOM_ID` DZ0493 · `HK` CH0207032 · `凱希` KX0506 · `三家本` Vol 9, p0099a · `Z中華道藏` ZHDZ43p0054 · `ZHnum` ZH43_014 · `X新文豐` XWDZ15p0159 · `涵芬樓` HFL體下004
+
+金籙上壽三獻儀  
+DZ:   DZ0493  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0494 金籙延壽設醮儀 Jinlu yanshou shejiao yi
+
+[KR5b0182](https://github.com/kanripo/KR5b0182) · `CUSTOM_ID` DZ0494 · `HK` CH0207033 · `凱希` KX0507 · `三家本` Vol 9, p0100b · `Z中華道藏` ZHDZ43p0056 · `ZHnum` ZH43_015 · `X新文豐` XWDZ15p0162 · `涵芬樓` HFL體下012
+
+金籙延壽設醮儀  
+DZ:   DZ0494  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0495a 玄靈轉經早朝行道儀
+
+`nopin` · `CUSTOM_ID` DZ0495a · `HK` CH0207034 · `凱希` KX0508 · `三家本` Vol 9, p0102c · `Z中華道藏` ZHDZ43p0059 · `ZHnum` 00 · `X新文豐` XWDZ15p0166 · `涵芬樓` HFL體下026
+
+玄靈轉經早朝行道儀  
+DZ:   DZ0495a  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0495b 玄靈轉經午朝行道儀
+
+`nopin` · `CUSTOM_ID` DZ0495b · `HK` CH0207035 · `凱希` KX0509 · `三家本` Vol 9, p0106a · `Z中華道藏` ZHDZ43p0062 · `ZHnum` 00 · `X新文豐` XWDZ15p0171 · `涵芬樓` HFL體下045
+
+玄靈轉經午朝行道儀  
+DZ:   DZ0495b  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0495c 玄靈轉經晚朝行道儀
+
+`nopin` · `CUSTOM_ID` DZ0495c · `HK` CH0207036 · `凱希` KX0510 · `三家本` Vol 9, p0109a · `Z中華道藏` ZHDZ43p0065 · `ZHnum` 00 · `X新文豐` XWDZ15p0176 · `涵芬樓` HFL體下063
+
+玄靈轉經晚朝行道儀  
+DZ:   DZ0495c  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0496a 金籙十迴度人早朝開收儀
+
+`nopin` · `CUSTOM_ID` DZ0496a · `HK` CH0207037 · `凱希` KX0511 · `三家本` Vol 9, p0112a · `Z中華道藏` ZHDZ43p0068 · `ZHnum` 00 · `X新文豐` XWDZ15p0181 · `涵芬樓` HFL體下082
+
+金籙十迴度人早朝開收儀  
+DZ:   DZ0496a  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0496b 金籙十迴度人午朝開收儀
+
+`nopin` · `CUSTOM_ID` DZ0496b · `HK` CH0207038 · `凱希` KX0512 · `三家本` Vol 9, p0115c · `Z中華道藏` ZHDZ43p0071 · `ZHnum` 00 · `X新文豐` XWDZ15p0187 · `涵芬樓` HFL體下104
+
+金籙十迴度人午朝開收儀  
+DZ:   DZ0496b  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0496c 金籙十迴度人晚朝開收儀
+
+`nopin` · `CUSTOM_ID` DZ0496c · `HK` CH0207039 · `凱希` KX0513 · `三家本` Vol 9, p0119a · `Z中華道藏` ZHDZ43p0075 · `ZHnum` 00 · `X新文豐` XWDZ15p0192 · `涵芬樓` HFL體下124
+
+金籙十迴度人晚朝開收儀  
+DZ:   DZ0496c  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0497a 金籙十迴度人早朝轉經儀
+
+`nopin` · `CUSTOM_ID` DZ0497a · `HK` CH0207040 · `凱希` KX0514 · `三家本` Vol 9, p0121b · `Z中華道藏` ZHDZ43p0078 · `ZHnum` 00 · `X新文豐` XWDZ15p0196 · `涵芬樓` HFL體下138
+
+金籙十迴度人早朝轉經儀  
+DZ:   DZ0497a  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0497b 金籙十迴度人午朝轉經儀
+
+`nopin` · `CUSTOM_ID` DZ0497b · `HK` CH0207041 · `凱希` KX0515 · `三家本` Vol 9, p0125b · `Z中華道藏` ZHDZ43p0081 · `ZHnum` 00 · `X新文豐` XWDZ09p0125 · `涵芬樓` HFL體下160
+
+金籙十迴度人午朝轉經儀  
+DZ:   DZ0497b  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0497c 金籙十迴度人晚朝轉經儀
+
+`nopin` · `CUSTOM_ID` DZ0497c · `HK` CH0207042 · `凱希` KX0516 · `三家本` Vol 9, p0128a · `Z中華道藏` ZHDZ43p0084 · `ZHnum` 00 · `X新文豐` XWDZ15p0206 · `涵芬樓` HFL體下176
+
+金籙十迴度人晚朝轉經儀  
+DZ:   DZ0497c  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0498 金籙齋投簡儀 Jinlu zhaitou jianyi
+
+[KR5b0192](https://github.com/kanripo/KR5b0192) · `CUSTOM_ID` DZ0498 · `HK` CH0207043 · `凱希` KX0517 · `三家本` Vol 9, p0131a · `Z中華道藏` ZHDZ43p0030 · `ZHnum` ZH43_009 · `X新文豐` XWDZ15p0211 · `涵芬樓` HFL體下196
+
+金籙齋投簡儀  
+DZ:   DZ0498  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0499 玉籙資度宿啟儀 Yulu zidu suqi yi
+
+[KR5b0193](https://github.com/kanripo/KR5b0193) · `CUSTOM_ID` DZ0499 · `HK` CH0207044 · `凱希` KX0518 · `三家本` Vol 9, p0134c · `Z中華道藏` ZHDZ43p0088 · `ZHnum` ZH43_019 · `X新文豐` XWDZ15p0217 · `涵芬樓` HFL率上004
+
+玉籙資度宿啟儀  
+DZ:   DZ0499  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0500 玉籙資度解壇儀 Yulu zidu jietan yi
+
+[KR5b0194](https://github.com/kanripo/KR5b0194) · `CUSTOM_ID` DZ0500 · `HK` CH0207045 · `凱希` KX0519 · `三家本` Vol 9, p0137a · `Z中華道藏` ZHDZ43p0091 · `ZHnum` ZH43_020 · `X新文豐` XWDZ15p0221 · `涵芬樓` HFL率上018
+
+玉籙資度解壇儀  
+DZ:   DZ0500  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0501 玉籙資度設醮儀 Yulu zidu shejiao yi
+
+[KR5b0195](https://github.com/kanripo/KR5b0195) · `CUSTOM_ID` DZ0501 · `HK` CH0207046 · `凱希` KX0520 · `三家本` Vol 9, p0139c · `Z中華道藏` ZHDZ43p0094 · `ZHnum` ZH43_021 · `X新文豐` XWDZ15p0225 · `涵芬樓` HFL率上034
+
+玉籙資度設醮儀  
+DZ:   DZ0501  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0502a 玉籙資度早朝儀
+
+`nopin` · `CUSTOM_ID` DZ0502a · `HK` CH0207047 · `凱希` KX0521 · `三家本` Vol 9, p0142a · `Z中華道藏` ZHDZ43p0097 · `ZHnum` 00 · `X新文豐` XWDZ15p0229 · `涵芬樓` HFL率上048
+
+玉籙資度早朝儀  
+DZ:   DZ0502a  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0502b 玉籙資度午朝儀
+
+`nopin` · `CUSTOM_ID` DZ0502b · `HK` CH0207048 · `凱希` KX0522 · `三家本` Vol 9, p0144a · `Z中華道藏` ZHDZ43p0099 · `ZHnum` 00 · `X新文豐` XWDZ15p0132 · `涵芬樓` HFL率上060
+
+玉籙資度午朝儀  
+DZ:   DZ0502b  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0502c 玉籙資度晚朝儀
+
+`nopin` · `CUSTOM_ID` DZ0502c · `HK` CH0207049 · `凱希` KX0523 · `三家本` Vol 9, p0146a · `Z中華道藏` ZHDZ43p0101 · `ZHnum` 00 · `X新文豐` XWDZ15p0235 · `涵芬樓` HFL率上072
+
+玉籙資度晚朝儀  
+DZ:   DZ0502c  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0503 玉籙生神資度轉經儀 Yulu shengshen zidu zhuanjing yi
+
+[KR5b0199](https://github.com/kanripo/KR5b0199) · `CUSTOM_ID` DZ0503 · `HK` CH0207050 · `凱希` KX0524 · `三家本` Vol 9, p0148a · `Z中華道藏` ZHDZ43p0103 · `ZHnum` ZH43_023 · `X新文豐` XWDZ15p0238 · `涵芬樓` HFL率上084
+
+玉籙生神資度轉經儀  
+DZ:   DZ0503  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0504 玉籙生神資度開收儀 Yulu shengshen zidu kaishou yi
+
+[KR5b0200](https://github.com/kanripo/KR5b0200) · `CUSTOM_ID` DZ0504 · `HK` CH0207051 · `凱希` KX0525 · `三家本` Vol 9, p0157a · `Z中華道藏` ZHDZ43p0113 · `ZHnum` ZH43_024 · `X新文豐` XWDZ15p0253 · `涵芬樓` HFL率下004
+
+玉籙生神資度開收儀  
+DZ:   DZ0504  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0505a 玉籙大齋第一日早朝儀
+
+`nopin` · `CUSTOM_ID` DZ0505a · `HK` CH0207052 · `凱希` KX0526 · `三家本` Vol 9, p0162c · `Z中華道藏` ZHDZ43p0119 · `ZHnum` 00 · `X新文豐` XWDZ15p0262 · `涵芬樓` HFL率下038
+
+玉籙大齋第一日早朝儀  
+DZ:   DZ0505a  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0505b 玉籙大齋第一日午朝儀
+
+`nopin` · `CUSTOM_ID` DZ0505b · `HK` CH0207053 · `凱希` KX0527 · `三家本` Vol 9, p0164c · `Z中華道藏` ZHDZ43p0121 · `ZHnum` 00 · `X新文豐` XWDZ15p0265 · `涵芬樓` HFL率下050
+
+玉籙大齋第一日午朝儀  
+DZ:   DZ0505b  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0505c 玉籙大齋第一日晚朝儀
+
+`nopin` · `CUSTOM_ID` DZ0505c · `HK` CH0207054 · `凱希` KX0528 · `三家本` Vol 9, p0166b · `Z中華道藏` ZHDZ43p0123 · `ZHnum` 00 · `X新文豐` XWDZ15p0267 · `涵芬樓` HFL率下060
+
+玉籙大齋第一日晚朝儀  
+DZ:   DZ0505c  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0505d 玉籙大齋第二日早朝儀
+
+`nopin` · `CUSTOM_ID` DZ0505d · `HK` CH0207055 · `凱希` KX0529 · `三家本` Vol 9, p0168a · `Z中華道藏` ZHDZ00p0000 · `ZHnum` 00 · `X新文豐` XWDZ15p0270 · `涵芬樓` HFL率下070
+
+玉籙大齋第二日早朝儀  
+DZ:   DZ0505d  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0505e 玉籙大齋第二日午朝儀
+
+`nopin` · `CUSTOM_ID` DZ0505e · `HK` CH0207056 · `凱希` KX0530 · `三家本` Vol 9, p0170a · `Z中華道藏` ZHDZ43p0126 · `ZHnum` 00 · `X新文豐` XWDZ15p0271 · `涵芬樓` HFL率下076
+
+玉籙大齋第二日午朝儀  
+DZ:   DZ0505e  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0505f 玉籙大齋第二日晚朝儀
+
+`nopin` · `CUSTOM_ID` DZ0505f · `HK` CH0207057 · `凱希` KX0531 · `三家本` Vol 9, p0172a · `Z中華道藏` ZHDZ43p0128 · `ZHnum` 00 · `X新文豐` XWDZ15p0274 · `涵芬樓` HFL率下088
+
+玉籙大齋第二日晚朝儀  
+DZ:   DZ0505f  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0505g 玉籙大齋第三日早朝儀
+
+`nopin` · `CUSTOM_ID` DZ0505g · `HK` CH0207058 · `凱希` KX0532 · `三家本` Vol 9, p0174a · `Z中華道藏` ZHDZ43p0130 · `ZHnum` 00 · `X新文豐` XWDZ15p0277 · `涵芬樓` HFL率下100
+
+玉籙大齋第三日早朝儀  
+DZ:   DZ0505g  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0505h 玉籙大齋第三日午朝儀
+
+`nopin` · `CUSTOM_ID` DZ0505h · `HK` CH0207059 · `凱希` KX0533 · `三家本` Vol 9, p0176b · `Z中華道藏` ZHDZ43p0133 · `ZHnum` 00 · `X新文豐` XWDZ15p0281 · `涵芬樓` HFL率下114
+
+玉籙大齋第三日午朝儀  
+DZ:   DZ0505h  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0506 玉籙濟幽判解儀 Yulu jiyou panjie yi
+
+[KR5b0209](https://github.com/kanripo/KR5b0209) · `CUSTOM_ID` DZ0506 · `HK` CH0207060 · `凱希` KX0534 · `三家本` Vol 9, p0178b · `Z中華道藏` ZHDZ43p0135 · `ZHnum` ZH43_026 · `X新文豐` XWDZ15p0284 · `涵芬樓` HFL率下126
+
+玉籙濟幽判斛儀  
+DZ:   DZ0506  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0507 太上黃籙齋儀 Taishang huanglu zhaiyi
+
+[KR5b0210](https://github.com/kanripo/KR5b0210) · `CUSTOM_ID` DZ0507 · `HK` CH0207061 · `凱希` KX0535 · `三家本` Vol 9, p0181b · `Z中華道藏` ZHDZ43p0139 · `ZHnum` ZH43_027 · `X新文豐` XWDZ15p0289 · `涵芬樓` HFL賓上004
+
+太上黃籙齋儀(前蜀-杜光庭)  
+DZ:   DZ0507  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0508 無上黃籙大齋立成儀 Wushang huanglu dazhai licheng yi
+
+[KR5b0211](https://github.com/kanripo/KR5b0211) · `CUSTOM_ID` DZ0508 · `HK` CH0207062 · `凱希` KX0536 · `三家本` Vol 9, p0378a · `Z中華道藏` ZHDZ43p0326 · `ZHnum` ZH43_028 · `X新文豐` XWDZ15p0607 · `涵芬樓` HFL鳳上004
+
+無上黃籙大齋立成儀(宋-留用光)  
+DZJY: JY282  
+DZJY0: JY282  
+DZ:   DZ0508  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### xx 無上黃籙大齋立成儀修書本末
+
+`nopin` · `CUSTOM_ID` xx · `HK` CH0207063 · `凱希` xx · `三家本` x · `Z中華道藏` XX · `ZHnum` XX · `X新文豐` XWDZ16p0001 · `涵芬樓` HFL
+
+無上黃籙大齋立成儀修書本末  
+DZ:   xx  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0509 黃籙救苦十齋轉經儀 Huanglu jiuku shizhai zhuanjing yi
+
+[KR5b0212](https://github.com/kanripo/KR5b0212) · `CUSTOM_ID` DZ0509 · `HK` CH0207064 · `凱希` KX0537 · `三家本` Vol 9, p0730a · `Z中華道藏` ZHDZ43p0667 · `ZHnum` ZH43_029 · `X新文豐` XWDZ16p0351 · `涵芬樓` HFL場上004
+
+黃籙救苦十齋轉經儀  
+DZ:   DZ0509  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0510 黃籙十念儀 Huanglu shinian yi
+
+[KR5b0213](https://github.com/kanripo/KR5b0213) · `CUSTOM_ID` DZ0510 · `HK` CH0207065 · `凱希` KX0538 · `三家本` Vol 9, p0736b · `Z中華道藏` ZHDZ43p0674 · `ZHnum` ZH43_030 · `X新文豐` XWDZ16p0361 · `涵芬樓` HFL場上042
+
+黃籙救苦十念儀  
+DZ:   DZ0510  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0511 黃籙五老悼亡儀 Huanglu wulao daowang yi
+
+[KR5b0214](https://github.com/kanripo/KR5b0214) · `CUSTOM_ID` DZ0511 · `HK` CH0207066 · `凱希` KX0539 · `三家本` Vol 9, p0738c · `Z中華道藏` ZHDZ43p0676 · `ZHnum` ZH43_031 · `X新文豐` XWDZ16p0365 · `涵芬樓` HFL場上056
+
+黃籙五老悼亡儀  
+DZ:   DZ0511  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0512 黃籙齋十天尊儀 Huanglu zhai shi tianzun yi
+
+[KR5b0215](https://github.com/kanripo/KR5b0215) · `CUSTOM_ID` DZ0512 · `HK` CH0207067 · `凱希` KX0540 · `三家本` Vol 9, p0740c · `Z中華道藏` ZHDZ43p0678 · `ZHnum` ZH43_032 · `X新文豐` XWDZ16p0368 · `涵芬樓` HFL場上068
+
+黃籙齋十天尊儀  
+DZ:   DZ0512  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0513 黃籙齋十洲三島拔度儀 Huanglu zhai shizhou sandao badu yi
+
+[KR5b0216](https://github.com/kanripo/KR5b0216) · `CUSTOM_ID` DZ0513 · `HK` CH0207068 · `凱希` KX0541 · `三家本` Vol 9, p0743b · `Z中華道藏` ZHDZ43p0681 · `ZHnum` ZH43_033 · `X新文豐` XWDZ16p0372 · `涵芬樓` HFL場上084
+
+黃籙齋十洲三島拔度儀  
+DZ:   DZ0513  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0514 黃籙九幽醮無礙夜齋次第儀 Huanglu jiuyou jiao wuai yezhai cidi yi
+
+[KR5b0217](https://github.com/kanripo/KR5b0217) · `CUSTOM_ID` DZ0514 · `HK` CH0207069 · `凱希` KX0542 · `三家本` Vol 9, p0747a · `Z中華道藏` ZHDZ43p0685 · `ZHnum` ZH43_034 · `X新文豐` XWDZ16p0378 · `涵芬樓` HFL場上106
+
+黃籙九幽醮無礙夜齋次第儀  
+DZ:   DZ0514  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0515 洞玄靈寶河圖仰謝三十六天齋儀 Dongxuan lingbao hetu yangxie sanshiliu tianzhai yi
+
+[KR5b0218](https://github.com/kanripo/KR5b0218) · `CUSTOM_ID` DZ0515 · `HK` CH0207070 · `凱希` KX0543 · `三家本` Vol 9, p0756c · `Z中華道藏` ZHDZ44p0332 · `ZHnum` ZH44_042 · `X新文豐` XWDZ16p0393 · `涵芬樓` HFL場下004
+
+洞玄靈寶河圖仰謝三十六天齋儀  
+DZ:   DZ0515  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0516 洞玄靈寶河圖仰謝三十六土皇齋儀 Dongxuan lingbao hetu yangxie sanshiliu tuhuang zhaiyi
+
+[KR5b0219](https://github.com/kanripo/KR5b0219) · `CUSTOM_ID` DZ0516 · `HK` CH0207071 · `凱希` KX0544 · `三家本` Vol 9, p0776c · `Z中華道藏` ZHDZ44p0352 · `ZHnum` ZH44_043 · `X新文豐` XWDZ16p0424 · `涵芬樓` HFL場下124
+
+洞玄靈寶河圖仰謝三十六土皇齋儀  
+DZ:   DZ0516  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0517 靈寶半景齋儀 Lingbao banjing zhaiyi
+
+[KR5b0220](https://github.com/kanripo/KR5b0220) · `CUSTOM_ID` DZ0517 · `HK` CH0207072 · `凱希` KX0545 · `三家本` Vol 9, p0795b · `Z中華道藏` ZHDZ43p0722 · `ZHnum` ZH43_042 · `X新文豐` XWDZ16p0453 · `涵芬樓` HFL化上004
+
+靈寶半景齋儀  
+DZ:   DZ0517  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0518 神尼挫棬u君禮文 Shengong miaoji zhenjun liwen
+
+[KR5b0221](https://github.com/kanripo/KR5b0221) · `CUSTOM_ID` DZ0518 · `HK` CH0207073 · `凱希` KX0546 · `三家本` Vol 9, p0801c · `Z中華道藏` ZHDZ31p0619 · `ZHnum` ZH31_054 · `X新文豐` XWDZ16p0463 · `涵芬樓` HFL化上042
+
+神功妙濟真君禮文  
+DZJY: JY284  
+DZJY0: JY284  
+DZ:   DZ0518  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0519 太上靈寶玉匱明真齋懺方儀 Taishang lingbao yukui mingzhen zhaichan fangyi
+
+[KR5b0222](https://github.com/kanripo/KR5b0222) · `CUSTOM_ID` DZ0519 · `HK` CH0207074 · `凱希` KX0547 · `三家本` Vol 9, p0805a · `Z中華道藏` ZHDZ43p0695 · `ZHnum` ZH43_035 · `X新文豐` XWDZ16p0468 · `涵芬樓` HFL化上062
+
+太上靈寶玉匱明真齋懺方儀(前蜀-杜光庭)  
+DZ:   DZ0519  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0520 太上靈寶玉匱明真大齋懺方儀 Taishang lingbao yukui mingzhen da zhaichan fangyi
+
+[KR5b0223](https://github.com/kanripo/KR5b0223) · `CUSTOM_ID` DZ0520 · `HK` CH0207075 · `凱希` KX0548 · `三家本` Vol 9, p0808a · `Z中華道藏` ZHDZ43p0698 · `ZHnum` ZH43_036 · `X新文豐` XWDZ16p0473 · `涵芬樓` HFL化上080
+
+太上靈寶玉匱明真大齋懺方儀(前蜀-杜光庭)  
+DZ:   DZ0520  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0521 太上靈寶玉匱明真大齋言本� Taishang lingbao yukui mingzhen da zhaiyan gongyi
+
+[KR5b0224](https://github.com/kanripo/KR5b0224) · `CUSTOM_ID` DZ0521 · `HK` CH0207076 · `凱希` KX0549 · `三家本` Vol 9, p0811a · `Z中華道藏` ZHDZ43p0701 · `ZHnum` ZH43_037 · `X新文豐` XWDZ16p0478 · `涵芬樓` HFL化上098
+
+太上靈寶玉匱明真大齋言功儀(前蜀-杜光庭)  
+DZ:   DZ0521  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0522 洞玄度靈寶自然券儀 Dongxuan du lingbao ziran quanyi
+
+[KR5b0225](https://github.com/kanripo/KR5b0225) · `CUSTOM_ID` DZ0522 · `HK` CH0207077 · `凱希` KX0550 · `三家本` Vol 9, p0816c · `Z中華道藏` ZHDZ43p0719 · `ZHnum` ZH43_041 · `X新文豐` XWDZ16p0487 · `涵芬樓` HFL化上132
+
+洞玄靈寶自然券儀  
+DZ:   DZ0522  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0523 洞玄靈寶自然齋儀 Dongxuan lingbao ziran zhaiyi
+
+[KR5b0226](https://github.com/kanripo/KR5b0226) · `CUSTOM_ID` DZ0523 · `HK` CH0207078 · `凱希` KX0551 · `三家本` Vol 9, p0819a · `Z中華道藏` ZHDZ43p0716 · `ZHnum` ZH43_040 · `X新文豐` XWDZ16p0491 · `涵芬樓` HFL化上146
+
+洞玄靈寶自然齋儀  
+DZ:   DZ0523  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0524 洞玄靈寶齋說光燭戒罰燈祝願儀 Dongxuan lingbao zhai shuo guangzhu jiefa dengzhu yuanyi
+
+[KR5b0227](https://github.com/kanripo/KR5b0227) · `CUSTOM_ID` DZ0524 · `HK` CH0207079 · `凱希` KX0552 · `三家本` Vol 9, p0821a · `Z中華道藏` ZHDZ04p0408 · `ZHnum` ZH04_077 · `X新文豐` XWDZ16p0494 · `涵芬樓` HFL化上158
+
+洞玄靈寶齋說光燭戒罰燈祝願儀  
+DZ:   DZ0524  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0525 太上洞淵三昧神咒齋懺謝儀 Taishang dongyuan sanmei shenzhou zhaichan xieyi
+
+[KR5b0228](https://github.com/kanripo/KR5b0228) · `CUSTOM_ID` DZ0525 · `HK` CH0207080 · `凱希` KX0553 · `三家本` Vol 9, p0827a · `Z中華道藏` ZHDZ30p0146 · `ZHnum` ZH30_012 · `X新文豐` XWDZ16p0503 · `涵芬樓` HFL化下004
+
+太上洞淵三昧神咒齋懺謝儀(前蜀-杜光庭)  
+DZ:   DZ0525  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0526 太上洞淵三昧神咒齋清旦行道儀 Taishang dongyuan sanmei shenzhou zhai qingdan xingdao yi
+
+[KR5b0229](https://github.com/kanripo/KR5b0229) · `CUSTOM_ID` DZ0526 · `HK` CH0207081 · `凱希` KX0554 · `三家本` Vol 9, p0833c · `Z中華道藏` ZHDZ30p0157 · `ZHnum` ZH30_014 · `X新文豐` XWDZ16p0514 · `涵芬樓` HFL化下044
+
+太上洞淵三昧神咒齋清旦行道儀(前蜀-杜光庭)  
+DZ:   DZ0526  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0527 太上洞淵三昧神咒齋十方懺儀 Taishang dongyuan sanmei shenzhou zhai shifang chan yi
+
+[KR5b0230](https://github.com/kanripo/KR5b0230) · `CUSTOM_ID` DZ0527 · `HK` CH0207082 · `凱希` KX0555 · `三家本` Vol 9, p0836b · `Z中華道藏` ZHDZ30p0153 · `ZHnum` ZH30_013 · `X新文豐` XWDZ16p0518 · `涵芬樓` HFL化下060
+
+太上洞淵三昧神咒齋十方懺儀(前蜀-杜光庭)  
+DZ:   DZ0527  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0528 太上洞玄靈寶授度儀 Taishang dongxuan lingbao shoudu yi
+
+[KR5b0231](https://github.com/kanripo/KR5b0231) · `CUSTOM_ID` DZ0528 · `HK` CH0207083 · `凱希` KX0556 · `三家本` Vol 9, p0839c · `Z中華道藏` ZHDZ04p0419 · `ZHnum` ZH04_079 · `X新文豐` XWDZ16p0523 · `涵芬樓` HFL化下080
+
+太上洞玄靈寶授度儀  
+DZ:   DZ0528  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0529 靈寶五經提綱 Lingbao wujing tigang
+
+[KR5b0232](https://github.com/kanripo/KR5b0232) · `CUSTOM_ID` DZ0529 · `HK` CH0207084 · `凱希` KX0557 · `三家本` Vol 9, p0858a · `Z中華道藏` ZHDZ06p0775 · `ZHnum` ZH06_123 · `X新文豐` XWDZ16p0551 · `涵芬樓` HFL被上004
+
+靈寶五經提綱  
+DZ:   DZ0529  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0530 洞玄靈寶玉籙簡文三元威儀自然真經 Dongxuan lingbao yulu jianwen sanyuan weiyi ziran zhenjing
+
+[KR5b0233](https://github.com/kanripo/KR5b0233) · `CUSTOM_ID` DZ0530 · `HK` CH0207085 · `凱希` KX0558 · `三家本` Vol 9, p0861b · `Z中華道藏` ZHDZ03p0286 · `ZHnum` ZH03_020 · `X新文豐` XWDZ16p0557 · `涵芬樓` HFL被上024
+
+洞玄靈寶玉籙簡文三元威儀自然真經  
+DZ:   DZ0530  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0531 洞玄靈寶鍾磬威儀經 Dongxuan lingbao zhongqing weiyi jing
+
+[KR5b0234](https://github.com/kanripo/KR5b0234) · `CUSTOM_ID` DZ0531 · `HK` CH0207086 · `凱希` KX0559 · `三家本` Vol 9, p0864c · `Z中華道藏` ZHDZ42p0080 · `ZHnum` ZH42_007 · `X新文豐` XWDZ16p0562 · `涵芬樓` HFL被上044
+
+洞玄靈寶鐘磬威儀經  
+DZ:   DZ0531  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0532 太極真人敷靈寶齋戒威儀諸經要訣 Taiji zhenren fu lingbao zhaijie weiyi zhujing yaojue
+
+[KR5b0235](https://github.com/kanripo/KR5b0235) · `CUSTOM_ID` DZ0532 · `HK` CH0207087 · `凱希` KX0560 · `三家本` Vol 9, p0867a · `Z中華道藏` ZHDZ04p0102 · `ZHnum` ZH04_011 · `X新文豐` XWDZ16p0566 · `涵芬樓` HFL被上058
+
+太極真人敷靈寶紫戒威儀諸經要訣  
+DZ:   DZ0532  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0533 太上靈寶上元天官消愆滅罪懺 Taishang lingbao shangyuan tianguan xiaoqian miezui chan
+
+[KR5b0236](https://github.com/kanripo/KR5b0236) · `CUSTOM_ID` DZ0533 · `HK` CH0207088 · `凱希` KX0561 · `三家本` Vol 9, p0875a · `Z中華道藏` ZHDZ44p0249 · `ZHnum` ZH44_033 · `X新文豐` XWDZ16p0578 · `涵芬樓` HFL被上106
+
+太上靈寶上元天官消愆滅罪懺  
+DZ:   DZ0533  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0534 太上靈寶中元地官消愆滅罪懺 Taishang lingbao zhongyuan diguan xiaoqian miezui chan
+
+[KR5b0237](https://github.com/kanripo/KR5b0237) · `CUSTOM_ID` DZ0534 · `HK` CH0207089 · `凱希` KX0562 · `三家本` Vol 9, p0878c · `Z中華道藏` ZHDZ44p0252 · `ZHnum` ZH44_033 · `X新文豐` XWDZ16p0583 · `涵芬樓` HFL被上128
+
+太上靈寶中元地官消愆滅罪懺  
+DZ:   DZ0534  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0535 太上靈寶下元水官消愆滅罪懺 Taishang lingbao xiayuan shuiguan xiaoqian miezui chan
+
+[KR5b0238](https://github.com/kanripo/KR5b0238) · `CUSTOM_ID` DZ0535 · `HK` CH0207090 · `凱希` KX0563 · `三家本` Vol 9, p0881c · `Z中華道藏` ZHDZ44p0255 · `ZHnum` ZH44_033 · `X新文豐` XWDZ16p0588 · `涵芬樓` HFL被上146
+
+太上靈寶下元水官消愆滅罪懺  
+DZ:   DZ0535  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0536 太上玄司滅罪紫府消災法懺 Taishang xuansi miezui zifu xiaozai fachan
+
+[KR5b0239](https://github.com/kanripo/KR5b0239) · `CUSTOM_ID` DZ0536 · `HK` CH0207091 · `凱希` KX0564 · `三家本` Vol 9, p0884c · `Z中華道藏` ZHDZ44p0225 · `ZHnum` ZH44_027 · `X新文豐` XWDZ16p0593 · `涵芬樓` HFL被上164
+
+太上玄司滅罪紫府消災法懺  
+DZ:   DZ0536  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0537 太上消滅地獄昇陟天堂懺 Taishang xiaomie diyu shengzhi tiantang cha
+
+[KR5b0240](https://github.com/kanripo/KR5b0240) · `CUSTOM_ID` DZ0537 · `HK` CH0207092 · `凱希` KX0565 · `三家本` Vol 9, p0888a · `Z中華道藏` ZHDZ44p0239 · `ZHnum` ZH44_031 · `X新文豐` XWDZ16p0599 · `涵芬樓` HFL被下004
+
+太上消滅地獄昇陟天堂懺  
+DZ:   DZ0537  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0538 太一救苦天尊說拔度血湖寶懺 Taiyi jiuku tianzun shuo badu xuehu baochan
+
+[KR5b0241](https://github.com/kanripo/KR5b0241) · `CUSTOM_ID` DZ0538 · `HK` CH0207093 · `凱希` KX0566 · `三家本` Vol 9, p0892b · `Z中華道藏` ZHDZ44p0244 · `ZHnum` ZH44_032 · `X新文豐` XWDZ16p0606 · `涵芬樓` HFL被下030
+
+太上救苦天尊說拔度血湖寶懺  
+DZ:   DZ0538  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0539 青玄救苦寶懺 Qingxuan jiuku baochan
+
+[KR5b0242](https://github.com/kanripo/KR5b0242) · `CUSTOM_ID` DZ0539 · `HK` CH0207094 · `凱希` KX0567 · `三家本` Vol 9, p0897b · `Z中華道藏` ZHDZ44p0231 · `ZHnum` ZH44_029 · `X新文豐` XWDZ16p0614 · `涵芬樓` HFL被下069
+
+青玄救苦寶懺  
+DZ:   DZ0539  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0540 慈尊昇度寶懺 Cizun shengdu baochan
+
+[KR5b0243](https://github.com/kanripo/KR5b0243) · `CUSTOM_ID` DZ0540 · `HK` CH0207095 · `凱希` KX0568 · `三家本` Vol 9, p0901a · `Z中華道藏` ZHDZ44p0236 · `ZHnum` ZH44_030 · `X新文豐` XWDZ16p0620 · `涵芬樓` HFL被下082
+
+慈尊昇度寶懺  
+DZ:   DZ0540  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0541 東嶽大生寶懺 Dongyue dasheng baochan
+
+[KR5b0244](https://github.com/kanripo/KR5b0244) · `CUSTOM_ID` DZ0541 · `HK` CH0207096 · `凱希` KX0569 · `三家本` Vol 10, p0001a · `Z中華道藏` ZHDZ44p0319 · `ZHnum` ZH44_039 · `X新文豐` XWDZ16p0625 · `涵芬樓` HFL被下098
+
+東嶽大生寶懺  
+DZ:   DZ0541  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0542 太上靈寶十方應號天尊懺 Taishang lingbao shifang yinghao tianzun chan
+
+[KR5b0245](https://github.com/kanripo/KR5b0245) · `CUSTOM_ID` DZ0542 · `HK` CH0207097 · `凱希` KX0570 · `三家本` Vol 10, p0007c · `Z中華道藏` ZHDZ44p0105 · `ZHnum` ZH44_023 · `X新文豐` XWDZ16p0635 · `涵芬樓` HFL被下168
+
+太上靈寶十方應號天尊懺  
+DZ:   DZ0542  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0543 太上慈悲道場消災九幽懺 Taishang cibei daochang xiaozai jiuyou chan
+
+[KR5b0246](https://github.com/kanripo/KR5b0246) · `CUSTOM_ID` DZ0543 · `HK` CH0207098 · `凱希` KX0571 · `三家本` Vol 10, p0018a · `Z中華道藏` ZHDZ44p0116 · `ZHnum` ZH44_024 · `X新文豐` XWDZ16p0651 · `涵芬樓` HFL草上004
+
+太上慈悲道場消災九幽懺(漢-葛玄)  
+DZ:   DZ0543  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0544 太上慈悲九幽拔罪懺 Taishang cibei jiuyou bazui chan
+
+[KR5b0247](https://github.com/kanripo/KR5b0247) · `CUSTOM_ID` DZ0544 · `HK` CH0207099 · `凱希` KX0572 · `三家本` Vol 10, p0090b · `Z中華道藏` ZHDZ44p0187 · `ZHnum` ZH44_025 · `X新文豐` XWDZ16p0765 · `涵芬樓` HFL木上004
+
+太上慈悲九幽拔罪懺  
+DZ:   DZ0544  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0545 太上慈悲道場滅罪水懺 Taishang cibei daochang miezui shuichan
+
+[KR5b0248](https://github.com/kanripo/KR5b0248) · `CUSTOM_ID` DZ0545 · `HK` CH0207100 · `凱希` KX0573 · `三家本` Vol 10, p0121b · `Z中華道藏` ZHDZ44p0217 · `ZHnum` ZH44_026 · `X新文豐` XWDZ16p0815 · `涵芬樓` HFL木下078
+
+太上慈悲道場滅罪水懺  
+DZ:   DZ0545  
+Contents
+
+**Work notes**
+
+**Comments**
+
+### CMTS0208	方法類
+
+xx DZ0546 xx 100129a 靈寶玉監目錄 ZHDZ35p0440 XWDZ17p0017 HFL賴上004
+
+#### DZ0547 靈寶玉鑑 Lingbao yujian
+
+[KR5b0250](https://github.com/kanripo/KR5b0250) · `CUSTOM_ID` DZ0547 · `HK` CH020801 · `凱希` KX0574 · `三家本` Vol 10, p0129a · `Z中華道藏` ZHDZ35p0000 · `ZHnum` ZH35_002 · `X新文豐` XWDZ17p0017 · `涵芬樓` HFL賴上004
+
+靈寶玉監  
+DZ:   DZ0547  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0548 太極祭鍊內法 Taiji jilian neifa
+
+[KR5b0251](https://github.com/kanripo/KR5b0251) · `CUSTOM_ID` DZ0548 · `HK` CH020802 · `凱希` KX0575 · `三家本` Vol 10, p0439c · `Z中華道藏` ZHDZ32p0800 · `ZHnum` ZH32_067 · `X新文豐` XWDZ17p0483 · `涵芬樓` HFL此上004
+
+太極祭煉內法(宋-鄭思肯)  
+DZ:   DZ0548  
+Contents
+
+**Work notes**
+
+**Comments** — xx xx xx x 太極祭煉內法議略(宋-鄭思肯) ZHDZ31p0520 XWDZ17p0496 HFL此上118
+
+#### DZ0549 上清天樞院回車畢道正法 Shangqing tianshu yuan huiche bidao zhengfa
+
+[KR5b0253](https://github.com/kanripo/KR5b0253) · `CUSTOM_ID` DZ0549 · `HK` CH020803 · `凱希` KX0576 · `三家本` Vol 10, p0473b · `Z中華道藏` ZHDZ31p0520 · `ZHnum` ZH31_040 · `X新文豐` XWDZ17p0535 · `涵芬樓` HFL此下004
+
+上清天樞院回車畢道正法  
+DZ:   DZ0549  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0550 陳u君受鍊形神上清畢道法要節文 Xu zhenjun shoulian xingshen shangqing bidao fayao jiewen
+
+[KR5b0254](https://github.com/kanripo/KR5b0254) · `CUSTOM_ID` DZ0550 · `HK` CH020804 · `凱希` KX0577 · `三家本` Vol 10, p0491a · `Z中華道藏` ZHDZ31p0542 · `ZHnum` ZH31_042 · `X新文豐` XWDZ17p0562 · `涵芬樓` HFL此下110
+
+許真君受鍊形神上清畢道法要節文  
+DZ:   DZ0550  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0551 天樞院都司須知令 Tianshu yuandu sixu zhiling
+
+[KR5b0255](https://github.com/kanripo/KR5b0255) · `CUSTOM_ID` DZ0551 · `HK` CH020805 · `凱希` KX0578 · `三家本` Vol 10, p0491c · `Z中華道藏` ZHDZ31p0500 · `ZHnum` ZH31_034 · `X新文豐` XWDZ17p0563 · `涵芬樓` HFL此下114
+
+天樞院都司須知令  
+DZ:   DZ0551  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0552 天樞院都司須知格 Tianshu yuandu sixu zhige
+
+[KR5b0256](https://github.com/kanripo/KR5b0256) · `CUSTOM_ID` DZ0552 · `HK` CH020806 · `凱希` KX0579 · `三家本` Vol 10, p0493a · `Z中華道藏` ZHDZ31p0506 · `ZHnum` ZH31_033 · `X新文豐` XWDZ17p0565 · `涵芬樓` HFL此下122
+
+天樞院都司須知格  
+DZ:   DZ0552  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0553 靈寶淨明天樞院都司法院須知法文 Lingbao jingming tianshu yuandu sifa yuan xuzhi fawen
+
+[KR5b0257](https://github.com/kanripo/KR5b0257) · `CUSTOM_ID` DZ0553 · `HK` CH020807 · `凱希` KX0580 · `三家本` Vol 10, p0495a · `Z中華道藏` ZHDZ31p0506 · `ZHnum` ZH31_036 · `X新文豐` XWDZ17p0568 · `涵芬樓` HFL此下134
+
+靈寶淨明天樞都司法院須知法文  
+DZ:   DZ0553  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0554 靈寶淨明院教師周真公起請畫一 Lingbao jingming yuan jiaoshi zhou zhengong qiqing huayi
+
+[KR5b0258](https://github.com/kanripo/KR5b0258) · `CUSTOM_ID` DZ0554 · `HK` CH020808 · `凱希` KX0581 · `三家本` Vol 10, p0496b · `Z中華道藏` ZHDZ31p0514 · `ZHnum` ZH31_038 · `X新文豐` XWDZ17p0570 · `涵芬樓` HFL此下142
+
+靈寶淨明院教師周真公起請畫  
+DZ:   DZ0554  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0555 高上月官太陰元君孝道仙王靈寶淨明黃素書 Gaoshang yueguan taiyin yuanjun xiaodao xianwang lingbao jingming huangsu shu
+
+[KR5b0259](https://github.com/kanripo/KR5b0259) · `CUSTOM_ID` DZ0555 · `HK` CH020809 · `凱希` KX0582 · `三家本` Vol 10, p0499b · `Z中華道藏` ZHDZ31p0437 · `ZHnum` ZH31_029 · `X新文豐` XWDZ17p0575 · `涵芬樓` HFL身上004
+
+高上月宮太陰元君孝道仙王靈寶淨明黃素書(傅飛卿)  
+DZ:   DZ0555  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0556 靈寶淨明黃素書釋義秘訣 Lingbao jingming huangsu shu shiyi bijue
+
+[KR5b0260](https://github.com/kanripo/KR5b0260) · `CUSTOM_ID` DZ0556 · `HK` CH020810 · `凱希` KX0583 · `三家本` Vol 10, p0519b · `Z中華道藏` ZHDZ31p0394 · `ZHnum` ZH31_030 · `X新文豐` XWDZ17p0606 · `涵芬樓` HFL身上124 and CH020815
+
+靈寶淨明黃素書釋義秘訣(方文)  
+DZ:   DZ0556  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0557 太上靈寶淨明入道品 Taishang lingbao jingming rudao pin
+
+[KR5b0261](https://github.com/kanripo/KR5b0261) · `CUSTOM_ID` DZ0557 · `HK` CH020811 · `凱希` KX0584 · `三家本` Vol 10, p0523c · `Z中華道藏` ZHDZ31p0518 · `ZHnum` ZH31_025 · `X新文豐` XWDZ17p0613 · `涵芬樓` HFL身下004
+
+太上靈寶淨明入道品  
+DZ:   DZ0557  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0558 靈寶淨明院真師密誥 Lingbao jingming yuan zhenshi migao
+
+[KR5b0262](https://github.com/kanripo/KR5b0262) · `CUSTOM_ID` DZ0558 · `HK` CH020812 · `凱希` KX0585 · `三家本` Vol 10, p0525b · `Z中華道藏` ZHDZ31p0518 · `ZHnum` ZH31_039 · `X新文豐` XWDZ17p0616 · `涵芬樓` HFL身下014
+
+太上靈寶淨明院真師密誥  
+DZ:   DZ0558  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### xx 太上靈寶淨明法序
+
+`nopin` · `CUSTOM_ID` xx · `HK` CH020813 · `凱希` xx · `三家本` x · `Z中華道藏` XX · `ZHnum` XX · `X新文豐` to · `涵芬樓` DZ0559
+
+太上靈寶淨明法序  
+DZ:   xx  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0559 太上靈寶淨明法印式 Taishang lingbao jingming fayin shi
+
+[KR5b0264](https://github.com/kanripo/KR5b0264) · `CUSTOM_ID` DZ0559 · `HK` CH020814 · `凱希` KX0586 · `三家本` Vol 10, p0526b · `Z中華道藏` ZHDZ31p0396 · `ZHnum` ZH31_026 · `X新文豐` XWDZ17p0618 · `涵芬樓` HFL身下022
+
+太上靈寶淨明法印式  
+DZ:   DZ0559  
+Contents
+
+**Work notes**
+
+**Comments** — xxCH02081? DZ0560 KX0588 100527a 靈寶淨明大法萬道玉章秘訣 ZHDZ31p0543 XWDZ17p0619 HFL身下024
+
+#### DZ0561 太上靈寶淨明秘法篇 Taishang lingbao jingming bifa pian
+
+[KR5b0266](https://github.com/kanripo/KR5b0266) · `CUSTOM_ID` DZ0561 · `HK` CH020816 · `凱希` KX0589 · `三家本` Vol 10, p0539c · `Z中華道藏` ZHDZ31p0543 · `ZHnum` ZH31_028 · `X新文豐` XWDZ17p0638 · `涵芬樓` HFL身下100
+
+太上靈寶淨明秘法篇  
+DZ:   DZ0561  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0562 靈寶淨明新修九老神印伏魔秘法 Lingbao jingming xinxiu jiulao shenyin fumo bifa
+
+[KR5b0267](https://github.com/kanripo/KR5b0267) · `CUSTOM_ID` DZ0562 · `HK` CH020817 · `凱希` KX0590 · `三家本` Vol 10, p0547a · `Z中華道藏` ZHDZ31p0538 · `ZHnum` ZH31_041 · `X新文豐` XWDZ17p0649 · `涵芬樓` HFL身下144
+
+靈寶淨明新修九老神印伏魔秘法  
+DZ:   DZ0562  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0563 太上靈寶淨明飛仙度人經法 Taishang lingbao jingming feixian duren jing fa
+
+[KR5b0268](https://github.com/kanripo/KR5b0268) · `CUSTOM_ID` DZ0563 · `HK` CH020818 · `凱希` KX0591 · `三家本` Vol 10, p0550c · `Z中華道藏` ZHDZ31p0441 · `ZHnum` ZH31_031 · `X新文豐` XWDZ17p0655 · `涵芬樓` HFL髮上004
+
+太上靈寶淨明飛仙度人經法(晉-許遜)  
+DZ:   DZ0563  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0564 太上靈寶淨明飛仙度人經法釋例 Taishang lingbao jingming feixian duren jing fa shili
+
+[KR5b0269](https://github.com/kanripo/KR5b0269) · `CUSTOM_ID` DZ0564 · `HK` CH020819 · `凱希` xx · `三家本` x · `Z中華道藏` ZHDZ31p0442 · `ZHnum` ZH31_031 · `X新文豐` XWDZ17p0730 · `涵芬樓` HFL髮下110
+
+太上靈寶淨明飛仙度人經法釋例(晉-許遜)  
+DZ:   DZ0564  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0565 太上淨明院補奏職局太玄度省須知 Taishang jingming yuan buzou zhiju taixuan dusheng xuzhi
+
+[KR5b0270](https://github.com/kanripo/KR5b0270) · `CUSTOM_ID` DZ0565 · `HK` CH020820 · `凱希` KX0592 · `三家本` Vol 10, p0601c · `Z中華道藏` ZHDZ31p0494 · `ZHnum` ZH31_032 · `X新文豐` XWDZ17p0734 · `涵芬樓` HFL髮下124
+
+太上淨明院補奏職局太玄都省須知(晉-許遜)  
+DZ:   DZ0565  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0566 上清天心正法 Shangqing tianxin zhengfa
+
+[KR5b0271](https://github.com/kanripo/KR5b0271) · `CUSTOM_ID` DZ0566 · `HK` CH020821 · `凱希` KX0593 · `三家本` Vol 10, p0607c · `Z中華道藏` ZHDZ30p0245 · `ZHnum` ZH30_028 · `X新文豐` XWDZ17p0743 · `涵芬樓` HFL四上004
+
+上清天心正法(宋-鄧有功)  
+DZ:   DZ0566  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0567 上清北極天心正法 Shangqing beiji tianxin zhengfa
+
+[KR5b0272](https://github.com/kanripo/KR5b0272) · `CUSTOM_ID` DZ0567 · `HK` CH020822 · `凱希` KX0594 · `三家本` Vol 10, p0645a · `Z中華道藏` ZHDZ30p0282 · `ZHnum` ZH30_029 · `X新文豐` XWDZ17p0801 · `涵芬樓` HFL四下056
+
+上清北極天心正法  
+DZ:   DZ0567  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0568 靈寶歸空訣 Lingbao guikong jue
+
+[KR5b0273](https://github.com/kanripo/KR5b0273) · `CUSTOM_ID` DZ0568 · `HK` CH020823 · `凱希` KX0595 · `三家本` Vol 10, p0657b · `Z中華道藏` ZHDZ31p0616 · `ZHnum` ZH31_053 · `X新文豐` XWDZ17p0820 · `涵芬樓` HFL四下130
+
+靈寶歸空訣(明-趙宜真)  
+DZ:   DZ0568  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0569 上清大洞九官朝修秘訣上道 Shangqing dadong jiuguan chaoxiu bijue shangdao
+
+[KR5b0274](https://github.com/kanripo/KR5b0274) · `CUSTOM_ID` DZ0569 · `HK` CH020824 · `凱希` KX0596 · `三家本` Vol 10, p0660a · `Z中華道藏` ZHDZ02p0412 · `ZHnum` ZH02_041 · `X新文豐` XWDZ17p0824 · `涵芬樓` HFL四下146
+
+上清大洞九宮朝修秘訣上道(周德大)  
+DZ:   DZ0569  
+Contents
+
+**Work notes**
+
+**Comments**
+
+### CMTS0209	眾術類
+
+#### DZ0570 靈劍子 Lingjianzi +
+
+[KR5b0275](https://github.com/kanripo/KR5b0275) · `CUSTOM_ID` DZ0570 · `HK` CH020901 · `凱希` KX0597 · `三家本` Vol 10, p0663a · `Z中華道藏` ZHDZ31p0603 · `ZHnum` ZH31_051 · `X新文豐` XWDZ18p0001 · `涵芬樓` HFL大上004
+
+靈劍子(晉-許遜)  
+DZ:   DZ0570  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0571 靈劍子引導子午記 Lingjianzi yindaozi wuji +
+
+[KR5b0276](https://github.com/kanripo/KR5b0276) · `CUSTOM_ID` DZ0571 · `HK` CH020902 · `凱希` KX0598 · `三家本` Vol 10, p0670b · `Z中華道藏` ZHDZ31p0611 · `ZHnum` ZH31_052 · `X新文豐` XWDZ18p0013 · `涵芬樓` HFL大上048
+
+靈劍子引導子午記(晉-許遜)  
+DZ:   DZ0571  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0572 養命機關金丹真訣 Yangming jiguan jindan zhenjue
+
+[KR5b0277](https://github.com/kanripo/KR5b0277) · `CUSTOM_ID` DZ0572 · `HK` CH020903 · `凱希` KX0599 · `三家本` Vol 10, p0675a · `Z中華道藏` ZHDZ19p0224 · `ZHnum` ZH19_041 · `X新文豐` XWDZ18p0020 · `涵芬樓` HFL大上076
+
+養命機關金丹真訣  
+DZ:   DZ0572  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0573 玄珠歌 Xuanzhu ge
+
+[KR5b0278](https://github.com/kanripo/KR5b0278) · `CUSTOM_ID` DZ0573 · `HK` CH020904 · `凱希` KX0600 · `三家本` Vol 10, p0679a · `Z中華道藏` ZHDZ19p0146 · `ZHnum` ZH19_022 · `X新文豐` XWDZ18p0026 · `涵芬樓` HFL大上100
+
+玄珠歌(唐-通玄先生)  
+DZ:   DZ0573  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0574 玄珠心鏡註 Xuanzhu xinjing zhu
+
+[KR5b0279](https://github.com/kanripo/KR5b0279) · `CUSTOM_ID` DZ0574 · `HK` CH020905 · `凱希` KX0601 · `三家本` Vol 10, p0680b · `Z中華道藏` ZHDZ23p0318 · `ZHnum` ZH23_050 · `X新文豐` XWDZ18p0028 · `涵芬樓` HFL大上108
+
+玄珠心鏡註(真一子)  
+DZ:   DZ0574  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0575 玄珠心鏡註 Xuanzhu xinjing zhu
+
+[KR5b0280](https://github.com/kanripo/KR5b0280) · `CUSTOM_ID` DZ0575 · `HK` CH020906 · `凱希` KX0602 · `三家本` Vol 10, p0683c · `Z中華道藏` ZHDZ23p0305 · `ZHnum` ZH23_049 · `X新文豐` XWDZ18p0033 · `涵芬樓` HFL大上128
+
+玄珠心鏡註(唐-長孫)  
+DZ:   DZ0575  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0576 抱一函三秘訣 Baoyi hansan bijue
+
+[KR5b0281](https://github.com/kanripo/KR5b0281) · `CUSTOM_ID` DZ0576 · `HK` CH020907 · `凱希` KX0603 · `三家本` Vol 10, p0695c · `Z中華道藏` ZHDZ27p0429 · `ZHnum` ZH27_024 · `X新文豐` XWDZ18p0051 · `涵芬樓` HFL大下004
+
+抱一函三秘訣(金月巖)  
+DZ:   DZ0576  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0577 存神固氣論 Cunshen guqi lun
+
+[KR5b0282](https://github.com/kanripo/KR5b0282) · `CUSTOM_ID` DZ0577 · `HK` CH020908 · `凱希` KX0604 · `三家本` Vol 10, p0705a · `Z中華道藏` ZHDZ19p0711 · `ZHnum` ZH19_091 · `X新文豐` XWDZ18p0066 · `涵芬樓` HFL大下060
+
+存神固氣論  
+DZ:   DZ0577  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0578 攝生纂錄 Shesheng zuanlu +
+
+[KR5b0283](https://github.com/kanripo/KR5b0283) · `CUSTOM_ID` DZ0578 · `HK` CH020909 · `凱希` KX0605 · `三家本` Vol 10, p0707b · `Z中華道藏` ZHDZ23p0676 · `ZHnum` ZH23_064 · `X新文豐` XWDZ18p0070 · `涵芬樓` HFL大下074
+
+攝生纂錄  
+DZ:   DZ0578  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0579 養生秘錄 Yangsheng bilu
+
+[KR5b0284](https://github.com/kanripo/KR5b0284) · `CUSTOM_ID` DZ0579 · `HK` CH020910 · `凱希` KX0606 · `三家本` Vol 10, p0716c · `Z中華道藏` ZHDZ19p0636 · `ZHnum` ZH19_079 · `X新文豐` XWDZ18p0084 · `涵芬樓` HFL大下130
+
+養生秘錄  
+DZ:   DZ0579  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0580 玄圃山靈?秘錄 Xuanpu shan lingyan bilu
+
+[KR5b0285](https://github.com/kanripo/KR5b0285) · `CUSTOM_ID` DZ0580 · `HK` CH020911 · `凱希` KX0607 · `三家本` Vol 10, p0727b · `Z中華道藏` ZHDZ32p0529 · `ZHnum` ZH32_039 · `X新文豐` XWDZ18p0101 · `涵芬樓` HFL五上004
+
+玄圃山靈秘錄  
+DZ:   DZ0580  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0581 靈寶六丁秘法 Lingbao liuding bifa
+
+[KR5b0286](https://github.com/kanripo/KR5b0286) · `CUSTOM_ID` DZ0581 · `HK` CH020912 · `凱希` KX0608 · `三家本` Vol 10, p0748a · `Z中華道藏` ZHDZ32p0523 · `ZHnum` ZH32_038 · `X新文豐` XWDZ18p0133 · `涵芬樓` HFL五上128
+
+靈寶六丁秘法  
+DZ:   DZ0581  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0582 魁茪鄞穄答k Kuigang liusuo bifa
+
+[KR5b0287](https://github.com/kanripo/KR5b0287) · `CUSTOM_ID` DZ0582 · `HK` CH020913 · `凱希` KX0609 · `三家本` Vol 10, p0753b · `Z中華道藏` ZHDZ32p0549 · `ZHnum` ZH32_040 · `X新文豐` XWDZ18p0141 · `涵芬樓` HFL五中004
+
+魁罡六鎖秘法  
+DZ:   DZ0582  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0583 太上三辟五解秘法 Taishang sanpi wujie bifa
+
+[KR5b0288](https://github.com/kanripo/KR5b0288) · `CUSTOM_ID` DZ0583 · `HK` CH020914 · `凱希` KX0610 · `三家本` Vol 10, p0756a · `Z中華道藏` ZHDZ32p0552 · `ZHnum` ZH32_041 · `X新文豐` XWDZ18p0146 · `涵芬樓` HFL五中020
+
+太上三辟五解秘法  
+DZ:   DZ0583  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0584 上清六甲祈禱秘法 Shangqing liujia qidao bifa
+
+[KR5b0289](https://github.com/kanripo/KR5b0289) · `CUSTOM_ID` DZ0584 · `HK` CH020915 · `凱希` KX0611 · `三家本` Vol 10, p0760b · `Z中華道藏` ZHDZ32p0519 · `ZHnum` ZH32_037 · `X新文豐` XWDZ18p0153 · `涵芬樓` HFL五中046
+
+上清六甲祈禱秘法  
+DZ:   DZ0584  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0585 貫斗忠孝五雷武侯秘法 Guandou zhongxiao wulei wuhou bifa
+
+[KR5b0290](https://github.com/kanripo/KR5b0290) · `CUSTOM_ID` DZ0585 · `HK` CH020916 · `凱希` KX0612 · `三家本` Vol 10, p0763c · `Z中華道藏` ZHDZ32p0835 · `ZHnum` ZH32_068 · `X新文豐` XWDZ18p0158 · `涵芬樓` HFL五中066
+
+貫斗忠孝五雷武侯秘法  
+DZ:   DZ0585  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0586 黃帝太乙八門入式訣 Huangdi taiyi bamen rushi jue
+
+[KR5b0291](https://github.com/kanripo/KR5b0291) · `CUSTOM_ID` DZ0586 · `HK` CH020917 · `凱希` KX0613 · `三家本` Vol 10, p0768c · `Z中華道藏` ZHDZ32p0486 · `ZHnum` ZH32_033 · `X新文豐` XWDZ18p0166 · `涵芬樓` HFL五中096
+
+黃帝太乙八門入式訣  
+DZ:   DZ0586  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0587 黃帝太一八門入式秘訣 Huangdi taiyi bamen rushi bijue
+
+[KR5b0292](https://github.com/kanripo/KR5b0292) · `CUSTOM_ID` DZ0587 · `HK` CH020918 · `凱希` KX0614 · `三家本` Vol 10, p0778a · `Z中華道藏` ZHDZ32p0495 · `ZHnum` ZH32_034 · `X新文豐` XWDZ18p0180 · `涵芬樓` HFL五下004
+
+黃帝太乙八門入式秘訣  
+DZ:   DZ0587  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0588 黃帝太一八門逆須生死訣 Huangdi taiyi bamen nixu shengsi jue
+
+[KR5b0293](https://github.com/kanripo/KR5b0293) · `CUSTOM_ID` DZ0588 · `HK` CH020919 · `凱希` KX0615 · `三家本` Vol 10, p0784a · `Z中華道藏` ZHDZ32p0501 · `ZHnum` ZH32_035 · `X新文豐` XWDZ18p0190 · `涵芬樓` HFL五下040
+
+黃帝太乙八門逆順生死訣(梁-陶弘景)  
+DZ:   DZ0588  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0589 太上赤文洞神三籙 Taishang chiwen dongshen sanlu
+
+[KR5b0294](https://github.com/kanripo/KR5b0294) · `CUSTOM_ID` DZ0589 · `HK` CH020920 · `凱希` KX0616 · `三家本` Vol 10, p0793a · `Z中華道藏` ZHDZ32p0510 · `ZHnum` ZH32_036 · `X新文豐` XWDZ18p0204 · `涵芬樓` HFL五下094
+
+太上赤文洞神三籙(唐-李淳風)  
+DZ:   DZ0589  
+Contents
+
+**Work notes**
+
+**Comments**
+
+### CMTS0210	記傳類
+
+#### DZ0590 道教靈驗記 Daojiao lingyan ji
+
+[KR5b0295](https://github.com/kanripo/KR5b0295) · `CUSTOM_ID` DZ0590 · `HK` CH021001 · `凱希` KX0617 · `三家本` Vol 10, p0801a · `Z中華道藏` ZHDZ45p0068 · `ZHnum` ZH45_004 · `X新文豐` XWDZ18p0217 · `涵芬樓` HFL常上004
+
+道教靈驗記(前蜀-杜光庭)  
+DZ:   DZ0590  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0591 錄異記 Luyi ji
+
+[KR5b0296](https://github.com/kanripo/KR5b0296) · `CUSTOM_ID` DZ0591 · `HK` CH021002 · `凱希` KX0618 · `三家本` Vol 10, p0856a · `Z中華道藏` ZHDZ45p0133 · `ZHnum` ZH45_005 · `X新文豐` XWDZ18p0301 · `涵芬樓` HFL恭上004
+
+錄異記(前蜀-杜光庭)  
+DZ:   DZ0591  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0592 神仙感遇傳 Shenxian ganyu zhuan
+
+[KR5b0297](https://github.com/kanripo/KR5b0297) · `CUSTOM_ID` DZ0592 · `HK` CH021003 · `凱希` KX0619 · `三家本` Vol 10, p0881c · `Z中華道藏` ZHDZ45p0161 · `ZHnum` ZH45_006 · `X新文豐` XWDZ18p0340 · `涵芬樓` HFL恭下004
+
+神仙感遇傳(前蜀-杜光庭)  
+DZ:   DZ0592  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0593 歷代崇道記 Lidai chongdao ji
+
+[KR5b0298](https://github.com/kanripo/KR5b0298) · `CUSTOM_ID` DZ0593 · `HK` CH021004 · `凱希` KX0620 · `三家本` Vol 11, p0001a · `Z中華道藏` ZHDZ45p0061 · `ZHnum` ZH45_003 · `X新文豐` XWDZ18p0379 · `涵芬樓` HFL惟上004
+
+歷代崇道記(前蜀-杜光庭)  
+DZ:   DZ0593  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0594 體玄真人顯異錄 Tixuan zhenren xianyi lu
+
+[KR5b0299](https://github.com/kanripo/KR5b0299) · `CUSTOM_ID` DZ0594 · `HK` CH021005 · `凱希` KX0621 · `三家本` Vol 11, p0007c · `Z中華道藏` ZHDZ47p0107 · `ZHnum` ZH47_007 · `X新文豐` XWDZ18p0390 · `涵芬樓` HFL惟上044
+
+體玄真人顯異錄(金-)  
+DZ:   DZ0594  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0595 江淮異人錄 Jianghuai yiren lu
+
+[KR5b0300](https://github.com/kanripo/KR5b0300) · `CUSTOM_ID` DZ0595 · `HK` CH021006 · `凱希` KX0622 · `三家本` Vol 11, p0012c · `Z中華道藏` ZHDZ45p0232 · `ZHnum` ZH45_008 · `X新文豐` XWDZ18p0398 · `涵芬樓` HFL惟上074
+
+江淮異人錄(宋-吳淑)  
+DZ:   DZ0595  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0596 仙苑編珠 Xianyuan bianzhu
+
+[KR5b0301](https://github.com/kanripo/KR5b0301) · `CUSTOM_ID` DZ0596 · `HK` CH021007 · `凱希` KX0623 · `三家本` Vol 11, p0021a · `Z中華道藏` ZHDZ45p0242 · `ZHnum` ZH45_009 · `X新文豐` XWDZ18p0411 · `涵芬樓` HFL惟上124
+
+仙苑編珠(唐-王松年)  
+DZ:   DZ0596  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0597 道蹟靈仙記 Daoji lingxian ji
+
+[KR5b0302](https://github.com/kanripo/KR5b0302) · `CUSTOM_ID` DZ0597 · `HK` CH021008 · `凱希` KX0624 · `三家本` Vol 11, p0045a · `Z中華道藏` ZHDZ02p0624 · `ZHnum` ZH02_085 · `X新文豐` XWDZ18p0448 · `涵芬樓` HFL惟下102
+
+道跡靈仙記  
+DZ:   DZ0597  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0598 十洲記 Shizhou ji
+
+[KR5b0303](https://github.com/kanripo/KR5b0303) · `CUSTOM_ID` DZ0598 · `HK` CH021009 · `凱希` KX0625 · `三家本` Vol 11, p0051a · `Z中華道藏` ZHDZ48p0075 · `ZHnum` ZH48_002 · `X新文豐` XWDZ18p0457 · `涵芬樓` HFL惟下138
+
+十洲記(漢-東方朔)  
+DZ:   DZ0598  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0599 洞天福地嶽瀆名山記 Dongtian fudi yuedu mingshan ji
+
+[KR5b0304](https://github.com/kanripo/KR5b0304) · `CUSTOM_ID` DZ0599 · `HK` CH021010 · `凱希` KX0626 · `三家本` Vol 11, p0055b · `Z中華道藏` ZHDZ48p0080 · `ZHnum` ZH48_003 · `X新文豐` XWDZ18p0465 · `涵芬樓` HFL鞠上004
+
+洞天福地嶽瀆名山記(前蜀-杜光庭)  
+DZJY: JY304  
+DZJY0: JY304  
+DZ:   DZ0599  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0600 梅山觀記 Meishan guan ji
+
+[KR5b0305](https://github.com/kanripo/KR5b0305) · `CUSTOM_ID` DZ0600 · `HK` CH021011 · `凱希` KX0627 · `三家本` Vol 11, p0061a · `Z中華道藏` ZHDZ48p0142 · `ZHnum` ZH48_007 · `X新文豐` XWDZ18p0474 · `涵芬樓` HFL鞠上038
+
+梅仙觀記(宋-楊智遠)  
+DZJY: JY306  
+DZJY0: JY306  
+DZ:   DZ0600  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0601 金華赤松山志 Chisong shan zhi
+
+[KR5b0306](https://github.com/kanripo/KR5b0306) · `CUSTOM_ID` DZ0601 · `HK` CH021012 · `凱希` KX0628 · `三家本` Vol 11, p0069c · `Z中華道藏` ZHDZ48p0166 · `ZHnum` ZH48_010 · `X新文豐` XWDZ18p0487 · `涵芬樓` HFL鞠上090
+
+金華赤松山志(宋-倪守約)  
+DZ:   DZ0601  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0602 仙都志 Xiandu zhi
+
+[KR5b0307](https://github.com/kanripo/KR5b0307) · `CUSTOM_ID` DZ0602 · `HK` CH021013 · `凱希` KX0629 · `三家本` Vol 11, p0076c · `Z中華道藏` ZHDZ48p0174 · `ZHnum` ZH48_011 · `X新文豐` XWDZ18p0498 · `涵芬樓` HFL鞠上132
+
+仙都志(元-陳性定)  
+DZ:   DZ0602  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0603 天台山志 Tiantai shan zhi
+
+[KR5b0308](https://github.com/kanripo/KR5b0308) · `CUSTOM_ID` DZ0603 · `HK` CH021014 · `凱希` KX0630 · `三家本` Vol 11, p0090b · `Z中華道藏` ZHDZ48p0540 · `ZHnum` ZH48_017 · `X新文豐` XWDZ18p0519 · `涵芬樓` HFL鞠下004
+
+天台山志(明-)  
+DZ:   DZ0603  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0604 龍瑞觀禹穴陽明洞天圖經 Longrui guan yuxue yangming dongtian tujing
+
+[KR5b0309](https://github.com/kanripo/KR5b0309) · `CUSTOM_ID` DZ0604 · `HK` CH021015 · `凱希` KX0631 · `三家本` Vol 11, p0097b · `Z中華道藏` ZHDZ48p0151 · `ZHnum` ZH48_008 · `X新文豐` XWDZ18p0530 · `涵芬樓` HFL鞠下046
+
+龍瑞觀禹穴陽明洞天圖經(宋-葉樞)  
+DZ:   DZ0604  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0605 司明洞天丹山圖詠集 Siming dongtian danshan tuyong ji
+
+[KR5b0310](https://github.com/kanripo/KR5b0310) · `CUSTOM_ID` DZ0605 · `HK` CH021016 · `凱希` KX0632 · `三家本` Vol 11, p0098c · `Z中華道藏` ZHDZ48p0153 · `ZHnum` ZH48_009 · `X新文豐` XWDZ18p0532 · `涵芬樓` HFL鞠下054
+
+四明洞天丹山圖詠集(元-曾堅)  
+DZ:   DZ0605  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0606 南嶽總勝集 Nanyue zongsheng ji
+
+[KR5b0311](https://github.com/kanripo/KR5b0311) · `CUSTOM_ID` DZ0606 · `HK` CH021017 · `凱希` KX0633 · `三家本` Vol 11, p0111c · `Z中華道藏` ZHDZ48p0529 · `ZHnum` ZH48_016 · `X新文豐` XWDZ18p0552 · `涵芬樓` HFL鞠下132
+
+南嶽總勝集(宋-陳田夫)  
+DZJY: JY305  
+DZJY0: JY305  
+DZ:   DZ0606  
+Contents
+
+**Work notes**
+
+**Comments**
+
+### CMTS0211	讚頌類
+
+#### DZ0607 玉音法事 Yuyin fashi
+
+[KR5b0312](https://github.com/kanripo/KR5b0312) · `CUSTOM_ID` DZ0607 · `HK` CH021101 · `凱希` KX0634 · `三家本` Vol 11, p0120c · `Z中華道藏` ZHDZ44p0587 · `ZHnum` ZH44_061 · `X新文豐` XWDZ18p0567 · `涵芬樓` HFL養上004
+
+玉音法事  
+DZ:   DZ0607  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0608 上清諸真章頌 Shangqing zhuzhen zhangsong
+
+[KR5b0313](https://github.com/kanripo/KR5b0313) · `CUSTOM_ID` DZ0608 · `HK` CH021102 · `凱希` KX0635 · `三家本` Vol 11, p0146a · `Z中華道藏` ZHDZ02p0490 · `ZHnum` ZH02_061 · `X新文豐` XWDZ18p0607 · `涵芬樓` HFL養下004
+
+上清諸真章奏  
+DZ:   DZ0608  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0609 太上洞天靈寶智慧禮讚 Taishang dongtian lingbao zhihui lizan
+
+[KR5b0314](https://github.com/kanripo/KR5b0314) · `CUSTOM_ID` DZ0609 · `HK` CH021103 · `凱希` KX0636 · `三家本` Vol 11, p0150c · `Z中華道藏` ZHDZ04p0450 · `ZHnum` ZH04_084 · `X新文豐` XWDZ18p0614 · `涵芬樓` HFL養下032
+
+太上洞玄靈寶智慧禮讚  
+DZ:   DZ0609  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0610 靈寶九幽長夜起尸度亡玄章 Lingbao jiuyou changye qishi duwang xuan- zhang
+
+[KR5b0315](https://github.com/kanripo/KR5b0315) · `CUSTOM_ID` DZ0610 · `HK` CH021104 · `凱希` KX0637 · `三家本` Vol 11, p0153a · `Z中華道藏` ZHDZ04p0444 · `ZHnum` ZH04_082 · `X新文豐` XWDZ18p0618 · `涵芬樓` HFL養下046
+
+靈寶九幽長夜起屍度亡玄章  
+DZ:   DZ0610  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0611 洞玄靈寶六甲玉女上宮歌章 Dongxuan lingbao liujia yunü shanggong gezhang
+
+[KR5b0316](https://github.com/kanripo/KR5b0316) · `CUSTOM_ID` DZ0611 · `HK` CH021105 · `凱希` KX0638 · `三家本` Vol 11, p0156b · `Z中華道藏` ZHDZ04p0448 · `ZHnum` ZH04_083 · `X新文豐` XWDZ18p0623 · `涵芬樓` HFL養下066
+
+洞玄靈竇六甲玉女上宮歌章  
+DZ:   DZ0611  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0612 上清侍帝晨桐柏真人真圖讚 Shangqing shidi Chen Tongbo zhenren zhentu zan
+
+[KR5b0317](https://github.com/kanripo/KR5b0317) · `CUSTOM_ID` DZ0612 · `HK` CH021106 · `凱希` KX0639 · `三家本` Vol 11, p0157c · `Z中華道藏` ZHDZ46p0203 · `ZHnum` ZH46_012 · `X新文豐` XWDZ18p0625 · `涵芬樓` HFL養下074
+
+上清侍帝晏桐柏真人真圖讚(唐-司馬丞禎)  
+DZ:   DZ0612  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0613 眾仙讚頌靈章 Zhongxian zansong lingzhang
+
+[KR5b0318](https://github.com/kanripo/KR5b0318) · `CUSTOM_ID` DZ0613 · `HK` CH021107 · `凱希` KX0640 · `三家本` Vol 11, p0164a · `Z中華道藏` ZHDZ02p0516 · `ZHnum` ZH02_068 · `X新文豐` XWDZ18p0635 · `涵芬樓` HFL養下112
+
+眾仙讚頌靈章  
+DZ:   DZ0613  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0614 洞玄靈寶昇玄步虛章序疏 Dongxuan lingbao shengxuan buxu zhang xushu
+
+[KR5b0319](https://github.com/kanripo/KR5b0319) · `CUSTOM_ID` DZ0614 · `HK` CH021108 · `凱希` KX0641 · `三家本` Vol 11, p0168b · `Z中華道藏` ZHDZ03p0074 · `ZHnum` ZH03_008 · `X新文豐` XWDZ18p0642 · `涵芬樓` HFL養下138
+
+洞玄靈寶昇玄步虛章序疏  
+DZ:   DZ0614  
+Contents
+
+**Work notes**
+
+**Comments**
+
+### CMTS0212	表奏類
+
+#### DZ0615 赤松子章曆 Chisongzi zhangli +
+
+[KR5b0320](https://github.com/kanripo/KR5b0320) · `CUSTOM_ID` DZ0615 · `HK` CH021201 · `凱希` KX0642 · `三家本` Vol 11, p0173a · `Z中華道藏` ZHDZ08p0620 · `ZHnum` ZH08_068 · `X新文豐` XWDZ18p0648 · `涵芬樓` HFL豈上004
+
+赤松子章曆  
+DZ:   DZ0615  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0616 廣成集 Guangcheng ji
+
+[KR5b0321](https://github.com/kanripo/KR5b0321) · `CUSTOM_ID` DZ0616 · `HK` CH021202 · `凱希` KX0643 · `三家本` Vol 11, p0231c · `Z中華道藏` ZHDZ44p0437 · `ZHnum` ZH44_057 · `X新文豐` XWDZ18p0739 · `涵芬樓` HFL敢上004
+
+廣成集(前蜀-杜光庭)  
+DZ:   DZ0616  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0617 太上宣慈助化章 Taishang xuanci zhuhua zhang
+
+[KR5b0322](https://github.com/kanripo/KR5b0322) · `CUSTOM_ID` DZ0617 · `HK` CH021203 · `凱希` KX0644 · `三家本` Vol 11, p0310a · `Z中華道藏` ZHDZ08p0681 · `ZHnum` ZH08_069 · `X新文豐` XWDZ18p0860 · `涵芬樓` HFL毀上124
+
+太上宣慈助化章(前蜀-杜光庭)  
+DZ:   DZ0617  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0618 靈寶淨明院行遣式 Lingbao jingming yuanxing qianshi
+
+[KR5b0323](https://github.com/kanripo/KR5b0323) · `CUSTOM_ID` DZ0618 · `HK` CH021204 · `凱希` KX0645 · `三家本` Vol 11, p0336c · `Z中華道藏` ZHDZ31p0508 · `ZHnum` ZH31_037 · `X新文豐` XWDZ18p0901 · `涵芬樓` HFL毀下130
+
+靈寶淨明院行遣式(周真人)  
+DZ:   DZ0618  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0619 天樞院都司須知行遣式 Tianshu yuandu sixu zhixing yishi
+
+[KR5b0324](https://github.com/kanripo/KR5b0324) · `CUSTOM_ID` DZ0619 · `HK` CH021205 · `凱希` KX0646 · `三家本` Vol 11, p0342c · `Z中華道藏` ZHDZ31p0504 · `ZHnum` ZH31_035 · `X新文豐` XWDZ18p0910 · `涵芬樓` HFL毀上166
+
+天樞院都司須知行遣式  
+DZ:   DZ0619  
+Contents
+
+**Work notes**
+
+**Comments**
+
+## 洞　神　部 CH03
+
+分類	洞　神　部　經名(作者)	上海版	新文豐	中華道藏	涵芬樓
+
+### CMTS0301	本文類
+
+#### DZ0620 太上老君說常清靜妙經 Taishang laojun shuo chang qingjing miaojing
+
+[KR5c0001](https://github.com/kanripo/KR5c0001) · `CUSTOM_ID` DZ0620 · `HK` CH030101 · `凱希` KX0647 · `三家本` Vol 11, p0344a · `Z中華道藏` ZHDZ06p0001 · `ZHnum` ZH06_001 · `X新文豐` XWDZ19p0001 · `涵芬樓` HFL傷上004
+
+太上老君說常清靜妙經  
+DZ:   DZ0620  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0621 太上玄靈斗姆大聖元君本命延生心經 Taishang xuanling doumu dasheng yuanjun benming yansheng xinjing +
+
+[KR5c0002](https://github.com/kanripo/KR5c0002) · `CUSTOM_ID` DZ0621 · `HK` CH030102 · `凱希` KX0648 · `三家本` Vol 11, p0345a · `Z中華道藏` ZHDZ06p0758 · `ZHnum` ZH06_115 · `X新文豐` XWDZ19p0003 · `涵芬樓` HFL傷上010
+
+太上玄靈斗姆大聖元君本命延生心經  
+DZ:   DZ0621  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0622 太上玄靈北斗本命延生真經 Taishang xuanling beidou benming yansheng zhenjing
+
+[KR5c0003](https://github.com/kanripo/KR5c0003) · `CUSTOM_ID` DZ0622 · `HK` CH030103 · `凱希` KX0649 · `三家本` Vol 11, p0346a · `Z中華道藏` ZHDZ06p0640 · `ZHnum` ZH06_102 · `X新文豐` XWDZ19p0005 · `涵芬樓` HFL傷上016
+
+太上玄靈北斗本命延生真經  
+DZJY: JY103  
+DZJY0: JY103  
+DZ:   DZ0622  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0623 太上玄靈北斗本命長生妙經 Taishang xuanling beidou benming changsheng miaojing
+
+[KR5c0004](https://github.com/kanripo/KR5c0004) · `CUSTOM_ID` DZ0623 · `HK` CH030104 · `凱希` KX0650 · `三家本` Vol 11, p0349a · `Z中華道藏` ZHDZ06p0643 · `ZHnum` ZH06_103 · `X新文豐` XWDZ19p0010 · `涵芬樓` HFL傷上034
+
+太上玄靈北斗本命長生妙經  
+DZ:   DZ0623  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0624 太上說南斗六司延壽度人妙經 Taishang shuo nandou liusi yanshou duren miaojing
+
+[KR5c0005](https://github.com/kanripo/KR5c0005) · `CUSTOM_ID` DZ0624 · `HK` CH030105 · `凱希` KX0651 · `三家本` Vol 11, p0350a · `Z中華道藏` ZHDZ06p0644 · `ZHnum` ZH06_104 · `X新文豐` XWDZ19p0012 · `涵芬樓` HFL傷上040
+
+太上說南斗六司延壽度人妙經  
+DZJY: JY104  
+DZJY0: JY104  
+DZ:   DZ0624  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0625 太上說東斗主筭護命妙經 Taishang shuo dongdou zhusuan huming miaojing
+
+[KR5c0006](https://github.com/kanripo/KR5c0006) · `CUSTOM_ID` DZ0625 · `HK` CH030106 · `凱希` KX0652 · `三家本` Vol 11, p0353a · `Z中華道藏` ZHDZ06p0647 · `ZHnum` ZH06_105 · `X新文豐` XWDZ19p0017 · `涵芬樓` HFL傷上057
+
+太上說東斗主算護命妙經  
+DZJY: JY105  
+DZJY0: JY105  
+DZ:   DZ0625  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0626 太上說西斗記名護身妙經 Taishang shuo xidou jiming hushen miaojing
+
+[KR5c0007](https://github.com/kanripo/KR5c0007) · `CUSTOM_ID` DZ0626 · `HK` CH030107 · `凱希` KX0653 · `三家本` Vol 11, p0354a · `Z中華道藏` ZHDZ06p0648 · `ZHnum` ZH06_106 · `X新文豐` XWDZ19p0019 · `涵芬樓` HFL傷上063
+
+太上說西斗記名護身妙經  
+DZJY: JY106  
+DZJY0: JY106  
+DZ:   DZ0626  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0627 太上說中斗大魁保命妙經 Taishang shuo zhongdou dakui baoming miaojing
+
+[KR5c0008](https://github.com/kanripo/KR5c0008) · `CUSTOM_ID` DZ0627 · `HK` CH030108 · `凱希` KX0654 · `三家本` Vol 11, p0355b · `Z中華道藏` ZHDZ06p0650 · `ZHnum` ZH06_107 · `X新文豐` XWDZ19p0021 · `涵芬樓` HFL傷上071
+
+太上說中斗大魁保命妙經  
+DZJY: JY107  
+DZJY0: JY107  
+DZ:   DZ0627  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0628 太上說中斗大魁掌筭伏魔神咒經 Taishang shuo zhongdou dakui zhangsuan fumo shenzhou jing
+
+[KR5c0009](https://github.com/kanripo/KR5c0009) · `CUSTOM_ID` DZ0628 · `HK` CH030109 · `凱希` KX0655 · `三家本` Vol 11, p0356c · `Z中華道藏` ZHDZ06p0652 · `ZHnum` ZH06_108 · `X新文豐` XWDZ19p0023 · `涵芬樓` HFL傷上080
+
+太上說中斗大魁掌算伏魔神咒經  
+DZ:   DZ0628  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0629 太上北斗二十八章經 Taishang beidou ershiba zhangjing
+
+[KR5c0010](https://github.com/kanripo/KR5c0010) · `CUSTOM_ID` DZ0629 · `HK` CH030110 · `凱希` KX0656 · `三家本` Vol 11, p0357b · `Z中華道藏` ZHDZ06p0743 · `ZHnum` ZH06_112 · `X新文豐` XWDZ19p0024 · `涵芬樓` HFL傷上084
+
+太上北斗二十八章經  
+DZ:   DZ0629  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0630 太上老君說救生真經 Taishang laojun shuo jiusheng zhenjing
+
+[KR5c0011](https://github.com/kanripo/KR5c0011) · `CUSTOM_ID` DZ0630 · `HK` CH030111 · `凱希` KX0657 · `三家本` Vol 11, p0366c · `Z中華道藏` ZHDZ06p0172 · `ZHnum` ZH06_045 · `X新文豐` XWDZ19p0038 · `涵芬樓` HFL傷上141
+
+太上老君說救生真經  
+DZ:   DZ0630  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0631 太上老君說消災經 Taishang laojun shuo xiaozai jing
+
+[KR5c0012](https://github.com/kanripo/KR5c0012) · `CUSTOM_ID` DZ0631 · `HK` CH030112 · `凱希` KX0658 · `三家本` Vol 11, p0367b · `Z中華道藏` ZHDZ06p0166 · `ZHnum` ZH06_040 · `X新文豐` XWDZ19p0039 · `涵芬樓` HFL傷上144
+
+太上老君說消災經  
+DZ:   DZ0631  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0632 太上太清天童護命妙經 Taishang taiqing tiantong huming miaojing
+
+[KR5c0013](https://github.com/kanripo/KR5c0013) · `CUSTOM_ID` DZ0632 · `HK` CH030113 · `凱希` KX0659 · `三家本` Vol 11, p0369b · `Z中華道藏` ZHDZ06p0174 · `ZHnum` ZH06_047 · `X新文豐` XWDZ19p0042 · `涵芬樓` HFL傷上156
+
+太上太清天童護命妙經  
+DZ:   DZ0632  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0633 太上泰清黃老帝君運雷天童隱梵仙經 Taishang taiqing huanglao dijun yunlei tiantong yinfan xianjing
+
+[KR5c0014](https://github.com/kanripo/KR5c0014) · `CUSTOM_ID` DZ0633 · `HK` CH030114 · `凱希` KX0660 · `三家本` Vol 11, p0371a · `Z中華道藏` ZHDZ06p0179 · `ZHnum` ZH06_049 · `X新文豐` XWDZ19p0045 · `涵芬樓` HFL傷上166
+
+太上泰清皇老帝君運雷天童隱梵仙經  
+DZ:   DZ0633  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0634 太上老君說安宅八陽經 Taishang laojun shuo anzhe bayang jing
+
+[KR5c0015](https://github.com/kanripo/KR5c0015) · `CUSTOM_ID` DZ0634 · `HK` CH030115 · `凱希` KX0661 · `三家本` Vol 11, p0372a · `Z中華道藏` ZHDZ06p0169 · `ZHnum` ZH06_042 · `X新文豐` XWDZ19p0047 · `涵芬樓` HFL傷上172
+
+太上老君說安宅八陽經  
+DZ:   DZ0634  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0635 太上老君說補謝八陽經 Taishang laojun shuo buxie bayang jing
+
+[KR5c0016](https://github.com/kanripo/KR5c0016) · `CUSTOM_ID` DZ0635 · `HK` CH030116 · `凱希` KX0662 · `三家本` Vol 11, p0372c · `Z中華道藏` ZHDZ06p0170 · `ZHnum` ZH06_043 · `X新文豐` XWDZ19p0048 · `涵芬樓` HFL傷上176
+
+太上老君說補謝八陽經  
+DZ:   DZ0635  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0636 太上說十鍊生神救護經 Taishang shuo shilian shengshen jiuhu jing
+
+[KR5c0017](https://github.com/kanripo/KR5c0017) · `CUSTOM_ID` DZ0636 · `HK` CH030117 · `凱希` KX0663 · `三家本` Vol 11, p0373b · `Z中華道藏` ZHDZ06p0173 · `ZHnum` ZH06_046 · `X新文豐` XWDZ19p0049 · `涵芬樓` HFL傷上180
+
+太上說十鍊生神救護經  
+DZ:   DZ0636  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0637 太上飛步五星經 Taishang feibu wuxing jing
+
+[KR5c0018](https://github.com/kanripo/KR5c0018) · `CUSTOM_ID` DZ0637 · `HK` CH030118 · `凱希` KX0664 · `三家本` Vol 11, p0374a · `Z中華道藏` ZHDZ02p0019 · `ZHnum` ZH02_003 · `X新文豐` XWDZ19p0050 · `涵芬樓` HFL傷上184
+
+太上飛步五星經  
+DZ:   DZ0637  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0638 太上飛步南斗太微玉經 Taishang feibu nandou taiwei yujing
+
+[KR5c0019](https://github.com/kanripo/KR5c0019) · `CUSTOM_ID` DZ0638 · `HK` CH030119 · `凱希` KX0665 · `三家本` Vol 11, p0377c · `Z中華道藏` ZHDZ02p0430 · `ZHnum` ZH02_048 · `X新文豐` XWDZ19p0055 · `涵芬樓` HFL傷上206
+
+太上飛步南斗太微玉經  
+DZ:   DZ0638  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0639 皇天上清金闕帝君靈書紫文上經 Huangtian shangqing jinque dijun lingshu ziwen shangjing
+
+[KR5c0020](https://github.com/kanripo/KR5c0020) · `CUSTOM_ID` DZ0639 · `HK` CH030120 · `凱希` KX0666 · `三家本` Vol 11, p0380c · `Z中華道藏` ZHDZ01p0299 · `ZHnum` ZH01_030 · `X新文豐` XWDZ19p0061 · `涵芬樓` HFL傷下004
+
+皇天上清金闕帝君靈書紫文上經  
+DZ:   DZ0639  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0640 洞神八帝妙精經 Dongshen badi miaojing jing
+
+[KR5c0021](https://github.com/kanripo/KR5c0021) · `CUSTOM_ID` DZ0640 · `HK` CH030121 · `凱希` KX0667 · `三家本` Vol 11, p0385b · `Z中華道藏` ZHDZ04p0497 · `ZHnum` ZH04_087 · `X新文豐` XWDZ19p0069 · `涵芬樓` HFL傷下032
+
+洞神八帝妙精經  
+DZ:   DZ0640  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0641 太上老君內觀經 Taishang laojun neiguan jing +
+
+[KR5c0022](https://github.com/kanripo/KR5c0022) · `CUSTOM_ID` DZ0641 · `HK` CH030122 · `凱希` KX0668 · `三家本` Vol 11, p0396a · `Z中華道藏` ZHDZ06p0079 · `ZHnum` ZH06_010 · `X新文豐` XWDZ19p0085 · `涵芬樓` HFL傷下097
+
+太上老君內觀經  
+DZJY: JY063  
+DZJY0: JY063  
+DZ:   DZ0641  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0642 太上老君說了心經 Taishang laojun shuo liaoxin jing
+
+[KR5c0023](https://github.com/kanripo/KR5c0023) · `CUSTOM_ID` DZ0642 · `HK` CH030123 · `凱希` KX0669 · `三家本` Vol 11, p0398b · `Z中華道藏` ZHDZ06p0082 · `ZHnum` ZH06_011 · `X新文豐` XWDZ19p0088 · `涵芬樓` HFL110
+
+太上老君說了心經  
+DZJY: JY064  
+DZJY0: JY064  
+DZ:   DZ0642  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0643 太上老君內丹經 Taishang laojun neidan jing
+
+[KR5c0024](https://github.com/kanripo/KR5c0024) · `CUSTOM_ID` DZ0643 · `HK` CH030124 · `凱希` KX0670 · `三家本` Vol 11, p0398c · `Z中華道藏` ZHDZ19p0004 · `ZHnum` ZH19_002 · `X新文豐` XWDZ19p0089 · `涵芬樓` HFL傷下112
+
+太上老君內丹經  
+DZJY: JY067  
+DZJY0: JY067  
+DZ:   DZ0643  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0644 太上內丹守一真定經 Taishang neidan shouyi zhending jing
+
+[KR5c0025](https://github.com/kanripo/KR5c0025) · `CUSTOM_ID` DZ0644 · `HK` CH030125 · `凱希` KX0671 · `三家本` Vol 11, p0399c · `Z中華道藏` ZHDZ06p0773 · `ZHnum` ZH06_121 · `X新文豐` XWDZ19p0090 · `涵芬樓` HFL傷下118
+
+太上內丹守一真定經  
+DZJY: JY065  
+DZJY0: JY065  
+DZ:   DZ0644  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0645 太上老君內日用妙經 Taishang laojun nei riyong miaojing +
+
+[KR5c0026](https://github.com/kanripo/KR5c0026) · `CUSTOM_ID` DZ0645 · `HK` CH030126 · `凱希` KX0672 · `三家本` Vol 11, p0400a · `Z中華道藏` ZHDZ19p0005 · `ZHnum` ZH19_003 · `X新文豐` XWDZ19p0091 · `涵芬樓` HFL傷下120
+
+太上老君內日用妙經  
+DZJY: JY060  
+DZJY0: JY060  
+DZ:   DZ0645  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0646 太上老君外日用妙經 Taishang laojun wai riyong miaojing +
+
+[KR5c0027](https://github.com/kanripo/KR5c0027) · `CUSTOM_ID` DZ0646 · `HK` CH030127 · `凱希` KX0673 · `三家本` Vol 11, p0400c · `Z中華道藏` ZHDZ19p0006 · `ZHnum` ZH19_004 · `X新文豐` XWDZ19p0092 · `涵芬樓` HFL傷下124
+
+太上老君外日用妙經  
+DZJY: JY061  
+DZJY0: JY061  
+DZ:   DZ0646  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0647 太上說輪轉五道宿命因緣經 Taishang shuo lunzhuan wudao suming yinyuan jing
+
+[KR5c0028](https://github.com/kanripo/KR5c0028) · `CUSTOM_ID` DZ0647 · `HK` CH030128 · `凱希` KX0674 · `三家本` Vol 11, p0401a · `Z中華道藏` ZHDZ06p0150 · `ZHnum` ZH06_033 · `X新文豐` XWDZ19p0092 · `涵芬樓` HFL傷下126
+
+太上說輪轉五道宿命因緣經  
+DZJY: JY066  
+DZJY0: JY066  
+DZ:   DZ0647  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0648 太上化道度世仙經 Taishang huadao dushi xianjing
+
+[KR5c0029](https://github.com/kanripo/KR5c0029) · `CUSTOM_ID` DZ0648 · `HK` CH030129 · `凱希` KX0675 · `三家本` Vol 11, p0403c · `Z中華道藏` ZHDZ19p0040 · `ZHnum` ZH19_009 · `X新文豐` XWDZ19p0097 · `涵芬樓` HFL傷下142
+
+太上化道度世仙經  
+DZ:   DZ0648  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0649 太上老君說天妃救苦靈驗經 Taishang laojun shuo tianfei jiuku lingyan jing
+
+[KR5c0030](https://github.com/kanripo/KR5c0030) · `CUSTOM_ID` DZ0649 · `HK` CH030130 · `凱希` KX0676 · `三家本` Vol 11, p0408b · `Z中華道藏` ZHDZ06p0260 · `ZHnum` ZH06_083 · `X新文豐` XWDZ19p0104 · `涵芬樓` HFL傷下170
+
+太上老君說天妃救苦靈驗經  
+DZ:   DZ0649  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0650 太上老君說長生益筭妙經 Taishang laojun shuo changsheng yisuan miaojing
+
+[KR5c0031](https://github.com/kanripo/KR5c0031) · `CUSTOM_ID` DZ0650 · `HK` CH030131 · `凱希` KX0677 · `三家本` Vol 11, p0410c · `Z中華道藏` ZHDZ06p0161 · `ZHnum` ZH06_038 · `X新文豐` XWDZ19p0109 · `涵芬樓` HFL女上004
+
+太上老君說長生益算妙經  
+DZ:   DZ0650  
+Contents
+
+**Work notes** — 妙真經?
+
+**Comments**
+
+#### DZ0651 太上洞神三元妙本福壽真經 Taishang dongshen sanyuan miaoben fushou zhenjing
+
+[KR5c0032](https://github.com/kanripo/KR5c0032) · `CUSTOM_ID` DZ0651 · `HK` CH030132 · `凱希` KX0678 · `三家本` Vol 11, p0414a · `Z中華道藏` ZHDZ06p0235 · `ZHnum` ZH06_074 · `X新文豐` XWDZ19p0115 · `涵芬樓` HFL女上024
+
+太上洞神三元妙本福壽真經  
+DZ:   DZ0651  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0652 太上老君說解釋咒詛經 Taishang laojun shuo jieshi zhouzu jing
+
+[KR5c0033](https://github.com/kanripo/KR5c0033) · `CUSTOM_ID` DZ0652 · `HK` CH030133 · `凱希` KX0679 · `三家本` Vol 11, p0417a · `Z中華道藏` ZHDZ06p0168 · `ZHnum` ZH06_041 · `X新文豐` XWDZ19p0120 · `涵芬樓` HFL女上042
+
+太上老君說解釋咒詛經  
+DZ:   DZ0652  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0653 太上老君說五斗金章受生經 Taishang laojun shuo wudou jinzhang shousheng jing
+
+[KR5c0034](https://github.com/kanripo/KR5c0034) · `CUSTOM_ID` DZ0653 · `HK` CH030134 · `凱希` KX0680 · `三家本` Vol 11, p0418a · `Z中華道藏` ZHDZ06p0637 · `ZHnum` ZH06_101 · `X新文豐` XWDZ19p0122 · `涵芬樓` HFL女上048
+
+太上老君說五斗金章受生經  
+DZ:   DZ0653  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0654 太上洞神天公消魔護國經 Taishang dongshen tiangong xiaomo huguo jing
+
+[KR5c0035](https://github.com/kanripo/KR5c0035) · `CUSTOM_ID` DZ0654 · `HK` CH030135 · `凱希` KX0681 · `三家本` Vol 11, p0420c · `Z中華道藏` ZHDZ06p0224 · `ZHnum` ZH06_072 · `X新文豐` XWDZ19p0126 · `涵芬樓` HFL女上064
+
+太上洞神天公消魔護國經  
+DZ:   DZ0654  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0655 太上說紫微神兵護國消魔經 Taishang shuo ziwei shenbing huguo xiaomo jing
+
+[KR5c0036](https://github.com/kanripo/KR5c0036) · `CUSTOM_ID` DZ0655 · `HK` CH030136 · `凱希` KX0682 · `三家本` Vol 11, p0427c · `Z中華道藏` ZHDZ30p0520 · `ZHnum` ZH30_035 · `X新文豐` XWDZ19p0137 · `涵芬樓` HFL女上074
+
+太上說紫微神兵護國消魔經  
+DZ:   DZ0655  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0656 太上日月混元經 Taishang riyue hunyuan jing
+
+[KR5c0037](https://github.com/kanripo/KR5c0037) · `CUSTOM_ID` DZ0656 · `HK` CH030137 · `凱希` KX0683 · `三家本` Vol 11, p0428c · `Z中華道藏` ZHDZ18p0725 · `ZHnum` ZH18_081 · `X新文豐` XWDZ19p0139 · `涵芬樓` HFL女上112
+
+太上日月混元經  
+DZ:   DZ0656  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0657 太上洞神五星諸宿日月混常經 Taishang dongshen wuxing zhusu riyue hunchang jing
+
+[KR5c0038](https://github.com/kanripo/KR5c0038) · `CUSTOM_ID` DZ0657 · `HK` CH030138 · `凱希` KX0684 · `三家本` Vol 11, p0429b · `Z中華道藏` ZHDZ06p0232 · `ZHnum` ZH06_073 · `X新文豐` XWDZ19p0140 · `涵芬樓` HFL女上116
+
+太上洞神五星諸宿日月混常經  
+DZ:   DZ0657  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0658 太上妙始經 Taishang miaoshi jing
+
+[KR5c0039](https://github.com/kanripo/KR5c0039) · `CUSTOM_ID` DZ0658 · `HK` CH030139 · `凱希` KX0685 · `三家本` Vol 11, p0431c · `Z中華道藏` ZHDZ08p0170 · `ZHnum` ZH08_008 · `X新文豐` XWDZ19p0145 · `涵芬樓` HFL女中004
+
+太上妙始經  
+DZJY: JY068  
+DZJY0: JY068  
+DZ:   DZ0658  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0659 太上浩元經 Taishang haoyuan jing
+
+[KR5c0040](https://github.com/kanripo/KR5c0040) · `CUSTOM_ID` DZ0659 · `HK` CH030140 · `凱希` KX0686 · `三家本` Vol 11, p0434a · `Z中華道藏` ZHDZ23p0116 · `ZHnum` ZH23_013 · `X新文豐` XWDZ19p0149 · `涵芬樓` HFL女中018
+
+太上浩元經  
+DZJY: JY069  
+DZJY0: JY069  
+DZ:   DZ0659  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0660 混元八景真經 Hunyuan bajing zhenjing
+
+[KR5c0041](https://github.com/kanripo/KR5c0041) · `CUSTOM_ID` DZ0660 · `HK` CH030141 · `凱希` KX0687 · `三家本` Vol 11, p0434c · `Z中華道藏` ZHDZ19p0045 · `ZHnum` ZH19_010 · `X新文豐` XWDZ19p0150 · `涵芬樓` HFL女中022
+
+混元八景真經  
+DZ:   DZ0660  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0661 老子像名經 Laozi xiangming jing
+
+[KR5c0042](https://github.com/kanripo/KR5c0042) · `CUSTOM_ID` DZ0661 · `HK` CH030142 · `凱希` KX0688 · `三家本` Vol 11, p0452c · `Z中華道藏` ZHDZ06p0133 · `ZHnum` ZH06_032 · `X新文豐` XWDZ19p0177 · `涵芬樓` HFL女下004
+
+老子像名經  
+DZ:   DZ0661  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0662 太上老君說報父母恩重經 Taishang laojun shuo bao fumu enzhong jing
+
+[KR5c0043](https://github.com/kanripo/KR5c0043) · `CUSTOM_ID` DZ0662 · `HK` CH030143 · `凱希` KX0689 · `三家本` Vol 11, p0470c · `Z中華道藏` ZHDZ06p0155 · `ZHnum` ZH06_035 · `X新文豐` XWDZ19p0205 · `涵芬樓` HFL女下114
+
+太上老君說報父母恩重經  
+DZ:   DZ0662  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0663 玄天上帝說報父母恩重經 Xuantian shangdi shuo bao fumu enzhong jing
+
+[KR5c0044](https://github.com/kanripo/KR5c0044) · `CUSTOM_ID` DZ0663 · `HK` CH030144 · `凱希` KX0690 · `三家本` Vol 11, p0473b · `Z中華道藏` ZHDZ30p0634 · `ZHnum` ZH30_044 · `X新文豐` XWDZ19p0209 · `涵芬樓` HFL女下130
+
+玄天上帝說報父母恩重經  
+DZ:   DZ0663  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0664 道德真經 Daode zhenjing
+
+[KR5c0045](https://github.com/kanripo/KR5c0045) · `CUSTOM_ID` DZ0664 · `HK` CH030145 · `凱希` KX0691 · `三家本` Vol 11, p0474b · `Z中華道藏` ZHDZ09p0036 · `ZHnum` ZH09_004 · `X新文豐` XWDZ19p0211 · `涵芬樓` HFL慕上004
+
+道德真經(周-李耳)  
+DZ:   DZ0664  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0665 道德真古本篇 Daode zhen guben pian
+
+[KR5c0046](https://github.com/kanripo/KR5c0046) · `CUSTOM_ID` DZ0665 · `HK` CH030146 · `凱希` KX0692 · `三家本` Vol 11, p0482a · `Z中華道藏` ZHDZ09p0045 · `ZHnum` ZH09_005 · `X新文豐` XWDZ19p0223 · `涵芬樓` HFL慕上050
+
+道德經古本篇(唐-傅奕)  
+DZ:   DZ0665  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0666 西昇經 Xisheng jing
+
+[KR5c0047](https://github.com/kanripo/KR5c0047) · `CUSTOM_ID` DZ0666 · `HK` CH030147 · `凱希` KX0693 · `三家本` Vol 11, p0489c · `Z中華道藏` ZHDZ08p0227 · `ZHnum` ZH08_015 · `X新文豐` XWDZ19p0235 · `涵芬樓` HFL慕上096
+
+西昇經(宋徽宗)  
+DZJY: JY084  
+DZJY0: JY084  
+DZ:   DZ0666  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0667 無上妙道文始真經 Wushang miaodao wenshi zhenjing
+
+[KR5c0048](https://github.com/kanripo/KR5c0048) · `CUSTOM_ID` DZ0667 · `HK` CH030148 · `凱希` KX0694 · `三家本` Vol 11, p0513b · `Z中華道藏` ZHDZ08p0007 · `ZHnum` ZH08_002 · `X新文豐` XWDZ19p0271 · `涵芬樓` HFL慕中100
+
+無上妙道文始真經(周-尹喜)  
+DZ:   DZ0667  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0668 沖虛至德真經 Chongxu zhide zhenjing
+
+[KR5c0049](https://github.com/kanripo/KR5c0049) · `CUSTOM_ID` DZ0668 · `HK` CH030149 · `凱希` KX0695 · `三家本` Vol 11, p0525c · `Z中華道藏` ZHDZ15p0001 · `ZHnum` ZH15_001 · `X新文豐` XWDZ19p0291 · `涵芬樓` HFL慕下004
+
+沖虛至德真經(周-列禦寇)  
+DZ:   DZ0668  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0669 洞靈真經 Dongling zhenjing
+
+[KR5c0050](https://github.com/kanripo/KR5c0050) · `CUSTOM_ID` DZ0669 · `HK` CH030150 · `凱希` KX0696 · `三家本` Vol 11, p0556c · `Z中華道藏` ZHDZ15p0659 · `ZHnum` ZH15_011 · `X新文豐` XWDZ19p0339 · `涵芬樓` HFL貞上004
+
+洞靈真經(周-庚桑楚)  
+DZ:   DZ0669  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0670 南華真經 Nanhua zhenjing
+
+[KR5c0051](https://github.com/kanripo/KR5c0051) · `CUSTOM_ID` DZ0670 · `HK` CH030151 · `凱希` KX0697 · `三家本` Vol 11, p0567a · `Z中華道藏` ZHDZ13p0001 · `ZHnum` ZH13_001 · `X新文豐` XWDZ19p0355 · `涵芬樓` HFL貞上066
+
+南華真經(周-莊周)  
+DZ:   DZ0670  
+Contents
+
+**Work notes**
+
+**Comments**
+
+### CMTS0302　	神符類
+
+#### DZ0671 太上無極大道自然真一五稱符上經 Taishang wuji dadao ziran zhenyi yucheng fu shangjing
+
+[KR5c0052](https://github.com/kanripo/KR5c0052) · `CUSTOM_ID` DZ0671 · `HK` CH030201 · `凱希` KX0698 · `三家本` Vol 11, p0632c · `Z中華道藏` ZHDZ03p0193 · `ZHnum` ZH03_014 · `X新文豐` XWDZ19p0457 · `涵芬樓` HFL潔上004
+
+太上無極大道自然真一五稱符上經  
+DZJY: JY070  
+DZJY0: JY070  
+DZ:   DZ0671  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0672 太上老君說益筭神符妙經 Taishang laojun shuo yisuan shenfu miaojing
+
+[KR5c0053](https://github.com/kanripo/KR5c0053) · `CUSTOM_ID` DZ0672 · `HK` CH030202 · `凱希` KX0699 · `三家本` Vol 11, p0642a · `Z中華道藏` ZHDZ06p0159 · `ZHnum` ZH06_037 · `X新文豐` XWDZ19p0472 · `涵芬樓` HFL潔上060
+
+太上老君說益算神符妙經  
+DZ:   DZ0672  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0673 太上老君混元三部符 Taishang laojun hunyuan sanbu fu
+
+[KR5c0054](https://github.com/kanripo/KR5c0054) · `CUSTOM_ID` DZ0673 · `HK` CH030203 · `凱希` KX0700 · `三家本` Vol 11, p0644a · `Z中華道藏` ZHDZ32p0627 · `ZHnum` ZH32_052 · `X新文豐` XWDZ19p0475 · `涵芬樓` HFL潔上072
+
+太上老君混元三部符  
+DZ:   DZ0673  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0674 無上三元鎮宅靈籙 Wushang sanyuan zhenzhe linglu
+
+[KR5c0055](https://github.com/kanripo/KR5c0055) · `CUSTOM_ID` DZ0674 · `HK` CH030204 · `凱希` KX0701 · `三家本` Vol 11, p0676b · `Z中華道藏` ZHDZ02p0639 · `ZHnum` ZH02_088 · `X新文豐` XWDZ19p0525 · `涵芬樓` HFL潔下122
+
+無上三元鎮宅靈籙  
+DZ:   DZ0674  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0675 上清丹天三氣玉皇六辰飛綱司命大籙 Shangqing dantian sanqi yuhuang liuchen feigang siming dalu
+
+[KR5c0056](https://github.com/kanripo/KR5c0056) · `CUSTOM_ID` DZ0675 · `HK` CH030205 · `凱希` KX0702 · `三家本` Vol 11, p0683b · `Z中華道藏` ZHDZ02p0434 · `ZHnum` ZH02_049 · `X新文豐` XWDZ11p0684 · `涵芬樓` HFL潔168
+
+上清丹天三氣玉皇六辰飛綱司命大籙  
+DZ:   DZ0675  
+Contents
+
+**Work notes**
+
+**Comments**
+
+### CMTS0303　	玉訣類
+
+#### DZ0676 大明太祖高皇帝御註道德真經 Daming Taizu gao huangdi yuzhu daode zhenjing
+
+[KR5c0058](https://github.com/kanripo/KR5c0058) · `CUSTOM_ID` DZ0676 · `HK` CH030301 · `凱希` KX0703 · `三家本` Vol 11, p0689a · `Z中華道藏` ZHDZ12p0677 · `ZHnum` ZH12_012 · `X新文豐` XWDZ19p0545 · `涵芬樓` HFL男上004
+
+大明太祖高皇帝御註道德真經(明太祖)  
+DZ:   DZ0676  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0677 唐玄宗御註道德真經 Tang Xuanzong yuzhu daode zhenjing
+
+[KR5c0059](https://github.com/kanripo/KR5c0059) · `CUSTOM_ID` DZ0677 · `HK` CH030302 · `凱希` KX0704 · `三家本` Vol 11, p0716a · `Z中華道藏` ZHDZ09p0361 · `ZHnum` ZH09_017 · `X新文豐` XWDZ19p0587 · `涵芬樓` HFL男下004
+
+唐玄宗御註道德真經(唐玄宗)  
+DZ:   DZ0677  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0678 唐玄宗御製道德真經疏 Tang Xuanzong yujie daode zhenjing shu
+
+[KR5c0060](https://github.com/kanripo/KR5c0060) · `CUSTOM_ID` DZ0678 · `HK` CH030303 · `凱希` KX0705 · `三家本` Vol 11, p0749a · `Z中華道藏` ZHDZ09p0394 · `ZHnum` ZH09_018 · `X新文豐` XWDZ19p0637 · `涵芬樓` HFL效上004
+
+唐玄宗御製道德真經疏(一)(唐玄宗)  
+DZ:   DZ0678  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### xx 唐玄宗御製道德真經疏外傳(唐玄宗)
+
+`nopin` · `CUSTOM_ID` xx · `HK` CH030304 · `凱希` xx · `三家本` x · `Z中華道藏` XX · `ZHnum` XX · `X新文豐` XWDZ19p0731 · `涵芬樓` HFL才上004
+
+唐玄宗御製道德真經疏外傳(唐玄宗)  
+DZ:   xx  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0679 唐玄宗御製道德真經疏 Tang Xuanzong yujie daode zhenjing shu
+
+[KR5c0062](https://github.com/kanripo/KR5c0062) · `CUSTOM_ID` DZ0679 · `HK` CH030305 · `凱希` KX0706 · `三家本` Vol 11, p0809c · `Z中華道藏` ZHDZ09p0834 · `ZHnum` ZH09_024 · `X新文豐` XWDZ19p0734 · `涵芬樓` HFL才上014
+
+唐玄宗御製道德真經疏(二)(唐玄宗)  
+DZ:   DZ0679  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0680 宋微宗御解道德真經 Song Weizong yujie daode zhenjing
+
+[KR5c0063](https://github.com/kanripo/KR5c0063) · `CUSTOM_ID` DZ0680 · `HK` CH030306 · `凱希` KX0707 · `三家本` Vol 11, p0843a · `Z中華道藏` ZHDZ10p0667 · `ZHnum` ZH10_013 · `X新文豐` XWDZ19p0783 · `涵芬樓` HFL才下004
+
+宋徽宗御解道德真經(宋徽宗)  
+DZ:   DZ0680  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0681 宋微宗御解道德真經解義 Song Weizong daode zhenjing jieyi
+
+[KR5c0064](https://github.com/kanripo/KR5c0064) · `CUSTOM_ID` DZ0681 · `HK` CH030307 · `凱希` KX0708 · `三家本` Vol 11, p0885a · `Z中華道藏` ZHDZ10p0710 · `ZHnum` ZH10_014 · `X新文豐` XWDZ20p0001 · `涵芬樓` HFL良上004
+
+宋徽宗御解道德真經解義(宋-章安)  
+DZ:   DZ0681  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0682 道德真經註 Daode zhenjing zhu
+
+[KR5c0065](https://github.com/kanripo/KR5c0065) · `CUSTOM_ID` DZ0682 · `HK` CH030308 · `凱希` KX0709 · `三家本` Vol 12, p0001a · `Z中華道藏` ZHDZ09p0127 · `ZHnum` ZH09_007 · `X新文豐` XWDZ20p0123 · `涵芬樓` HFL知上004
+
+道德真經註(一)(漢-河上公章句)  
+DZ:   DZ0682  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0683 道德真經解 Daode zhenjing jie
+
+[KR5c0066](https://github.com/kanripo/KR5c0066) · `CUSTOM_ID` DZ0683 · `HK` CH030309 · `凱希` KX0710 · `三家本` Vol 12, p0023c · `Z中華道藏` ZHDZ10p0639 · `ZHnum` ZH10_012 · `X新文豐` XWDZ20p0159 · `涵芬樓` HFL知下004
+
+道德真經解(一)(宋-陳象古)  
+DZ:   DZ0683  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0684 道德真經四子古道集解 Daode zhenjing sizi gudao jijie
+
+[KR5c0067](https://github.com/kanripo/KR5c0067) · `CUSTOM_ID` DZ0684 · `HK` CH030310 · `凱希` KX0711 · `三家本` Vol 12, p0041c · `Z中華道藏` ZHDZ12p0040 · `ZHnum` ZH12_002 · `X新文豐` XWDZ20p0187 · `涵芬樓` HFL過上004
+
+道德真經四子古道集解(金-寇才質)  
+DZJY: JY046  
+DZJY0: JY046  
+DZ:   DZ0684  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0685 道德真經傳 Daode zhenjing zhuan
+
+[KR5c0068](https://github.com/kanripo/KR5c0068) · `CUSTOM_ID` DZ0685 · `HK` CH030311 · `凱希` KX0712 · `三家本` Vol 12, p0115a · `Z中華道藏` ZHDZ09p0501 · `ZHnum` ZH09_021 · `X新文豐` XWDZ20p0301 · `涵芬樓` HFL必上004
+
+道德真經傳(一)(唐-陸希聲)  
+DZ:   DZ0685  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0686 道德真經傳 Daode zhenjing zhuan
+
+[KR5c0069](https://github.com/kanripo/KR5c0069) · `CUSTOM_ID` DZ0686 · `HK` CH030312 · `凱希` KX0713 · `三家本` Vol 12, p0147c · `Z中華道藏` ZHDZ10p0314 · `ZHnum` ZH10_005 · `X新文豐` XWDZ20p0351 · `涵芬樓` HFL必下004
+
+道德真經傳(二)(宋-呂惠卿)  
+DZ:   DZ0686  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0687 道德真經三解 Daode zhenjing sanjie
+
+[KR5c0070](https://github.com/kanripo/KR5c0070) · `CUSTOM_ID` DZ0687 · `HK` CH030313 · `凱希` KX0714 · `三家本` Vol 12, p0184b · `Z中華道藏` ZHDZ21p0621 · `ZHnum` ZH12_011 · `X新文豐` XWDZ20p0407 · `涵芬樓` HFL改上004
+
+道德真經三解(元-鄧錡)  
+DZ:   DZ0687  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0688 道德真經直解 Daode zhenjing zhijie
+
+[KR5c0071](https://github.com/kanripo/KR5c0071) · `CUSTOM_ID` DZ0688 · `HK` CH030314 · `凱希` KX0715 · `三家本` Vol 12, p0236c · `Z中華道藏` ZHDZ11p0216 · `ZHnum` ZH11_004 · `X新文豐` XWDZ20p0487 · `涵芬樓` HFL改下004
+
+道德真經直解(宋-邵若愚)  
+DZ:   DZ0688  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0689 道德真經論 Daode zhenjing lun
+
+[KR5c0072](https://github.com/kanripo/KR5c0072) · `CUSTOM_ID` DZ0689 · `HK` CH030315 · `凱希` KX0716 · `三家本` Vol 12, p0262b · `Z中華道藏` ZHDZ10p0353 · `ZHnum` ZH10_006 · `X新文豐` XWDZ20p0527 · `涵芬樓` HFL得上004
+
+道德真經論(宋-司馬光)  
+DZ:   DZ0689  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0690 道德真經註 Daode zhenjing zhu
+
+[KR5c0073](https://github.com/kanripo/KR5c0073) · `CUSTOM_ID` DZ0690 · `HK` CH030316 · `凱希` KX0717 · `三家本` Vol 12, p0272c · `Z中華道藏` ZHDZ09p0192 · `ZHnum` ZH09_011 · `X新文豐` XWDZ20p0543 · `涵芬樓` HFL得上066
+
+道德真經註(二)(魏-王弼)  
+DZ:   DZ0690  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0691 道德真經註 Daode zhenjing zhu
+
+[KR5c0074](https://github.com/kanripo/KR5c0074) · `CUSTOM_ID` DZ0691 · `HK` CH030317 · `凱希` KX0718 · `三家本` Vol 12, p0291c · `Z中華道藏` ZHDZ10p0372 · `ZHnum` ZH10_007 · `X新文豐` XWDZ20p0573 · `涵芬樓` HFL得下004
+
+道德真經註(三)(宋-蘇轍)  
+DZ:   DZ0691  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0692 道德真經新註 Daode zhenjing xinzhu
+
+[KR5c0075](https://github.com/kanripo/KR5c0075) · `CUSTOM_ID` DZ0692 · `HK` CH030318 · `凱希` KX0719 · `三家本` Vol 12, p0322b · `Z中華道藏` ZHDZ09p0483 · `ZHnum` ZH09_020 · `X新文豐` XWDZ20p0621 · `涵芬樓` HFL能上004
+
+道德真經新註(唐-李約)  
+DZ:   DZ0692  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0693 道德真經指歸 Daode zhenjing zhigui
+
+[KR5c0078](https://github.com/kanripo/KR5c0078) · `CUSTOM_ID` DZ0693 · `HK` CH030319 · `凱希` KX0720 · `三家本` Vol 12, p0341b · `Z中華道藏` ZHDZ09p0054 · `ZHnum` ZH09_006 · `X新文豐` XWDZ20p0651 · `涵芬樓` HFL能上118
+
+道德真經指歸(漢-嚴遵)  
+DZ:   DZ0693  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0694 道德真經疏義 Daode zhenjing shuyi
+
+[KR5c0079](https://github.com/kanripo/KR5c0079) · `CUSTOM_ID` DZ0694 · `HK` CH030320 · `凱希` KX0721 · `三家本` Vol 12, p0395c · `Z中華道藏` ZHDZ11p0001 · `ZHnum` ZH11_001 · `X新文豐` XWDZ20p0735 · `涵芬樓` HFL莫上004
+
+道德真經疏義(一)(宋-江澂)  
+DZ:   DZ0694  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0695 道德真經集解 Daode zhenjing jijie
+
+[KR5c0080](https://github.com/kanripo/KR5c0080) · `CUSTOM_ID` DZ0695 · `HK` CH030321 · `凱希` KX0722 · `三家本` Vol 12, p0546a · `Z中華道藏` ZHDZ12p0201 · `ZHnum` ZH12_004 · `X新文豐` XWDZ21p0119 · `涵芬樓` HFL罔上004
+
+道德真經集解(一)(金-趙秉文)  
+DZ:   DZ0695  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0696 道德真經全解 Daode zhenjing quanjie
+
+[KR5c0081](https://github.com/kanripo/KR5c0081) · `CUSTOM_ID` DZ0696 · `HK` CH030322 · `凱希` KX0723 · `三家本` Vol 12, p0583b · `Z中華道藏` ZHDZ11p0723 · `ZHnum` ZH11_014 · `X新文豐` XWDZ21p0177 · `涵芬樓` HFL罔下004
+
+道德真經全解(金-時雍)  
+DZ:   DZ0696  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0697 道德真經次解 Daode zhenjing cijie
+
+[KR5c0082](https://github.com/kanripo/KR5c0082) · `CUSTOM_ID` DZ0697 · `HK` CH030323 · `凱希` KX0724 · `三家本` Vol 12, p0612b · `Z中華道藏` ZHDZ09p0458 · `ZHnum` ZH09_019 · `X新文豐` XWDZ21p0223 · `涵芬樓` HFL罔下096
+
+道德真經次解(明-)  
+DZ:   DZ0697  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### xx 道經異同字
+
+`nopin` · `CUSTOM_ID` xx · `HK` CH030324 · `凱希` xx · `三家本` x · `Z中華道藏` XX · `ZHnum` XX · `X新文豐` XWDZ21p0223 · `涵芬樓` HFL罔下126
+
+道經異同字  
+DZ:   xx  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### xx 德經異同字
+
+`nopin` · `CUSTOM_ID` xx · `HK` CH030325 · `凱希` xx · `三家本` x · `Z中華道藏` XX · `ZHnum` XX · `X新文豐` XWDZ21p0234 · `涵芬樓` HFL罔下168
+
+德經異同字  
+DZ:   xx  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0698 道德真經章句訓頌 Daode zhenjing zhangju xunsong
+
+[KR5c0085](https://github.com/kanripo/KR5c0085) · `CUSTOM_ID` DZ0698 · `HK` CH030326 · `凱希` KX0725 · `三家本` Vol 12, p0626b · `Z中華道藏` ZHDZ12p0513 · `ZHnum` ZH12_007 · `X新文豐` XWDZ21p0245 · `涵芬樓` HFL談上004
+
+道德真經章句訓頌(張嗣成)  
+DZJY: JY048  
+DZJY0: JY048  
+DZ:   DZ0698  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### xx 道德會元序例(元-李道純)
+
+`nopin` · `CUSTOM_ID` xx · `HK` CH030327 · `凱希` xx · `三家本` x · `Z中華道藏` XX · `ZHnum` XX · `X新文豐` XWDZ21p0269 · `涵芬樓` HFL
+
+道德會元序例(元-李道純)  
+DZ:   xx  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0699 道德會元 Daode huiyuan
+
+[KR5c0086](https://github.com/kanripo/KR5c0086) · `CUSTOM_ID` DZ0699 · `HK` CH030328 · `凱希` KX0726 · `三家本` Vol 12, p0642a · `Z中華道藏` ZHDZ12p0530 · `ZHnum` ZH12_008 · `X新文豐` XWDZ21p0272 · `涵芬樓` HFL談上098
+
+道德會元(元-李道純)  
+DZ:   DZ0699  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0700 道德真經解 Daode zhenjing jie
+
+[KR5c0087](https://github.com/kanripo/KR5c0087) · `CUSTOM_ID` DZ0700 · `HK` CH030329 · `凱希` KX0727 · `三家本` Vol 12, p0659b · `Z中華道藏` ZHDZ12p0001 · `ZHnum` ZH12_001 · `X新文豐` XWDZ21p0295 · `涵芬樓` HFL談下004
+
+道德真經解(二)(明-)  
+DZ:   DZ0700  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0701 道德真經口義 Daode zhenjing kouyi
+
+[KR5c0088](https://github.com/kanripo/KR5c0088) · `CUSTOM_ID` DZ0701 · `HK` CH030330 · `凱希` KX0728 · `三家本` Vol 12, p0696b · `Z中華道藏` ZHDZ11p0244 · `ZHnum` ZH11_005 · `X新文豐` XWDZ21p0351 · `涵芬樓` HFL彼上004
+
+道德真經口義(宋-林希逸)  
+DZ:   DZ0701  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0702 道德玄經原旨 Daode xuanjing yuanzhi
+
+[KR5c0089](https://github.com/kanripo/KR5c0089) · `CUSTOM_ID` DZ0702 · `HK` CH030331 · `凱希` KX0729 · `三家本` Vol 12, p0725a · `Z中華道藏` ZHDZ11p0662 · `ZHnum` ZH11_012 · `X新文豐` XWDZ21p0395 · `涵芬樓` HFL彼中004
+
+道德玄經原旨(元-杜道堅)  
+DZ:   DZ0702  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0703 玄經原旨發揮 Xuanjing yuanzhi fahui
+
+[KR5c0090](https://github.com/kanripo/KR5c0090) · `CUSTOM_ID` DZ0703 · `HK` CH030332 · `凱希` KX0730 · `三家本` Vol 12, p0758c · `Z中華道藏` ZHDZ11p0699 · `ZHnum` ZH11_013 · `X新文豐` XWDZ21p0447 · `涵芬樓` HFL彼下004
+
+道德玄經原旨發揮(元-杜道堅)  
+DZ:   DZ0703  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0704 道德真經註 Daode zhenjing zhu
+
+[KR5c0091](https://github.com/kanripo/KR5c0091) · `CUSTOM_ID` DZ0704 · `HK` CH030333 · `凱希` KX0731 · `三家本` Vol 12, p0780a · `Z中華道藏` ZHDZ12p0577 · `ZHnum` ZH12_010 · `X新文豐` XWDZ21p0481 · `涵芬樓` HFL短上004
+
+道德真經註(四)(元-吳澄)  
+DZJY: JY053  
+DZJY0: JY053  
+DZ:   DZ0704  
+Contents
+
+**Work notes**
+
+**Comments** — \*CH030334	3090	道德真經集解序說(宋-董思靖)　	12/0821	21/0545
+
+#### DZ0705 道德真經集解 Daode zhenjing jijie
+
+[KR5c0092](https://github.com/kanripo/KR5c0092) · `CUSTOM_ID` DZ0705 · `HK` CH030334 · `凱希` KX0732 · `三家本` Vol 12, p0821a · `Z中華道藏` ZHDZ11p0275 · `ZHnum` ZH11_006 · `X新文豐` XWDZ21p0548 · `涵芬樓` HFL短上066
+
+道德真經集解(二)(宋-董思靖)  
+DZ:   DZ0705  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0706 道德真經集註 Daode zhenjing jizhu
+
+[KR5c0093](https://github.com/kanripo/KR5c0093) · `CUSTOM_ID` DZ0706 · `HK` CH030335 · `凱希` KX0733 · `三家本` Vol 13, p0001a · `Z中華道藏` ZHDZ10p0529 · `ZHnum` ZH10_011 · `X新文豐` XWDZ21p0607 · `涵芬樓` HFL靡上004
+
+道德真經集註(一)(宋-王雱)  
+DZ:   DZ0706  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### xx 道德真經集註釋音(宋-王雱)
+
+`nopin` · `CUSTOM_ID` xx · `HK` CH030336 · `凱希` xx · `三家本` x · `Z中華道藏` XX · `ZHnum` XX · `X新文豐` XWDZ21p0717 · `涵芬樓` HFL恃中074
+
+道德真經集註釋音(宋-王雱)  
+DZ:   xx  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0707 道德真經集註 Daode zhenjing jizhu
+
+[KR5c0095](https://github.com/kanripo/KR5c0095) · `CUSTOM_ID` DZ0707 · `HK` CH030337 · `凱希` KX0734 · `三家本` Vol 13, p0106a · `Z中華道藏` ZHDZ11p0320 · `ZHnum` ZH11_007 · `X新文豐` XWDZ21p0767 · `涵芬樓` HFL恃中080
+
+道德真經集註(二)(宋-彭耜)  
+DZJY: JY049  
+DZJY0: JY049  
+DZ:   DZ0707  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0708 道德真經集註釋文 Daode zhenjing jizhu shiwen
+
+[KR5c0096](https://github.com/kanripo/KR5c0096) · `CUSTOM_ID` DZ0708 · `HK` CH030338 · `凱希` xx · `三家本` x · `Z中華道藏` ZHDZ11p0469 · `ZHnum` ZH11_008 · `X新文豐` XWDZ22p0149 · `涵芬樓` HFL長下004
+
+道德真經集註釋文(宋-彭耜)  
+DZJY: JY050  
+DZJY0: JY050  
+DZ:   DZ0708  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0709 道德真經集註雜說 Daode zhenjing jizhu zashuo
+
+[KR5c0097](https://github.com/kanripo/KR5c0097) · `CUSTOM_ID` DZ0709 · `HK` CH030339 · `凱希` xx · `三家本` x · `Z中華道藏` ZHDZ11p0479 · `ZHnum` ZH11_009 · `X新文豐` XWDZ22p0161 · `涵芬樓` HFL長下048
+
+道德真經集註雜說(宋-彭耜)  
+DZJY: JY051  
+DZJY0: JY051  
+DZ:   DZ0709  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0710 道德真經註疏 Daode zhenjing zhushu
+
+[KR5c0098](https://github.com/kanripo/KR5c0098) · `CUSTOM_ID` DZ0710 · `HK` CH030340 · `凱希` KX0735 · `三家本` Vol 13, p0274c · `Z中華道藏` ZHDZ10p0197 · `ZHnum` ZH10_002 · `X新文豐` XWDZ22p0191 · `涵芬樓` HFL信上004
+
+道德真經注疏(南齊-顧歡)  
+DZ:   DZ0710  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0711 道德真經玄德纂疏 Daode zhenjing xuande zuanshu
+
+[KR5c0099](https://github.com/kanripo/KR5c0099) · `CUSTOM_ID` DZ0711 · `HK` CH030341 · `凱希` KX0736 · `三家本` Vol 13, p0357a · `Z中華道藏` ZHDZ10p0001 · `ZHnum` ZH10_001 · `X新文豐` XWDZ22p0317 · `涵芬樓` HFL使上004
+
+道德真經玄德纂疏(前蜀-強思齊)  
+DZ:   DZ0711  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0712 道德真經集義 Daode zhenjing jiyi
+
+[KR5c0100](https://github.com/kanripo/KR5c0100) · `CUSTOM_ID` DZ0712 · `HK` CH030342 · `凱希` KX0737 · `三家本` Vol 13, p0539a · `Z中華道藏` ZHDZ12p0707 · `ZHnum` ZH12_013 · `X新文豐` ZHDZ12p0707 · `涵芬樓` XWDZ22p0597 HFL覆中004
+
+道德真經集義(一)  
+DZ:   DZ0712  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0713 道德經論兵要義述 Daode jinglun bingyao yishu
+
+[KR5c0101](https://github.com/kanripo/KR5c0101) · `CUSTOM_ID` DZ0713 · `HK` CH030343 · `凱希` KX0738 · `三家本` Vol 13, p0631c · `Z中華道藏` ZHDZ09p0536 · `ZHnum` ZH09_022 · `X新文豐` XWDZ22p0740 · `涵芬樓` HFL器下004
+
+道德真經論兵要義述(唐-王真)  
+DZ:   DZ0713  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0714 道德真經藏室纂微篇 Daode zhenjing zangshi zuanwei pian
+
+`CUSTOM_ID` DZ0714 · `HK` CH030344 · `凱希` KX0739 · `三家本` Vol 13, p0652c · `Z中華道藏` ZHDZ10p0403 · `ZHnum` ZH10_008 · `X新文豐` XWDZ23p0001 · `涵芬樓` HFL欲上004
+
+道德真經藏室纂微篇開題(宋-陳景元)  
+DZ:   DZ0714  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0714 道德真經藏室纂微篇(宋-陳景元)
+
+`nopin` · `CUSTOM_ID` DZ0714 · `HK` CH030345 · `凱希` KX0740 · `三家本` Vol 13, p0727b · `Z中華道藏` ZHDZ10p0403 · `ZHnum` ZH10_008 · `X新文豐` XWDZ23p0095 · `涵芬樓` HFL欲上024
+
+道德真經藏室纂微篇(宋-陳景元)  
+DZ:   DZ0714  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0715 道德真經藏室纂微開題科文疏 Daode zhenjing zangshi zuanwei kaiti kewen shu
+
+[KR5c0104](https://github.com/kanripo/KR5c0104) · `CUSTOM_ID` DZ0715 · `HK` CH030346 · `凱希` KX0741 · `三家本` Vol 13, p0753c · `Z中華道藏` ZHDZ10p0483 · `ZHnum` ZH10_009 · `X新文豐` XWDZ23p0117 · `涵芬樓` HFL難上088
+
+道德真經藏室纂微篇開題科文疏(元-薜致玄)  
+DZ:   DZ0715  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0716 道德真經藏室纂微手鈔 Daode zhenjing zangshi zuanwei shouchao
+
+[KR5c0105](https://github.com/kanripo/KR5c0105) · `CUSTOM_ID` DZ0716 · `HK` CH030347 · `凱希` xx · `三家本` x · `Z中華道藏` ZHDZ10p0512 · `ZHnum` ZH10_010 · `X新文豐` XWDZ23p0157 · `涵芬樓` HFL難下068
+
+道德真經藏室纂微手鈔(元-薜致玄)  
+DZ:   DZ0716  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0717 道德真經衍義手鈔 Daode zhenjing yanyi shouchao
+
+[KR5c0106](https://github.com/kanripo/KR5c0106) · `CUSTOM_ID` DZ0717 · `HK` CH030348 · `凱希` KX0742 · `三家本` Vol 13, p0768b · `Z中華道藏` ZHDZ12p0118 · `ZHnum` ZH12_003 · `X新文豐` XWDZ23p0179 · `涵芬樓` HFL量上004
+
+道德真經衍義手鈔(元-王守正)  
+DZ:   DZ0717  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0718 道德真經取善集 Daode zhenjing qushan ji
+
+[KR5c0107](https://github.com/kanripo/KR5c0107) · `CUSTOM_ID` DZ0718 · `HK` CH030349 · `凱希` KX0743 · `三家本` Vol 13, p0843c · `Z中華道藏` ZHDZ11p0558 · `ZHnum` ZH11_011 · `X新文豐` XWDZ23p0295 · `涵芬樓` HFL墨上128
+
+道德真經取善集(宋-李霖)  
+DZ:   DZ0718  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0719 道德真經疏義 Daode zhenjing yijie
+
+[KR5c0108](https://github.com/kanripo/KR5c0108) · `CUSTOM_ID` DZ0719 · `HK` CH030350 · `凱希` KX0744 · `三家本` Vol 13, p0942c · `Z中華道藏` ZHDZ09p0336 · `ZHnum` ZH09_016 · `X新文豐` XWDZ23p0449 · `涵芬樓` HFL悲下004
+
+道德真經疏義(二)(宋-趙志堅)  
+DZ:   DZ0719  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0720 道德真經註 Daode zhenjing jiyi dazhi
+
+[KR5c0109](https://github.com/kanripo/KR5c0109) · `CUSTOM_ID` DZ0720 · `HK` CH030351 · `凱希` KX0745 · `三家本` Vol 14, p0001a · `Z中華道藏` ZHDZ12p0552 · `ZHnum` ZH12_009 · `X新文豐` XWDZ23p0485 · `涵芬樓` HFL絲上004
+
+道德真經註(五)(元-林志堅)  
+DZ:   DZ0720  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0721 道德真經義解 Daode zhenjing guangsheng yi
+
+[KR5c0110](https://github.com/kanripo/KR5c0110) · `CUSTOM_ID` DZ0721 · `HK` CH030352 · `凱希` KX0746 · `三家本` Vol 14, p0011c · `Z中華道藏` ZHDZ11p0189 · `ZHnum` ZH11_003 · `X新文豐` XWDZ23p0502 · `涵芬樓` HFL絲上068
+
+道德真經義解(宋-息囊道人)  
+DZ:   DZ0721  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0722 道德真經註 Daode zhenjing zhu
+
+[KR5c0111](https://github.com/kanripo/KR5c0111) · `CUSTOM_ID` DZ0722 · `HK` CH030353 · `凱希` KX0747 · `三家本` Vol 14, p0037a · `Z中華道藏` ZHDZ09p0294 · `ZHnum` ZH09_015 · `X新文豐` XWDZ23p0541 · `涵芬樓` HFL絲下042
+
+道德真經註(六)(唐-李榮)  
+DZ:   DZ0722  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0724 道德真經集義 Daode zhenjing jiyi
+
+[KR5c0113](https://github.com/kanripo/KR5c0113) · `CUSTOM_ID` DZ0724 · `HK` CH030354 · `凱希` KX0749 · `三家本` Vol 14, p0084b · `Z中華道藏` ZHDZ12p0272 · `ZHnum` ZH12_006 · `X新文豐` XWDZ23p0571 · `涵芬樓` HFL染中004
+
+道德真經集義(二)(元-劉惟永)  
+DZ:   DZ0724  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0723 道德真經集義大旨 Daode zhenjing jiyi dazhi
+
+[KR5c0112](https://github.com/kanripo/KR5c0112) · `CUSTOM_ID` DZ0723 · `HK` CH030355 · `凱希` KX0748 · `三家本` Vol 14, p0057a · `Z中華道藏` ZHDZ12p0242 · `ZHnum` ZH12_005 · `X新文豐` XWDZ23p0617 · `涵芬樓` HFL染上004
+
+道德真經集義大旨(元-劉惟永)  
+DZ:   DZ0723  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0725 道德真經廣聖義 Daode zhenjing guangsheng yi
+
+[KR5c0114](https://github.com/kanripo/KR5c0114) · `CUSTOM_ID` DZ0725 · `HK` CH030356 · `凱希` KX0750 · `三家本` Vol 14, p0309a · `Z中華道藏` ZHDZ09p0558 · `ZHnum` ZH09_023 · `X新文豐` XWDZ24p0129 · `涵芬樓` HFL羔上004
+
+道德真經廣聖義(前蜀-杜光庭)  
+DZ:   DZ0725  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0726 西昇經集註 Xisheng jing jizhu +
+
+[KR5c0115](https://github.com/kanripo/KR5c0115) · `CUSTOM_ID` DZ0726 · `HK` CH030357 · `凱希` KX0751 · `三家本` Vol 14, p0566c · `Z中華道藏` ZHDZ08p0252 · `ZHnum` ZH08_016 · `X新文豐` XWDZ24p0529 · `涵芬樓` HFL維上004
+
+西昇經集註(宋-碧虛子)  
+DZ:   DZ0726  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0727 文始真經註 Wenshi zhenjing zhu
+
+[KR5c0116](https://github.com/kanripo/KR5c0116) · `CUSTOM_ID` DZ0727 · `HK` CH030358 · `凱希` KX0752 · `三家本` Vol 14, p0603c · `Z中華道藏` ZHDZ08p0022 · `ZHnum` ZH08_003 · `X新文豐` XWDZ24p0587 · `涵芬樓` HFL維中076
+
+文始真經註(元-牛道純)  
+DZ:   DZ0727  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0728 文始真經言外旨 Wenshi zhenjing yanwai zhi
+
+[KR5c0117](https://github.com/kanripo/KR5c0117) · `CUSTOM_ID` DZ0728 · `HK` CH030359 · `凱希` KX0753 · `三家本` Vol 14, p0690c · `Z中華道藏` ZHDZ08p0113 · `ZHnum` ZH08_004 · `X新文豐` XWDZ24p0719 · `涵芬樓` HFL賢中078
+
+文始經言外旨(宋-梁顯微)  
+DZJY: JY134  
+DZJY0: JY134  
+DZ:   DZ0728  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0729 沖虛至德真經O鬲齋口義 Chongxu zhide zhenjing gezhai kouyi
+
+[KR5c0120](https://github.com/kanripo/KR5c0120) · `CUSTOM_ID` DZ0729 · `HK` CH030360 · `凱希` KX0754 · `三家本` Vol 14, p0735a · `Z中華道藏` ZHDZ15p0192 · `ZHnum` ZH15_005 · `X新文豐` XWDZ25p0001 · `涵芬樓` HFL克上004
+
+沖虛至德真經鬳齋口義(宋-林希逸)  
+DZ:   DZ0729  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0730 沖虛至德真經解 Chongxu zhide zhenjing jie
+
+[KR5c0121](https://github.com/kanripo/KR5c0121) · `CUSTOM_ID` DZ0730 · `HK` CH030361 · `凱希` KX0755 · `三家本` Vol 14, p0802c · `Z中華道藏` ZHDZ15p0086 · `ZHnum` ZH15_004 · `X新文豐` XWDZ25p0107 · `涵芬樓` HFL念上004
+
+沖虛至德真經解(宋-江澂)  
+DZJY: JY135  
+DZJY0: JY135  
+DZ:   DZ0730  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0731 沖虛至德真經義解 Chongxu zhide zhenjing yijie
+
+[KR5c0122](https://github.com/kanripo/KR5c0122) · `CUSTOM_ID` DZ0731 · `HK` CH030362 · `凱希` KX0756 · `三家本` Vol 14, p0903a · `Z中華道藏` ZHDZ15p0053 · `ZHnum` ZH15_003 · `X新文豐` XWDZ25p0261 · `涵芬樓` HFL作下026
+
+沖虛至德真經義解(宋徽宗)  
+DZ:   DZ0731  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0732 沖虛至德真經四解 Chongxu zhide zhenjing sijie
+
+[KR5c0123](https://github.com/kanripo/KR5c0123) · `CUSTOM_ID` DZ0732 · `HK` CH030363 · `凱希` KX0757 · `三家本` Vol 15, p0001a · `Z中華道藏` ZHDZ15p0266 · `ZHnum` ZH15_006 · `X新文豐` XWDZ25p0309 · `涵芬樓` HFL聖上004
+
+沖虛至德真經四解(高守元)  
+DZ:   DZ0732  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0733 列子沖虛至德真經釋文 Liezi chongxu zhide zhenjing shiwen
+
+`CUSTOM_ID` DZ0733 · `HK` CH030364 · `凱希` KX0758 · `三家本` Vol 15, p0162a · `Z中華道藏` ZHDZ15p0036 · `ZHnum` ZH15_002 · `X新文豐` XWDZ25p0558 · `涵芬樓` HFL德下108
+
+沖虛至德真經釋文(唐-殷敬順)  
+DZ:   DZ0733  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0734 南華真經義海纂微 Nanhua zhenjing yihai zuanwei
+
+[KR5c0127](https://github.com/kanripo/KR5c0127) · `CUSTOM_ID` DZ0734 · `HK` CH030365 · `凱希` KX0759 · `三家本` Vol 15, p0174b · `Z中華道藏` ZHDZ14p0001 · `ZHnum` ZH14_001 · `X新文豐` XWDZ25p0577 · `涵芬樓` HFL建上004
+
+南華真經義海纂微(宋-褚伯秀)  
+DZ:   DZ0734  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0735 南華真經口義 Nanhua zhenjing kouyi
+
+[KR5c0128](https://github.com/kanripo/KR5c0128) · `CUSTOM_ID` DZ0735 · `HK` CH030366 · `凱希` KX0760 · `三家本` Vol 15, p0687c · `Z中華道藏` ZHDZ13p0707 · `ZHnum` ZH13_010 · `X新文豐` XWDZ26p0525 · `涵芬樓` HFL聲上004
+
+南華真經口義(宋-林希逸)  
+DZ:   DZ0735  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0736 南華真經章句音義 Nanhua zhenjing zhangju yinyi
+
+[KR5c0129](https://github.com/kanripo/KR5c0129) · `CUSTOM_ID` DZ0736 · `HK` CH030367 · `凱希` KX0761 · `三家本` Vol 15, p0894a · `Z中華道藏` ZHDZ13p0500 · `ZHnum` ZH13_003 · `X新文豐` XWDZ27p0001 · `涵芬樓` HFL習上004
+
+南華真經章句音義(宋-碧虛子)  
+DZ:   DZ0736  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0737 南華真經章句餘事 Nanhua zhenjing zhangju yushi
+
+[KR5c0130](https://github.com/kanripo/KR5c0130) · `CUSTOM_ID` DZ0737 · `HK` CH030368 · `凱希` KX0762 · `三家本` Vol 15, p0951c · `Z中華道藏` ZHDZ13p0550 · `ZHnum` ZH13_004 · `X新文豐` XWDZ27p0091 · `涵芬樓` HFL聽上004
+
+南華真經章句音義餘事(宋-碧虛子)  
+DZ:   DZ0737  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0738 南華真經餘事雜錄 Nanhua zhenjing yushi zalu
+
+[KR5c0131](https://github.com/kanripo/KR5c0131) · `CUSTOM_ID` DZ0738 · `HK` CH030369 · `凱希` KX0763 · `三家本` Vol 15, p0959b · `Z中華道藏` ZHDZ13p0557 · `ZHnum` ZH13_005 · `X新文豐` XWDZ27p0102 · `涵芬樓` HFL聽上044
+
+南華真經章句音義餘事雜錄(宋-碧虛子)  
+DZ:   DZ0738  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0739 南華真經直音 Nanhua zhenjing zhiyin
+
+[KR5c0132](https://github.com/kanripo/KR5c0132) · `CUSTOM_ID` DZ0739 · `HK` CH030370 · `凱希` KX0764 · `三家本` Vol 16, p0001a · `Z中華道藏` ZHDZ13p0699 · `ZHnum` ZH13_008 · `X新文豐` XWDZ27p0114 · `涵芬樓` HFL聽上090
+
+南華真經直音(宋-賈善翔)  
+DZ:   DZ0739  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0740 南華邈 Nanhua miao
+
+[KR5c0133](https://github.com/kanripo/KR5c0133) · `CUSTOM_ID` DZ0740 · `HK` CH030371 · `凱希` KX0765 · `三家本` Vol 16, p0005c · `Z中華道藏` ZHDZ13p0706 · `ZHnum` ZH13_009 · `X新文豐` XWDZ27p0121 · `涵芬樓` HFL聽上118
+
+南華真經邈(宋-賈善翔)  
+DZ:   DZ0740  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0741 莊子內篇訂正 Zhuangzi neipian dingzheng
+
+[KR5c0134](https://github.com/kanripo/KR5c0134) · `CUSTOM_ID` DZ0741 · `HK` CH030372 · `凱希` KX0766 · `三家本` Vol 16, p0006c · `Z中華道藏` ZHDZ14p0541 · `ZHnum` ZH14_002 · `X新文豐` XWDZ27p0123 · `涵芬樓` HFL聽上124
+
+莊子內篇訂正(元-吳澄)  
+DZ:   DZ0741  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0742 南華真經循本 Nanhua zhenjing xunben
+
+[KR5c0135](https://github.com/kanripo/KR5c0135) · `CUSTOM_ID` DZ0742 · `HK` CH030373 · `凱希` KX0767 · `三家本` Vol 16, p0021c · `Z中華道藏` ZHDZ14p0558 · `ZHnum` ZH14_003 · `X新文豐` XWDZ27p0146 · `涵芬樓` HFL聽下004
+
+南華真經循本(羅勉道)  
+DZ:   DZ0742  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0743 南華真經新傳 Nanhua zhenjing xinzhuan
+
+[KR5c0136](https://github.com/kanripo/KR5c0136) · `CUSTOM_ID` DZ0743 · `HK` CH030374 · `凱希` KX0768 · `三家本` Vol 16, p0154a · `Z中華道藏` ZHDZ13p0565 · `ZHnum` ZH13_006 · `X新文豐` XWDZ27p0349 · `涵芬樓` HFL惡上004
+
+南華真經新傳(宋-王雱)  
+DZ:   DZ0743  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0744 南華真經拾遺 Nanhua zhenjing shiyi
+
+[KR5c0137](https://github.com/kanripo/KR5c0137) · `CUSTOM_ID` DZ0744 · `HK` CH030375 · `凱希` KX0769 · `三家本` Vol 16, p0270b · `Z中華道藏` ZHDZ13p0696 · `ZHnum` ZH13_007 · `X新文豐` XWDZ27p0527 · `涵芬樓` HFL積下140
+
+南華真經拾遺(宋-王雱)  
+DZ:   DZ0744  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0745 南華真經註疏 Nanhua zhenjing zhushu
+
+[KR5c0139](https://github.com/kanripo/KR5c0139) · `CUSTOM_ID` DZ0745 · `HK` CH030376 · `凱希` KX0770 · `三家本` Vol 16, p0273b · `Z中華道藏` ZHDZ13p0075 · `ZHnum` ZH13_002 · `X新文豐` XWDZ27p0533 · `涵芬樓` HFL福上004
+
+南華真經註疏(晉-郭象)  
+DZJY: JY132  
+DZJY0: JY132  
+DZ:   DZ0745  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0746 通玄真經 Tongxuan zhenjing
+
+[KR5c0140](https://github.com/kanripo/KR5c0140) · `CUSTOM_ID` DZ0746 · `HK` CH030377 · `凱希` KX0771 · `三家本` Vol 16, p0673c · `Z中華道藏` ZHDZ15p0442 · `ZHnum` ZH15_008 · `X新文豐` XWDZ28p0233 · `涵芬樓` HFL璧上004
+
+通玄真經註(一)(唐-默希子)  
+DZJY: JY136  
+DZJY0: JY136  
+DZ:   DZ0746  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0747 洞靈真經 Dongling zhenjing
+
+[KR5c0141](https://github.com/kanripo/KR5c0141) · `CUSTOM_ID` DZ0747 · `HK` CH030378 · `凱希` KX0772 · `三家本` Vol 16, p0731b · `Z中華道藏` ZHDZ15p0671 · `ZHnum` ZH15_012 · `X新文豐` XWDZ28p0323 · `涵芬樓` HFL壁下024
+
+洞靈真經註(何璨)  
+DZJY: JY137  
+DZJY0: JY137  
+DZ:   DZ0747  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0748 通玄真經讚義 Tongxuan zhenjing xuanyi
+
+[KR5c0143](https://github.com/kanripo/KR5c0143) · `CUSTOM_ID` DZ0748 · `HK` CH030379 · `凱希` KX0773 · `三家本` Vol 16, p0754a · `Z中華道藏` ZHDZ15p0587 · `ZHnum` ZH15_010 · `X新文豐` XWDZ16p0754 · `涵芬樓` HFL非上004
+
+通玄真經纘義(元-杜道堅)  
+DZ:   DZ0748  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### xx 通玄真經纘義釋音
+
+`nopin` · `CUSTOM_ID` xx · `HK` CH030380 · `凱希` xx · `三家本` x · `Z中華道藏` XX · `ZHnum` XX · `X新文豐` XWDZ28p0457 · `涵芬樓` HFL非下168
+
+通玄真經纘義釋音  
+DZ:   xx  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0749 通玄真經 Tongxuan zhenjing
+
+[KR5c0145](https://github.com/kanripo/KR5c0145) · `CUSTOM_ID` DZ0749 · `HK` CH030381 · `凱希` KX0774 · `三家本` Vol 16, p0821a · `Z中華道藏` ZHDZ15p0511 · `ZHnum` ZH15_009 · `X新文豐` XWDZ28p0459 · `涵芬樓` HFL寶上004
+
+通玄真經註(二)(宋-朱弁)  
+DZ:   DZ0749  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0750 太上玄靈北斗本命延生真經註 Taishang xuanling beidou benming yansheng zhenjing zhu
+
+[KR5c0146](https://github.com/kanripo/KR5c0146) · `CUSTOM_ID` DZ0750 · `HK` CH030382 · `凱希` KX0775 · `三家本` Vol 17, p0001a · `Z中華道藏` ZHDZ06p0677 · `ZHnum` ZH06_110 · `X新文豐` XWDZ28p0539 · `涵芬樓` HFL寸上004
+
+太上玄靈北斗本命延生真經註(元-徐道齡)  
+DZ:   DZ0750  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0751 太上玄靈北斗本命延生真經註解 Taishang xuanling beidou benming yansheng zhenjing zhujie
+
+[KR5c0147](https://github.com/kanripo/KR5c0147) · `CUSTOM_ID` DZ0751 · `HK` CH030383 · `凱希` KX0776 · `三家本` Vol 17, p0039c · `Z中華道藏` ZHDZ06p0716 · `ZHnum` ZH06_111 · `X新文豐` XWDZ28p0600 · `涵芬樓` HFL寸下044
+
+太上玄靈北斗本命延生真經註解(玄元真人)  
+DZJY: JY108  
+DZJY0: JY108  
+DZ:   DZ0751  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0752 太上玄靈北斗本命延生經註 Taishang xuanling beidou benming yansheng jingzhu
+
+[KR5c0148](https://github.com/kanripo/KR5c0148) · `CUSTOM_ID` DZ0752 · `HK` CH030384 · `凱希` KX0777 · `三家本` Vol 17, p0065b · `Z中華道藏` ZHDZ06p0653 · `ZHnum` ZH06_109 · `X新文豐` XWDZ28p0639 · `涵芬樓` HFL陰上004
+
+太上玄靈北斗本命延生經註(傅洞真)  
+DZ:   DZ0752  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0753 北斗七元金玄羽章 Beidou qiyuan jinxuan yujing
+
+[KR5c0149](https://github.com/kanripo/KR5c0149) · `CUSTOM_ID` DZ0753 · `HK` CH030385 · `凱希` KX0778 · `三家本` Vol 17, p0087c · `Z中華道藏` ZHDZ06p0753 · `ZHnum` ZH06_113 · `X新文豐` XWDZ28p0673 · `涵芬樓` HFL陰上136
+
+北斗七元金玄羽章(傅洞真)  
+DZ:   DZ0753  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0754 太上說玄天大聖真武本傳神咒妙經 Taishang shuo xuantian dasheng zhenwu benzhuan shenzhou miaojing
+
+[KR5c0150](https://github.com/kanripo/KR5c0150) · `CUSTOM_ID` DZ0754 · `HK` CH030386 · `凱希` KX0779 · `三家本` Vol 17, p0090c · `Z中華道藏` ZHDZ30p0529 · `ZHnum` ZH30_038 · `X新文豐` XWDZ28p0679 · `涵芬樓` HFL陰中004
+
+太上說玄天大聖真武本傳神咒妙經  
+DZ:   DZ0754  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0755 太上老君說常清靜經註 Taishang laojun shuo chang qingjing miaojing zhu +
+
+[KR5c0151](https://github.com/kanripo/KR5c0151) · `CUSTOM_ID` DZ0755 · `HK` CH030387 · `凱希` KX0780 · `三家本` Vol 17, p0141a · `Z中華道藏` ZHDZ06p0051 · `ZHnum` ZH06_006 · `X新文豐` XWDZ28p0755 · `涵芬樓` HFL是上004
+
+太上老君說常清靜經註(一)(元-李道純)  
+DZJY: JY055  
+DZJY0: JY055  
+DZ:   DZ0755  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0756 太上老君說常清靜經註 Taishang laojun shuo chang qingjing miaojing zhu
+
+[KR5c0152](https://github.com/kanripo/KR5c0152) · `CUSTOM_ID` DZ0756 · `HK` CH030388 · `凱希` KX0781 · `三家本` Vol 17, p0143b · `Z中華道藏` ZHDZ06p0015 · `ZHnum` ZH06_003 · `X新文豐` XWDZ28p0755 · `涵芬樓` HFL是上018 ??
+
+太上老君說常清靜經註(二)  
+DZ:   DZ0756  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0756 x
+
+[KR5c0152](https://github.com/kanripo/KR5c0152) · `nopin` · `CUSTOM_ID` DZ0756 · `HK` CH030389 · `凱希` xx · `三家本` xx · `Z中華道藏` ZHDZ06p0015 · `ZHnum` ZH06_003 · `X新文豐` ZHDZ00p0000 · `涵芬樓` XWDZ28p0759 HFL是上144
+
+x  
+DZ:   DZ0756  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0757 太上老君說常清靜經註 Taishang laojun shuo chang qingjing miaojing zhu
+
+[KR5c0153](https://github.com/kanripo/KR5c0153) · `CUSTOM_ID` DZ0757 · `HK` CH030390 · `凱希` KX0782 · `三家本` Vol 17, p0164b · `Z中華道藏` ZHDZ06p0054 · `ZHnum` ZH06_007 · `X新文豐` XWDZ28p0791 · `涵芬樓` HFL是上158
+
+太上老君說常清靜經註(三)(宋-白玉蟾)  
+DZ:   DZ0757  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0758 太上老君說常清靜經註 Taishang laojun shuo chang qingjing miaojing zhu
+
+[KR5c0154](https://github.com/kanripo/KR5c0154) · `CUSTOM_ID` DZ0758 · `HK` CH030391 · `凱希` KX0783 · `三家本` Vol 17, p0166c · `Z中華道藏` ZHDZ05p0054 · `ZHnum` ZH06_004 · `X新文豐` XWDZ28p0807 · `涵芬樓` HFL是下004
+
+太上老君說常清靜經註(四)(金-侯善淵)  
+DZ:   DZ0758  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0759 太上老君說常清靜經註 Taishang laojun shuo chang qingjing miaojing zhu
+
+[KR5c0155](https://github.com/kanripo/KR5c0155) · `CUSTOM_ID` DZ0759 · `HK` CH030392 · `凱希` KX0784 · `三家本` Vol 17, p0174c · `Z中華道藏` ZHDZ06p0038 · `ZHnum` ZH06_002 · `X新文豐` XWDZ28p0820 · `涵芬樓` HFL是下052
+
+太上老君說常清靜經註(五)(前蜀-杜光庭)  
+DZ:   DZ0759  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0760 太上老君說常清靜妙經纂圖解註 Taishang laojun shuo chang qingjing miaojing zuantu jiezhu +
+
+[KR5c0156](https://github.com/kanripo/KR5c0156) · `CUSTOM_ID` DZ0760 · `HK` CH030393 · `凱希` KX0785 · `三家本` Vol 17, p0182c · `Z中華道藏` ZHDZ06p0002 · `ZHnum` ZH06_008 · `X新文豐` XWDZ28p0838 · `涵芬樓` HFL是下124
+
+太上老君說常清靜妙經纂圖解註(元-王玠)  
+DZ:   DZ0760  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0761 太上老君元道真經註解 Taishang laojun yuandao zhenjing zhujie
+
+[KR5c0157](https://github.com/kanripo/KR5c0157) · `CUSTOM_ID` DZ0761 · `HK` CH030394 · `凱希` KX0786 · `三家本` Vol 17, p0194c · `Z中華道藏` ZHDZ23p0066 · `ZHnum` ZH23_017 · `X新文豐` XWDZ28p0853 · `涵芬樓` HFL是下174
+
+太上老君元道真經註解(隱芝內秀)  
+DZ:   DZ0761  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0762 太上太清天童護命妙經註 Taishang taiqing tiantong huming miaojing zhu
+
+[KR5c0158](https://github.com/kanripo/KR5c0158) · `CUSTOM_ID` DZ0762 · `HK` CH030395 · `凱希` KX0787 · `三家本` Vol 17, p0204b · `Z中華道藏` ZHDZ23p0135 · `ZHnum` ZH06_048 · `X新文豐` XWDZ28p0861 · `涵芬樓` HFL是下214
+
+太上太清天童護命妙經註(金-侯善淵)  
+DZ:   DZ0762  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0763 太上說五廚經註 Taishang shuo wuchu jing zhu +
+
+[KR5c0159](https://github.com/kanripo/KR5c0159) · `CUSTOM_ID` DZ0763 · `HK` CH030396 · `凱希` KX0788 · `三家本` Vol 17, p0209c · `Z中華道藏` ZHDZ06p0176 · `ZHnum` ZH23_023 · `X新文豐` XWDZ28p0866 · `涵芬樓` HFL是下234
+
+老子說五廚經(唐-尹愔)  
+DZJY: JY062  
+DZJY0: JY062  
+DZ:   DZ0763  
+Contents
+
+**Work notes**
+
+**Comments**
+
+### CMTS0304　	靈圖類
+
+#### DZ0764 太上三元飛星冠禁金書玉籙圖 Taishang sanyuan feixing guanjin jinshu yulu tu
+
+[KR5c0160](https://github.com/kanripo/KR5c0160) · `CUSTOM_ID` DZ0764 · `HK` CH030401 · `凱希` KX0789 · `三家本` Vol 17, p0213a · `Z中華道藏` ZHDZ23p0155 · `ZHnum` ZH32_060 · `X新文豐` XWDZ29p0001 · `涵芬樓` HFL競上004
+
+太上三元飛星冠禁金書玉籙圖  
+DZ:   DZ0764  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0765 上清金闕帝君五斗三一圖訣 Shangqing jinque dijun wudou sanyi tujue
+
+[KR5c0161](https://github.com/kanripo/KR5c0161) · `CUSTOM_ID` DZ0765 · `HK` CH030402 · `凱希` KX0790 · `三家本` Vol 17, p0215b · `Z中華道藏` ZHDZ02p0092 · `ZHnum` ZH02_015 · `X新文豐` XWDZ29p0006 · `涵芬樓` HFL競上020
+
+上清金闕帝君五斗三一圖訣  
+DZ:   DZ0765  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0766 四氣攝生圖序 Siqi shesheng tuxu
+
+[KR5c0162](https://github.com/kanripo/KR5c0162) · `CUSTOM_ID` DZ0766 · `HK` CH030403 · `凱希` KX0791 · `三家本` Vol 17, p0218a · `Z中華道藏` ZHDZ23p0687 · `ZHnum` ZH23_065 · `X新文豐` XWDZ29p0016 · `涵芬樓` HFL競上060
+
+四氣攝生圖  
+DZ:   DZ0766  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0767 太上通靈八史聖文真形圖 Taishang tongling bashi shengwen zhenxing tu
+
+[KR5c0163](https://github.com/kanripo/KR5c0163) · `CUSTOM_ID` DZ0767 · `HK` CH030404 · `凱希` KX0792 · `三家本` Vol 17, p0224c · `Z中華道藏` ZHDZ32p0600 · `ZHnum` ZH32_046 · `X新文豐` XWDZ29p0030 · `涵芬樓` HFL競上114
+
+太上通靈八史聖文真形圖  
+DZ:   DZ0767  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0768 圖經衍義本草 Tujing yanyi benzhang
+
+[KR5c0164](https://github.com/kanripo/KR5c0164) · `CUSTOM_ID` DZ0768 · `HK` CH030405 · `凱希` KX0793 · `三家本` Vol 17, p0234a · `Z中華道藏` ZHDZ21p0001 · `ZHnum` ZH21_001 · `X新文豐` XWDZ29p0093 · `涵芬樓` HFL競下004
+
+圖經集註衍義本草序例(宋-寇宗爽)  
+DZ:   DZ0768  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0769 圖經衍義本草 Tujing yanyi benzhang
+
+[KR5c0165](https://github.com/kanripo/KR5c0165) · `CUSTOM_ID` DZ0769 · `HK` CH030406 · `凱希` KX0794 · `三家本` Vol 17, p0238c · `Z中華道藏` ZHDZ21p0045 · `ZHnum` ZH21_001 · `X新文豐` XWDZ29p0211 · `涵芬樓` HFL資上004
+
+圖經衍義本草(宋-寇宗爽)  
+DZ:   DZ0769  
+Contents
+
+**Work notes**
+
+**Comments**
+
+### CMTS0305　	譜籙類
+
+#### DZ0770 混元聖紀 Hunyuan shengji
+
+[KR5c0166](https://github.com/kanripo/KR5c0166) · `CUSTOM_ID` DZ0770 · `HK` CH030501 · `凱希` KX0795 · `三家本` Vol 17, p0779a · `Z中華道藏` ZHDZ46p0011 · `ZHnum` ZH46_002 · `X新文豐` XWDZ30p0001 · `涵芬樓` HFL與上004
+
+混元聖記(宋-謝守灝)  
+DZJY: JY086  
+DZJY0: JY086  
+DZ:   DZ0770  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0771 太上老君年譜要略 Taishang laojun nianpu yaolue
+
+[KR5c0167](https://github.com/kanripo/KR5c0167) · `CUSTOM_ID` DZ0771 · `HK` CH030502 · `凱希` KX0796 · `三家本` Vol 17, p0884b · `Z中華道藏` ZHDZ46p0124 · `ZHnum` ZH46_003 · `X新文豐` XWDZ30p0161 · `涵芬樓` HFL敬上004
+
+太上老君年譜要略(宋-謝守灝)  
+DZJY: JY085  
+DZJY0: JY085  
+DZ:   DZ0771  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0772 太上老君金書內序 Taishang laojun jinshu neixu
+
+[KR5c0168](https://github.com/kanripo/KR5c0168) · `CUSTOM_ID` DZ0772 · `HK` CH030503 · `凱希` KX0797 · `三家本` Vol 17, p0888c · `Z中華道藏` ZHDZ46p0153 · `ZHnum` ZH46_005 · `X新文豐` XWDZ30p0168 · `涵芬樓` HFL敬上030
+
+太上老君金書內序  
+DZ:   DZ0772  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0773 太上混元老子史略 Taishang hunyuan laozi shilue
+
+[KR5c0169](https://github.com/kanripo/KR5c0169) · `CUSTOM_ID` DZ0773 · `HK` CH030504 · `凱希` KX0798 · `三家本` Vol 17, p0890c · `Z中華道藏` ZHDZ46p0129 · `ZHnum` ZH46_004 · `X新文豐` XWDZ30p0171 · `涵芬樓` HFL敬上040
+
+太上混元老子史略(宋-謝守灝)  
+DZ:   DZ0773  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0774 猶龍傳 Youlong zhuan
+
+[KR5c0170](https://github.com/kanripo/KR5c0170) · `CUSTOM_ID` DZ0774 · `HK` CH030505 · `凱希` KX0799 · `三家本` Vol 18, p0001a · `Z中華道藏` ZHDZ45p0584 · `ZHnum` ZH45_018 · `X新文豐` XWDZ30p0207 · `涵芬樓` HFL敬下004
+
+猶龍傳(宋-賈善翔)  
+DZJY: JY083  
+DZJY0: JY083  
+DZ:   DZ0774  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0775 太上說玄天大聖真武本傳神咒妙經 Taishang shuo xuantian dasheng zhenwu benzhuan shenzhou miaojing
+
+[KR5c0171](https://github.com/kanripo/KR5c0171) · `CUSTOM_ID` DZ0775 · `HK` CH030506 · `凱希` KX0800 · `三家本` Vol 18, p0038b · `Z中華道藏` ZHDZ30p0525 · `ZHnum` ZH30_037 · `X新文豐` XWDZ30p0265 · `涵芬樓` HFL孝上004
+
+太上說玄天大聖真武本傳神咒妙經  
+DZ:   DZ0775  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0776 真武靈應真君增上佑聖尊號冊文 Zhenwu lingying zhenjun zeng shangyou shengzun haoce wen
+
+[KR5c0172](https://github.com/kanripo/KR5c0172) · `CUSTOM_ID` DZ0776 · `HK` CH030507 · `凱希` KX0801 · `三家本` Vol 18, p0042a · `Z中華道藏` ZHDZ30p0586 · `ZHnum` ZH30_040 · `X新文豐` XWDZ30p0271 · `涵芬樓` HFL孝上026
+
+真武靈應真君增上佑聖尊號冊文  
+DZ:   DZ0776  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0777 章獻明肅皇后受上清畢法籙記 Zhangxian Ming Su huanghou shou shangqing bifa luji
+
+[KR5c0173](https://github.com/kanripo/KR5c0173) · `CUSTOM_ID` DZ0777 · `HK` CH030508 · `凱希` KX0802 · `三家本` Vol 18, p0042c · `Z中華道藏` ZHDZ46p0308 · `ZHnum` ZH46_021 · `X新文豐` XWDZ30p0272 · `涵芬樓` HFL孝上030
+
+章獻明肅皇后受上清畢法籙記(宋-朱自英)  
+DZ:   DZ0777  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0778 華誘s浮丘王郭三真君事實 Huagai shan Fuqiu Wang Guo san zhenjun shishi
+
+[KR5c0174](https://github.com/kanripo/KR5c0174) · `CUSTOM_ID` DZ0778 · `HK` CH030509 · `凱希` KX0803 · `三家本` Vol 18, p0044b · `Z中華道藏` ZHDZ46p0584 · `ZHnum` ZH46_035 · `X新文豐` XWDZ30p0275 · `涵芬樓` HFL孝上040
+
+華蓋山浮丘主郭三真君事實(宋-沈庭瑞)  
+DZJY: JY298  
+DZJY0: JY298  
+DZ:   DZ0778  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0779 唐葉真人傳 Tangye zhenren zhuan
+
+[KR5c0175](https://github.com/kanripo/KR5c0175) · `CUSTOM_ID` DZ0779 · `HK` CH030510 · `凱希` KX0804 · `三家本` Vol 18, p0078c · `Z中華道藏` ZHDZ46p0175 · `ZHnum` ZH46_018 · `X新文豐` XWDZ30p0327 · `涵芬樓` HFL孝下066
+
+唐鴻臚卿越置公靈虛見素真人傳(宋-張)  
+DZ:   DZ0779  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0780 地祗上將溫太保傳 Dizhi shangjiang wentai baozhuan
+
+`CUSTOM_ID` DZ0780 · `HK` CH030511 · `凱希` KX0805 · `三家本` Vol 18, p0090b · `Z中華道藏` ZHDZ46p0382 · `ZHnum` ZH46_025 · `X新文豐` XWDZ30p0345 · `涵芬樓` HFL孝下136
+
+地衹上將溫太保傳(蕭公瑾)  
+DZ:   DZ0780  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0780 地衹上將溫太保傳補遺(蕭公瑾)
+
+`nopin` · `CUSTOM_ID` DZ0780 · `HK` CH030512 · `凱希` xx · `三家本` x · `Z中華道藏` ZHDZ46p0382 · `ZHnum` ZH46_025 · `X新文豐` XWDZ30p0552 · `涵芬樓` HFL孝下166
+
+地衹上將溫太保傳補遺(蕭公瑾)  
+DZ:   DZ0780  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0781 玄品錄 Xuanpin lu
+
+[KR5c0178](https://github.com/kanripo/KR5c0178) · `CUSTOM_ID` DZ0781 · `HK` CH030513 · `凱希` KX0806 · `三家本` Vol 18, p0097a · `Z中華道藏` ZHDZ45p0444 · `ZHnum` ZH45_013 · `X新文豐` XWDZ30p0355 · `涵芬樓` HFL當上004
+
+玄品錄(元-張天雨)  
+DZ:   DZ0781  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0782 大滌洞天圖記 Dadi dongtian tuji
+
+[KR5c0179](https://github.com/kanripo/KR5c0179) · `CUSTOM_ID` DZ0782 · `HK` CH030514 · `凱希` KX0807 · `三家本` Vol 18, p0140b · `Z中華道藏` ZHDZ48p0115 · `ZHnum` ZH48_006 · `X新文豐` XWDZ30p0422 · `涵芬樓` HFL當下052
+
+大滌洞天記(宋-鄧牧)  
+DZ:   DZ0782  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0783 墉城集仙錄 Yongcheng jixian lu +
+
+[KR5c0180](https://github.com/kanripo/KR5c0180) · `CUSTOM_ID` DZ0783 · `HK` CH030515 · `凱希` KX0808 · `三家本` Vol 18, p0165b · `Z中華道藏` ZHDZ45p0193 · `ZHnum` ZH45_007 · `X新文豐` XWDZ30p0461 · `涵芬樓` HFL竭上004
+
+墉城集仙錄(前蜀-杜光庭)  
+DZ:   DZ0783  
+Contents
+
+**Work notes**
+
+**Comments**
+
+### CMTS0306　	戒律類
+
+#### DZ0784 太上老君戒經 Taishang laojun jiejing +
+
+[KR5c0181](https://github.com/kanripo/KR5c0181) · `CUSTOM_ID` DZ0784 · `HK` CH030601 · `凱希` KX0809 · `三家本` Vol 18, p0201a · `Z中華道藏` ZHDZ08p0571 · `ZHnum` ZH08_061 · `X新文豐` XWDZ30p0517 · `涵芬樓` HFL力上004
+
+太上老君戒經  
+DZJY: JY268  
+DZJY0: JY268  
+DZ:   DZ0784  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0785 老君音誦誡經 Laojun yinsong jiejing
+
+[KR5c0182](https://github.com/kanripo/KR5c0182) · `CUSTOM_ID` DZ0785 · `HK` CH030602 · `凱希` KX0810 · `三家本` Vol 18, p0210c · `Z中華道藏` ZHDZ08p0563 · `ZHnum` ZH08_060 · `X新文豐` XWDZ30p0532 · `涵芬樓` HFL力上062
+
+老君音誦戒經  
+DZ:   DZ0785  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0786 太上老君經律 Taishang laojun jinglü +
+
+[KR5c0183](https://github.com/kanripo/KR5c0183) · `CUSTOM_ID` DZ0786 · `HK` CH030603 · `凱希` KX0811 · `三家本` Vol 18, p0218a · `Z中華道藏` ZHDZ08p0581 · `ZHnum` ZH08_062 · `X新文豐` XWDZ30p0543 · `涵芬樓` HFL力上106
+
+太上老君經律  
+DZ:   DZ0786  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0787 太上經戒 Taishang jingjie
+
+[KR5c0184](https://github.com/kanripo/KR5c0184) · `CUSTOM_ID` DZ0787 · `HK` CH030604 · `凱希` KX0812 · `三家本` Vol 18, p0222a · `Z中華道藏` ZHDZ08p0587 · `ZHnum` ZH08_063 · `X新文豐` XWDZ30p0549 · `涵芬樓` HFL力上130
+
+太上戒經  
+DZ:   DZ0787  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0788 三洞法服科戒文 Sandong fafu kejie wen +
+
+[KR5c0185](https://github.com/kanripo/KR5c0185) · `CUSTOM_ID` DZ0788 · `HK` CH030605 · `凱希` KX0813 · `三家本` Vol 18, p0228b · `Z中華道藏` ZHDZ42p0146 · `ZHnum` ZH42_017 · `X新文豐` XWDZ30p0559 · `涵芬樓` HFL力下004
+
+三洞法服科戒文(唐-張萬福)  
+DZ:   DZ0788  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0789 正一法文天師教戒科經 Zhengyi fawen tianshi jiaojie kejing +
+
+[KR5c0186](https://github.com/kanripo/KR5c0186) · `CUSTOM_ID` DZ0789 · `HK` CH030606 · `凱希` KX0814 · `三家本` Vol 18, p0232a · `Z中華道藏` ZHDZ08p0317 · `ZHnum` ZH08_021 · `X新文豐` XWDZ30p0565 · `涵芬樓` HFL力下026
+
+正一法服天師教戒科經  
+DZ:   DZ0789  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0790 女青鬼律 Nüqing guilü +
+
+[KR5c0187](https://github.com/kanripo/KR5c0187) · `CUSTOM_ID` DZ0790 · `HK` CH030607 · `凱希` KX0815 · `三家本` Vol 18, p0239c · `Z中華道藏` ZHDZ08p0599 · `ZHnum` ZH08_066 · `X新文豐` XWDZ30p0577 · `涵芬樓` HFL力下072
+
+女青鬼律  
+DZ:   DZ0790  
+Contents
+
+**Work notes**
+
+**Comments**
+
+### CMTS0307　	威儀類
+
+#### DZ0791 正一威儀經 Zhengyi weiyi jing
+
+[KR5c0188](https://github.com/kanripo/KR5c0188) · `CUSTOM_ID` DZ0791 · `HK` CH030701 · `凱希` KX0816 · `三家本` Vol 18, p0252c · `Z中華道藏` ZHDZ42p0096 · `ZHnum` ZH42_010 · `X新文豐` XWDZ30p0597 · `涵芬樓` HFL忠上004
+
+正一威儀經  
+DZ:   DZ0791  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0792 玄門十事威儀 Xuanmen shishi weiyi +
+
+[KR5c0189](https://github.com/kanripo/KR5c0189) · `CUSTOM_ID` DZ0792 · `HK` CH030702 · `凱希` KX0817 · `三家本` Vol 18, p0259b · `Z中華道藏` ZHDZ42p0083 · `ZHnum` ZH42_008 · `X新文豐` XWDZ30p0608 · `涵芬樓` HFL忠上044
+
+玄門十事威儀  
+DZ:   DZ0792  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0793 太清道德顯化儀 Taiqing daode xianhua yi
+
+[KR5c0190](https://github.com/kanripo/KR5c0190) · `CUSTOM_ID` DZ0793 · `HK` CH030703 · `凱希` KX0818 · `三家本` Vol 18, p0265a · `Z中華道藏` ZHDZ44p0400 · `ZHnum` ZH44_051 · `X新文豐` XWDZ30p0617 · `涵芬樓` HFL忠上078
+
+太清道德顯化儀  
+DZ:   DZ0793  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0794 正一解厄醮儀 Zhengyi jie'e jiaoyi
+
+[KR5c0191](https://github.com/kanripo/KR5c0191) · `CUSTOM_ID` DZ0794 · `HK` CH030704 · `凱希` KX0819 · `三家本` Vol 18, p0271c · `Z中華道藏` ZHDZ08p0511 · `ZHnum` ZH08_046 · `X新文豐` XWDZ30p0627 · `涵芬樓` HFL忠上118
+
+正一解卮醮儀  
+DZ:   DZ0794  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0795 正一出官章儀 Zhengyi chuguan zhangyi
+
+[KR5c0192](https://github.com/kanripo/KR5c0192) · `CUSTOM_ID` DZ0795 · `HK` CH030705 · `凱希` KX0820 · `三家本` Vol 18, p0274b · `Z中華道藏` ZHDZ08p0497 · `ZHnum` ZH08_042 · `X新文豐` XWDZ30p0631 · `涵芬樓` HFL忠上134
+
+正一出官章儀  
+DZ:   DZ0795  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0796 太上三五正一盟威樵硓蝏� Taishang sanwu zhengyi mingwei yuelu jiaoyi
+
+[KR5c0193](https://github.com/kanripo/KR5c0193) · `CUSTOM_ID` DZ0796 · `HK` CH030706 · `凱希` KX0821 · `三家本` Vol 18, p0281b · `Z中華道藏` ZHDZ08p0476 · `ZHnum` ZH08_037 · `X新文豐` XWDZ30p0642 · `涵芬樓` HFL忠上176
+
+太上三五正一盟威閱籙醮儀(前蜀-杜光庭)  
+DZ:   DZ0796  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0797 太上正一樵甞� Taishang zhengyi yuelu yi
+
+[KR5c0194](https://github.com/kanripo/KR5c0194) · `CUSTOM_ID` DZ0797 · `HK` CH030707 · `凱希` KX0822 · `三家本` Vol 18, p0286a · `Z中華道藏` ZHDZ08p0481 · `ZHnum` ZH08_038 · `X新文豐` XWDZ30p0649 · `涵芬樓` HFL忠下004
+
+太上正一閱籙儀(前蜀-杜光庭)  
+DZ:   DZ0797  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0798 正一指教齋儀 Zhengyi yuelu yi
+
+[KR5c0195](https://github.com/kanripo/KR5c0195) · `CUSTOM_ID` DZ0798 · `HK` CH030708 · `凱希` KX0823 · `三家本` Vol 18, p0291b · `Z中華道藏` ZHDZ08p0504 · `ZHnum` ZH08_043 · `X新文豐` XWDZ30p0658 · `涵芬樓` HFL忠下036
+
+正一指教齋儀  
+DZ:   DZ0798  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0799 正一指教齋清旦行道儀 Zhengyi zhijiao zhai qingdan xingdao yi
+
+[KR5c0196](https://github.com/kanripo/KR5c0196) · `CUSTOM_ID` DZ0799 · `HK` CH030709 · `凱希` KX0824 · `三家本` Vol 18, p0293b · `Z中華道藏` ZHDZ08p0506 · `ZHnum` ZH08_044 · `X新文豐` XWDZ30p0661 · `涵芬樓` HFL忠下048
+
+正一指教齋清旦行道儀  
+DZ:   DZ0799  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0800 正一敕壇儀 Zhengyi chitan yi
+
+[KR5c0197](https://github.com/kanripo/KR5c0197) · `CUSTOM_ID` DZ0800 · `HK` CH030710 · `凱希` KX0825 · `三家本` Vol 18, p0295b · `Z中華道藏` ZHDZ08p0508 · `ZHnum` ZH08_045 · `X新文豐` XWDZ30p0664 · `涵芬樓` HFL忠下060
+
+正一敕壇儀  
+DZ:   DZ0800  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0801 正一醮宅儀 Zhengyi jiaozhe yi
+
+[KR5c0198](https://github.com/kanripo/KR5c0198) · `CUSTOM_ID` DZ0801 · `HK` CH030711 · `凱希` KX0826 · `三家本` Vol 18, p0297c · `Z中華道藏` ZHDZ08p0514 · `ZHnum` ZH08_047 · `X新文豐` XWDZ30p0667 · `涵芬樓` HFL忠下074
+
+正一醮宅儀  
+DZ:   DZ0801  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0802 正一醮墓儀 Zhengyi jiaomu yi
+
+[KR5c0199](https://github.com/kanripo/KR5c0199) · `CUSTOM_ID` DZ0802 · `HK` CH030712 · `凱希` KX0827 · `三家本` Vol 18, p0299c · `Z中華道藏` ZHDZ08p0516 · `ZHnum` ZH08_048 · `X新文豐` XWDZ30p0670 · `涵芬樓` HFL忠下086
+
+正一醮墓儀  
+DZ:   DZ0802  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0803 太上洞神三皇儀 Taishang dongshen sanhuang yi
+
+[KR5c0200](https://github.com/kanripo/KR5c0200) · `CUSTOM_ID` DZ0803 · `HK` CH030713 · `凱希` KX0828 · `三家本` Vol 18, p0301a · `Z中華道藏` ZHDZ04p0510 · `ZHnum` ZH04_090 · `X新文豐` XWDZ30p0673 · `涵芬樓` HFL忠下094
+
+太上洞神三皇儀  
+DZ:   DZ0803  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0804 洞神三皇七十二君齋方懺儀 Dongshen sanhuang qishier jun zhaifang chanyi
+
+[KR5c0201](https://github.com/kanripo/KR5c0201) · `CUSTOM_ID` DZ0804 · `HK` CH030714 · `凱希` KX0829 · `三家本` Vol 18, p0305b · `Z中華道藏` ZHDZ04p0529 · `ZHnum` ZH04_094 · `X新文豐` XWDZ30p0680 · `涵芬樓` HFL忠下120
+
+洞神三皇七十二君齋方懺儀(前蜀-杜光庭)  
+DZ:   DZ0804  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0805 太上洞神太元河圖三元仰謝儀 Taishang dongshen taiyuan hetu sanyuan yangxie yi
+
+[KR5c0202](https://github.com/kanripo/KR5c0202) · `CUSTOM_ID` DZ0805 · `HK` CH030715 · `凱希` KX0830 · `三家本` Vol 18, p0308a · `Z中華道藏` ZHDZ04p0532 · `ZHnum` ZH04_095 · `X新文豐` XWDZ30p0684 · `涵芬樓` HFL忠下136
+
+太上洞神太元河圖三元仰謝儀(前蜀-杜光庭)  
+DZ:   DZ0805  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0806 太上金書玉牒寶章儀 Taishang jinshu yudie baozhang yi
+
+[KR5c0203](https://github.com/kanripo/KR5c0203) · `CUSTOM_ID` DZ0806 · `HK` CH030716 · `凱希` KX0831 · `三家本` Vol 18, p0319a · `Z中華道藏` ZHDZ08p0492 · `ZHnum` ZH08_041 · `X新文豐` XWDZ30p0701 · `涵芬樓` HFL則上004
+
+太上金書玉諜寶章儀  
+DZ:   DZ0806  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0807 天心正法修真道場設醮儀 Tianxin zhengfa xiuzhen daochang shejiao yi
+
+[KR5c0204](https://github.com/kanripo/KR5c0204) · `CUSTOM_ID` DZ0807 · `HK` CH030717 · `凱希` KX0832 · `三家本` Vol 18, p0323b · `Z中華道藏` ZHDZ30p0308 · `ZHnum` ZH30_031 · `X新文豐` XWDZ30p0708 · `涵芬樓` HFL則上030
+
+天心正法脩真道場設醮儀  
+DZ:   DZ0807  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0808 太上三洞傳授道德經紫虛籙拜表儀 Taishang sandong chuanshou daode jing zixu lu baibiao yi
+
+[KR5c0205](https://github.com/kanripo/KR5c0205) · `CUSTOM_ID` DZ0808 · `HK` CH030718 · `凱希` KX0833 · `三家本` Vol 18, p0327b · `Z中華道藏` ZHDZ08p0308 · `ZHnum` ZH08_019 · `X新文豐` XWDZ30p0714 · `涵芬樓` HFL則上054
+
+太上三洞傳授道德經紫虛籙拜表儀(前蜀-杜光庭)  
+DZ:   DZ0808  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0809 太上三五傍救醮五帝斷瘟儀 Taishang sanwu bangjiu jiao wudi duanwen yi
+
+[KR5c0206](https://github.com/kanripo/KR5c0206) · `CUSTOM_ID` DZ0809 · `HK` CH030719 · `凱希` KX0834 · `三家本` Vol 18, p0333c · `Z中華道藏` ZHDZ44p0391 · `ZHnum` ZH44_049 · `X新文豐` XWDZ00p0000 · `涵芬樓` HFL則上092
+
+太上三五傍救醮五帝斷殟儀  
+DZ:   DZ0809  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0810 太上消災福醮儀 Taishang xiaozai fujiao yi
+
+[KR5c0207](https://github.com/kanripo/KR5c0207) · `CUSTOM_ID` DZ0810 · `HK` CH030720 · `凱希` KX0835 · `三家本` Vol 18, p0337c · `Z中華道藏` ZHDZ44p0396 · `ZHnum` ZH44_050 · `X新文豐` XWDZ30p0730 · `涵芬樓` HFL則上116
+
+太上消災祈福醮儀  
+DZ:   DZ0810  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0811 太上金櫃玉鏡延生洞玄燭幽懺 Taishang jingui yujing yansheng dongxuan youchan
+
+[KR5c0208](https://github.com/kanripo/KR5c0208) · `CUSTOM_ID` DZ0811 · `HK` CH030721 · `凱希` KX0836 · `三家本` Vol 18, p0341b · `Z中華道藏` ZHDZ44p0387 · `ZHnum` ZH44_048 · `X新文豐` XWDZ30p0736 · `涵芬樓` HFL則上138
+
+太上金櫃玉鏡延生洞玄燭幽懺  
+DZ:   DZ0811  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0812 太上瑤臺益算寶籍延年懺 Taishang yaotai yinsuan baoji yannian chan
+
+[KR5c0209](https://github.com/kanripo/KR5c0209) · `CUSTOM_ID` DZ0812 · `HK` CH030722 · `凱希` KX0837 · `三家本` Vol 18, p0345b · `Z中華道藏` ZHDZ42p0228 · `ZHnum` ZH44_028 · `X新文豐` XWDZ30p0742 · `涵芬樓` HFL則上162
+
+太上瑤臺益算寶籍延年懺  
+DZ:   DZ0812  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0813 太上正一朝天三八謝罪法懺 Taishang zhengyi chaotian sanba xiezui fachan
+
+[KR5c0210](https://github.com/kanripo/KR5c0210) · `CUSTOM_ID` DZ0813 · `HK` CH030723 · `凱希` KX0838 · `三家本` Vol 18, p0348c · `Z中華道藏` ZHDZ44p0326 · `ZHnum` ZH44_040 · `X新文豐` XWDZ30p0747 · `涵芬樓` HFL則下004
+
+太上正一朝天三八謝罪法懺  
+DZ:   DZ0813  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0814 真武靈應護世消災滅罪寶懺 Zhenwu lingying hushi xiaozai miezui baochan
+
+[KR5c0211](https://github.com/kanripo/KR5c0211) · `CUSTOM_ID` DZ0814 · `HK` CH030724 · `凱希` KX0839 · `三家本` Vol 18, p0352b · `Z中華道藏` ZHDZ44p0292 · `ZHnum` ZH44_037 · `X新文豐` XWDZ30p0753 · `涵芬樓` HFL則下026
+
+真武靈應護世消災滅罪寶懺  
+DZ:   DZ0814  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0815 北極真武普慈度世法懺 Beiji Zhenwu puci dushi fachan
+
+[KR5c0212](https://github.com/kanripo/KR5c0212) · `CUSTOM_ID` DZ0815 · `HK` CH030725 · `凱希` KX0840 · `三家本` Vol 18, p0354b · `Z中華道藏` ZHDZ44p0294 · `ZHnum` ZH44_038 · `X新文豐` XWDZ30p0756 · `涵芬樓` HFL則下038
+
+北極真武普慈度世法懺  
+DZ:   DZ0815  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0816 北極真武佑聖真君禮文 Beiji Zhenwu yousheng zhenjun liwen
+
+[KR5c0213](https://github.com/kanripo/KR5c0213) · `CUSTOM_ID` DZ0816 · `HK` CH030726 · `凱希` KX0841 · `三家本` Vol 18, p0379b · `Z中華道藏` ZHDZ30p0587 · `ZHnum` ZH30_041 · `X新文豐` XWDZ30p0794 · `涵芬樓` HFL則下188
+
+北極真武佑聖真君禮文  
+DZ:   DZ0816  
+Contents
+
+**Work notes**
+
+**Comments**
+
+### CMTS0308　	方法類
+
+#### DZ0817 太清中黃真經 Taiqing zhonghuang zhenjing
+
+[KR5c0214](https://github.com/kanripo/KR5c0214) · `CUSTOM_ID` DZ0817 · `HK` CH030801 · `凱希` KX0842 · `三家本` Vol 18, p0383b · `Z中華道藏` ZHDZ23p0120 · `ZHnum` ZH23_015 · `X新文豐` XWDZ30p0801 · `涵芬樓` HFL盡上004
+
+太清中黃真經  
+DZJY: JY057  
+DZJY0: JY057  
+DZ:   DZ0817  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0818 太清導引養生經 Taiqing daoyin yangsheng jing
+
+[KR5c0215](https://github.com/kanripo/KR5c0215) · `CUSTOM_ID` DZ0818 · `HK` CH030802 · `凱希` KX0843 · `三家本` Vol 18, p0394c · `Z中華道藏` ZHDZ23p0235 · `ZHnum` ZH23_039 · `X新文豐` XWDZ30p0819 · `涵芬樓` HFL盡上072
+
+太清導引養生經  
+DZ:   DZ0818  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0819 太上養生胎息氣經 Taishang yangsheng taixi qijing +
+
+[KR5c0216](https://github.com/kanripo/KR5c0216) · `CUSTOM_ID` DZ0819 · `HK` CH030803 · `凱希` KX0844 · `三家本` Vol 18, p0401a · `Z中華道藏` ZHDZ23p0246 · `ZHnum` ZH23_041 · `X新文豐` XWDZ30p0829 · `涵芬樓` HFL盡上110
+
+太上養生胎息氣經  
+DZ:   DZ0819  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0820 太清調氣經 Taiqing tiaoqi jing +
+
+[KR5c0217](https://github.com/kanripo/KR5c0217) · `CUSTOM_ID` DZ0820 · `HK` CH030804 · `凱希` KX0845 · `三家本` Vol 18, p0404a · `Z中華道藏` ZHDZ23p0221 · `ZHnum` ZH23_036 · `X新文豐` XWDZ30p0834 · `涵芬樓` HFL盡下004
+
+太清調氣經  
+DZ:   DZ0820  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0821 太上老君養生訣 Taishang laojun yangsheng jue
+
+[KR5c0218](https://github.com/kanripo/KR5c0218) · `CUSTOM_ID` DZ0821 · `HK` CH030805 · `凱希` KX0846 · `三家本` Vol 18, p0411c · `Z中華道藏` ZHDZ23p0243 · `ZHnum` ZH23_040 · `X新文豐` XWDZ30p0846 · `涵芬樓` HFL盡下050
+
+太上老君養生訣  
+DZ:   DZ0821  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0822 太清服氣口訣 Taiqing fuqi koujue +
+
+[KR5c0219](https://github.com/kanripo/KR5c0219) · `CUSTOM_ID` DZ0822 · `HK` CH030806 · `凱希` KX0847 · `三家本` Vol 18, p0414a · `Z中華道藏` ZHDZ23p0229 · `ZHnum` ZH23_037 · `X新文豐` XWDZ30p0850 · `涵芬樓` HFL盡下064
+
+太清服氣口訣  
+DZ:   DZ0822  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0823 莊周氣訣解 Zhuang Zhou qi juejie +
+
+[KR5c0220](https://github.com/kanripo/KR5c0220) · `CUSTOM_ID` DZ0823 · `HK` CH030807 · `凱希` KX0848 · `三家本` Vol 18, p0416c · `Z中華道藏` ZHDZ23p0250 · `ZHnum` ZH23_042 · `X新文豐` XWDZ30p0854 · `涵芬樓` HFL盡下080
+
+莊周氣訣解  
+DZ:   DZ0823  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0824 嵩山太無先生氣經 Songshan taiwu xiansheng qijing +
+
+[KR5c0221](https://github.com/kanripo/KR5c0221) · `CUSTOM_ID` DZ0824 · `HK` CH030808 · `凱希` KX0849 · `三家本` Vol 18, p0418a · `Z中華道藏` ZHDZ23p0195 · `ZHnum` ZH23_033 · `X新文豐` XWDZ30p0856 · `涵芬樓` HFL盡下088
+
+嵩山太無先生氣經  
+DZ:   DZ0824  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0825 延陸先生集新舊服氣經 Yan Lu xiansheng ji xinjiu fuqi jing +
+
+[KR5c0222](https://github.com/kanripo/KR5c0222) · `CUSTOM_ID` DZ0825 · `HK` CH030809 · `凱希` KX0850 · `三家本` Vol 18, p0038b · `Z中華道藏` ZHDZ23p0210 · `ZHnum` ZH23_035 · `X新文豐` XWDZ31p0001 · `涵芬樓` HFL命上004
+
+延陵先生集新舊服氣經(桑榆子)  
+DZ:   DZ0825  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0826 諸真聖胎神用訣 Zhuzhen shengtai shenyong jue
+
+[KR5c0223](https://github.com/kanripo/KR5c0223) · `CUSTOM_ID` DZ0826 · `HK` CH030810 · `凱希` KX0851 · `三家本` Vol 18, p0433b · `Z中華道藏` ZHDZ23p0322 · `ZHnum` ZH23_051 · `X新文豐` XWDZ31p0015 · `涵芬樓` HFL命上058
+
+諸經聖胎神用訣  
+DZ:   DZ0826  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0827 胎息抱一歌 Taixi baoyi ge
+
+[KR5c0224](https://github.com/kanripo/KR5c0224) · `CUSTOM_ID` DZ0827 · `HK` CH030811 · `凱希` KX0852 · `三家本` Vol 18, p0438c · `Z中華道藏` ZHDZ23p0252 · `ZHnum` ZH23_043 · `X新文豐` XWDZ31p0023 · `涵芬樓` HFL命上090
+
+胎息抱一歌  
+DZ:   DZ0827  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0828 幻真先生服內元氣訣 Huanzhen xiansheng funei yuanqi jue
+
+[KR5c0225](https://github.com/kanripo/KR5c0225) · `CUSTOM_ID` DZ0828 · `HK` CH030812 · `凱希` KX0853 · `三家本` Vol 18, p0440a · `Z中華道藏` ZHDZ23p0189 · `ZHnum` ZH23_032 · `X新文豐` XWDZ31p0025 · `涵芬樓` HFL命上098
+
+幼真先生服內元訣  
+DZ:   DZ0828  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0829 胎息精微論 Taixi jingwei lun
+
+[KR5c0226](https://github.com/kanripo/KR5c0226) · `CUSTOM_ID` DZ0829 · `HK` CH030813 · `凱希` KX0854 · `三家本` Vol 18, p0445a · `Z中華道藏` ZHDZ23p0158 · `ZHnum` ZH23_024 · `X新文豐` XWDZ31p0033 · `涵芬樓` HFL命下004
+
+胎息精微論  
+DZ:   DZ0829  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0830 服氣精義論 Fuqi jingyi lun
+
+[KR5c0227](https://github.com/kanripo/KR5c0227) · `CUSTOM_ID` DZ0830 · `HK` CH030814 · `凱希` KX0855 · `三家本` Vol 18, p0447b · `Z中華道藏` ZHDZ23p0163 · `ZHnum` ZH23_026 · `X新文豐` XWDZ31p0037 · `涵芬樓` HFL命下018
+
+服氣精義論  
+DZ:   DZ0830  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0831 氣法要妙至訣 Qifa yaomiao zhijue +
+
+[KR5c0228](https://github.com/kanripo/KR5c0228) · `CUSTOM_ID` DZ0831 · `HK` CH030815 · `凱希` KX0856 · `三家本` Vol 18, p0451b · `Z中華道藏` ZHDZ23p0254 · `ZHnum` ZH23_044 · `X新文豐` XWDZ31p0043 · `涵芬樓` HFL命下042
+
+氣法要妙至訣  
+DZ:   DZ0831  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0832 上清司命茅真君修行指迷訣 Shangqing siming Mao zhenjun xiuxing zhimi jue
+
+[KR5c0229](https://github.com/kanripo/KR5c0229) · `CUSTOM_ID` DZ0832 · `HK` CH030816 · `凱希` KX0857 · `三家本` Vol 18, p0455b · `Z中華道藏` ZHDZ23p0259 · `ZHnum` ZH23_045 · `X新文豐` XWDZ31p0049 · `涵芬樓` HFL命下066
+
+上清司命茅真君修行指迷訣  
+DZ:   DZ0832  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0833 神氣養形論 Shenqi yangxing lun
+
+[KR5c0230](https://github.com/kanripo/KR5c0230) · `CUSTOM_ID` DZ0833 · `HK` CH030817 · `凱希` KX0858 · `三家本` Vol 18, p0457b · `Z中華道藏` ZHDZ23p0161 · `ZHnum` ZH23_025 · `X新文豐` XWDZ31p0052 · `涵芬樓` HFL命下078
+
+神氣養形論  
+DZ:   DZ0833  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0834 存神鍊氣銘 Cunshen lianqi ming +
+
+[KR5c0231](https://github.com/kanripo/KR5c0231) · `CUSTOM_ID` DZ0834 · `HK` CH030818 · `凱希` KX0859 · `三家本` Vol 18, p0458b · `Z中華道藏` ZHDZ23p0146 · `ZHnum` ZH23_021 · `X新文豐` XWDZ31p0053 · `涵芬樓` HFL命下084
+
+存神鍊氣銘(唐-孫思邈)  
+DZ:   DZ0834  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0835 保生銘 Baosheng ming +
+
+[KR5c0232](https://github.com/kanripo/KR5c0232) · `CUSTOM_ID` DZ0835 · `HK` CH030819 · `凱希` KX0860 · `三家本` Vol 18, p0459b · `Z中華道藏` ZHDZ23p0668 · `ZHnum` ZH23_062 · `X新文豐` XWDZ31p0055 · `涵芬樓` HFL命下090
+
+保生銘(唐-孫思邈)  
+DZ:   DZ0835  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0836 神仙食氣金櫃妙錄 Shenxian shiqi jingui miaolu +
+
+[KR5c0233](https://github.com/kanripo/KR5c0233) · `CUSTOM_ID` DZ0836 · `HK` CH030820 · `凱希` KX0861 · `三家本` Vol 18, p0459c · `Z中華道藏` ZHDZ23p0262 · `ZHnum` ZH23_046 · `X新文豐` XWDZ31p0056 · `涵芬樓` HFL命下092
+
+神仙食金櫃妙錄(京黑先生)  
+DZ:   DZ0836  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0837 枕中記 Zhenzhong ji
+
+[KR5c0234](https://github.com/kanripo/KR5c0234) · `CUSTOM_ID` DZ0837 · `HK` CH030821 · `凱希` KX0862 · `三家本` Vol 18, p0465c · `Z中華道藏` ZHDZ23p0659 · `ZHnum` ZH23_061 · `X新文豐` XWDZ31p0065 · `涵芬樓` HFL臨上004
+
+枕中記  
+DZ:   DZ0837  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0838 養帘筒R錄 Yangxing yanming lu +
+
+[KR5c0235](https://github.com/kanripo/KR5c0235) · `CUSTOM_ID` DZ0838 · `HK` CH030822 · `凱希` KX0863 · `三家本` Vol 18, p0474c · `Z中華道藏` ZHDZ23p0642 · `ZHnum` ZH23_057 · `X新文豐` XWDZ18p0474 · `涵芬樓` HFL臨上058
+
+養性延命錄(梁-陶弘景)  
+DZ:   DZ0838  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0839 三洞樞機雜說 Sandong shuji zashuo
+
+[KR5c0236](https://github.com/kanripo/KR5c0236) · `CUSTOM_ID` DZ0839 · `HK` CH030823 · `凱希` KX0864 · `三家本` Vol 18, p0485c · `Z中華道藏` ZHDZ32p0664 · `ZHnum` ZH32_056 · `X新文豐` XWDZ31p0096 · `涵芬樓` HFL臨上124
+
+三洞樞機雜說  
+DZ:   DZ0839  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0840 彭祖攝生養性論 Pengzu shesheng yangxing lun
+
+[KR5c0237](https://github.com/kanripo/KR5c0237) · `CUSTOM_ID` DZ0840 · `HK` CH030824 · `凱希` KX0865 · `三家本` Vol 18, p0490a · `Z中華道藏` ZHDZ23p0656 · `ZHnum` ZH23_059 · `X新文豐` XWDZ31p0103 · `涵芬樓` HFL臨上150
+
+彭祖攝生養性論  
+DZ:   DZ0840  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0841 孫真人攝養論 Sun zhenren sheyang lun
+
+[KR5c0238](https://github.com/kanripo/KR5c0238) · `CUSTOM_ID` DZ0841 · `HK` CH030825 · `凱希` KX0866 · `三家本` Vol 18, p0491a · `Z中華道藏` ZHDZ23p0657 · `ZHnum` ZH23_060 · `X新文豐` XWDZ31p0104 · `涵芬樓` HFL臨上156
+
+孫真人攝養論  
+DZ:   DZ0841  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0842 抱朴子養生論 Baopuzi yangsheng lun
+
+[KR5c0239](https://github.com/kanripo/KR5c0239) · `CUSTOM_ID` DZ0842 · `HK` CH030826 · `凱希` KX0867 · `三家本` Vol 18, p0492c · `Z中華道藏` ZHDZ23p0655 · `ZHnum` ZH23_058 · `X新文豐` XWDZ31p0107 · `涵芬樓` HFL臨上166
+
+抱朴子養生論  
+DZ:   DZ0842  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0843 養生詠玄集 Yangsheng yongxuan ji
+
+[KR5c0240](https://github.com/kanripo/KR5c0240) · `CUSTOM_ID` DZ0843 · `HK` CH030827 · `凱希` KX0868 · `三家本` Vol 18, p0493c · `Z中華道藏` ZHDZ23p0698 · `ZHnum` ZH23_066 · `X新文豐` XWDZ31p0109 · `涵芬樓` HFL臨下004
+
+養生詠玄集  
+DZ:   DZ0843  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0844 神仙服食靈草菖蒲丸方 Shenxian fushi lingcao changpu wanfang
+
+[KR5c0241](https://github.com/kanripo/KR5c0241) · `CUSTOM_ID` DZ0844 · `HK` CH030828 · `凱希` KX0869 · `三家本` Vol 18, p0502c · `Z中華道藏` ZHDZ18p0206 · `ZHnum` ZH18_021 · `X新文豐` XWDZ31p0123 · `涵芬樓` HFL臨下058
+
+神仙服食靈草菖蒲丸方傳  
+DZ:   DZ0844  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0845 上清經真丹秘訣 Shangqing jing zhendan bijue
+
+[KR5c0242](https://github.com/kanripo/KR5c0242) · `CUSTOM_ID` DZ0845 · `HK` CH030829 · `凱希` KX0870 · `三家本` Vol 18, p0504b · `Z中華道藏` ZHDZ18p0059 · `ZHnum` ZH18_007 · `X新文豐` XWDZ31p0126 · `涵芬樓` HFL臨下068
+
+上清經真丹秘訣  
+DZ:   DZ0845  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0846 太清經斷殼法 Taiqing jing duanke fa
+
+[KR5c0243](https://github.com/kanripo/KR5c0243) · `CUSTOM_ID` DZ0846 · `HK` CH030830 · `凱希` KX0871 · `三家本` Vol 18, p0506b · `Z中華道藏` ZHDZ18p0037 · `ZHnum` ZH18_004 · `X新文豐` XWDZ31p0129 · `涵芬樓` HFL臨下080
+
+太清經斷穀法  
+DZ:   DZ0846  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0847 太上肘後玉經方 Taishang zhouhou yujing fa
+
+[KR5c0244](https://github.com/kanripo/KR5c0244) · `CUSTOM_ID` DZ0847 · `HK` CH030831 · `凱希` KX0872 · `三家本` Vol 18, p0510b · `Z中華道藏` ZHDZ18p0208 · `ZHnum` ZH18_022 · `X新文豐` XWDZ31p0135 · `涵芬樓` HFL臨下104
+
+太上肘後玉經方(唐-盧遵元)  
+DZ:   DZ0847  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0848 混俗頤生錄 Hunsu yisheng lu
+
+[KR5c0245](https://github.com/kanripo/KR5c0245) · `CUSTOM_ID` DZ0848 · `HK` CH030832 · `凱希` KX0873 · `三家本` Vol 18, p0512a · `Z中華道藏` ZHDZ23p0719 · `ZHnum` ZH23_069 · `X新文豐` XWDZ31p0138 · `涵芬樓` HFL臨下114
+
+混俗頤生錄(劉詞)  
+DZ:   DZ0848  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0849 保生要錄 Baosheng yaolu
+
+[KR5c0246](https://github.com/kanripo/KR5c0246) · `CUSTOM_ID` DZ0849 · `HK` CH030833 · `凱希` KX0874 · `三家本` Vol 18, p0519b · `Z中華道藏` ZHDZ23p0709 · `ZHnum` ZH23_067 · `X新文豐` XWDZ31p0149 · `涵芬樓` HFL臨下158
+
+保生要錄(宋-蒲處貫)  
+DZ:   DZ0849  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0850 修真秘錄 Xiuzhen bilu
+
+[KR5c0247](https://github.com/kanripo/KR5c0247) · `CUSTOM_ID` DZ0850 · `HK` CH030834 · `凱希` KX0875 · `三家本` Vol 18, p0522c · `Z中華道藏` ZHDZ23p0714 · `ZHnum` ZH23_068 · `X新文豐` XWDZ31p0154 · `涵芬樓` HFL臨下178
+
+修真秘錄(符度仁)  
+DZ:   DZ0850  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0851 三元延壽參贊書 Sanyuan yanshou canzan shu
+
+[KR5c0248](https://github.com/kanripo/KR5c0248) · `CUSTOM_ID` DZ0851 · `HK` CH030835 · `凱希` KX0876 · `三家本` Vol 18, p0526b · `Z中華道藏` ZHDZ23p0730 · `ZHnum` ZH23_071 · `X新文豐` XWDZ31p0161 · `涵芬樓` HFL深上004
+
+三元延壽參贊書(元-李鵬飛)  
+DZ:   DZ0851  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0852 太上保真養生論 Taishang baozhen yangsheng lun
+
+[KR5c0249](https://github.com/kanripo/KR5c0249) · `CUSTOM_ID` DZ0852 · `HK` CH030836 · `凱希` KX0877 · `三家本` Vol 18, p0557b · `Z中華道藏` ZHDZ23p0728 · `ZHnum` ZH23_070 · `X新文豐` XWDZ31p0208 · `涵芬樓` HFL深下004
+
+太上保真養生論  
+DZ:   DZ0852  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0853 養生辯疑訣 Yangsheng bianyi jue
+
+[KR5c0250](https://github.com/kanripo/KR5c0250) · `CUSTOM_ID` DZ0853 · `HK` CH030837 · `凱希` KX0878 · `三家本` Vol 18, p0559a · `Z中華道藏` ZHDZ23p0629 · `ZHnum` ZH23_055 · `X新文豐` XWDZ31p0211 · `涵芬樓` HFL深下014
+
+養生辯疑訣(唐-施肩吾)  
+DZ:   DZ0853  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0854 太上三皇寶齋神仙上錄經 Taishang sanhuang baozhai shenxian shanglu jing
+
+[KR5c0251](https://github.com/kanripo/KR5c0251) · `CUSTOM_ID` DZ0854 · `HK` CH030838 · `凱希` KX0879 · `三家本` Vol 18, p0560a · `Z中華道藏` ZHDZ04p0526 · `ZHnum` ZH04_093 · `X新文豐` XWDZ31p0213 · `涵芬樓` HFL深下020
+
+太上三皇寶齋神仙上錄經  
+DZ:   DZ0854  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0855 太清金闕玉華仙書八極神章三皇內秘文 Taiqing jinque yuhua xianshu baji shenzhang sanhuang nei biwen
+
+[KR5c0252](https://github.com/kanripo/KR5c0252) · `CUSTOM_ID` DZ0855 · `HK` CH030839 · `凱希` KX0880 · `三家本` Vol 18, p0562b · `Z中華道藏` ZHDZ04p0458 · `ZHnum` ZH04_086 · `X新文豐` XWDZ31p0216 · `涵芬樓` HFL深下032
+
+太清金闕玉華仙書八極神章三皇內秘文  
+DZ:   DZ0855  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0856 三皇內文遺秘 Sanhuang neiwen yibi
+
+[KR5c0253](https://github.com/kanripo/KR5c0253) · `CUSTOM_ID` DZ0856 · `HK` CH030840 · `凱希` KX0881 · `三家本` Vol 18, p0581a · `Z中華道藏` ZHDZ04p0453 · `ZHnum` ZH04_085 · `X新文豐` XWDZ31p0245 · `涵芬樓` HFL深下144
+
+三皇內文遺秘  
+DZ:   DZ0856  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0857 秘藏通玄變化六陰洞微遁甲真經 Bizang tongxuan bianhua liuyin dongwei dunjia zhenjing
+
+[KR5c0254](https://github.com/kanripo/KR5c0254) · `CUSTOM_ID` DZ0857 · `HK` CH030841 · `凱希` KX0882 · `三家本` Vol 18, p0585c · `Z中華道藏` ZHDZ32p0432 · `ZHnum` ZH32_029 · `X新文豐` XWDZ31p0253 · `涵芬樓` HFL履上004
+
+秘藏通玄變化六陰洞微遁甲真經  
+DZ:   DZ0857  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0858 太上洞神玄妙白猿真經 Taishang dongshen xuanmiao baiyuan zhenjing
+
+[KR5c0255](https://github.com/kanripo/KR5c0255) · `CUSTOM_ID` DZ0858 · `HK` CH030842 · `凱希` KX0883 · `三家本` Vol 18, p0605c · `Z中華道藏` ZHDZ32p0476 · `ZHnum` ZH32_031 · `X新文豐` XWDZ31p0284 · `涵芬樓` HFL履上124
+
+太上洞神玄妙白猿真經  
+DZ:   DZ0858  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0859 太上洞玄靈印經 Taishang dongxuan lingyin jing
+
+[KR5c0256](https://github.com/kanripo/KR5c0256) · `CUSTOM_ID` DZ0859 · `HK` CH030843 · `凱希` KX0884 · `三家本` Vol 18, p0612a · `Z中華道藏` ZHDZ32p0605 · `ZHnum` ZH32_047 · `X新文豐` XWDZ31p0294 · `涵芬樓` HFL履上162
+
+太上通玄靈印經  
+DZ:   DZ0859  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0860 上清鎮元 Shangqing zhenyuan rongling jing
+
+[KR5c0257](https://github.com/kanripo/KR5c0257) · `CUSTOM_ID` DZ0860 · `HK` CH030844 · `凱希` KX0885 · `三家本` Vol 18, p0615c · `Z中華道藏` ZHDZ32p0576 · `ZHnum` ZH32_043 · `X新文豐` XWDZ31p0300 · `涵芬樓` HFL履下004
+
+上清鎮元榮靈經  
+DZ:   DZ0860  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0861 榮靈經 Taishang liuren mingjian fuyin jing
+
+[KR5c0258](https://github.com/kanripo/KR5c0258) · `CUSTOM_ID` DZ0861 · `HK` CH030845 · `凱希` KX0886 · `三家本` Vol 18, p0621b · `Z中華道藏` ZHDZ32p0453 · `ZHnum` ZH32_030 · `X新文豐` XWDZ31p0309 · `涵芬樓` HFL履下038
+
+太上六壬明鑑符陰經  
+DZ:   DZ0861  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0862 太上六壬明鑑符陰經 Xiandao jing
+
+[KR5c0259](https://github.com/kanripo/KR5c0259) · `CUSTOM_ID` DZ0862 · `HK` CH030846 · `凱希` KX0887 · `三家本` Vol 18, p0644c · `Z中華道藏` ZHDZ23p0178 · `ZHnum` ZH23_028 · `X新文豐` XWDZ31p0345 · `涵芬樓` HFL薄上004
+
+顯道經  
+DZ:   DZ0862  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0863 顯道經神仙鍊丹點鑄三元寶照法 Shenxian liandan dianzhu sanyuan baozhao fa
+
+[KR5c0260](https://github.com/kanripo/KR5c0260) · `CUSTOM_ID` DZ0863 · `HK` CH030847 · `凱希` KX0888 · `三家本` Vol 18, p0649b · `Z中華道藏` ZHDZ18p0291 · `ZHnum` ZH18_036 · `X新文豐` XWDZ31p0353 · `涵芬樓` HFL薄上032
+
+神仙鍊丹點鑄三元寶照法(唐-歸耕子)  
+DZ:   DZ0863  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0864 元陽子五假論 Yuanyangzi wujia lun
+
+[KR5c0261](https://github.com/kanripo/KR5c0261) · `CUSTOM_ID` DZ0864 · `HK` CH030848 · `凱希` KX0889 · `三家本` Vol 18, p0652b · `Z中華道藏` ZHDZ32p0598 · `ZHnum` ZH32_045 · `X新文豐` XWDZ31p0358 · `涵芬樓` HFL薄上036
+
+元陽子五假論  
+DZ:   DZ0864  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0865 太清元極至妙神珠玉顆經 Taiqing yuanji zhimiao shenzhu yuke jing
+
+[KR5c0262](https://github.com/kanripo/KR5c0262) · `CUSTOM_ID` DZ0865 · `HK` CH030849 · `凱希` KX0890 · `三家本` Vol 18, p0654a · `Z中華道藏` ZHDZ19p0007 · `ZHnum` ZH19_005 · `X新文豐` XWDZ31p0361 · `涵芬樓` HFL薄上058
+
+太清元極至妙神珠玉顆經  
+DZ:   DZ0865  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0866 天老神光經 Tianlao shenguang jing
+
+[KR5c0263](https://github.com/kanripo/KR5c0263) · `CUSTOM_ID` DZ0866 · `HK` CH030850 · `凱希` KX0891 · `三家本` Vol 18, p0666b · `Z中華道藏` ZHDZ32p0674 · `ZHnum` ZH32_059 · `X新文豐` XWDZ31p0380 · `涵芬樓` HFL薄上132
+
+天老神光經(唐-李靖)  
+DZ:   DZ0866  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0867 鬼谷子天髓靈文 Guiguzi tiansui lingwen
+
+[KR5c0264](https://github.com/kanripo/KR5c0264) · `CUSTOM_ID` DZ0867 · `HK` CH030851 · `凱希` KX0892 · `三家本` Vol 18, p0671b · `Z中華道藏` ZHDZ32p0557 · `ZHnum` ZH32_042 · `X新文豐` XWDZ31p0388 · `涵芬樓` HFL薄下004
+
+鬼谷子天髓靈文  
+DZ:   DZ0867  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0868 先天玄妙玉女太上聖母資傳仙道 Xiantian xuanmiao yunü taishang shengmu zizhuan xiandao
+
+[KR5c0265](https://github.com/kanripo/KR5c0265) · `CUSTOM_ID` DZ0868 · `HK` CH030852 · `凱希` KX0893 · `三家本` Vol 18, p0689c · `Z中華道藏` ZHDZ18p0764 · `ZHnum` ZH18_086 · `X新文豐` XWDZ31p0416 · `涵芬樓` HFL薄下114
+
+先天玄妙玉女太上聖母資傳仙道  
+DZ:   DZ0868  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0869 思印氣訣法 Siyin qijue fa
+
+[KR5c0266](https://github.com/kanripo/KR5c0266) · `CUSTOM_ID` DZ0869 · `HK` CH030853 · `凱希` KX0894 · `三家本` Vol 18, p0692c · `Z中華道藏` ZHDZ32p0609 · `ZHnum` ZH32_048 · `X新文豐` XWDZ31p0421 · `涵芬樓` HFL薄下132
+
+思印氣文法  
+DZ:   DZ0869  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0870 北斗治法武威經 Beidou zhifa wuwei jing
+
+[KR5c0267](https://github.com/kanripo/KR5c0267) · `CUSTOM_ID` DZ0870 · `HK` CH030854 · `凱希` KX0895 · `三家本` Vol 18, p0694c · `Z中華道藏` ZHDZ32p0671 · `ZHnum` ZH32_058 · `X新文豐` XWDZ31p0424 · `涵芬樓` HFL薄下144
+
+北斗治法武威經  
+DZ:   DZ0870  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0871 太上除三尸九蟲保生經 Taishang chu sanshi jiuchong baosheng jing
+
+[KR5c0268](https://github.com/kanripo/KR5c0268) · `CUSTOM_ID` DZ0871 · `HK` CH030855 · `凱希` KX0896 · `三家本` Vol 18, p0697b · `Z中華道藏` ZHDZ32p0612 · `ZHnum` ZH32_050 · `X新文豐` XWDZ31p0429 · `涵芬樓` HFL夙上004
+
+太上除三屍九蟲保生經  
+DZ:   DZ0871  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0872 太上老君玄妙枕中內德神咒經 Taishang laojun xuanmiao zhenzhong neide shenzhou jing
+
+[KR5c0269](https://github.com/kanripo/KR5c0269) · `CUSTOM_ID` DZ0872 · `HK` CH030856 · `凱希` KX0897 · `三家本` Vol 18, p0705c · `Z中華道藏` ZHDZ06p0171 · `ZHnum` ZH06_044 · `X新文豐` XWDZ31p0442 · `涵芬樓` HFL夙上054
+
+太上老君玄妙枕中內德神咒經  
+DZ:   DZ0872  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0873 黃庭遁甲緣身經 Huangting dunjia yuanshen jing
+
+[KR5c0270](https://github.com/kanripo/KR5c0270) · `CUSTOM_ID` DZ0873 · `HK` CH030857 · `凱希` KX0898 · `三家本` Vol 18, p0706c · `Z中華道藏` ZHDZ23p0099 · `ZHnum` ZH23_010 · `X新文豐` XWDZ31p0443 · `涵芬樓` HFL夙上060
+
+黃庭遁甲緣身經  
+DZ:   DZ0873  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0874 紫庭內秘訣修行法 Bijue xiuxing fa
+
+[KR5c0271](https://github.com/kanripo/KR5c0271) · `CUSTOM_ID` DZ0874 · `HK` CH030858 · `凱希` KX0899 · `三家本` Vol 18, p0710a · `Z中華道藏` ZHDZ02p0364 · `ZHnum` ZH02_034 · `X新文豐` XWDZ31p0449 · `涵芬樓` HFL夙上080
+
+紫庭內秘訣修行法  
+DZ:   DZ0874  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0875 太上老君大存思圖注訣 Taishang laojun da cunsi tuzhu jue
+
+[KR5c0272](https://github.com/kanripo/KR5c0272) · `CUSTOM_ID` DZ0875 · `HK` CH030859 · `凱希` KX0900 · `三家本` Vol 18, p0715b · `Z中華道藏` ZHDZ08p0292 · `ZHnum` ZH08_017 · `X新文豐` XWDZ31p0459 · `涵芬樓` HFL夙上112
+
+太上老君大存思圖注訣  
+DZ:   DZ0875  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0876 太上五星七元空常訣 Taishang wuxing qiyuan kongchang jue
+
+[KR5c0273](https://github.com/kanripo/KR5c0273) · `CUSTOM_ID` DZ0876 · `HK` CH030860 · `凱希` KX0901 · `三家本` Vol 18, p0723c · `Z中華道藏` ZHDZ02p0023 · `ZHnum` ZH02_004 · `X新文豐` XWDZ31p0470 · `涵芬樓` HFL夙下004
+
+太上五星七元空常訣  
+DZ:   DZ0876  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0877 上玄高真延壽赤書 Shangxuan gaozhen yanshou chishu
+
+`CUSTOM_ID` DZ0877 · `HK` CH030861 · `凱希` KX0902 · `三家本` Vol 18, p0731b · `Z中華道藏` ZHDZ23p0669 · `ZHnum` ZH23_063 · `X新文豐` XWDZ31p0482 · `涵芬樓` HFL夙下054
+
+上玄高真延壽赤書  
+DZ:   DZ0877  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0878 紫團丹經 Zituan danjing
+
+[KR5c0276](https://github.com/kanripo/KR5c0276) · `CUSTOM_ID` DZ0878 · `HK` CH030862 · `凱希` KX0903 · `三家本` Vol 18, p0737b · `Z中華道藏` ZHDZ19p0648 · `ZHnum` ZH19_080 · `X新文豐` XWDZ31p0491 · `涵芬樓` HFL夙下086
+
+紫團丹經  
+DZ:   DZ0878  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0879 上清金書玉字上經 Shangqing jinshu yuzi shangjing
+
+[KR5c0277](https://github.com/kanripo/KR5c0277) · `CUSTOM_ID` DZ0879 · `HK` CH030863 · `凱希` KX0904 · `三家本` Vol 18, p0743c · `Z中華道藏` ZHDZ02p0066 · `ZHnum` ZH02_009 · `X新文豐` XWDZ31p0501 · `涵芬樓` HFL夙下124
+
+上清金書玉字上經  
+DZ:   DZ0879  
+Contents
+
+**Work notes**
+
+**Comments**
+
+### CMTS0309　	眾術類
+
+#### DZ0880 太清金液神丹經 Taiqing jinye shendan jing
+
+[KR5c0278](https://github.com/kanripo/KR5c0278) · `CUSTOM_ID` DZ0880 · `HK` CH030901 · `凱希` KX0905 · `三家本` Vol 18, p0746c · `Z中華道藏` ZHDZ18p0001 · `ZHnum` ZH18_001 · `X新文豐` XWDZ31p0507 · `涵芬樓` HFL興上004
+
+太清金液神丹經  
+DZ:   DZ0880  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0881 太清石壁記 Taiqing shibi ji
+
+[KR5c0279](https://github.com/kanripo/KR5c0279) · `CUSTOM_ID` DZ0881 · `HK` CH030902 · `凱希` KX0906 · `三家本` Vol 18, p0763a · `Z中華道藏` ZHDZ18p0042 · `ZHnum` ZH18_005 · `X新文豐` XWDZ31p0532 · `涵芬樓` HFL興上102
+
+太清石壁記(楚澤先生)  
+DZ:   DZ0881  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0882 太清金液神氣經 Taiqing jinye shenqi jing
+
+[KR5c0280](https://github.com/kanripo/KR5c0280) · `CUSTOM_ID` DZ0882 · `HK` CH030903 · `凱希` KX0907 · `三家本` Vol 18, p0776c · `Z中華道藏` ZHDZ18p0019 · `ZHnum` ZH18_002 · `X新文豐` XWDZ31p0554 · `涵芬樓` HFL興下036
+
+太清金液神氣經  
+DZ:   DZ0882  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0883 太清經天師口訣 Taiqing jing tianshi koujue
+
+[KR5c0281](https://github.com/kanripo/KR5c0281) · `CUSTOM_ID` DZ0883 · `HK` CH030904 · `凱希` KX0908 · `三家本` Vol 18, p0787b · `Z中華道藏` ZHDZ18p0031 · `ZHnum` ZH18_003 · `X新文豐` XWDZ31p0570 · `涵芬樓` HFL興下100
+
+太清經天師口訣  
+DZ:   DZ0883  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0884 太清修丹秘訣 Taiqing xiudan bijue
+
+[KR5c0282](https://github.com/kanripo/KR5c0282) · `CUSTOM_ID` DZ0884 · `HK` CH030905 · `凱希` KX0909 · `三家本` Vol 18, p0792b · `Z中華道藏` ZHDZ18p0644 · `ZHnum` ZH18_070 · `X新文豐` XWDZ31p0578 · `涵芬樓` HFL興下130
+
+太清修丹秘訣  
+DZ:   DZ0884  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0885 黃帝九鼎神丹經訣 Huangdi jiuding shendan jingjue
+
+[KR5c0283](https://github.com/kanripo/KR5c0283) · `CUSTOM_ID` DZ0885 · `HK` CH030906 · `凱希` KX0910 · `三家本` Vol 18, p0795a · `Z中華道藏` ZHDZ18p0076 · `ZHnum` ZH18_011 · `X新文豐` XWDZ31p0583 · `涵芬樓` HFL溫上004
+
+黃帝九鼎神丹經訣  
+DZ:   DZ0885  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0886 九轉靈砂大丹資聖玄經 Jiuzhuan lingsha dadan zisheng xuanjing
+
+[KR5c0284](https://github.com/kanripo/KR5c0284) · `CUSTOM_ID` DZ0886 · `HK` CH030907 · `凱希` KX0911 · `三家本` Vol 19, p0001a · `Z中華道藏` ZHDZ18p0341 · `ZHnum` ZH18_045 · `X新文豐` XWDZ31p0683 · `涵芬樓` HFL清上004
+
+九轉靈砂大丹資聖玄經  
+DZ:   DZ0886  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0887 張真人金石靈砂論 Zhang zhenren jinshi lingsha lun
+
+[KR5c0285](https://github.com/kanripo/KR5c0285) · `CUSTOM_ID` DZ0887 · `HK` CH030908 · `凱希` KX0912 · `三家本` Vol 19, p0005a · `Z中華道藏` ZHDZ18p0345 · `ZHnum` ZH18_046 · `X新文豐` XWDZ31p0690 · `涵芬樓` HFL清上028
+
+張真人金石靈砂論(張隱居)  
+DZ:   DZ0887  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0888 魏伯陽七返丹砂訣 Wei Boyang qifan dansha jue
+
+[KR5c0286](https://github.com/kanripo/KR5c0286) · `CUSTOM_ID` DZ0888 · `HK` CH030909 · `凱希` KX0913 · `三家本` Vol 19, p0008b · `Z中華道藏` ZHDZ18p0295 · `ZHnum` ZH18_037 · `X新文豐` XWDZ31p0695 · `涵芬樓` HFL清上048
+
+魏伯陽七返丹砂訣  
+DZ:   DZ0888  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0889 太極真人九轉還丹經要訣 Taiji zhenren jiuzhuan huandan jing yaojue
+
+[KR5c0287](https://github.com/kanripo/KR5c0287) · `CUSTOM_ID` DZ0889 · `HK` CH030910 · `凱希` KX0914 · `三家本` Vol 19, p0010c · `Z中華道藏` ZHDZ18p0068 · `ZHnum` ZH18_009 · `X新文豐` XWDZ31p0699 · `涵芬樓` HFL清上061
+
+太極真人九轉還丹經要訣  
+DZ:   DZ0889  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0890 大洞鍊真寶經修伏靈砂妙訣 Dadong lianzhen baojing xiufu lingsha miaojue
+
+[KR5c0288](https://github.com/kanripo/KR5c0288) · `CUSTOM_ID` DZ0890 · `HK` CH030911 · `凱希` KX0915 · `三家本` Vol 19, p0013b · `Z中華道藏` ZHDZ18p0298 · `ZHnum` ZH18_038 · `X新文豐` XWDZ31p0703 · `涵芬樓` HFL清上078
+
+大洞鍊真寶經修伏靈砂妙訣(元－陳少微)  
+DZ:   DZ0890  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0891 大洞鍊真寶經九還金丹妙訣 Dadong lianzhen baojing jiuhuan jindan miaojue
+
+[KR5c0289](https://github.com/kanripo/KR5c0289) · `CUSTOM_ID` DZ0891 · `HK` CH030912 · `凱希` KX0916 · `三家本` Vol 19, p0022a · `Z中華道藏` ZHDZ18p0307 · `ZHnum` ZH18_038 · `X新文豐` XWDZ31p0716 · `涵芬樓` HFL清上130
+
+大洞鍊真寶經九還金丹妙訣(元－陳少微)  
+DZ:   DZ0891  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0892 太上衛靈神化九轉丹砂法 Taishang weiling shenhua jiuzhuan dansha fa
+
+[KR5c0290](https://github.com/kanripo/KR5c0290) · `CUSTOM_ID` DZ0892 · `HK` CH030913 · `凱希` KX0917 · `三家本` Vol 19, p0027c · `Z中華道藏` ZHDZ18p0314 · `ZHnum` ZH18_039 · `X新文豐` XWDZ31p0725 · `涵芬樓` HFL清下004
+
+太上衛靈神化九轉丹砂法  
+DZ:   DZ0892  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0893 九轉靈砂大丹 Jiuzhuan lingsha dadan
+
+[KR5c0291](https://github.com/kanripo/KR5c0291) · `CUSTOM_ID` DZ0893 · `HK` CH030914 · `凱希` KX0918 · `三家本` Vol 19, p0030a · `Z中華道藏` ZHDZ18p0317 · `ZHnum` ZH18_040 · `X新文豐` XWDZ19p0030 · `涵芬樓` HFL清下018
+
+九轉靈砂大丹  
+DZ:   DZ0893  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0894 九轉青金靈砂丹 Jiuzhuan qingjin lingsha dan
+
+[KR5c0292](https://github.com/kanripo/KR5c0292) · `CUSTOM_ID` DZ0894 · `HK` CH030915 · `凱希` KX0919 · `三家本` Vol 19, p0034a · `Z中華道藏` ZHDZ18p0322 · `ZHnum` ZH18_041 · `X新文豐` XWDZ31p0735 · `涵芬樓` HFL清下042
+
+九轉青金靈砂丹  
+DZ:   DZ0894  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0895 陰陽九轉成紫金點化還丹訣 Yinyang jiuzhuan chengzi jindian huahuan danjue
+
+[KR5c0293](https://github.com/kanripo/KR5c0293) · `CUSTOM_ID` DZ0895 · `HK` CH030916 · `凱希` KX0920 · `三家本` Vol 19, p0035c · `Z中華道藏` ZHDZ18p0324 · `ZHnum` ZH18_042 · `X新文豐` XWDZ31p0738 · `涵芬樓` HFL清下051
+
+陰陽九轉成紫金點化還丹訣  
+DZ:   DZ0895  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0896 玉洞大神丹砂真要訣 Yudong dashen dansha zhen yaojue
+
+[KR5c0294](https://github.com/kanripo/KR5c0294) · `CUSTOM_ID` DZ0896 · `HK` CH030917 · `凱希` KX0921 · `三家本` Vol 19, p0037b · `Z中華道藏` ZHDZ18p0326 · `ZHnum` ZH18_043 · `X新文豐` XWDZ31p0741 · `涵芬樓` HFL清下062
+
+玉洞大神丹砂真要訣(唐-張果)  
+DZ:   DZ0896  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0897 靈砂大丹秘訣 Lingsha dadan bijue
+
+[KR5c0295](https://github.com/kanripo/KR5c0295) · `CUSTOM_ID` DZ0897 · `HK` CH030918 · `凱希` KX0922 · `三家本` Vol 19, p0044b · `Z中華道藏` ZHDZ18p0333 · `ZHnum` ZH18_044 · `X新文豐` XWDZ31p0752 · `涵芬樓` HFL清下104
+
+靈砂大丹秘訣  
+DZ:   DZ0897  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0898 碧玉朱砂寒林玉樹匱 Biyu zhusha Hanlin yushu kui
+
+[KR5c0296](https://github.com/kanripo/KR5c0296) · `CUSTOM_ID` DZ0898 · `HK` CH030919 · `凱希` KX0923 · `三家本` Vol 19, p0052a · `Z中華道藏` ZHDZ18p0450 · `ZHnum` ZH18_055 · `X新文豐` XWDZ31p0764 · `涵芬樓` HFL清下150
+
+碧玉朱砂寒林玉樹匱(陳大師)  
+DZ:   DZ0898  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0899 大丹記 Dadan ji
+
+[KR5c0297](https://github.com/kanripo/KR5c0297) · `CUSTOM_ID` DZ0899 · `HK` CH030920 · `凱希` KX0924 · `三家本` Vol 19, p0054c · `Z中華道藏` ZHDZ18p0546 · `ZHnum` ZH18_059 · `X新文豐` XWDZ31p0769 · `涵芬樓` HFL似上004
+
+大丹記  
+DZ:   DZ0899  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0900 丹房須知 Danfang xuzhi
+
+[KR5c0298](https://github.com/kanripo/KR5c0298) · `CUSTOM_ID` DZ0900 · `HK` CH030921 · `凱希` KX0925 · `三家本` Vol 19, p0057a · `Z中華道藏` ZHDZ18p0441 · `ZHnum` ZH18_053 · `X新文豐` XWDZ19p0057 · `涵芬樓` HFL似上018
+
+丹房須知(宋-吳)  
+DZ:   DZ0900  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0901 石藥爾雅 Shiyao erya
+
+[KR5c0299](https://github.com/kanripo/KR5c0299) · `CUSTOM_ID` DZ0901 · `HK` CH030922 · `凱希` KX0926 · `三家本` Vol 19, p0061c · `Z中華道藏` ZHDZ18p0274 · `ZHnum` ZH18_032 · `X新文豐` XWDZ31p0780 · `涵芬樓` HFL似上046
+
+石藥爾雅(唐-梅彪)  
+DZ:   DZ0901  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0902 稚川真人校證術 Zhichuan zhenren jiaozheng shu
+
+[KR5c0300](https://github.com/kanripo/KR5c0300) · `CUSTOM_ID` DZ0902 · `HK` CH030923 · `凱希` KX0927 · `三家本` Vol 19, p0066b · `Z中華道藏` ZHDZ18p0780 · `ZHnum` ZH18_091 · `X新文豐` XWDZ31p0787 · `涵芬樓` HFL似上074
+
+稚川真人校證術  
+DZ:   DZ0902  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0903 純陽呂真人藥石製 Chunyang Lü zhenren yaoshi zhi
+
+[KR5c0301](https://github.com/kanripo/KR5c0301) · `CUSTOM_ID` DZ0903 · `HK` CH030924 · `凱希` KX0928 · `三家本` Vol 19, p0069b · `Z中華道藏` ZHDZ18p0237 · `ZHnum` ZH18_026 · `X新文豐` XWDZ31p0792 · `涵芬樓` HFL似上092
+
+純陽呂真人藥石製  
+DZ:   DZ0903  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0904 金碧五相類參同契 Jinbi wu xianglei cantong qi
+
+[KR5c0302](https://github.com/kanripo/KR5c0302) · `CUSTOM_ID` DZ0904 · `HK` CH030925 · `凱希` KX0929 · `三家本` Vol 19, p0073a · `Z中華道藏` ZHDZ18p0039 · `ZHnum` ZH16_002 · `X新文豐` XWDZ31p0798 · `涵芬樓` HFL似上116
+
+金碧五相類參同契(漢-陰長生)  
+DZ:   DZ0904  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0905 參同契五相類秘要 Cantong qi wu xianglei biyao
+
+[KR5c0303](https://github.com/kanripo/KR5c0303) · `CUSTOM_ID` DZ0905 · `HK` CH030926 · `凱希` KX0930 · `三家本` Vol 19, p0086b · `Z中華道藏` ZHDZ18p0251 · `ZHnum` ZH18_029 · `X新文豐` XWDZ31p0819 · `涵芬樓` HFL似下026
+
+參同契五相類秘要  
+DZ:   DZ0905  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0906 陰真君金石五相類 Yinzhen jun jinshi wu xianglei
+
+[KR5c0304](https://github.com/kanripo/KR5c0304) · `CUSTOM_ID` DZ0906 · `HK` CH030927 · `凱希` KX0931 · `三家本` Vol 19, p0088b · `Z中華道藏` ZHDZ18p0254 · `ZHnum` ZH18_030 · `X新文豐` XWDZ31p0822 · `涵芬樓` HFL似下038
+
+陰真君金石五相類  
+DZ:   DZ0906  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0907 金石簿五九數訣 Jinshi buwu jiushu jue
+
+[KR5c0305](https://github.com/kanripo/KR5c0305) · `CUSTOM_ID` DZ0907 · `HK` CH030928 · `凱希` KX0932 · `三家本` Vol 19, p0102b · `Z中華道藏` ZHDZ18p0270 · `ZHnum` ZH18_031 · `X新文豐` XWDZ31p0843 · `涵芬樓` HFL似下122
+
+金石簿九五數訣  
+DZ:   DZ0907  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0908 上清九真中經內訣 Shangqing jiuzhen zhongjing neijue
+
+[KR5c0306](https://github.com/kanripo/KR5c0306) · `CUSTOM_ID` DZ0908 · `HK` CH030929 · `凱希` KX0933 · `三家本` Vol 19, p0105c · `Z中華道藏` ZHDZ18p0057 · `ZHnum` ZH18_006 · `X新文豐` XWDZ31p0848 · `涵芬樓` HFL似下142
+
+上清九真中經內訣  
+DZ:   DZ0908  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0909 龍虎還丹訣 Longhu huandan jue
+
+[KR5c0307](https://github.com/kanripo/KR5c0307) · `CUSTOM_ID` DZ0909 · `HK` CH030930 · `凱希` KX0934 · `三家本` Vol 19, p0107c · `Z中華道藏` ZHDZ18p0588 · `ZHnum` ZH18_062 · `X新文豐` XWDZ32p0001 · `涵芬樓` HFL蘭上004
+
+龍虎還丹訣(金陵子0  
+DZ:   DZ0909  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0910 金華玉液大丹 Jinhua yuye dadan
+
+[KR5c0308](https://github.com/kanripo/KR5c0308) · `CUSTOM_ID` DZ0910 · `HK` CH030931 · `凱希` KX0935 · `三家本` Vol 19, p0127c · `Z中華道藏` ZHDZ18p0453 · `ZHnum` ZH18_056 · `X新文豐` XWDZ21p0032 · `涵芬樓` HFL蘭上124
+
+金華玉液大丹  
+DZ:   DZ0910  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0911 感氣十六轉金丹 Ganqi shiliu zhuan jindan
+
+[KR5c0309](https://github.com/kanripo/KR5c0309) · `CUSTOM_ID` DZ0911 · `HK` CH030932 · `凱希` KX0936 · `三家本` Vol 19, p0134a · `Z中華道藏` ZHDZ18p0359 · `ZHnum` ZH18_048 · `X新文豐` XWDZ32p0042 · `涵芬樓` HFL蘭下004
+
+感氣十六轉金丹  
+DZ:   DZ0911  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0912 修鍊大丹要旨 Xiulian dadan yaozhi
+
+[KR5c0310](https://github.com/kanripo/KR5c0310) · `CUSTOM_ID` DZ0912 · `HK` CH030933 · `凱希` KX0937 · `三家本` Vol 19, p0137b · `Z中華道藏` ZHDZ18p0553 · `ZHnum` ZH18_061 · `X新文豐` XWDZ32p0048 · `涵芬樓` HFL蘭下024
+
+修煉大丹要旨  
+DZ:   DZ0912  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0913 通幽訣 Tongyou jue
+
+[KR5c0311](https://github.com/kanripo/KR5c0311) · `CUSTOM_ID` DZ0913 · `HK` CH030934 · `凱希` KX0938 · `三家本` Vol 19, p0150a · `Z中華道藏` ZHDZ18p0605 · `ZHnum` ZH18_066 · `X新文豐` XWDZ32p0067 · `涵芬樓` HFL蘭下100
+
+通幽訣  
+DZ:   DZ0913  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0913 金華沖碧丹經秘旨傳(宋-白玉蟾)
+
+[KR5c0311](https://github.com/kanripo/KR5c0311) · `nopin` · `CUSTOM_ID` DZ0913 · `HK` CH030935 · `凱希` xx · `三家本` x · `Z中華道藏` ZHDZ18p0605 · `ZHnum` ZH18_066 · `X新文豐` XWDZ32p0081 · `涵芬樓` HFL斯上004
+
+金華沖碧丹經秘旨傳(宋-白玉蟾)  
+DZ:   DZ0913  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0914 金華沖碧丹經秘旨 Jinhua chongbi danjing bizhi
+
+`CUSTOM_ID` DZ0914 · `HK` CH030936 · `凱希` KX0939 · `三家本` Vol 19, p0159b · `Z中華道藏` ZHDZ18p0460 · `ZHnum` ZH18_057 · `X新文豐` XWDZ32p0084 · `涵芬樓` HFL斯上014
+
+金華沖碧丹經秘旨(宋-白玉蟾)  
+DZ:   DZ0914  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0915 還丹肘後訣 Huandan zhouhou jue
+
+[KR5c0314](https://github.com/kanripo/KR5c0314) · `CUSTOM_ID` DZ0915 · `HK` CH030937 · `凱希` KX0940 · `三家本` Vol 19, p0169b · `Z中華道藏` ZHDZ18p0627 · `ZHnum` ZH18_069 · `X新文豐` XWDZ19p0169 · `涵芬樓` HFL斯上064
+
+還丹肘後訣  
+DZ:   DZ0915  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0916 蓬萊山西灶還丹歌 Penglai shanxi zao huandan ge
+
+[KR5c0315](https://github.com/kanripo/KR5c0315) · `CUSTOM_ID` DZ0916 · `HK` CH030938 · `凱希` KX0941 · `三家本` Vol 19, p0185a · `Z中華道藏` ZHDZ18p0210 · `ZHnum` ZH18_023 · `X新文豐` XWDZ32p0120 · `涵芬樓` HFL斯下004
+
+蓬萊山西灶還丹歌(漢-黃玄鍾)  
+DZ:   DZ0916  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0917 抱朴子神仙金汋經 Baopuzi shenxian jinzhuo jing
+
+[KR5c0316](https://github.com/kanripo/KR5c0316) · `CUSTOM_ID` DZ0917 · `HK` CH030939 · `凱希` KX0942 · `三家本` Vol 19, p0204a · `Z中華道藏` ZHDZ18p0158 · `ZHnum` ZH18_013 · `X新文豐` XWDZ32p0149 · `涵芬樓` HFL斯下118
+
+抱朴子神仙金江汋經  
+DZ:   DZ0917  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0918 諸家神品丹法 Zhujia shenpin danfa
+
+[KR5c0318](https://github.com/kanripo/KR5c0318) · `CUSTOM_ID` DZ0918 · `HK` CH030940 · `凱希` KX0943 · `三家本` Vol 19, p0214c · `Z中華道藏` ZHDZ18p0363 · `ZHnum` ZH18_049 · `X新文豐` XWDZ32p0165 · `涵芬樓` HFL馨上004
+
+諸家神品丹法(孟要甫0  
+DZ:   DZ0918  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0919 鉛汞甲庚至寶集成 Qianhong jiageng zhibao jicheng
+
+[KR5c0319](https://github.com/kanripo/KR5c0319) · `CUSTOM_ID` DZ0919 · `HK` CH030941 · `凱希` KX0944 · `三家本` Vol 19, p0247a · `Z中華道藏` ZHDZ18p0398 · `ZHnum` ZH18_050 · `X新文豐` XWDZ32p0214 · `涵芬樓` HFL馨下004
+
+鉛汞甲庚至寶集成  
+DZ:   DZ0919  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0920 丹房奧論 Danfang aolun
+
+[KR5c0320](https://github.com/kanripo/KR5c0320) · `CUSTOM_ID` DZ0920 · `HK` CH030942 · `凱希` KX0945 · `三家本` Vol 19, p0275c · `Z中華道藏` ZHDZ18p0429 · `ZHnum` ZH18_051 · `X新文豐` XWDZ32p0259 · `涵芬樓` HFL如上004
+
+丹房奧論(宋-程了)  
+DZJY: JY216  
+DZJY0: JY216  
+DZ:   DZ0920  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0921 指歸集 Zhigui ji
+
+[KR5c0321](https://github.com/kanripo/KR5c0321) · `CUSTOM_ID` DZ0921 · `HK` CH030943 · `凱希` KX0946 · `三家本` Vol 19, p0281b · `Z中華道藏` ZHDZ18p0436 · `ZHnum` ZH18_052 · `X新文豐` XWDZ32p0268 · `涵芬樓` HFL如上044
+
+指歸集(宋-吳)  
+DZ:   DZ0921  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0922 還金述 Huanjin shu
+
+[KR5c0322](https://github.com/kanripo/KR5c0322) · `CUSTOM_ID` DZ0922 · `HK` CH030944 · `凱希` KX0947 · `三家本` Vol 19, p0285b · `Z中華道藏` ZHDZ18p0695 · `ZHnum` ZH18_077 · `X新文豐` XWDZ32p0274 · `涵芬樓` HFL如上062
+
+還金述(陶埴)  
+DZ:   DZ0922  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0923 大丹鉛汞論 Dadan qianhong lun
+
+[KR5c0323](https://github.com/kanripo/KR5c0323) · `CUSTOM_ID` DZ0923 · `HK` CH030945 · `凱希` KX0948 · `三家本` Vol 19, p0288b · `Z中華道藏` ZHDZ18p0549 · `ZHnum` ZH18_060 · `X新文豐` XWDZ32p0279 · `涵芬樓` HFL如上080
+
+大丹鉛汞論(唐-金竹坡)  
+DZ:   DZ0923  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0924 真元妙道要略 Zhenyuan miaodao yaolue
+
+[KR5c0324](https://github.com/kanripo/KR5c0324) · `CUSTOM_ID` DZ0924 · `HK` CH030946 · `凱希` KX0949 · `三家本` Vol 19, p0291b · `Z中華道藏` ZHDZ18p0784 · `ZHnum` ZH18_092 · `X新文豐` XWDZ32p0284 · `涵芬樓` HFL如上098
+
+真元妙道要略(晉-鄭思遠)  
+DZ:   DZ0924  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0925 丹方鑑源 Danfang jianyuan
+
+[KR5c0325](https://github.com/kanripo/KR5c0325) · `CUSTOM_ID` DZ0925 · `HK` CH030947 · `凱希` KX0950 · `三家本` Vol 19, p0298a · `Z中華道藏` ZHDZ18p0281 · `ZHnum` ZH18_033 · `X新文豐` XWDZ32p0294 · `涵芬樓` HFL如上138
+
+丹方鑑源(獨孤滔)  
+DZ:   DZ0925  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0926 大還丹照鑑 Da huandan zhaojian
+
+[KR5c0326](https://github.com/kanripo/KR5c0326) · `CUSTOM_ID` DZ0926 · `HK` CH030948 · `凱希` KX0951 · `三家本` Vol 19, p0304a · `Z中華道藏` ZHDZ19p0111 · `ZHnum` ZH19_019 · `X新文豐` XWDZ32p0305 · `涵芬樓` HFL如下004
+
+大還丹照鑑  
+DZ:   DZ0926  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0927 太清玉碑子 Taiqing yu beizi
+
+[KR5c0327](https://github.com/kanripo/KR5c0327) · `CUSTOM_ID` DZ0927 · `HK` CH030949 · `凱希` KX0952 · `三家本` Vol 19, p0311c · `Z中華道藏` ZHDZ18p0768 · `ZHnum` ZH18_087 · `X新文豐` XWDZ32p0315 · `涵芬樓` HFL如下050
+
+太清玉碑子  
+DZ:   DZ0927  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0928 懸解錄 Xuanjie lu
+
+[KR5c0328](https://github.com/kanripo/KR5c0328) · `CUSTOM_ID` DZ0928 · `HK` CH030950 · `凱希` KX0953 · `三家本` Vol 19, p0315c · `Z中華道藏` ZHDZ18p0199 · `ZHnum` ZH18_019 · `X新文豐` XWDZ32p0321 · `涵芬樓` HFL如下074
+
+懸解錄  
+DZ:   DZ0928  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0929 軒轅黃帝水經藥法 Xuanyuan Huangdi shuijing yaofa
+
+[KR5c0329](https://github.com/kanripo/KR5c0329) · `CUSTOM_ID` DZ0929 · `HK` CH030951 · `凱希` KX0954 · `三家本` Vol 19, p0318c · `Z中華道藏` ZHDZ18p0241 · `ZHnum` ZH18_027 · `X新文豐` XWDZ32p0333 · `涵芬樓` HFL如下094
+
+軒轅兼帝水經藥法  
+DZ:   DZ0929  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0930 三十六水法 Sanshiliu shuifa
+
+[KR5c0330](https://github.com/kanripo/KR5c0330) · `CUSTOM_ID` DZ0930 · `HK` CH030952 · `凱希` KX0955 · `三家本` Vol 19, p0323a · `Z中華道藏` ZHDZ18p0247 · `ZHnum` ZH18_028 · `X新文豐` XWDZ32p0333 · `涵芬樓` HFL如下118
+
+三十六水法  
+DZ:   DZ0930  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0931 巨勝歌 Jusheng ge
+
+[KR5c0331](https://github.com/kanripo/KR5c0331) · `CUSTOM_ID` DZ0931 · `HK` CH030953 · `凱希` KX0956 · `三家本` Vol 19, p0327a · `Z中華道藏` ZHDZ19p0148 · `ZHnum` ZH19_023 · `X新文豐` XWDZ32p0339 · `涵芬樓` HFL如下142
+
+巨勝歌  
+DZ:   DZ0931  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0932 白雲仙人靈草歌 Baiyun xianren lingcao ge
+
+[KR5c0332](https://github.com/kanripo/KR5c0332) · `CUSTOM_ID` DZ0932 · `HK` CH030954 · `凱希` KX0957 · `三家本` Vol 19, p0328c · `Z中華道藏` ZHDZ18p0228 · `ZHnum` ZH18_024 · `X新文豐` XWDZ32p0342 · `涵芬樓` HFL如下152
+
+白雲仙人靈草歌  
+DZ:   DZ0932  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0933 種芝草法 Zhongzhi caofa
+
+[KR5c0333](https://github.com/kanripo/KR5c0333) · `CUSTOM_ID` DZ0933 · `HK` CH030955 · `凱希` KX0958 · `三家本` Vol 19, p0335b · `Z中華道藏` ZHDZ18p0235 · `ZHnum` ZH18_025 · `X新文豐` XWDZ32p0352 · `涵芬樓` HFL如下192
+
+種芝草法  
+DZ:   DZ0933  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0934 太白經 Taibai jing
+
+[KR5c0334](https://github.com/kanripo/KR5c0334) · `CUSTOM_ID` DZ0934 · `HK` CH030956 · `凱希` KX0959 · `三家本` Vol 19, p0337a · `Z中華道藏` ZHDZ18p0651 · `ZHnum` ZH18_071 · `X新文豐` XWDZ32p0355 · `涵芬樓` HFL松上004
+
+太白經  
+DZ:   DZ0934  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0935 丹論訣旨心鑑 Danlun juezhi xinjian
+
+[KR5c0335](https://github.com/kanripo/KR5c0335) · `CUSTOM_ID` DZ0935 · `HK` CH030957 · `凱希` KX0960 · `三家本` Vol 19, p0340c · `Z中華道藏` ZHDZ19p0191 · `ZHnum` ZH19_031 · `X新文豐` XWDZ32p0361 · `涵芬樓` HFL松上026
+
+丹論訣旨心鑑(張元德)  
+DZ:   DZ0935  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0936 大還心鑑 Da huanxin jian
+
+[KR5c0336](https://github.com/kanripo/KR5c0336) · `CUSTOM_ID` DZ0936 · `HK` CH030958 · `凱希` KX0961 · `三家本` Vol 19, p0345b · `Z中華道藏` ZHDZ19p0196 · `ZHnum` ZH19_032 · `X新文豐` XWDZ32p0368 · `涵芬樓` HFL松上054
+
+大還心鑑  
+DZ:   DZ0936  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0937 大還丹金虎白龍論 Da huandan jinhu bailong lun
+
+[KR5c0337](https://github.com/kanripo/KR5c0337) · `CUSTOM_ID` DZ0937 · `HK` CH030959 · `凱希` KX0962 · `三家本` Vol 19, p0347a · `Z中華道藏` ZHDZ19p0109 · `ZHnum` ZH19_018 · `X新文豐` XWDZ32p0371 · `涵芬樓` HFL松上064
+
+大還丹金虎白龍論(唐-還陽子)  
+DZ:   DZ0937  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0938 大丹篇 Dadan pian
+
+[KR5c0338](https://github.com/kanripo/KR5c0338) · `CUSTOM_ID` DZ0938 · `HK` CH030960 · `凱希` KX0963 · `三家本` Vol 19, p0349a · `Z中華道藏` ZHDZ18p0698 · `ZHnum` ZH18_078 · `X新文豐` XWDZ32p0374 · `涵芬樓` HFL松上076
+
+大丹篇  
+DZ:   DZ0938  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0939 大丹問答 Dadan wenda
+
+[KR5c0339](https://github.com/kanripo/KR5c0339) · `CUSTOM_ID` DZ0939 · `HK` CH030961 · `凱希` KX0964 · `三家本` Vol 19, p0352a · `Z中華道藏` ZHDZ18p0773 · `ZHnum` ZH18_088 · `X新文豐` XWDZ32p0379 · `涵芬樓` HFL松上094
+
+大丹問答  
+DZ:   DZ0939  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0940 金木萬靈論 Jinmu wanling lun
+
+[KR5c0340](https://github.com/kanripo/KR5c0340) · `CUSTOM_ID` DZ0940 · `HK` CH030962 · `凱希` KX0965 · `三家本` Vol 19, p0353b · `Z中華道藏` ZHDZ18p0775 · `ZHnum` ZH18_089 · `X新文豐` XWDZ32p0381 · `涵芬樓` HFL松上102
+
+金木萬靈論(晉-葛洪)  
+DZ:   DZ0940  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0941 紅鉛入黑鉛訣 Hongqian ru heiqian jue
+
+[KR5c0341](https://github.com/kanripo/KR5c0341) · `CUSTOM_ID` DZ0941 · `HK` CH030963 · `凱希` KX0966 · `三家本` Vol 19, p0354c · `Z中華道藏` ZHDZ18p0616 · `ZHnum` ZH18_067 · `X新文豐` XWDZ32p0383 · `涵芬樓` HFL松上110
+
+紅鉛入黑鉛訣  
+DZ:   DZ0941  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0942 通玄秘術 Tongxuan bishu
+
+[KR5c0342](https://github.com/kanripo/KR5c0342) · `CUSTOM_ID` DZ0942 · `HK` CH030964 · `凱希` KX0967 · `三家本` Vol 19, p0356c · `Z中華道藏` ZHDZ18p0187 · `ZHnum` ZH18_016 · `X新文豐` XWDZ32p0386 · `涵芬樓` HFL松上122
+
+通玄秘術(唐-沈知言)  
+DZ:   DZ0942  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0943 靈飛散傳信錄 Lingfei sanchuan xinlu
+
+[KR5c0343](https://github.com/kanripo/KR5c0343) · `CUSTOM_ID` DZ0943 · `HK` CH030965 · `凱希` KX0968 · `三家本` Vol 19, p0363c · `Z中華道藏` ZHDZ18p0195 · `ZHnum` ZH18_017 · `X新文豐` XWDZ32p0397 · `涵芬樓` HFL松下004
+
+靈飛散傳信錄  
+DZ:   DZ0943  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0944 雁門公妙解錄 Yingmen gongmiao jielu
+
+[KR5c0344](https://github.com/kanripo/KR5c0344) · `CUSTOM_ID` DZ0944 · `HK` CH030966 · `凱希` KX0969 · `三家本` Vol 19, p0365c · `Z中華道藏` ZHDZ18p0203 · `ZHnum` ZH18_020 · `X新文豐` XWDZ32p0401 · `涵芬樓` HFL松下016
+
+雁門公妙解錄  
+DZ:   DZ0944  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0945 玄霜掌上錄 Xuanshuang zhangshang lu
+
+[KR5c0345](https://github.com/kanripo/KR5c0345) · `CUSTOM_ID` DZ0945 · `HK` CH030967 · `凱希` KX0970 · `三家本` Vol 19, p0368b · `Z中華道藏` ZHDZ18p0198 · `ZHnum` ZH18_018 · `X新文豐` XWDZ32p0405 · `涵芬樓` HFL松下032
+
+玄霜掌上錄  
+DZ:   DZ0945  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0946 太極真人雜丹藥方 Taiji zhenren zadan yaofang
+
+[KR5c0346](https://github.com/kanripo/KR5c0346) · `CUSTOM_ID` DZ0946 · `HK` CH030968 · `凱希` KX0971 · `三家本` Vol 19, p0369a · `Z中華道藏` ZHDZ18p0071 · `ZHnum` ZH18_010 · `X新文豐` XWDZ32p0406 · `涵芬樓` HFL松下036
+
+太極真人雜丹藥方  
+DZ:   DZ0946  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0947 玉清內書 Yuqing neishu
+
+[KR5c0347](https://github.com/kanripo/KR5c0347) · `CUSTOM_ID` DZ0947 · `HK` CH030969 · `凱希` KX0972 · `三家本` Vol 19, p0374a · `Z中華道藏` ZHDZ18p0627 · `ZHnum` ZH18_068 · `X新文豐` XWDZ32p0414 · `涵芬樓` HFL松下066
+
+玉清內書  
+DZ:   DZ0947  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0948 神仙養生秘術 Shenxian yangsheng bishu
+
+[KR5c0348](https://github.com/kanripo/KR5c0348) · `CUSTOM_ID` DZ0948 · `HK` CH030970 · `凱希` KX0973 · `三家本` Vol 19, p0381b · `Z中華道藏` ZHDZ18p0181 · `ZHnum` ZH18_015 · `X新文豐` XWDZ32p0425 · `涵芬樓` HFL松下110
+
+神仙養生秘術(太白山人)  
+DZ:   DZ0948  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0949 太古土兌經 Taigu tudui jing
+
+[KR5c0349](https://github.com/kanripo/KR5c0349) · `CUSTOM_ID` DZ0949 · `HK` CH030971 · `凱希` KX0974 · `三家本` Vol 19, p0387b · `Z中華道藏` ZHDZ18p0349 · `ZHnum` ZH18_047 · `X新文豐` XWDZ32p0435 · `涵芬樓` HFL之上004
+
+太古土兌經  
+DZ:   DZ0949  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0950 上洞心丹經訣 Shangdong xindan jingjue
+
+[KR5c0350](https://github.com/kanripo/KR5c0350) · `CUSTOM_ID` DZ0950 · `HK` CH030972 · `凱希` KX0975 · `三家本` Vol 19, p0396a · `Z中華道藏` ZHDZ18p0747 · `ZHnum` ZH18_085 · `X新文豐` XWDZ32p0449 · `涵芬樓` HFL之上056
+
+上洞心丹經訣  
+DZ:   DZ0950  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0951 陳u君石函記 Xu zhenjun shihan ji
+
+[KR5c0351](https://github.com/kanripo/KR5c0351) · `CUSTOM_ID` DZ0951 · `HK` CH030973 · `凱希` KX0976 · `三家本` Vol 19, p0412c · `Z中華道藏` ZHDZ19p0672 · `ZHnum` ZH19_085 · `X新文豐` XWDZ32p0474 · `涵芬樓` HFL之下004
+
+許顛君石函記(晉-許遜)  
+DZJY: JY151  
+DZJY0: JY151  
+DZ:   DZ0951  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0952 九轉流珠神仙九丹經 Jiuzhuan liuzhu shenxian jiudan jing
+
+[KR5c0352](https://github.com/kanripo/KR5c0352) · `CUSTOM_ID` DZ0952 · `HK` CH030974 · `凱希` KX0977 · `三家本` Vol 19, p0427b · `Z中華道藏` ZHDZ18p0147 · `ZHnum` ZH18_012 · `X新文豐` XWDZ32p0497 · `涵芬樓` HFL之下092
+
+九轉流珠神仙九丹經  
+DZ:   DZ0952  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0953 庚道集 Gengdao ji
+
+[KR5c0353](https://github.com/kanripo/KR5c0353) · `CUSTOM_ID` DZ0953 · `HK` CH030975 · `凱希` KX0978 · `三家本` Vol 19, p0437b · `Z中華道藏` ZHDZ18p0470 · `ZHnum` ZH18_058 · `X新文豐` XWDZ32p0513 · `涵芬樓` HFL盛上004
+
+庚道集  
+DZ:   DZ0953  
+Contents
+
+**Work notes**
+
+**Comments**
+
+### CMTS0310　	記傳類
+
+#### DZ0954 太上混元真錄 Taishang hunyuan zhenlu
+
+[KR5c0354](https://github.com/kanripo/KR5c0354) · `CUSTOM_ID` DZ0954 · `HK` CH031001 · `凱希` KX0979 · `三家本` Vol 19, p0507b · `Z中華道藏` ZHDZ46p0001 · `ZHnum` ZH46_001 · `X新文豐` XWDZ32p0621 · `涵芬樓` HFL川上004
+
+太上混元真錄  
+DZ:   DZ0954  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0955 終南山祖庭仙真內傳 Zhongnan shan zuting xianzhen neizhuan
+
+[KR5c0355](https://github.com/kanripo/KR5c0355) · `CUSTOM_ID` DZ0955 · `HK` CH031002 · `凱希` KX0980 · `三家本` Vol 19, p0516c · `Z中華道藏` ZHDZ47p0077 · `ZHnum` ZH47_006 · `X新文豐` XWDZ32p0636 · `涵芬樓` HFL川上060
+
+終南山祖庭仙真內傳(元-李道謙)  
+DZJY: JY289  
+DZJY0: JY289  
+DZ:   DZ0955  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0956 終南山說經臺歷代真仙碑記 Zhongnan shan shuo jingtai lidai zhenxian beiji
+
+[KR5c0356](https://github.com/kanripo/KR5c0356) · `CUSTOM_ID` DZ0956 · `HK` CH031003 · `凱希` KX0981 · `三家本` Vol 19, p0543b · `Z中華道藏` ZHDZ48p0600 · `ZHnum` ZH48_023 · `X新文豐` XWDZ32p0676 · `涵芬樓` HFL川下004
+
+終南山說經臺歷代真仙碑記(元-朱象先)  
+DZJY: JY290  
+DZJY0: JY290  
+DZ:   DZ0956  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0957 古樓觀紫雲衍慶集 Gu louguan ziyun yanqing ji
+
+[KR5c0357](https://github.com/kanripo/KR5c0357) · `CUSTOM_ID` DZ0957 · `HK` CH031004 · `凱希` KX0982 · `三家本` Vol 19, p0549c · `Z中華道藏` ZHDZ48p0607 · `ZHnum` ZH48_024 · `X新文豐` XWDZ32p0680 · `涵芬樓` HFL川下042
+
+古樓觀紫雲衍慶集(元-朱象先)  
+DZ:   DZ0957  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0958 玄天上帝啟聖錄 Xuantian shangdi qisheng lu
+
+[KR5c0358](https://github.com/kanripo/KR5c0358) · `CUSTOM_ID` DZ0958 · `HK` CH031005 · `凱希` KX0983 · `三家本` Vol 19, p0571c · `Z中華道藏` ZHDZ30p0635 · `ZHnum` ZH30_045 · `X新文豐` XWDZ32p0719 · `涵芬樓` HFL流上004
+
+玄天上帝啟聖錄(宋)  
+DZ:   DZ0958  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0959 大明玄天上帝瑞應圖錄 Daming xuantian shangdi ruiying tulu
+
+[KR5c0359](https://github.com/kanripo/KR5c0359) · `CUSTOM_ID` DZ0959 · `HK` CH031006 · `凱希` KX0984 · `三家本` Vol 19, p0632a · `Z中華道藏` ZHDZ30p0706 · `ZHnum` ZH30_047 · `X新文豐` XWDZ32p0812 · `涵芬樓` HFL流中052
+
+大明玄天上帝瑞應圖錄(明)  
+DZ:   DZ0959  
+Contents
+
+**Work notes**
+
+**Comments** — xx DZ0960 KX0985 xx 禦制真武廟碑
+
+#### DZ0961 玄天上帝啟聖靈異錄 Xuantian shangdi qisheng lingyi lu
+
+[KR5c0361](https://github.com/kanripo/KR5c0361) · `CUSTOM_ID` DZ0961 · `HK` CH031007 · `凱希` KX0986 · `三家本` Vol 19, p0641b · `Z中華道藏` ZHDZ30p0046 · `ZHnum` ZH30_046 · `X新文豐` XWDZ32p0826 · `涵芬樓` HFL流中106
+
+玄天上帝啟聖靈異錄(明)  
+DZ:   DZ0961  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0962 武當福地總真集 Wudang fudi zongzhen ji
+
+[KR5c0362](https://github.com/kanripo/KR5c0362) · `CUSTOM_ID` DZ0962 · `HK` CH031008 · `凱希` KX0987 · `三家本` Vol 19, p0647b · `Z中華道藏` ZHDZ48p0558 · `ZHnum` ZH48_020 · `X新文豐` XWDZ33p0001 · `涵芬樓` HFL不上004
+
+武當福地總真集(元-劉道明)  
+DZ:   DZ0962  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0963 武當紀勝集 Wudang jisheng ji
+
+[KR5c0363](https://github.com/kanripo/KR5c0363) · `CUSTOM_ID` DZ0963 · `HK` CH031009 · `凱希` KX0988 · `三家本` Vol 19, p0668c · `Z中華道藏` ZHDZ48p0580 · `ZHnum` ZH48_021 · `X新文豐` XWDZ33p0034 · `涵芬樓` HFL不上132
+
+武當紀勝集(元-羅霆震)  
+DZ:   DZ0963  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0964 西川青羊宮碑銘 Xichuan Qingyang gong beiming
+
+[KR5c0364](https://github.com/kanripo/KR5c0364) · `CUSTOM_ID` DZ0964 · `HK` CH031010 · `凱希` KX0989 · `三家本` Vol 19, p0679b · `Z中華道藏` ZHDZ48p0633 · `ZHnum` ZH48_026 · `X新文豐` XWDZ33p0050 · `涵芬樓` HFL不上196
+
+四川青羊宮碑銘(唐-樂朋龜)  
+DZJY: JY291  
+DZJY0: JY291  
+DZ:   DZ0964  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0965 宋東太乙宮碑銘 Songdong Taiyi gong beiming
+
+[KR5c0365](https://github.com/kanripo/KR5c0365) · `CUSTOM_ID` DZ0965 · `HK` CH031011 · `凱希` KX0990 · `三家本` Vol 19, p0687b · `Z中華道藏` ZHDZ48p0642 · `ZHnum` ZH48_027 · `X新文豐` XWDZ33p0063 · `涵芬樓` HFL不下004
+
+宋東太一宮碑銘(宋-扈蒙)  
+DZ:   DZ0965  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0966 宋西太乙宮碑銘 Songxi Taiyi gong beiming
+
+[KR5c0366](https://github.com/kanripo/KR5c0366) · `CUSTOM_ID` DZ0966 · `HK` CH031012 · `凱希` KX0991 · `三家本` Vol 19, p0689a · `Z中華道藏` ZHDZ48p0644 · `ZHnum` ZH48_028 · `X新文豐` XWDZ33p0066 · `涵芬樓` HFL不下014
+
+宋西太乙宮碑銘(宋-宋綬)  
+DZ:   DZ0966  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0967 宋中太乙宮碑銘 Songzhong Taiyi gong beiming
+
+[KR5c0367](https://github.com/kanripo/KR5c0367) · `CUSTOM_ID` DZ0967 · `HK` CH031013 · `凱希` KX0992 · `三家本` Vol 19, p0690c · `Z中華道藏` ZHDZ48p0646 · `ZHnum` ZH48_029 · `X新文豐` XWDZ33p0069 · `涵芬樓` HFL不下024
+
+宋中太乙宮碑銘(宋-呂惠卿)  
+DZ:   DZ0967  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0968 龍角山記 Longjiao shanji
+
+[KR5c0368](https://github.com/kanripo/KR5c0368) · `CUSTOM_ID` DZ0968 · `HK` CH031014 · `凱希` KX0993 · `三家本` Vol 19, p0692b · `Z中華道藏` ZHDZ48p0590 · `ZHnum` ZH48_022 · `X新文豐` XWDZ33p0072 · `涵芬樓` HFL不下034
+
+龍角山記(金)  
+DZ:   DZ0968  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0969 天壇王屋山聖蹟記 Tiantan wang wushan shengji ji
+
+[KR5c0369](https://github.com/kanripo/KR5c0369) · `CUSTOM_ID` DZ0969 · `HK` CH031015 · `凱希` KX0994 · `三家本` Vol 19, p0700c · `Z中華道藏` ZHDZ48p0549 · `ZHnum` ZH48_018 · `X新文豐` XWDZ33p0085 · `涵芬樓` HFL不下092
+
+天壇王屋山聖跡記(前蜀-杜光庭)  
+DZ:   DZ0969  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0970 唐王屋山中巖臺正一先生廟碣 Tangwang wushan zhong yantai zhengyi xiansheng miaoyi
+
+[KR5c0370](https://github.com/kanripo/KR5c0370) · `CUSTOM_ID` DZ0970 · `HK` CH031016 · `凱希` KX0995 · `三家本` Vol 19, p0706c · `Z中華道藏` ZHDZ48p0556 · `ZHnum` ZH48_019 · `X新文豐` XWDZ33p0094 · `涵芬樓` HFL不下120
+
+唐王屋山中巖臺正一先生廟碣(唐-衛棋)  
+DZ:   DZ0970  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0971 唐嵩高山啟母廟碑銘 Tang Songgao shan qimu miao beiming miaoyi
+
+[KR5c0371](https://github.com/kanripo/KR5c0371) · `CUSTOM_ID` DZ0971 · `HK` CH031017 · `凱希` KX0996 · `三家本` Vol 19, p0708b · `Z中華道藏` ZHDZ48p0630 · `ZHnum` ZH48_025 · `X新文豐` XWDZ33p0096 · `涵芬樓` HFL不下130
+
+唐嵩高山啟母廟碑銘(唐-崔融)  
+DZ:   DZ0971  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0972 宮觀碑誌 Gongguan beizhi
+
+[KR5c0372](https://github.com/kanripo/KR5c0372) · `CUSTOM_ID` DZ0972 · `HK` CH031018 · `凱希` KX0997 · `三家本` Vol 19, p0710c · `Z中華道藏` ZHDZ48p0468 · `ZHnum` ZH48_030 · `X新文豐` XWDZ33p0100 · `涵芬樓` HFL不下144
+
+宮觀碑誌(元)  
+DZ:   DZ0972  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0973 甘水仙源錄 Ganshui shanyuan lu
+
+[KR5c0373](https://github.com/kanripo/KR5c0373) · `CUSTOM_ID` DZ0973 · `HK` CH031019 · `凱希` KX0998 · `三家本` Vol 19, p0722a · `Z中華道藏` ZHDZ47p0113 · `ZHnum` ZH47_008 · `X新文豐` XWDZ33p0117 · `涵芬樓` HFL息上004
+
+甘水仙源錄(元-李道謙)  
+DZJY: JY295  
+DZJY0: JY295  
+DZ:   DZ0973  
+Contents
+
+**Work notes**
+
+**Comments**
+
+### CMTS0311　	讚頌類
+
+#### DZ0974 太上老君說常清靜經頌註 Taishang laojun shuo chang qingjing jing songzhu
+
+[KR5c0374](https://github.com/kanripo/KR5c0374) · `CUSTOM_ID` DZ0974 · `HK` CH031101 · `凱希` KX0999 · `三家本` Vol 19, p0815b · `Z中華道藏` ZHDZ06p0047 · `ZHnum` ZH06_005 · `X新文豐` XWDZ33p0261 · `涵芬樓` HFL淵上004
+
+太上老君說常清靜經頌註(金-默然子)  
+DZ:   DZ0974  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0975 北斗七元金玄羽章 Beidou qiyuan jinxuan yujing
+
+[KR5c0375](https://github.com/kanripo/KR5c0375) · `CUSTOM_ID` DZ0975 · `HK` CH031102 · `凱希` KX1000 · `三家本` Vol 19, p0818a · `Z中華道藏` ZHDZ06p0756 · `ZHnum` ZH06_114 · `X新文豐` XWDZ33p0266 · `涵芬樓` HFL淵上020
+
+北斗七元金玄羽章  
+DZ:   DZ0975  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0976 太上洞神五星讚 Taishang dongshen wuxing zan
+
+[KR5c0376](https://github.com/kanripo/KR5c0376) · `CUSTOM_ID` DZ0976 · `HK` CH031103 · `凱希` KX1001 · `三家本` Vol 19, p0819a · `Z中華道藏` ZHDZ32p0304 · `ZHnum` ZH32_017 · `X新文豐` XWDZ33p0268 · `涵芬樓` HFL淵上026
+
+太上洞神五星讚(張平子)  
+DZ:   DZ0976  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0977 道經篇章玄頌 Daojing pianzhang xuansong
+
+[KR5c0377](https://github.com/kanripo/KR5c0377) · `CUSTOM_ID` DZ0977 · `HK` CH031104 · `凱希` KX1002 · `三家本` Vol 19, p0821b · `Z中華道藏` ZHDZ10p0287 · `ZHnum` ZH10_003 · `X新文豐` XWDZ33p0272 · `涵芬樓` HFL淵上040
+
+道德經篇章玄頌(宋鸞)  
+DZ:   DZ0977  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0978 道德真經頌 Daode zhenjing song
+
+[KR5c0378](https://github.com/kanripo/KR5c0378) · `CUSTOM_ID` DZ0978 · `HK` CH031105 · `凱希` KX1003 · `三家本` Vol 19, p0844b · `Z中華道藏` ZHDZ10p0310 · `ZHnum` ZH10_004 · `X新文豐` XWDZ33p0308 · `涵芬樓` HFL淵下084
+
+道德真經頌(蔣融庵)  
+DZ:   DZ0978  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0979 明真破妄章頌 Mingzhen powang zhangsong
+
+[KR5c0379](https://github.com/kanripo/KR5c0379) · `CUSTOM_ID` DZ0979 · `HK` CH031106 · `凱希` KX1004 · `三家本` Vol 19, p0848c · `Z中華道藏` ZHDZ26p0128 · `ZHnum` ZH26_017 · `X新文豐` XWDZ33p0315 · `涵芬樓` HFL淵下110
+
+明真破妄章頌(宋-張繼先)  
+DZJY: JY217  
+DZJY0: JY217  
+DZ:   DZ0979  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0980 諸真歌頌 Zhuzhen gesong
+
+[KR5c0380](https://github.com/kanripo/KR5c0380) · `CUSTOM_ID` DZ0980 · `HK` CH031107 · `凱希` KX1005 · `三家本` Vol 19, p0851a · `Z中華道藏` ZHDZ02p0507 · `ZHnum` ZH02_067 · `X新文豐` XWDZ33p0319 · `涵芬樓` HFL淵下124
+
+諸真歌頌  
+DZ:   DZ0980  
+Contents
+
+**Work notes**
+
+**Comments**
+
+### CMTS0312　	表奏類
+
+#### DZ0981 大明御製玄教樂章 Daming yuzhi xuanjiao lezhang
+
+[KR5c0381](https://github.com/kanripo/KR5c0381) · `CUSTOM_ID` DZ0981 · `HK` CH031201 · `凱希` KX1006 · `三家本` x · `Z中華道藏` ZHDZ44p0612 · `ZHnum` ZH44_062 · `X新文豐` XWDZ33p0331 · `涵芬樓` HFL澄上004
+
+大明御製玄教樂章  
+DZ:   DZ0981  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0982 太上三洞表文 Taishang sandong biaowen
+
+[KR5c0382](https://github.com/kanripo/KR5c0382) · `CUSTOM_ID` DZ0982 · `HK` CH031202 · `凱希` KX1007 · `三家本` Vol 19, p0861c · `Z中華道藏` ZHDZ44p0512 · `ZHnum` ZH44_058 · `X新文豐` XWDZ33p0337 · `涵芬樓` HFL澄上024
+
+太上三洞表文  
+DZ:   DZ0982  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0983 萃善錄 Cuishan lu
+
+[KR5c0383](https://github.com/kanripo/KR5c0383) · `CUSTOM_ID` DZ0983 · `HK` CH031203 · `凱希` KX1008 · `三家本` Vol 19, p0883c · `Z中華道藏` ZHDZ08p0733 · `ZHnum` ZH08_071 · `X新文豐` XWDZ33p0371 · `涵芬樓` HFL澄下018
+
+萃善錄  
+DZ:   DZ0983  
+Contents
+
+**Work notes**
+
+**Comments**
+
+## 太　玄　部 CH04
+
+分類	太　玄　部　經　名(作者)	上海版	新文豐	中華道藏	涵芬樓
+
+### CMTS0400
+
+#### DZ0984 玄精碧匣靈寶聚玄經 Xuanjing bixia lingbao juxuan jing
+
+[KR5d0001](https://github.com/kanripo/KR5d0001) · `CUSTOM_ID` DZ0984 · `HK` CH04001 · `凱希` KX1009 · `三家本` Vol 19, p0899c · `Z中華道藏` ZHDZ32p0363 · `ZHnum` ZH32_022 · `X新文豐` XWDZ34p0001 · `涵芬樓` HFL取上004
+
+玄精碧匣靈寶聚玄經  
+DZ:   DZ0984  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0985 太上洞玄靈寶三一五氣真經 Taishang dongxuan lingbao sanyiwu qi zhenjing
+
+[KR5d0002](https://github.com/kanripo/KR5d0002) · `CUSTOM_ID` DZ0985 · `HK` CH04002 · `凱希` KX1010 · `三家本` Vol 19, p0921a · `Z中華道藏` ZHDZ23p0117 · `ZHnum` ZH23_014 · `X新文豐` XWDZ34p0034 · `涵芬樓` HFL取上132
+
+太上洞玄靈寶三一五氣真經  
+DZ:   DZ0985  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0986 太上清靜元洞真文玉字妙經 Taishang qingjing yuandong zhenwen yuzi miaojing
+
+[KR5d0003](https://github.com/kanripo/KR5d0003) · `CUSTOM_ID` DZ0986 · `HK` CH04003 · `凱希` KX1011 · `三家本` Vol 19, p0923b · `Z中華道藏` ZHDZ06p0153 · `ZHnum` ZH06_034 · `X新文豐` XWDZ34p0038 · `涵芬樓` HFL取上146
+
+太上清靜元洞真文玉字妙經  
+DZ:   DZ0986  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0987 太上洞玄靈寶天關經 Taishang dongxuan lingbao tianguan jing
+
+[KR5d0004](https://github.com/kanripo/KR5d0004) · `CUSTOM_ID` DZ0987 · `HK` CH04004 · `凱希` KX1012 · `三家本` Vol 19, p0925b · `Z中華道藏` ZHDZ04p0150 · `ZHnum` ZH04_019 · `X新文豐` XWDZ34p0041 · `涵芬樓` HFL取上158
+
+太上洞玄靈寶天關經  
+DZ:   DZ0987  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0988 上清無英真童合遊內變玉經 Shangqing wuying zhentong heyou neibian yujing
+
+[KR5d0005](https://github.com/kanripo/KR5d0005) · `CUSTOM_ID` DZ0988 · `HK` CH04005 · `凱希` KX1013 · `三家本` Vol 19, p0927b · `Z中華道藏` ZHDZ02p0105 · `ZHnum` ZH02_018 · `X新文豐` XWDZ34p0044 · `涵芬樓` HFL取上170
+
+上清無英真童合遊內變玉經  
+DZ:   DZ0988  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0989 上清神寶洞房真諱上經 Shangqing shenbao dongfang zhenhui shangjing
+
+[KR5d0006](https://github.com/kanripo/KR5d0006) · `CUSTOM_ID` DZ0989 · `HK` CH04006 · `凱希` KX1014 · `三家本` Vol 19, p0928b · `Z中華道藏` ZHDZ02p0102 · `ZHnum` ZH02_017 · `X新文豐` XWDZ34p0046 · `涵芬樓` HFL取上176
+
+上清神寶洞房真諱上經  
+DZ:   DZ0989  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0990 洞玄靈寶九真人五復三歸行道觀門經 Dongxuan lingbao jiu zhenren wufu sangui xingdao guanmen jing
+
+[KR5d0007](https://github.com/kanripo/KR5d0007) · `CUSTOM_ID` DZ0990 · `HK` CH04007 · `凱希` KX1015 · `三家本` Vol 19, p0930c · `Z中華道藏` ZHDZ04p0178 · `ZHnum` ZH04_023 · `X新文豐` XWDZ34p0050 · `涵芬樓` HFL取上190
+
+洞玄靈寶九真人五復三歸行道觀門經  
+DZ:   DZ0990  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0991 太上長文大洞靈寶幽玄上品妙經 Taishang changwen dadong lingbao youxuan shangpin miaojing
+
+[KR5d0008](https://github.com/kanripo/KR5d0008) · `CUSTOM_ID` DZ0991 · `HK` CH04008 · `凱希` KX1016 · `三家本` Vol 20, p0001a · `Z中華道藏` ZHDZ19p0020 · `ZHnum` ZH19_006 · `X新文豐` XWDZ34p0055 · `涵芬樓` HFL取下004
+
+太上長文大洞靈寶幽玄上品妙經  
+DZ:   DZ0991  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0992 太上長文大洞靈寶幽玄上品妙經發揮 Taishang changwen dadong lingbao youxuan shangpin miaojing fahui
+
+[KR5d0009](https://github.com/kanripo/KR5d0009) · `CUSTOM_ID` DZ0992 · `HK` CH04009 · `凱希` KX1017 · `三家本` Vol 20, p0005a · `Z中華道藏` ZHDZ19p0025 · `ZHnum` ZH19_007 · `X新文豐` XWDZ34p0062 · `涵芬樓` HFL取下028
+
+太上長文大洞靈寶幽玄上品妙經發揮  
+DZ:   DZ0992  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0993 上清秘道九精回曜合神上真玉經 Shangqing bidao jiujing huiyao heshen shangzhen yujing
+
+[KR5d0010](https://github.com/kanripo/KR5d0010) · `CUSTOM_ID` DZ0993 · `HK` CH04010 · `凱希` KX1018 · `三家本` Vol 20, p0011b · `Z中華道藏` ZHDZ02p0426 · `ZHnum` ZH02_046 · `X新文豐` XWDZ34p0072 · `涵芬樓` HFL取下066
+
+上清秘道九精回曜合神上真玉經  
+DZ:   DZ0993  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0994 上清太淵神龍瓊胎乘景上玄玉章 Shangqing taiyuan shenlong qiongtai shengjing shangxuan yuzhang
+
+[KR5d0011](https://github.com/kanripo/KR5d0011) · `CUSTOM_ID` DZ0994 · `HK` CH04011 · `凱希` KX1019 · `三家本` Vol 20, p0012c · `Z中華道藏` ZHDZ32p0669 · `ZHnum` ZH32_057 · `X新文豐` XWDZ34p0074 · `涵芬樓` HFL取下074
+
+上清大淵神龍瓊胎乘景上玄玉章  
+DZ:   DZ0994  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0995 淵源道妙洞真繼篇 Yuanyuan daomiao dongzhen jipian
+
+[KR5d0012](https://github.com/kanripo/KR5d0012) · `CUSTOM_ID` DZ0995 · `HK` CH04012 · `凱希` KX1020 · `三家本` Vol 20, p0014b · `Z中華道藏` ZHDZ30p0762 · `ZHnum` ZH30_056 · `X新文豐` XWDZ34p0077 · `涵芬樓` HFL取下084
+
+淵源道妙洞真繼篇(李景元)  
+DZ:   DZ0995  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0996 古文龍虎經註疏 Guwen longhu jing zhushu
+
+[KR5d0013](https://github.com/kanripo/KR5d0013) · `CUSTOM_ID` DZ0996 · `HK` CH04013 · `凱希` KX1021 · `三家本` Vol 20, p0033c · `Z中華道藏` ZHDZ19p0077 · `ZHnum` ZH19_016 · `X新文豐` XWDZ34p0107 · `涵芬樓` HFL映上004
+
+古文龍虎經註疏(宋-王道)  
+DZJY: JY112  
+DZJY0: JY112  
+DZ:   DZ0996  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0997 古文龍虎上經註 Guwen longhu shangjing zhu +
+
+[KR5d0014](https://github.com/kanripo/KR5d0014) · `CUSTOM_ID` DZ0997 · `HK` CH04014 · `凱希` KX1022 · `三家本` Vol 20, p0057c · `Z中華道藏` ZHDZ19p0103 · `ZHnum` ZH19_017 · `X新文豐` XWDZ34p0144 · `涵芬樓` HFL映上148
+
+古文龍虎上經註  
+DZ:   DZ0997  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0998 讀龍虎經 Longhu shangjing
+
+[KR5d0015](https://github.com/kanripo/KR5d0015) · `CUSTOM_ID` DZ0998 · `HK` CH04015 · `凱希` KX1023 · `三家本` Vol 20, p0063a · `Z中華道藏` ZHDZ19p0000 · `ZHnum` ZH19_017 · `X新文豐` XWDZ34p0152 · `涵芬樓` HFL映上
+
+附讀龍虎經  
+DZ:   DZ0998  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ0999 周易參同契 Zhouyi cantong qi +
+
+[KR5d0016](https://github.com/kanripo/KR5d0016) · `CUSTOM_ID` DZ0999 · `HK` CH04016 · `凱希` KX1024 · `三家本` Vol 20, p0063c · `Z中華道藏` ZHDZ16p0001 · `ZHnum` ZH16_001 · `X新文豐` XWDZ34p0153 · `涵芬樓` HFL映中004
+
+周易參同契註(一)(漢-陰長生)  
+DZ:   DZ0999  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1000 周易參同契註 Zhouyi cantong qi jie
+
+[KR5d0017](https://github.com/kanripo/KR5d0017) · `CUSTOM_ID` DZ1000 · `HK` CH04017 · `凱希` KX1025 · `三家本` Vol 20, p0096b · `Z中華道藏` ZHDZ16p0054 · `ZHnum` ZH16_006 · `X新文豐` XWDZ34p0203 · `涵芬樓` HFL映下004
+
+周易參同契注(二)  
+DZ:   DZ1000  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1001 周易參同契 Zhouyi cantong qi
+
+[KR5d0018](https://github.com/kanripo/KR5d0018) · `CUSTOM_ID` DZ1001 · `HK` CH04018 · `凱希` KX1026 · `三家本` Vol 20, p0118a · `Z中華道藏` ZHDZ16p0247 · `ZHnum` ZH16_010 · `X新文豐` XWDZ34p0237 · `涵芬樓` HFL容上004
+
+周易參同契註(三)(宋-朱熹)  
+DZ:   DZ1001  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1002 周易參同契分章通真義 Zhouyi cantong qi fenzhang tongzhen yi
+
+[KR5d0019](https://github.com/kanripo/KR5d0019) · `CUSTOM_ID` DZ1002 · `HK` CH04019 · `凱希` KX1027 · `三家本` Vol 20, p0131c · `Z中華道藏` ZHDZ16p0080 · `ZHnum` ZH16_004 · `X新文豐` XWDZ34p0258 · `涵芬樓` HFL容上086
+
+周易參同契分章通真義(後蜀-彭曉)  
+DZ:   DZ1002  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1003 周易參同契鼎器歌明鏡圖 Zhouyi cantong qi dingqi ge mingjing tu
+
+[KR5d0020](https://github.com/kanripo/KR5d0020) · `CUSTOM_ID` DZ1003 · `HK` CH04020 · `凱希` KX1028 · `三家本` Vol 20, p0157b · `Z中華道藏` ZHDZ16p0113 · `ZHnum` ZH16_005 · `X新文豐` XWDZ34p0297 · `涵芬樓` HFL容下004
+
+周易參同契鼎器歌明鏡圖(後蜀-彭曉)  
+DZ:   DZ1003  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1004 周易參同契註 Zhouyi cantong qi zhu
+
+[KR5d0021](https://github.com/kanripo/KR5d0021) · `CUSTOM_ID` DZ1004 · `HK` CH04021 · `凱希` KX1029 · `三家本` Vol 20, p0161b · `Z中華道藏` ZHDZ16p0054 · `ZHnum` ZH16_003 · `X新文豐` XWDZ34p0304 · `涵芬樓` HFL容下028
+
+周易參同契註(四)  
+DZ:   DZ1004  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1005 周易參同契發揮 Zhouyi cantong qi fahui
+
+[KR5d0022](https://github.com/kanripo/KR5d0022) · `CUSTOM_ID` DZ1005 · `HK` CH04022 · `凱希` KX1030 · `三家本` Vol 20, p0192b · `Z中華道藏` ZHDZ16p0263 · `ZHnum` ZH16_011 · `X新文豐` XWDZ34p0351 · `涵芬樓` HFL
+
+周易參同契發揮(宋-俞琰)  
+DZ:   DZ1005  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1006 周易參同契釋疑釋義 Zhouyi cantong qi shiyi
+
+[KR5d0024](https://github.com/kanripo/KR5d0024) · `CUSTOM_ID` DZ1006 · `HK` CH04023 · `凱希` KX1031 · `三家本` Vol 20, p0262a · `Z中華道藏` ZHDZ16p0340 · `ZHnum` ZH16_012 · `X新文豐` XWDZ34p0460 · `涵芬樓` HFL止下086
+
+周易參同契釋疑(宋-俞琰)  
+DZ:   DZ1006  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1007 周易參同契解 Zhouyi cantong qi jie
+
+[KR5d0025](https://github.com/kanripo/KR5d0025) · `CUSTOM_ID` DZ1007 · `HK` CH04024 · `凱希` KX1032 · `三家本` Vol 20, p0271b · `Z中華道藏` ZHDZ16p0171 · `ZHnum` ZH16_008 · `X新文豐` XWDZ34p0475 · `涵芬樓` HFL若上004
+
+周易參同契解(宋-陳顯微)  
+DZJY: JY141  
+DZJY0: JY141  
+DZ:   DZ1007  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1008 周易參同契 Zhouyi cantong qi
+
+[KR5d0027](https://github.com/kanripo/KR5d0027) · `CUSTOM_ID` DZ1008 · `HK` CH04025 · `凱希` KX1033 · `三家本` Vol 20, p0297c · `Z中華道藏` ZHDZ16p0153 · `ZHnum` ZH16_007 · `X新文豐` XWDZ34p0515 · `涵芬樓` HFL若中004
+
+周易參同契註(五)(儲華谷)  
+DZ:   DZ1008  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1009 易外別傳 Yiwai biezhuan
+
+[KR5d0028](https://github.com/kanripo/KR5d0028) · `CUSTOM_ID` DZ1009 · `HK` CH04026 · `凱希` KX1034 · `三家本` Vol 20, p0312b · `Z中華道藏` ZHDZ16p0610 · `ZHnum` ZH16_018 · `X新文豐` XWDZ34p0538 · `涵芬樓` HFL若中094
+
+易外別傳(宋-俞琰)  
+DZ:   DZ1009  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1010 玄牝之門賦 Xuanpin zhi men fu
+
+[KR5d0030](https://github.com/kanripo/KR5d0030) · `CUSTOM_ID` DZ1010 · `HK` CH04027 · `凱希` KX1035 · `三家本` Vol 20, p0320c · `Z中華道藏` ZHDZ19p0284 · `ZHnum` ZH19_056 · `X新文豐` XWDZ34p0550 · `涵芬樓` HFL若中142
+
+玄牝之門賦  
+DZ:   DZ1010  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1011 易筮通變 Yishi tongbian
+
+[KR5d0031](https://github.com/kanripo/KR5d0031) · `CUSTOM_ID` DZ1011 · `HK` CH04028 · `凱希` KX1036 · `三家本` Vol 20, p0322a · `Z中華道藏` ZHDZ16p0620 · `ZHnum` ZH16_019 · `X新文豐` XWDZ34p0553 · `涵芬樓` HFL若下004
+
+易筮通變(元-雷思齊)  
+DZ:   DZ1011  
+Contents
+
+**Work notes**
+
+**Comments** — xx DZ1012 xx x 空山先生易圖通變 xx DZ1013 xx x 河圖
+
+#### DZ1014 易圖通變 Yitu tongbian
+
+[KR5d0034](https://github.com/kanripo/KR5d0034) · `CUSTOM_ID` DZ1014 · `HK` CH04029 · `凱希` KX1037 · `三家本` Vol 20, p0335a · `Z中華道藏` ZHDZ16p0000 · `ZHnum` ZH16_020 · `X新文豐` XWDZ34p0573 · `涵芬樓` HFL若下082
+
+易圖通變(元-雷思齊)  
+DZ:   DZ1014  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1015 金鎖流珠引 Jinsuo liuzhu yin
+
+[KR5d0035](https://github.com/kanripo/KR5d0035) · `CUSTOM_ID` DZ1015 · `HK` CH04030 · `凱希` KX1038 · `三家本` Vol 20, p0354a · `Z中華道藏` ZHDZ33p0001 · `ZHnum` ZH33_001 · `X新文豐` XWDZ34p0603 · `涵芬樓` HFL思上004
+
+金鎖流珠引(唐-李淳風)  
+DZ:   DZ1015  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1016 真誥 Zhen'gao
+
+[KR5d0036](https://github.com/kanripo/KR5d0036) · `CUSTOM_ID` DZ1016 · `HK` CH04031 · `凱希` KX1039 · `三家本` Vol 20, p0490b · `Z中華道藏` ZHDZ02p0112 · `ZHnum` ZH02_021 · `X新文豐` XWDZ35p0001 · `涵芬樓` HFL安上004
+
+真誥(梁-陶弘景)  
+DZJY: JY237  
+DZJY0: JY237  
+DZ:   DZ1016  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1017 道樞 Daoshu
+
+[KR5d0039](https://github.com/kanripo/KR5d0039) · `CUSTOM_ID` DZ1017 · `HK` CH04032 · `凱希` KX1040 · `三家本` Vol 20, p0610c · `Z中華道藏` ZHDZ23p0253 · `ZHnum` ZH23_054 · `X新文豐` XWDZ35p0187 · `涵芬樓` HFL篤上004
+
+道樞(宋-曾慥)  
+DZJY: JY238  
+DZJY0: JY238  
+DZ:   DZ1017  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1018 黃帝內經素問補註釋文 Huangdi neijing suwen buzhu shiwen
+
+[KR5d0040](https://github.com/kanripo/KR5d0040) · `CUSTOM_ID` DZ1018 · `HK` CH04033 · `凱希` KX1041 · `三家本` Vol 21, p0001a · `Z中華道藏` ZHDZ20p0001 · `ZHnum` ZH20_001 · `X新文豐` XWDZ35p0553 · `涵芬樓` HFL
+
+黃帝內經素問補註釋文(唐-王冰)  
+DZ:   DZ1018  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1019 黃帝內經靈樞略 Huangdi neijing lingshu lue
+
+[KR5d0041](https://github.com/kanripo/KR5d0041) · `CUSTOM_ID` DZ1019 · `HK` CH04034 · `凱希` KX1042 · `三家本` Vol 21, p0383c · `Z中華道藏` ZHDZ20p0527 · `ZHnum` ZH20_004 · `X新文豐` XWDZ36p0247 · `涵芬樓` HFL業上004
+
+黃帝內經靈樞略(宋-史崧)  
+DZ:   DZ1019  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1020 黃帝素問靈樞集註 Huangdi suwen lingshu jizhu
+
+[KR5d0042](https://github.com/kanripo/KR5d0042) · `CUSTOM_ID` DZ1020 · `HK` CH04035 · `凱希` KX1043 · `三家本` Vol 21, p0386c · `Z中華道藏` ZHDZ20p0437 · `ZHnum` ZH20_003 · `X新文豐` XWDZ36p0252 · `涵芬樓` HFL業上022
+
+黃帝素問靈樞集註(宋-史崧)  
+DZ:   DZ1020  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1021 黃帝內經素問遺篇 Huangdi neijing suwen yipian
+
+[KR5d0043](https://github.com/kanripo/KR5d0043) · `CUSTOM_ID` DZ1021 · `HK` CH04036 · `凱希` KX1044 · `三家本` Vol 21, p0459a · `Z中華道藏` ZHDZ20p0409 · `ZHnum` ZH20_002 · `X新文豐` XWDZ36p0365 · `涵芬樓` HFL所上088
+
+黃帝內經素問遺篇(宋-劉溫舒)  
+DZ:   DZ1021  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1022 素問入式運氣論奧 Suwen rushi yunqi lun'ao
+
+[KR5d0044](https://github.com/kanripo/KR5d0044) · `CUSTOM_ID` DZ1022 · `HK` CH04037 · `凱希` KX1045 · `三家本` Vol 21, p0485b · `Z中華道藏` ZHDZ20p0626 · `ZHnum` ZH20_006 · `X新文豐` XWDZ36p0406 · `涵芬樓` HFL所下044
+
+素問入式運氣論奧(宋-劉溫舒)  
+DZ:   DZ1022  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1023 素問六氣玄珠密語 Suwen liuqi xuanzhu miyu
+
+[KR5d0045](https://github.com/kanripo/KR5d0045) · `CUSTOM_ID` DZ1023 · `HK` CH04038 · `凱希` KX1046 · `三家本` Vol 21, p0508c · `Z中華道藏` ZHDZ20p0631 · `ZHnum` ZH20_005 · `X新文豐` XWDZ36p0441 · `涵芬樓` HFL基上004
+
+素問六氣玄珠密語(唐-啟玄子)  
+DZ:   DZ1023  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### xx 黃帝八十一難經註義圖序論(宋-李)
+
+`nopin` · `CUSTOM_ID` xx · `HK` CH04039 · `凱希` KX1047 · `三家本` Vol 21, p0593c · `Z中華道藏` XX · `ZHnum` XX · `X新文豐` XWDZ36p0571 · `涵芬樓` HFL籍上004
+
+黃帝八十一難經註義圖序論(宋-李)  
+DZ:   xx  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1024 黃帝八十一難經纂圖句解 Huangdi bashiyi nanjing zuantu jujie
+
+[KR5d0047](https://github.com/kanripo/KR5d0047) · `CUSTOM_ID` DZ1024 · `HK` CH04040 · `凱希` xx · `三家本` x · `Z中華道藏` ZHDZ20p0652 · `ZHnum` ZH20_007 · `X新文豐` XWDZ36p0580 · `涵芬樓` HFL籍上040
+
+黃帝八十一難經纂圖句解  
+DZ:   DZ1024  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1025 鬼谷子 Guiguzi
+
+[KR5d0048](https://github.com/kanripo/KR5d0048) · `CUSTOM_ID` DZ1025 · `HK` CH04041 · `凱希` KX1048 · `三家本` Vol 21, p0669c · `Z中華道藏` ZHDZ24p0723 · `ZHnum` ZH24_013 · `X新文豐` XWDZ36p0689 · `涵芬樓` HFL甚上004
+
+鬼谷子(梁-陶弘景)  
+DZ:   DZ1025  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1026 天隱子 Tianyinzi +
+
+[KR5d0049](https://github.com/kanripo/KR5d0049) · `CUSTOM_ID` DZ1026 · `HK` CH04042 · `凱希` KX1049 · `三家本` Vol 21, p0699a · `Z中華道藏` ZHDZ26p0035 · `ZHnum` ZH26_004 · `X新文豐` XWDZ36p0735 · `涵芬樓` HFL甚下004
+
+天隱子唐-(司馬承禎)  
+DZJY: JY158  
+DZJY0: JY158  
+DZ:   DZ1026  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1027 素履子 Sulüzi
+
+[KR5d0050](https://github.com/kanripo/KR5d0050) · `CUSTOM_ID` DZ1027 · `HK` CH04043 · `凱希` KX1050 · `三家本` Vol 21, p0701b · `Z中華道藏` ZHDZ25p0250 · `ZHnum` ZH25_004 · `X新文豐` XWDZ36p0739 · `涵芬樓` HFL甚下016
+
+素履子(唐-張弧)  
+DZ:   DZ1027  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1028 無能子 Wunengzi
+
+[KR5d0051](https://github.com/kanripo/KR5d0051) · `CUSTOM_ID` DZ1028 · `HK` CH04044 · `凱希` KX1051 · `三家本` Vol 21, p0707a · `Z中華道藏` ZHDZ25p0257 · `ZHnum` ZH25_005 · `X新文豐` XWDZ36p0748 · `涵芬樓` HFL甚下052
+
+無能子(唐-)  
+DZ:   DZ1028  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1029 玄真子外篇 Xuanzhenzi waipian
+
+[KR5d0052](https://github.com/kanripo/KR5d0052) · `CUSTOM_ID` DZ1029 · `HK` CH04045 · `凱希` KX1052 · `三家本` Vol 21, p0718b · `Z中華道藏` ZHDZ26p0089 · `ZHnum` ZH26_011 · `X新文豐` XWDZ36p0765 · `涵芬樓` HFL甚下120
+
+玄真子外篇(唐-張志和)  
+DZJY: JY157  
+DZJY0: JY157  
+DZ:   DZ1029  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1030 劉子 Liuzi
+
+[KR5d0053](https://github.com/kanripo/KR5d0053) · `CUSTOM_ID` DZ1030 · `HK` CH04046 · `凱希` KX1053 · `三家本` Vol 21, p0726b · `Z中華道藏` ZHDZ25p0190 · `ZHnum` ZH25_003 · `X新文豐` XWDZ36p0777 · `涵芬樓` HFL無上004
+
+劉子(北齊-劉)  
+DZJY: JY156  
+DZJY0: JY156  
+DZ:   DZ1030  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1031 山海經 Shanhai jing
+
+[KR5d0054](https://github.com/kanripo/KR5d0054) · `CUSTOM_ID` DZ1031 · `HK` CH04047 · `凱希` KX1054 · `三家本` Vol 21, p0782c · `Z中華道藏` ZHDZ48p0001 · `ZHnum` ZH48_001 · `X新文豐` XWDZ37p0001 · `涵芬樓` HFL竟上004
+
+山海經(晉-郭璞)  
+DZ:   DZ1031  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1032 雲笈七籤 Yunji qiqian
+
+[KR5d0055](https://github.com/kanripo/KR5d0055) · `CUSTOM_ID` DZ1032 · `HK` CH04048 · `凱希` KX1055 · `三家本` Vol 22, p0001a · `Z中華道藏` ZHDZ29p0001 · `ZHnum` ZH29_001 · `X新文豐` XWDZ37p0095 · `涵芬樓` HFL學上004
+
+雲笈七籤(宋-張君房)  
+DZJY: JY242  
+DZJY0: JY242  
+DZ:   DZ1032  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1033 至言總 Zhiyan zong
+
+[KR5d0056](https://github.com/kanripo/KR5d0056) · `CUSTOM_ID` DZ1033 · `HK` CH04049 · `凱希` KX1056 · `三家本` Vol 22, p0850b · `Z中華道藏` ZHDZ23p0269 · `ZHnum` ZH23_047 · `X新文豐` ZHDZ23p0269 · `涵芬樓` XWDZ38p0551 HFL去上004
+
+至言總(范  
+DZ:   DZ1033  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1034 太玄寶典 Taixuan baodian
+
+[KR5d0057](https://github.com/kanripo/KR5d0057) · `CUSTOM_ID` DZ1034 · `HK` CH04050 · `凱希` KX1057 · `三家本` Vol 22, p0871a · `Z中華道藏` ZHDZ23p0293 · `ZHnum` ZH23_048 · `X新文豐` XWDZ38p0583 · `涵芬樓` HFL去上128
+
+太玄寶典  
+DZJY: JY212  
+DZJY0: JY212  
+DZ:   DZ1034  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1035 道體論 Daoti lun
+
+[KR5d0058](https://github.com/kanripo/KR5d0058) · `CUSTOM_ID` DZ1035 · `HK` CH04051 · `凱希` KX1058 · `三家本` Vol 22, p0880c · `Z中華道藏` ZHDZ26p0016 · `ZHnum` ZH26_002 · `X新文豐` XWDZ38p0599 · `涵芬樓` HFL去下004
+
+道體論(唐-通玄先生)  
+DZ:   DZ1035  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1036 坐忘論 Zuowang lun +
+
+[KR5d0059](https://github.com/kanripo/KR5d0059) · `CUSTOM_ID` DZ1036 · `HK` CH04052 · `凱希` KX1059 · `三家本` Vol 22, p0891c · `Z中華道藏` ZHDZ26p0028 · `ZHnum` ZH26_003 · `X新文豐` XWDZ38p0616 · `涵芬樓` HFL去下070
+
+坐忘論  
+DZJY: JY213  
+DZJY0: JY213  
+DZ:   DZ1036  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1037 大道論 Dadao lun
+
+[KR5d0060](https://github.com/kanripo/KR5d0060) · `CUSTOM_ID` DZ1037 · `HK` CH04053 · `凱希` KX1060 · `三家本` Vol 22, p0898b · `Z中華道藏` ZHDZ26p0079 · `ZHnum` ZH26_009 · `X新文豐` XWDZ38p0626 · `涵芬樓` HFL去下110
+
+大道論  
+DZ:   DZ1037  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1038 心目論 Xinmu lun +
+
+[KR5d0061](https://github.com/kanripo/KR5d0061) · `CUSTOM_ID` DZ1038 · `HK` CH04054 · `凱希` KX1061 · `三家本` Vol 22, p0906b · `Z中華道藏` ZHDZ26p0069 · `ZHnum` ZH26_007 · `X新文豐` XWDZ38p0638 · `涵芬樓` HFL去下158
+
+心目論  
+DZ:   DZ1038  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1039 三論元旨 Sanlun yuanzhi
+
+[KR5d0062](https://github.com/kanripo/KR5d0062) · `CUSTOM_ID` DZ1039 · `HK` CH04055 · `凱希` KX1062 · `三家本` Vol 22, p0907c · `Z中華道藏` ZHDZ26p0071 · `ZHnum` ZH26_008 · `X新文豐` XWDZ38p0640 · `涵芬樓` HFL去下166
+
+三論元旨  
+DZ:   DZ1039  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1040 皇極經世 Huangji jingshi
+
+[KR5d0063](https://github.com/kanripo/KR5d0063) · `CUSTOM_ID` DZ1040 · `HK` CH04056 · `凱希` KX1063 · `三家本` Vol 23, p0001a · `Z中華道藏` ZHDZ17p0159 · `ZHnum` ZH17_005 · `X新文豐` XWDZ38p0651 · `涵芬樓` HFL而上004
+
+皇極經世(宋-邵雍)  
+DZ:   DZ1040  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1041 靈棋本章正經 Lingqi benzhang zhengjing
+
+[KR5d0064](https://github.com/kanripo/KR5d0064) · `CUSTOM_ID` DZ1041 · `HK` CH04057 · `凱希` KX1064 · `三家本` Vol 23, p0455a · `Z中華道藏` ZHDZ32p0001 · `ZHnum` ZH32_001 · `X新文豐` XWDZ39p0467 · `涵芬樓` HFL貴下004
+
+靈棋本章正經(漢-東方朔)  
+DZ:   DZ1041  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1042 伊川擊壤集 Yichuan jirang ji
+
+[KR5d0065](https://github.com/kanripo/KR5d0065) · `CUSTOM_ID` DZ1042 · `HK` CH04058 · `凱希` KX1065 · `三家本` Vol 23, p0486c · `Z中華道藏` ZHDZ25p0328 · `ZHnum` ZH25_008 · `X新文豐` XWDZ39p0515 · `涵芬樓` HFL賤上004
+
+伊川擊壤集(宋-邵雍)  
+DZ:   DZ1042  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1043 太上修真玄章 Taishang xiuzhen xuanzhang
+
+[KR5d0066](https://github.com/kanripo/KR5d0066) · `CUSTOM_ID` DZ1043 · `HK` CH04059 · `凱希` KX1066 · `三家本` Vol 23, p0587b · `Z中華道藏` ZHDZ19p0758 · `ZHnum` ZH19_098 · `X新文豐` XWDZ39p0671 · `涵芬樓` HFL別上004
+
+太上修真玄章  
+DZ:   DZ1043  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1044 化書 Hua shu
+
+[KR5d0067](https://github.com/kanripo/KR5d0067) · `CUSTOM_ID` DZ1044 · `HK` CH04060 · `凱希` KX1067 · `三家本` Vol 23, p0589c · `Z中華道藏` ZHDZ26p0098 · `ZHnum` ZH26_012 · `X新文豐` XWDZ39p0775 · `涵芬樓` HFL別上018
+
+化書(南唐-譚峭)  
+DZ:   DZ1044  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1045 海客論 Haike lun
+
+[KR5d0068](https://github.com/kanripo/KR5d0068) · `CUSTOM_ID` DZ1045 · `HK` CH04061 · `凱希` KX1068 · `三家本` Vol 23, p0605a · `Z中華道藏` ZHDZ18p0715 · `ZHnum` ZH18_080 · `X新文豐` XWDZ39p0698 · `涵芬樓` HFL別上110
+
+海容論  
+DZ:   DZ1045  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1046 悟玄篇 Wuxuan pian
+
+[KR5d0069](https://github.com/kanripo/KR5d0069) · `CUSTOM_ID` DZ1046 · `HK` CH04062 · `凱希` KX1069 · `三家本` Vol 23, p0612c · `Z中華道藏` ZHDZ19p0737 · `ZHnum` ZH19_096 · `X新文豐` XWDZ39p0711 · `涵芬樓` HFL別下004
+
+悟玄篇(余洞真)  
+DZJY: JY214  
+DZJY0: JY214  
+DZ:   DZ1046  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1047 太虛心淵篇 Taixu xinyuan pian
+
+[KR5d0070](https://github.com/kanripo/KR5d0070) · `CUSTOM_ID` DZ1047 · `HK` CH04063 · `凱希` KX1070 · `三家本` Vol 23, p0616c · `Z中華道藏` ZHDZ26p0123 · `ZHnum` ZH26_014 · `X新文豐` XWDZ39p0718 · `涵芬樓` HFL別下028
+
+大虛心淵篇  
+DZJY: JY215  
+DZJY0: JY215  
+DZ:   DZ1047  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1048 玄珠錄 Xuanzhu lu
+
+[KR5d0071](https://github.com/kanripo/KR5d0071) · `CUSTOM_ID` DZ1048 · `HK` CH04064 · `凱希` KX1071 · `三家本` Vol 23, p0619b · `Z中華道藏` ZHDZ26p0001 · `ZHnum` ZH26_001 · `X新文豐` XWDZ39p0722 · `涵芬樓` HFL別下044
+
+玄珠錄(唐-王玄覽)  
+DZ:   DZ1048  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1049 雲宮法語 Yungong fayu
+
+[KR5d0072](https://github.com/kanripo/KR5d0072) · `CUSTOM_ID` DZ1049 · `HK` CH04065 · `凱希` KX1072 · `三家本` Vol 23, p0633b · `Z中華道藏` ZHDZ27p0263 · `ZHnum` ZH27_013 · `X新文豐` XWDZ39p0743 · `涵芬樓` HFL別下128
+
+雲宮法語(元-汪可孫)  
+DZ:   DZ1049  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1050 華陽陶隱居集 Huayang Tao Yinju ji
+
+[KR5d0073](https://github.com/kanripo/KR5d0073) · `CUSTOM_ID` DZ1050 · `HK` CH04066 · `凱希` KX1073 · `三家本` Vol 23, p0640c · `Z中華道藏` ZHDZ46p0225 · `ZHnum` ZH46_014 · `X新文豐` XWDZ39p0755 · `涵芬樓` HFL尊上004
+
+華陽陶隱居集(梁-陶弘景)  
+DZ:   DZ1050  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1051 宗玄先生文集 Zongxuan xiansheng wenji
+
+[KR5d0074](https://github.com/kanripo/KR5d0074) · `CUSTOM_ID` DZ1051 · `HK` CH04067 · `凱希` KX1074 · `三家本` Vol 23, p0653a · `Z中華道藏` ZHDZ26p0037 · `ZHnum` ZH26_005 · `X新文豐` XWDZ39p0774 · `涵芬樓` HFL尊上078
+
+宗玄先生文集(唐-吳筠)  
+DZ:   DZ1051  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1052 宗玄先生玄綱論 Zongxuan xiansheng xuangang lun
+
+[KR5d0075](https://github.com/kanripo/KR5d0075) · `CUSTOM_ID` DZ1052 · `HK` CH04068 · `凱希` KX1075 · `三家本` Vol 23, p0640c · `Z中華道藏` ZHDZ26p0059 · `ZHnum` ZH26_006 · `X新文豐` XWDZ39p0807 · `涵芬樓` HFL尊下034
+
+宗玄先生玄綱論(唐-吳筠)  
+DZ:   DZ1052  
+Contents
+
+**Work notes**
+
+**Comments** — xx DZ1053 xx xx 吳尊師傳
+
+#### DZ1054 南統大君內丹九章經 Nantong dajun neidan jiuzhang jing
+
+[KR5d0077](https://github.com/kanripo/KR5d0077) · `CUSTOM_ID` DZ1054 · `HK` CH04069 · `凱希` KX1076 · `三家本` Vol 23, p0683a · `Z中華道藏` ZHDZ23p0141 · `ZHnum` ZH23_018 · `X新文豐` XWDZ39p0821 · `涵芬樓` HFL尊下038
+
+南統大君內丹九章經  
+DZ:   DZ1054  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1055 純陽真人渾成集 Chunyang zhenren huncheng ji
+
+[KR5d0078](https://github.com/kanripo/KR5d0078) · `CUSTOM_ID` DZ1055 · `HK` CH04070 · `凱希` KX1077 · `三家本` Vol 23, p0685a · `Z中華道藏` ZHDZ26p0259 · `ZHnum` ZH26_020 · `X新文豐` XWDZ39p0824 · `涵芬樓` HFL尊下102
+
+純陽真人渾成集(唐-呂)  
+DZ:   DZ1055  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1056 晉真人語錄 Jin zhenren yulu
+
+[KR5d0079](https://github.com/kanripo/KR5d0079) · `CUSTOM_ID` DZ1056 · `HK` CH04071 · `凱希` KX1078 · `三家本` Vol 23, p0696c · `Z中華道藏` ZHDZ26p0704 · `ZHnum` ZH26_039 · `X新文豐` XWDZ40p0001 · `涵芬樓` HFL卑上004
+
+晉真人語錄(晉真人)  
+DZJY: JY227  
+DZJY0: JY227  
+DZ:   DZ1056  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1057 丹陽真人語錄 Danyang zhenren yulu
+
+[KR5d0080](https://github.com/kanripo/KR5d0080) · `CUSTOM_ID` DZ1057 · `HK` CH04072 · `凱希` KX1079 · `三家本` Vol 23, p0701b · `Z中華道藏` ZHDZ26p0408 · `ZHnum` ZH26_027 · `X新文豐` XWDZ40p0009 · `涵芬樓` HFL卑上032
+
+丹陽真人語錄(金-馬鈺)  
+DZJY: JY202  
+DZJY0: JY202  
+DZ:   DZ1057  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1058 無為清靜長生真人至真語錄 Wuwei qingjing changsheng zhenren zhizhen yulu
+
+[KR5d0081](https://github.com/kanripo/KR5d0081) · `CUSTOM_ID` DZ1058 · `HK` CH04073 · `凱希` KX1080 · `三家本` Vol 23, p0706c · `Z中華道藏` ZHDZ26p0546 · `ZHnum` ZH26_033 · `X新文豐` XWDZ40p0017 · `涵芬樓` HFL卑上064
+
+無為清靜長生真人至真語錄(金-劉處玄)  
+DZJY: JY197  
+DZJY0: JY197  
+DZ:   DZ1058  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1059 盤山棲 Panshan Qi Yunwang zhenren yulu
+
+[KR5d0082](https://github.com/kanripo/KR5d0082) · `CUSTOM_ID` DZ1059 · `HK` CH04074 · `凱希` KX1081 · `三家本` Vol 23, p0718b · `Z中華道藏` ZHDZ26p0784 · `ZHnum` ZH26_043 · `X新文豐` XWDZ40p0035 · `涵芬樓` HFL卑上134
+
+盤山棲雲王真人語錄(元-王志謹)  
+DZJY: JY229  
+DZJY0: JY229  
+DZ:   DZ1059  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1060 雲王真人語錄 Qing'an Yingchanzi yulu
+
+[KR5d0083](https://github.com/kanripo/KR5d0083) · `CUSTOM_ID` DZ1060 · `HK` CH04075 · `凱希` KX1082 · `三家本` Vol 23, p0733a · `Z中華道藏` ZHDZ27p0318 · `ZHnum` ZH27_015 · `X新文豐` XWDZ40p0057 · `涵芬樓` HFL卑下004
+
+清庵瑩蟾子語錄(元-李道純)  
+DZ:   DZ1060  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1061 清庵瑩蟾語錄 Shangqing taixuan ji
+
+[KR5d0084](https://github.com/kanripo/KR5d0084) · `CUSTOM_ID` DZ1061 · `HK` CH04076 · `凱希` KX1083 · `三家本` Vol 23, p0762c · `Z中華道藏` ZHDZ27p0172 · `ZHnum` ZH27_009 · `X新文豐` XWDZ40p0102 · `涵芬樓` HFL
+
+上清太玄集(金-侯善淵)  
+DZ:   DZ1061  
+Contents
+
+**Work notes**
+
+**Comments** — xx DZ1062 xx 進洞天海嶽表
+
+#### DZ1063 進洞天海嶽表 Tongwei jing
+
+[KR5d0086](https://github.com/kanripo/KR5d0086) · `CUSTOM_ID` DZ1063 · `HK` CH04077 · `凱希` KX1084 · `三家本` Vol 23, p0835c · `Z中華道藏` ZHDZ48p0087 · `ZHnum` ZH48_004 · `X新文豐` XWDZ40p0211 · `涵芬樓` HFL和上004
+
+洞淵集(宋-李思聰)  
+DZ:   DZ1063  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1064 洞淵集 Tongwei jing
+
+[KR5d0087](https://github.com/kanripo/KR5d0087) · `CUSTOM_ID` DZ1064 · `HK` CH04078 · `凱希` KX1085 · `三家本` Vol 23, p0854b · `Z中華道藏` ZHDZ27p0135 · `ZHnum` ZH27_008 · `X新文豐` XWDZ40p0242 · `涵芬樓` HFL和上126
+
+洞淵集(長筌子)  
+DZ:   DZ1064  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1065 洞淵集 Xuanjiao dagong an
+
+[KR5d0088](https://github.com/kanripo/KR5d0088) · `CUSTOM_ID` DZ1065 · `HK` CH04079 · `凱希` KX1086 · `三家本` Vol 23, p0889a · `Z中華道藏` ZHDZ27p0443 · `ZHnum` ZH27_026 · `X新文豐` XWDZ40p0295 · `涵芬樓` HFL下上004
+
+玄教大公案(元-苗大素)  
+DZ:   DZ1065  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1066 玄教大公案 Xuanzong zhizhi wanfa huigui
+
+[KR5d0089](https://github.com/kanripo/KR5d0089) · `CUSTOM_ID` DZ1066 · `HK` CH04080 · `凱希` KX1087 · `三家本` Vol 23, p0911b · `Z中華道藏` ZHDZ27p0467 · `ZHnum` ZH27_027 · `X新文豐` XWDZ40p0329 · `涵芬樓` HFL下上138
+
+玄宗直指萬法同歸(元-牧常晁)  
+DZ:   DZ1066  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1067 玄宗直指萬法回歸 Shangyangzi jindan dayao
+
+[KR5d0090](https://github.com/kanripo/KR5d0090) · `CUSTOM_ID` DZ1067 · `HK` CH04081 · `凱希` KX1088 · `三家本` Vol 24, p0001a · `Z中華道藏` ZHDZ27p0520 · `ZHnum` ZH27_028 · `X新文豐` XWDZ40p0406 · `涵芬樓` HFL睦上004
+
+上陽子金丹大要(元-陳致虛)  
+DZ:   DZ1067  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1068 上陽子金丹大要 Shangyangzi jindan dayao tu
+
+[KR5d0091](https://github.com/kanripo/KR5d0091) · `CUSTOM_ID` DZ1068 · `HK` CH04082 · `凱希` KX1089 · `三家本` Vol 24, p0070b · `Z中華道藏` ZHDZ27p0595 · `ZHnum` ZH27_029 · `X新文豐` XWDZ40p0512 · `涵芬樓` HFL
+
+上陽子金丹大要圖(元-陳致虛)  
+DZ:   DZ1068  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1069 上陽子金丹大要圖 Shangyangzi jindan dayao liexian zhi
+
+[KR5d0092](https://github.com/kanripo/KR5d0092) · `CUSTOM_ID` DZ1069 · `HK` CH04083 · `凱希` KX1090 · `三家本` Vol 24, p0074b · `Z中華道藏` ZHDZ27p0600 · `ZHnum` ZH27_030 · `X新文豐` XWDZ40p0518 · `涵芬樓` HFL
+
+上陽子金丹大要列仙誌(元-陳致虛)  
+DZ:   DZ1069  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1070 上陽子金丹大要列仙誌 Shangyangzi jindan dayao xianpai
+
+[KR5d0093](https://github.com/kanripo/KR5d0093) · `CUSTOM_ID` DZ1070 · `HK` CH04084 · `凱希` KX1091 · `三家本` Vol 24, p0077b · `Z中華道藏` ZHDZ27p0604 · `ZHnum` ZH27_031 · `X新文豐` XWDZ40p0523 · `涵芬樓` HFL
+
+上陽子金丹大要仙派(元-陳致虛)  
+DZ:   DZ1070  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1071 上陽子金丹大要仙派 Yuanyangzi fayu
+
+[KR5d0094](https://github.com/kanripo/KR5d0094) · `CUSTOM_ID` DZ1071 · `HK` CH04085 · `凱希` KX1092 · `三家本` Vol 24, p0080c · `Z中華道藏` ZHDZ27p0766 · `ZHnum` ZH27_043 · `X新文豐` XWDZ40p0528 · `涵芬樓` HFL夫上124
+
+原陽子法語(明-趙宜真)  
+DZ:   DZ1071  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1072 原陽子法語 Jindan zhizhi
+
+[KR5d0095](https://github.com/kanripo/KR5d0095) · `CUSTOM_ID` DZ1072 · `HK` CH04086 · `凱希` KX1093 · `三家本` Vol 24, p0090a · `Z中華道藏` ZHDZ19p0591 · `ZHnum` ZH19_075 · `X新文豐` XWDZ40p0542 · `涵芬樓` HFL夫下004
+
+金丹直指(宋-周無所)  
+DZ:   DZ1072  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1073 金丹直指 Daochan ji
+
+[KR5d0096](https://github.com/kanripo/KR5d0096) · `CUSTOM_ID` DZ1073 · `HK` CH04087 · `凱希` KX1094 · `三家本` Vol 24, p0094b · `Z中華道藏` ZHDZ27p0119 · `ZHnum` ZH27_006 · `X新文豐` XWDZ40p0549 · `涵芬樓` HFL夫下030
+
+道禪集(金坡王真人)  
+DZ:   DZ1073  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1074 道禪集 Huanzhen ji
+
+[KR5d0097](https://github.com/kanripo/KR5d0097) · `CUSTOM_ID` DZ1074 · `HK` CH04088 · `凱希` KX1095 · `三家本` Vol 24, p0097b · `Z中華道藏` ZHDZ37p0695 · `ZHnum` ZH27_037 · `X新文豐` XWDZ40p0554 · `涵芬樓` HFL夫下048
+
+還真集(元-混然子)  
+DZ:   DZ1074  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1075 還真集 Daoxuan pian
+
+[KR5d0098](https://github.com/kanripo/KR5d0098) · `CUSTOM_ID` DZ1075 · `HK` CH04089 · `凱希` KX1096 · `三家本` Vol 24, p0123b · `Z中華道藏` ZHDZ27p0721 · `ZHnum` ZH27_038 · `X新文豐` XWDZ40p0593 · `涵芬樓` HFL唱上004
+
+道玄篇(元-王玠)  
+DZ:   DZ1075  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1076 道玄篇 Suiji yinghua lu
+
+[KR5d0099](https://github.com/kanripo/KR5d0099) · `CUSTOM_ID` DZ1076 · `HK` CH04090 · `凱希` KX1097 · `三家本` Vol 24, p0128b · `Z中華道藏` ZHDZ27p0737 · `ZHnum` ZH27_041 · `X新文豐` XWDZ40p0601 · `涵芬樓` HFL唱上034
+
+隨機應化錄(元-何道全)  
+DZ:   DZ1076  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1077 隨機應化錄 Xiulian xuzhi
+
+[KR5d0100](https://github.com/kanripo/KR5d0100) · `CUSTOM_ID` DZ1077 · `HK` CH04091 · `凱希` KX1098 · `三家本` Vol 24, p0142c · `Z中華道藏` ZHDZ27p0608 · `ZHnum` ZH27_032 · `X新文豐` XWDZ40p0623 · `涵芬樓` HFL唱上120
+
+修煉須知  
+DZ:   DZ1077  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1078 修練須知 Yushi jing
+
+[KR5d0101](https://github.com/kanripo/KR5d0101) · `CUSTOM_ID` DZ1078 · `HK` CH04092 · `凱希` KX1099 · `三家本` Vol 24, p0149b · `Z中華道藏` ZHDZ19p0238 · `ZHnum` ZH19_044 · `X新文豐` XWDZ40p0633 · `涵芬樓` HFL唱上160
+
+玉室經(李成之)  
+DZ:   DZ1078  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1079 玉室經真人高象先金丹歌 Zhenren gao xiangxian jindan ge
+
+[KR5d0102](https://github.com/kanripo/KR5d0102) · `CUSTOM_ID` DZ1079 · `HK` CH04093 · `凱希` KX1100 · `三家本` Vol 24, p0151a · `Z中華道藏` ZHDZ19p0265 · `ZHnum` ZH19_050 · `X新文豐` XWDZ40p0636 · `涵芬樓` HFL唱上170
+
+真人高象先生金丹歌(宋-高先)  
+DZ:   DZ1079  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1080 金丹真一論 Jindan zhenyi lun
+
+[KR5d0103](https://github.com/kanripo/KR5d0103) · `CUSTOM_ID` DZ1080 · `HK` CH04094 · `凱希` KX1101 · `三家本` Vol 24, p0153b · `Z中華道藏` ZHDZ18p0726 · `ZHnum` ZH18_082 · `X新文豐` XWDZ40p0640 · `涵芬樓` HFL唱下004
+
+金丹真一論(百玄子)  
+DZ:   DZ1080  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1081 金丹四百字 Jindan sibaizi
+
+[KR5d0104](https://github.com/kanripo/KR5d0104) · `CUSTOM_ID` DZ1081 · `HK` CH04095 · `凱希` KX1102 · `三家本` Vol 24, p0161a · `Z中華道藏` ZHDZ19p0487 · `ZHnum` ZH19_064 · `X新文豐` XWDZ40p0652 · `涵芬樓` HFL唱下050
+
+金丹四百字(宋-張伯瑞)  
+DZ:   DZ1081  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1082 龍虎還丹訣頌 Longhu huandan juesong
+
+[KR5d0105](https://github.com/kanripo/KR5d0105) · `CUSTOM_ID` DZ1082 · `HK` CH04096 · `凱希` KX1103 · `三家本` Vol 24, p0165a · `Z中華道藏` ZHDZ18p0595 · `ZHnum` ZH18_063 · `X新文豐` XWDZ40p0658 · `涵芬樓` HFL唱下074
+
+龍虎還丹訣頌(唐-谷神子)  
+DZ:   DZ1082  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1083 龍虎元旨 Longhu yuanzhi
+
+[KR5d0106](https://github.com/kanripo/KR5d0106) · `CUSTOM_ID` DZ1083 · `HK` CH04097 · `凱希` KX1104 · `三家本` Vol 24, p0171c · `Z中華道藏` ZHDZ18p0599 · `ZHnum` ZH18_064 · `X新文豐` XWDZ40p0668 · `涵芬樓` HFL唱下124
+
+龍虎元旨  
+DZ:   DZ1083  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1084 龍虎還丹訣 Longhu huandan jue
+
+[KR5d0107](https://github.com/kanripo/KR5d0107) · `CUSTOM_ID` DZ1084 · `HK` CH04098 · `凱希` KX1105 · `三家本` Vol 24, p0174c · `Z中華道藏` ZHDZ18p0605 · `ZHnum` ZH18_065 · `X新文豐` XWDZ40p0673 · `涵芬樓` HFL唱下131
+
+龍虎還丹訣  
+DZ:   DZ1084  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1085 內丹秘訣 Neidan bijue
+
+[KR5d0108](https://github.com/kanripo/KR5d0108) · `CUSTOM_ID` DZ1085 · `HK` CH04099 · `凱希` KX1106 · `三家本` Vol 24, p0180a · `Z中華道藏` ZHDZ19p0243 · `ZHnum` ZH19_047 · `X新文豐` XWDZ40p0681 · `涵芬樓` HFL唱下164
+
+內丹秘訣  
+DZ:   DZ1085  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1086 漁莊邂逅錄 Yuzhuang xiehou lu
+
+[KR5d0109](https://github.com/kanripo/KR5d0109) · `CUSTOM_ID` DZ1086 · `HK` CH04100 · `凱希` KX1107 · `三家本` Vol 24, p0183c · `Z中華道藏` ZHDZ18p0446 · `ZHnum` ZH18_054 · `X新文豐` XWDZ40p0687 · `涵芬樓` HFL唱下186
+
+漁莊邂逅錄(宋-自然子)  
+DZ:   DZ1086  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1087 金丹正宗 Jindan zhengzong
+
+[KR5d0110](https://github.com/kanripo/KR5d0110) · `CUSTOM_ID` DZ1087 · `HK` CH04101 · `凱希` KX1108 · `三家本` Vol 24, p0187b · `Z中華道藏` ZHDZ19p0688 · `ZHnum` ZH19_086 · `X新文豐` XWDZ40p0693 · `涵芬樓` HFL婦上004
+
+金丹正宗(胡混成)  
+DZ:   DZ1087  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1088 還丹復命篇 Huandan fuming pian
+
+[KR5d0111](https://github.com/kanripo/KR5d0111) · `CUSTOM_ID` DZ1088 · `HK` CH04102 · `凱希` KX1109 · `三家本` Vol 24, p0191a · `Z中華道藏` ZHDZ19p0513 · `ZHnum` ZH19_067 · `X新文豐` XWDZ40p0699 · `涵芬樓` HFL婦上026
+
+還丹復命篇(宋-薜道光)  
+DZJY: JY182  
+DZJY0: JY182  
+DZ:   DZ1088  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1089 爰清子至命篇 Yuanqingzi zhiming pian
+
+[KR5d0112](https://github.com/kanripo/KR5d0112) · `CUSTOM_ID` DZ1089 · `HK` CH04103 · `凱希` KX1110 · `三家本` Vol 24, p0195b · `Z中華道藏` ZHDZ19p0596 · `ZHnum` ZH19_076 · `X新文豐` XWDZ40p0706 · `涵芬樓` HFL婦上052
+
+愛清子至命篇(宋-王慶升)  
+DZ:   DZ1089  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1090 翠虛篇 Cuixu pian
+
+[KR5d0113](https://github.com/kanripo/KR5d0113) · `CUSTOM_ID` DZ1090 · `HK` CH04104 · `凱希` KX1111 · `三家本` Vol 24, p0202c · `Z中華道藏` ZHDZ19p0518 · `ZHnum` ZH19_068 · `X新文豐` XWDZ40p0717 · `涵芬樓` HFL婦上096
+
+翠虛篇(宋-陳楠)  
+DZJY: JY183  
+DZJY0: JY183  
+DZ:   DZ1090  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1091 還源篇 Huanyuan pian
+
+[KR5d0114](https://github.com/kanripo/KR5d0114) · `CUSTOM_ID` DZ1091 · `HK` CH04105 · `凱希` KX1112 · `三家本` Vol 24, p0212a · `Z中華道藏` ZHDZ19p0509 · `ZHnum` ZH19_066 · `X新文豐` XWDZ40p0731 · `涵芬樓` HFL婦上152
+
+還源篇(宋-石泰)  
+DZJY: JY181  
+DZJY0: JY181  
+DZ:   DZ1091  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1092 還丹至藥篇 Huandan zhiyao pian
+
+[KR5d0115](https://github.com/kanripo/KR5d0115) · `CUSTOM_ID` DZ1092 · `HK` CH04106 · `凱希` KX1113 · `三家本` Vol 24, p0215b · `Z中華道藏` ZHDZ19p0240 · `ZHnum` ZH19_045 · `X新文豐` XWDZ24p0215 · `涵芬樓` HFL婦上172
+
+還丹至藥篇(賢芝霽)  
+DZ:   DZ1092  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1093 亶甲集 Danjia ji
+
+[KR5d0116](https://github.com/kanripo/KR5d0116) · `CUSTOM_ID` DZ1093 · `HK` CH04107 · `凱希` KX1114 · `三家本` Vol 24, p0217a · `Z中華道藏` ZHDZ19p0286 · `ZHnum` ZH19_057 · `X新文豐` XWDZ40p0739 · `涵芬樓` HFL婦上180
+
+亶甲集(趙民)  
+DZ:   DZ1093  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1094 金液大丹詩 Jinye dadan shi
+
+[KR5d0117](https://github.com/kanripo/KR5d0117) · `CUSTOM_ID` DZ1094 · `HK` CH04108 · `凱希` KX1115 · `三家本` Vol 24, p0219b · `Z中華道藏` ZHDZ19p0200 · `ZHnum` ZH19_034 · `X新文豐` XWDZ40p0743 · `涵芬樓` HFL婦上192
+
+金液大丹詩  
+DZ:   DZ1094  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1095 證道歌 Zhengdao ge
+
+[KR5d0118](https://github.com/kanripo/KR5d0118) · `CUSTOM_ID` DZ1095 · `HK` CH04109 · `凱希` KX1116 · `三家本` Vol 24, p0224a · `Z中華道藏` ZHDZ19p0268 · `ZHnum` ZH19_051 · `X新文豐` XWDZ40p0750 · `涵芬樓` HFL婦下004
+
+證道歌(左掌子)  
+DZ:   DZ1095  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1096 陳先生內丹訣 Chen xiansheng neidan jue
+
+[KR5d0119](https://github.com/kanripo/KR5d0119) · `CUSTOM_ID` DZ1096 · `HK` CH04110 · `凱希` KX1117 · `三家本` Vol 24, p0225c · `Z中華道藏` ZHDZ19p0181 · `ZHnum` ZH19_030 · `X新文豐` XWDZ40p0753 · `涵芬樓` HFL婦下014
+
+內丹訣(宋-陳朴)  
+DZ:   DZ1096  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1097 洞元子內丹訣 Dongyuanzi neidan jue
+
+[KR5d0120](https://github.com/kanripo/KR5d0120) · `CUSTOM_ID` DZ1097 · `HK` CH04111 · `凱希` KX1118 · `三家本` Vol 24, p0234c · `Z中華道藏` ZHDZ19p0247 · `ZHnum` ZH19_048 · `X新文豐` XWDZ40p0767 · `涵芬樓` HFL婦下068
+
+洞元子內丹訣  
+DZ:   DZ1097  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1098 內丹還元訣 Neidan huanyuan jue
+
+[KR5d0121](https://github.com/kanripo/KR5d0121) · `CUSTOM_ID` DZ1098 · `HK` CH04112 · `凱希` KX1119 · `三家本` Vol 24, p0248b · `Z中華道藏` ZHDZ19p0198 · `ZHnum` ZH19_033 · `X新文豐` XWDZ40p0788 · `涵芬樓` HFL婦下150
+
+內丹還元訣  
+DZ:   DZ1098  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1099 長生指要篇 Changsheng zhiyao pian
+
+[KR5d0122](https://github.com/kanripo/KR5d0122) · `CUSTOM_ID` DZ1099 · `HK` CH04113 · `凱希` KX1120 · `三家本` Vol 24, p0249c · `Z中華道藏` ZHDZ19p0584 · `ZHnum` ZH19_074 · `X新文豐` XWDZ40p0790 · `涵芬樓` HFL婦下160
+
+長生指要篇(宋-林自然)  
+DZ:   DZ1099  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1100 鳴鶴餘音 Minghe yuyin
+
+[KR5d0123](https://github.com/kanripo/KR5d0123) · `CUSTOM_ID` DZ1100 · `HK` CH04114 · `凱希` KX1121 · `三家本` Vol 24, p0256a · `Z中華道藏` ZHDZ27p0623 · `ZHnum` ZH27_034 · `X新文豐` XWDZ40p0800 · `涵芬樓` HFL隨上004
+
+鳴鶴餘音(元-彭致中)  
+DZJY: JY240  
+DZJY0: JY240  
+DZ:   DZ1100  
+Contents
+
+**Work notes**
+
+**Comments**
+
+## 太　平　部 CH05
+
+分類	太　平　部　經　名(作者)	上海版	新文豐	中華道藏	涵芬樓
+
+### CMTS0500
+
+#### DZ1101 太平經 Taiping jing
+
+`CUSTOM_ID` DZ1101 · `HK` CH0501 · `凱希` KX1122 · `三家本` Vol 24, p0311c · `Z中華道藏` ZHDZ07p0242 · `ZHnum` ZH07_004 · `X新文豐` XWDZ41p0001 · `涵芬樓` HFL外上004
+
+太平經  
+DZ:   DZ1101  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1102 太平經聖君秘旨 Taiping jing shengjun bizhi
+
+[KR5e0004](https://github.com/kanripo/KR5e0004) · `CUSTOM_ID` DZ1102 · `HK` CH0502 · `凱希` KX1124 · `三家本` Vol 24, p0598b · `Z中華道藏` ZHDZ07p0318 · `ZHnum` ZH07_005 · `X新文豐` XWDZ41p0444 · `涵芬樓` HFL入下152
+
+太平經聖君秘旨  
+DZ:   DZ1102  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1103 太上靈寶淨明洞神上品經 Taishang lingbao jingming dongshen shangpin jing
+
+[KR5e0005](https://github.com/kanripo/KR5e0005) · `CUSTOM_ID` DZ1103 · `HK` CH0503 · `凱希` KX1126 · `三家本` Vol 24, p0601b · `Z中華道藏` ZHDZ31p0397 · `ZHnum` ZH31_027 · `X新文豐` XWDZ41p0449 · `涵芬樓` HFL奉上004
+
+太上靈寶淨明洞神上品經  
+DZ:   DZ1103  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1104 太上靈寶淨明預真樞真經 Taishang lingbao jingming yu zhenshu zhenjing
+
+[KR5e0006](https://github.com/kanripo/KR5e0006) · `CUSTOM_ID` DZ1104 · `HK` CH0504 · `凱希` KX1127 · `三家本` Vol 24, p0611b · `Z中華道藏` ZHDZ31p0556 · `ZHnum` ZH31_044 · `X新文豐` XWDZ41p0465 · `涵芬樓` HFL奉上064
+
+太上靈寶淨明玉真樞真經  
+DZ:   DZ1104  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1105 太上靈寶淨明道元正印經 Taishang lingbao jingming daoyuan zhengyin jing
+
+[KR5e0007](https://github.com/kanripo/KR5e0007) · `CUSTOM_ID` DZ1105 · `HK` CH0505 · `凱希` KX1128 · `三家本` Vol 24, p0612b · `Z中華道藏` ZHDZ31p0557 · `ZHnum` ZH31_045 · `X新文豐` XWDZ41p0467 · `涵芬樓` HFL奉上070
+
+太上靈寶淨明道元正印經  
+DZ:   DZ1105  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1106 太上靈寶淨明天尊說禦瘟經 Taishang lingbao jingming tianzun shuo yuwen jing
+
+[KR5e0008](https://github.com/kanripo/KR5e0008) · `CUSTOM_ID` DZ1106 · `HK` CH0506 · `凱希` KX1129 · `三家本` Vol 24, p0613a · `Z中華道藏` ZHDZ31p0558 · `ZHnum` ZH31_046 · `X新文豐` XWDZ41p0468 · `涵芬樓` HFL奉上074
+
+太上靈寶淨明天尊說禦彊經  
+DZ:   DZ1106  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1107 太上靈寶首入淨明四規明鑑經 Taishang lingbao shouru jingming sigui mingjian jing
+
+[KR5e0009](https://github.com/kanripo/KR5e0009) · `CUSTOM_ID` DZ1107 · `HK` CH0507 · `凱希` KX1130 · `三家本` Vol 24, p0614b · `Z中華道藏` ZHDZ31p0562 · `ZHnum` ZH31_048 · `X新文豐` XWDZ41p0470 · `涵芬樓` HFL奉上082
+
+太上靈寶首入淨明四規明鑑經  
+DZ:   DZ1107  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1108 太上靈寶淨明九仙水經 Taishang lingbao jingming jiuxian shuijing
+
+[KR5e0010](https://github.com/kanripo/KR5e0010) · `CUSTOM_ID` DZ1108 · `HK` CH0508 · `凱希` KX1131 · `三家本` Vol 24, p0616b · `Z中華道藏` ZHDZ31p0561 · `ZHnum` ZH31_047 · `X新文豐` XWDZ41p0473 · `涵芬樓` HFL奉上094
+
+太上靈寶淨明九仙水經  
+DZ:   DZ1108  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1109 太上靈寶淨明中黃八柱經 Taishang lingbao jingming zhonghuang bazhu jing
+
+[KR5e0011](https://github.com/kanripo/KR5e0011) · `CUSTOM_ID` DZ1109 · `HK` CH0509 · `凱希` KX1132 · `三家本` Vol 24, p0618a · `Z中華道藏` ZHDZ31p0564 · `ZHnum` ZH31_049 · `X新文豐` XWDZ41p0476 · `涵芬樓` HFL奉上104
+
+太上靈寶淨明中黃八柱經  
+DZ:   DZ1109  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1110 淨明忠孝全書 Jingming zhongxiao quanshu
+
+[KR5e0012](https://github.com/kanripo/KR5e0012) · `CUSTOM_ID` DZ1110 · `HK` CH0510 · `凱希` KX1133 · `三家本` Vol 24, p0620b · `Z中華道藏` ZHDZ31p0567 · `ZHnum` ZH31_050 · `X新文豐` XWDZ41p0481 · `涵芬樓` HFL毋上004
+
+淨明忠孝全書(元-黃元吉)  
+DZ:   DZ1110  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1111 太玄真一本際妙經 Taixuan zhenyi benji miaojing
+
+[KR5e0013](https://github.com/kanripo/KR5e0013) · `CUSTOM_ID` DZ1111 · `HK` CH0511 · `凱希` KX1134 · `三家本` Vol 24, p0653c · `Z中華道藏` ZHDZ05p0207 · `ZHnum` ZH05_014 · `X新文豐` XWDZ41p0533 · `涵芬樓` HFL奉下004
+
+太玄真一本際妙經  
+DZ:   DZ1111  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1112 太上洞玄靈寶八仙王教誡經 Taishang dongxuan lingbao baxian wangjiao jiejing
+
+[KR5e0014](https://github.com/kanripo/KR5e0014) · `CUSTOM_ID` DZ1112 · `HK` CH0512 · `凱希` KX1135 · `三家本` Vol 24, p0659c · `Z中華道藏` ZHDZ31p0386 · `ZHnum` ZH31_022 · `X新文豐` XWDZ41p0543 · `涵芬樓` HFL奉下040
+
+洞玄靈寶八仙王教誡經  
+DZJY: JY024  
+DZJY0: JY024  
+DZ:   DZ1112  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1113 太上洞玄靈寶國王行道經 Taishang dongxuan lingbao guowang xingdao jing
+
+[KR5e0015](https://github.com/kanripo/KR5e0015) · `CUSTOM_ID` DZ1113 · `HK` CH0513 · `凱希` KX1136 · `三家本` Vol 24, p0662a · `Z中華道藏` ZHDZ04p0277 · `ZHnum` ZH04_039 · `X新文豐` XWDZ41p0547 · `涵芬樓` HFL奉下054
+
+太上洞玄靈寶國王行道經  
+DZJY: JY025  
+DZJY0: JY025  
+DZ:   DZ1113  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1114 太上洞玄靈寶本行宿緣經 Taishang dongxuan lingbao benxing suyuan jing
+
+[KR5e0016](https://github.com/kanripo/KR5e0016) · `CUSTOM_ID` DZ1114 · `HK` CH0514 · `凱希` KX1137 · `三家本` Vol 24, p0666a · `Z中華道藏` ZHDZ04p0121 · `ZHnum` ZH04_013 · `X新文豐` XWDZ41p0553 · `涵芬樓` HFL奉下078
+
+太上洞玄靈寶本行宿緣經  
+DZ:   DZ1114  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1115 太上洞玄靈寶本行因緣經 Taishang dongxuan lingbao benxing yinyuan jing
+
+[KR5e0017](https://github.com/kanripo/KR5e0017) · `CUSTOM_ID` DZ1115 · `HK` CH0515 · `凱希` KX1138 · `三家本` Vol 24, p0671b · `Z中華道藏` ZHDZ04p0131 · `ZHnum` ZH04_015 · `X新文豐` XWDZ41p0561 · `涵芬樓` HFL奉下110
+
+太上洞玄靈寶本行因緣經  
+DZ:   DZ1115  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1116 洞玄靈寶太上真人問疾經 Dongxuan lingbao taishang zhenren wenji jing
+
+[KR5e0018](https://github.com/kanripo/KR5e0018) · `CUSTOM_ID` DZ1116 · `HK` CH0516 · `凱希` KX1139 · `三家本` Vol 24, p0674a · `Z中華道藏` ZHDZ04p0207 · `ZHnum` ZH04_030 · `X新文豐` XWDZ41p0565 · `涵芬樓` HFL奉下126
+
+洞玄靈寶太上真人問疾經  
+DZ:   DZ1116  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1117 太極左仙公說神符經 Taiji zuo xiangong shuo shenfu jing
+
+[KR5e0019](https://github.com/kanripo/KR5e0019) · `CUSTOM_ID` DZ1117 · `HK` CH0517 · `凱希` KX1140 · `三家本` Vol 24, p0684b · `Z中華道藏` ZHDZ18p0777 · `ZHnum` ZH18_090 · `X新文豐` XWDZ41p0581 · `涵芬樓` HFL毋下004
+
+太極左仙公說神符經  
+DZ:   DZ1117  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1118 太上洞玄靈寶飛行三界通微內思妙經 Taishang dongxuan lingbao feixing sanjie tongwei neisi miaojing
+
+[KR5e0020](https://github.com/kanripo/KR5e0020) · `CUSTOM_ID` DZ1118 · `HK` CH0518 · `凱希` KX1141 · `三家本` Vol 24, p0686c · `Z中華道藏` ZHDZ04p0025 · `ZHnum` ZH04_004 · `X新文豐` XWDZ41p0585 · `涵芬樓` HFL毋下018
+
+太上洞玄靈寶飛行三界通微內思妙經  
+DZ:   DZ1118  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1119 洞玄靈寶玄一真人說生死輪轉因緣經 Dongxuan lingbao xuanyi zhenren shuo shengsi lunzhuan yinyuan jing
+
+[KR5e0021](https://github.com/kanripo/KR5e0021) · `CUSTOM_ID` DZ1119 · `HK` CH0519 · `凱希` KX1142 · `三家本` Vol 24, p0692a · `Z中華道藏` ZHDZ05p0150 · `ZHnum` ZH05_012 · `X新文豐` XWDZ41p0593 · `涵芬樓` HFL毋下050
+
+洞玄靈寶玄一真人說生死輪轉因緣經  
+DZ:   DZ1119  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1120 太上洞玄靈寶中和經 Taishang dongxuan lingbao zhonghe jing
+
+[KR5e0022](https://github.com/kanripo/KR5e0022) · `CUSTOM_ID` DZ1120 · `HK` CH0520 · `凱希` KX1143 · `三家本` Vol 24, p0694c · `Z中華道藏` ZHDZ05p0141 · `ZHnum` ZH05_010 · `X新文豐` XWDZ41p0597 · `涵芬樓` HFL毋下066
+
+太上洞玄靈寶中和經  
+DZ:   DZ1120  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1121 太上洞玄靈寶三十二天尊應號經 Taishang dongxuan lingbao sanshier tianzun yinghao jing
+
+[KR5e0023](https://github.com/kanripo/KR5e0023) · `CUSTOM_ID` DZ1121 · `HK` CH0521 · `凱希` KX1144 · `三家本` Vol 24, p0698a · `Z中華道藏` ZHDZ04p0221 · `ZHnum` ZH04_032 · `X新文豐` XWDZ41p0602 · `涵芬樓` HFL毋下086
+
+太上洞玄靈寶三十二天天尊應號經  
+DZ:   DZ1121  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1122 太上靈寶昇玄內教經中和品述議疏 Taishang lingbao shengxuan neijiao jing zhonghe pinshu yishu +
+
+[KR5e0024](https://github.com/kanripo/KR5e0024) · `CUSTOM_ID` DZ1122 · `HK` CH0522 · `凱希` KX1145 · `三家本` Vol 24, p0706b · `Z中華道藏` ZHDZ05p0125 · `ZHnum` ZH05_009 · `X新文豐` XWDZ41p0615 · `涵芬樓` HFL毋下136
+
+太上靈寶昇玄內教經中和品述議疏  
+DZ:   DZ1122  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1123 一切道經音義妙門由起 Yiqie daojing yinyi miaomen youqi
+
+[KR5e0025](https://github.com/kanripo/KR5e0025) · `CUSTOM_ID` DZ1123 · `HK` CH0523 · `凱希` KX1146 · `三家本` Vol 24, p0720c · `Z中華道藏` ZHDZ05p0602 · `ZHnum` ZH05_034 · `X新文豐` XWDZ41p0637 · `涵芬樓` HFL儀上004
+
+一切道經音義妙門由起(唐-史崇)  
+DZ:   DZ1123  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1124 洞玄靈寶玄門大義 Dongxuan lingbao xuanmen dayi
+
+[KR5e0026](https://github.com/kanripo/KR5e0026) · `CUSTOM_ID` DZ1124 · `HK` CH0524 · `凱希` KX1147 · `三家本` Vol 24, p0734b · `Z中華道藏` ZHDZ05p0525 · `ZHnum` ZH05_029 · `X新文豐` XWDZ41p0658 · `涵芬樓` HFL儀上086
+
+洞玄靈寶玄門大義  
+DZ:   DZ1124  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1125 洞玄靈寶三洞奉道科戒營始 Dongxuan lingbao sandong fengdao kejie yingshi +
+
+[KR5e0027](https://github.com/kanripo/KR5e0027) · `CUSTOM_ID` DZ1125 · `HK` CH0525 · `凱希` KX1148 · `三家本` Vol 24, p0741a · `Z中華道藏` ZHDZ42p0001 · `ZHnum` ZH42_001 · `X新文豐` XWDZ41p0668 · `涵芬樓` HFL儀上126
+
+洞玄靈寶三洞奉道科戒營始  
+DZ:   DZ1125  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1126 洞玄靈寶道學科儀 Dongxuan lingbao daoxue keyi
+
+[KR5e0028](https://github.com/kanripo/KR5e0028) · `CUSTOM_ID` DZ1126 · `HK` CH0526 · `凱希` KX1149 · `三家本` Vol 24, p0766b · `Z中華道藏` ZHDZ42p0042 · `ZHnum` ZH42_003 · `X新文豐` XWDZ41p0708 · `涵芬樓` HFL儀下186
+
+洞玄靈寶道學科儀  
+DZ:   DZ1126  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1127 陸先生道門科略 Lu xiansheng daomen kelue +
+
+[KR5e0029](https://github.com/kanripo/KR5e0029) · `CUSTOM_ID` DZ1127 · `HK` CH0527 · `凱希` KX1150 · `三家本` Vol 24, p0779c · `Z中華道藏` ZHDZ08p0556 · `ZHnum` ZH08_058 · `X新文豐` XWDZ41p0728 · `涵芬樓` HFL
+
+陸先生道門科略  
+DZ:   DZ1127  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1128 道門經法相承次序 Daomen jing faxiang chengci xu
+
+[KR5e0030](https://github.com/kanripo/KR5e0030) · `CUSTOM_ID` DZ1128 · `HK` CH0528 · `凱希` KX1151 · `三家本` Vol 24, p0782c · `Z中華道藏` ZHDZ05p0580 · `ZHnum` ZH05_032 · `X新文豐` XWDZ41p0733 · `涵芬樓` HFL諸上004
+
+道門經法相承次序  
+DZ:   DZ1128  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1129 道教義樞 Daojiao yishu
+
+[KR5e0031](https://github.com/kanripo/KR5e0031) · `CUSTOM_ID` DZ1129 · `HK` CH0529 · `凱希` KX1152 · `三家本` Vol 24, p0803a · `Z中華道藏` ZHDZ05p0541 · `ZHnum` ZH05_031 · `X新文豐` XWDZ41p0764 · `涵芬樓` HFL諸上126
+
+道教義樞(梁-孟安排)  
+DZ:   DZ1129  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1130 道典論 Daodian lun
+
+[KR5e0032](https://github.com/kanripo/KR5e0032) · `CUSTOM_ID` DZ1130 · `HK` CH0530 · `凱希` KX1153 · `三家本` Vol 24, p0837b · `Z中華道藏` ZHDZ28p0346 · `ZHnum` ZH28_004 · `X新文豐` XWDZ42p0001 · `涵芬樓` HFL姑上004
+
+道典論  
+DZ:   DZ1130  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1131 太上妙法本相經 Taishang miaofa benxiang jing
+
+[KR5e0033](https://github.com/kanripo/KR5e0033) · `CUSTOM_ID` DZ1131 · `HK` CH0531 · `凱希` KX1154 · `三家本` Vol 24, p0857b · `Z中華道藏` ZHDZ05p0001 · `ZHnum` ZH05_001 · `X新文豐` XWDZ42p0032 · `涵芬樓` HFL姑上124
+
+太上妙法本相經  
+DZ:   DZ1131  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1132 上清道類事相 Shangqing daolei shixiang
+
+[KR5e0034](https://github.com/kanripo/KR5e0034) · `CUSTOM_ID` DZ1132 · `HK` CH0532 · `凱希` KX1155 · `三家本` Vol 24, p0874c · `Z中華道藏` ZHDZ28p0381 · `ZHnum` ZH28_006 · `X新文豐` XWDZ42p0059 · `涵芬樓` HFL姑下072
+
+上清道類事相(唐-王懸河)  
+DZ:   DZ1132  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1133 上方靈寶無極至道開化真經 Shangfang lingbao wuji zhidao kaihua zhenjing
+
+[KR5e0035](https://github.com/kanripo/KR5e0035) · `CUSTOM_ID` DZ1133 · `HK` CH0533 · `凱希` KX1156 · `三家本` Vol 24, p0891b · `Z中華道藏` ZHDZ30p0716 · `ZHnum` ZH30_049 · `X新文豐` XWDZ42p0085 · `涵芬樓` HFL伯上004
+
+上方靈寶無極至道開化真經  
+DZ:   DZ1133  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1134 上方鈞天演範真經 Shangfang juntian yanfan zhenjing
+
+[KR5e0036](https://github.com/kanripo/KR5e0036) · `CUSTOM_ID` DZ1134 · `HK` CH0534 · `凱希` KX1157 · `三家本` Vol 24, p0912a · `Z中華道藏` ZHDZ30p0738 · `ZHnum` ZH30_050 · `X新文豐` XWDZ42p0117 · `涵芬樓` HFL伯下004
+
+上方鈞天演範真經  
+DZ:   DZ1134  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1135 太平兩同書 Taiping liangtong shu
+
+[KR5e0037](https://github.com/kanripo/KR5e0037) · `CUSTOM_ID` DZ1135 · `HK` CH0535 · `凱希` KX1158 · `三家本` Vol 24, p0912c · `Z中華道藏` ZHDZ25p0269 · `ZHnum` ZH25_006 · `X新文豐` XWDZ42p0119 · `涵芬樓` HFL伯下008
+
+太平兩同書  
+DZ:   DZ1135  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1136 洞玄靈寶左玄論 Dongxuan lingbao zuoxuan lun
+
+[KR5e0038](https://github.com/kanripo/KR5e0038) · `CUSTOM_ID` DZ1136 · `HK` CH0536 · `凱希` KX1159 · `三家本` Vol 24, p0920a · `Z中華道藏` ZHDZ05p0491 · `ZHnum` ZH05_026 · `X新文豐` XWDZ42p0130 · `涵芬樓` HFL伯下052
+
+洞玄靈寶左玄論  
+DZ:   DZ1136  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1137 上清太玄鑑誡論 Shangqing taixuan jianjie lun
+
+[KR5e0039](https://github.com/kanripo/KR5e0039) · `CUSTOM_ID` DZ1137 · `HK` CH0537 · `凱希` KX1160 · `三家本` Vol 24, p0935c · `Z中華道藏` ZHDZ27p0247 · `ZHnum` ZH27_010 · `X新文豐` XWDZ42p0154 · `涵芬樓` HFL伯下146
+
+上清太玄鑑誡論(金-太玄子)  
+DZ:   DZ1137  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1138 無上秘要 Wushang biyao
+
+[KR5e0040](https://github.com/kanripo/KR5e0040) · `CUSTOM_ID` DZ1138 · `HK` CH0538 · `凱希` KX1161 · `三家本` Vol 25, p0001a · `Z中華道藏` ZHDZ28p0001 · `ZHnum` ZH28_001 · `X新文豐` XWDZ42p0161 · `涵芬樓` HFL叔上004
+
+無上秘要  
+DZ:   DZ1138  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1139 三洞珠囊 Sandong zhunang
+
+[KR5e0041](https://github.com/kanripo/KR5e0041) · `CUSTOM_ID` DZ1139 · `HK` CH0539 · `凱希` KX1162 · `三家本` Vol 25, p0296c · `Z中華道藏` ZHDZ28p0405 · `ZHnum` ZH28_007 · `X新文豐` XWDZ42p0627 · `涵芬樓` HFL懷上004
+
+三洞珠囊(唐-王懸河)  
+DZ:   DZ1139  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1140 雲山集 Yunshan ji
+
+[KR5e0042](https://github.com/kanripo/KR5e0042) · `CUSTOM_ID` DZ1140 · `HK` CH0540 · `凱希` KX1163 · `三家本` Vol 25, p0364a · `Z中華道藏` ZHDZ27p0001 · `ZHnum` ZH27_001 · `X新文豐` XWDZ42p0731 · `涵芬樓` HFL兄上004
+
+雲山集(元-姬志真)  
+DZJY: JY221  
+DZJY0: JY221  
+DZ:   DZ1140  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1141 仙藥集 Xianyao ji
+
+[KR5e0043](https://github.com/kanripo/KR5e0043) · `CUSTOM_ID` DZ1141 · `HK` CH0541 · `凱希` KX1164 · `三家本` Vol 25, p0423b · `Z中華道藏` ZHDZ26p0559 · `ZHnum` ZH26_034 · `X新文豐` XWDZ43p0001 · `涵芬樓` HFL弟上004
+
+仙樂集(金-劉處玄)  
+DZJY: JY196  
+DZJY0: JY196  
+DZ:   DZ1141  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1142 漸悟集 Jianwu ji
+
+[KR5e0044](https://github.com/kanripo/KR5e0044) · `CUSTOM_ID` DZ1142 · `HK` CH0542 · `凱希` KX1165 · `三家本` Vol 25, p0454c · `Z中華道藏` ZHDZ26p0493 · `ZHnum` ZH26_031 · `X新文豐` XWDZ43p0049 · `涵芬樓` HFL弟下004
+
+漸悟集(金-馬鈺)  
+DZJY: JY200  
+DZJY0: JY200  
+DZ:   DZ1142  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1143 草堂集 Caotang ji
+
+[KR5e0045](https://github.com/kanripo/KR5e0045) · `CUSTOM_ID` DZ1143 · `HK` CH0543 · `凱希` KX1166 · `三家本` Vol 25, p0480b · `Z中華道藏` ZHDZ26p0710 · `ZHnum` ZH26_040 · `X新文豐` XWDZ43p0088 · `涵芬樓` HFL弟下158
+
+草堂集(白雲子)  
+DZJY: JY222  
+DZJY0: JY222  
+DZ:   DZ1143  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1144 自然集 Ziran ji
+
+[KR5e0046](https://github.com/kanripo/KR5e0046) · `CUSTOM_ID` DZ1144 · `HK` CH0544 · `凱希` KX1167 · `三家本` Vol 25, p0494a · `Z中華道藏` ZHDZ27p0405 · `ZHnum` ZH27_020 · `X新文豐` XWDZ43p0109 · `涵芬樓` HFL同上004
+
+自然集(金-)  
+DZJY: JY223  
+DZJY0: JY223  
+DZ:   DZ1144  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1145 玄虛子鳴真集 Xuanxuzi mingzhen ji
+
+[KR5e0047](https://github.com/kanripo/KR5e0047) · `CUSTOM_ID` DZ1145 · `HK` CH0545 · `凱希` KX1168 · `三家本` Vol 25, p0497c · `Z中華道藏` ZHDZ27p0439 · `ZHnum` ZH27_025 · `X新文豐` XWDZ43p0115 · `涵芬樓` HFL同上026
+
+玄虛子鳴真集  
+DZJY: JY224  
+DZJY0: JY224  
+DZ:   DZ1145  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1146 葆光集 Baoguang ji
+
+[KR5e0048](https://github.com/kanripo/KR5e0048) · `CUSTOM_ID` DZ1146 · `HK` CH0546 · `凱希` KX1169 · `三家本` Vol 25, p0501c · `Z中華道藏` ZHDZ26p0753 · `ZHnum` ZH26_042 · `X新文豐` XWDZ43p0121 · `涵芬樓` HFL同上050
+
+葆光集(金-尹志平)  
+DZJY: JY207  
+DZJY0: JY207  
+DZ:   DZ1146  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1147 西雲集 Xiyun ji
+
+[KR5e0049](https://github.com/kanripo/KR5e0049) · `CUSTOM_ID` DZ1147 · `HK` CH0547 · `凱希` KX1170 · `三家本` Vol 25, p0532a · `Z中華道藏` ZHDZ27p0409 · `ZHnum` ZH27_021 · `X新文豐` XWDZ43p0167 · `涵芬樓` HFL同下004
+
+西雲集(元-洞明子)  
+DZJY: JY225  
+DZJY0: JY225  
+DZ:   DZ1147  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1148 勿齋先生文集 Wuzhai xiansheng wenji
+
+[KR5e0050](https://github.com/kanripo/KR5e0050) · `CUSTOM_ID` DZ1148 · `HK` CH0548 · `凱希` KX1171 · `三家本` Vol 25, p0542b · `Z中華道藏` ZHDZ25p0426 · `ZHnum` ZH25_009 · `X新文豐` XWDZ43p0183 · `涵芬樓` HFL同下066
+
+勿齋先生文集(宋-楊至質)  
+DZ:   DZ1148  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1149 洞玄金玉集 Dongxuan jinyu ji
+
+[KR5e0051](https://github.com/kanripo/KR5e0051) · `CUSTOM_ID` DZ1149 · `HK` CH0549 · `凱希` KX1172 · `三家本` Vol 25, p0559c · `Z中華道藏` ZHDZ26p0411 · `ZHnum` ZH26_029 · `X新文豐` XWDZ43p0209 · `涵芬樓` HFL氣上004
+
+洞玄金玉集(金-馬鈺)  
+DZJY: JY199  
+DZJY0: JY199  
+DZ:   DZ1149  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1150 丹陽神光燦 Danyang shenguang can
+
+[KR5e0052](https://github.com/kanripo/KR5e0052) · `CUSTOM_ID` DZ1150 · `HK` CH0550 · `凱希` KX1173 · `三家本` Vol 25, p0622c · `Z中華道藏` ZHDZ26p0479 · `ZHnum` ZH26_030 · `X新文豐` XWDZ43p0307 · `涵芬樓` HFL連上004
+
+丹陽神光燦(金-馬鈺)  
+DZJY: JY201  
+DZJY0: JY201  
+DZ:   DZ1150  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1151 悟真集 Wuzhen ji
+
+[KR5e0053](https://github.com/kanripo/KR5e0053) · `CUSTOM_ID` DZ1151 · `HK` CH0551 · `凱希` KX1174 · `三家本` Vol 25, p0635a · `Z中華道藏` ZHDZ27p0123 · `ZHnum` ZH27_007 · `X新文豐` XWDZ43p0326 · `涵芬樓` HFL連上078
+
+悟真集(李)  
+DZ:   DZ1151  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1152 雲光集 Yunguang ji
+
+[KR5e0054](https://github.com/kanripo/KR5e0054) · `CUSTOM_ID` DZ1152 · `HK` CH0552 · `凱希` KX1175 · `三家本` Vol 25, p0648a · `Z中華道藏` ZHDZ26p0645 · `ZHnum` ZH26_037 · `X新文豐` XWDZ43p0347 · `涵芬樓` HFL連下004
+
+雲光集(金-王處一)  
+DZJY: JY206  
+DZJY0: JY206  
+DZ:   DZ1152  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1153 重陽全真集 Chongyang quanzhen ji
+
+[KR5e0055](https://github.com/kanripo/KR5e0055) · `CUSTOM_ID` DZ1153 · `HK` CH0553 · `凱希` KX1176 · `三家本` Vol 25, p0689c · `Z中華道藏` ZHDZ26p0273 · `ZHnum` ZH26_022 · `X新文豐` XWDZ43p0411 · `涵芬樓` HFL枝上004
+
+重陽全真集(金-王)  
+DZJY: JY187  
+DZJY0: JY187  
+DZ:   DZ1153  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1154 重陽教化集 Chongyang jiaohua ji
+
+[KR5e0056](https://github.com/kanripo/KR5e0056) · `CUSTOM_ID` DZ1154 · `HK` CH0554 · `凱希` KX1177 · `三家本` Vol 25, p0768c · `Z中華道藏` ZHDZ26p0359 · `ZHnum` ZH26_023 · `X新文豐` XWDZ43p0534 · `涵芬樓` HFL交上126
+
+重陽教化集(金-王)  
+DZJY: JY188  
+DZJY0: JY188  
+DZ:   DZ1154  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1155 重陽分梨十化集 Chongyang fenli shihua ji
+
+[KR5e0057](https://github.com/kanripo/KR5e0057) · `CUSTOM_ID` DZ1155 · `HK` CH0555 · `凱希` KX1178 · `三家本` Vol 25, p0790b · `Z中華道藏` ZHDZ26p0383 · `ZHnum` ZH26_024 · `X新文豐` XWDZ43p0567 · `涵芬樓` HFL交下066
+
+重陽分梨十化集(金-王)  
+DZJY: JY189  
+DZJY0: JY189  
+DZ:   DZ1155  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1156 重陽真人金關玉鎖訣 Chongyang zhenren jinguan yusuo jue +
+
+[KR5e0058](https://github.com/kanripo/KR5e0058) · `CUSTOM_ID` DZ1156 · `HK` CH0556 · `凱希` KX1179 · `三家本` Vol 25, p0798c · `Z中華道藏` ZHDZ26p0394 · `ZHnum` ZH26_026 · `X新文豐` XWDZ43p0580 · `涵芬樓` HFL交下116
+
+重陽真人金闕玉鎖訣(金-王)  
+DZ:   DZ1156  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1157 馬自然金丹口訣 Ma ziran jindan koujue
+
+[KR5e0059](https://github.com/kanripo/KR5e0059) · `CUSTOM_ID` DZ1157 · `HK` CH0557 · `凱希` KX1180 · `三家本` Vol 25, p0806b · `Z中華道藏` ZHDZ19p0242 · `ZHnum` ZH19_046 · `X新文豐` XWDZ43p0592 · `涵芬樓` HFL交下168
+
+馬自然金丹口訣  
+DZ:   DZ1157  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1158 重陽真人授丹陽二十四訣 Chongyang zhenren shou Danyang ershisi jue
+
+[KR5e0060](https://github.com/kanripo/KR5e0060) · `CUSTOM_ID` DZ1158 · `HK` CH0558 · `凱希` KX1181 · `三家本` Vol 25, p0807b · `Z中華道藏` ZHDZ26p0392 · `ZHnum` ZH26_025 · `X新文豐` XWDZ43p0594 · `涵芬樓` HFL交下126
+
+重陽真人授丹陽二十四訣(金-王)  
+DZ:   DZ1158  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1159 磻溪集 Panxi ji
+
+[KR5e0061](https://github.com/kanripo/KR5e0061) · `CUSTOM_ID` DZ1159 · `HK` CH0559 · `凱希` KX1182 · `三家本` Vol 25, p0808c · `Z中華道藏` ZHDZ25p0592 · `ZHnum` ZH26_035 · `X新文豐` XWDZ43p0597 · `涵芬樓` HFL友上004
+
+磻溪集(金-邱處機)  
+DZJY: JY195  
+DZJY0: JY195  
+DZ:   DZ1159  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1160 水雲集 Shuiyun ji
+
+[KR5e0062](https://github.com/kanripo/KR5e0062) · `CUSTOM_ID` DZ1160 · `HK` CH0560 · `凱希` KX1183 · `三家本` Vol 25, p0845a · `Z中華道藏` ZHDZ26p0522 · `ZHnum` ZH26_032 · `X新文豐` XWDZ43p0655 · `涵芬樓` HFL友下004
+
+水雲集(金-譚處端)  
+DZJY: JY198  
+DZJY0: JY198  
+DZ:   DZ1160  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1161 太古集 Taigu ji
+
+[KR5e0063](https://github.com/kanripo/KR5e0063) · `CUSTOM_ID` DZ1161 · `HK` CH0561 · `凱希` KX1184 · `三家本` Vol 25, p0865c · `Z中華道藏` ZHDZ26p0687 · `ZHnum` ZH26_038 · `X新文豐` XWDZ43p0687 · `涵芬樓` HFL友下128
+
+太古集(金-郝大通)  
+DZJY: JY205  
+DZJY0: JY205  
+DZ:   DZ1161  
+Contents
+
+**Work notes**
+
+**Comments** — xx DZ1162 xx x 孫真人備急千金要方目錄
+
+#### DZ1163 孫真人備急千金要方 Sun zhenren beiji qianjin yaofang
+
+[KR5e0065](https://github.com/kanripo/KR5e0065) · `CUSTOM_ID` DZ1163 · `HK` CH0562 · `凱希` KX1185 · `三家本` Vol 26, p0001a · `Z中華道藏` ZHDZ22p0001 · `ZHnum` ZH22_001 · `X新文豐` XWDZ45p0039 · `涵芬樓` HFL投上004
+
+孫真人備急千金要方(唐-孫思邈)  
+DZJY: JY147  
+DZJY0: JY147  
+DZ:   DZ1163  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1164 急救仙方 Jijiu xianfang
+
+[KR5e0066](https://github.com/kanripo/KR5e0066) · `CUSTOM_ID` DZ1164 · `HK` CH0563 · `凱希` KX1186 · `三家本` Vol 26, p0599b · `Z中華道藏` ZHDZ22p0646 · `ZHnum` ZH22_002 · `X新文豐` XWDZ45p0185 · `涵芬樓` HFL惻上004
+
+急救仙方(宋-)  
+DZ:   DZ1164  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1165 仙傳外科秘方 Xianchuan waike bifang
+
+[KR5e0067](https://github.com/kanripo/KR5e0067) · `CUSTOM_ID` DZ1165 · `HK` CH0564 · `凱希` KX1187 · `三家本` Vol 26, p0659b · `Z中華道藏` ZHDZ22p0709 · `ZHnum` ZH22_003 · `X新文豐` XWDZ45p0277 · `涵芬樓` HFL造上004
+
+仙傳外科秘方(明-趙宜真)  
+DZ:   DZ1165  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1166 法海遺珠 Fahai yizhu
+
+[KR5e0068](https://github.com/kanripo/KR5e0068) · `CUSTOM_ID` DZ1166 · `HK` CH0565 · `凱希` KX1188 · `三家本` Vol 26, p0723c · `Z中華道藏` ZHDZ41p0372 · `ZHnum` ZH41_002 · `X新文豐` XWDZ45p0377 · `涵芬樓` HFL次上004
+
+法海遺珠  
+DZ:   DZ1166  
+Contents
+
+**Work notes**
+
+**Comments**
+
+## 太　清　部 CH06
+
+分類	太　清　部　經　名(作者)	上海版	新文豐	中華道藏	涵芬樓
+
+### CMTS0600
+
+#### DZ1167 太上感應篇 Taishang ganying pian
+
+[KR5f0001](https://github.com/kanripo/KR5f0001) · `CUSTOM_ID` DZ1167 · `HK` CH0601 · `凱希` KX1189 · `三家本` Vol 27, p0001a · `Z中華道藏` ZHDZ42p0662 · `ZHnum` ZH42_033 · `X新文豐` XWDZ46p0001 · `涵芬樓` HFL義上004
+
+太上感應篇  
+DZ:   DZ1167  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1168 太上老君中經 Taishang laojun zhongjing
+
+[KR5f0002](https://github.com/kanripo/KR5f0002) · `CUSTOM_ID` DZ1168 · `HK` CH0602 · `凱希` KX1190 · `三家本` Vol 27, p0142b · `Z中華道藏` ZHDZ08p0211 · `ZHnum` ZH08_014 · `X新文豐` XWDZ46p0219 · `涵芬樓` HFL退下056
+
+太上老君中經  
+DZ:   DZ1168  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1169 太上老君清靜心經 Taishang laojun qingjing xinjing
+
+[KR5f0003](https://github.com/kanripo/KR5f0003) · `CUSTOM_ID` DZ1169 · `HK` CH0603 · `凱希` KX1191 · `三家本` Vol 27, p0156c · `Z中華道藏` ZHDZ06p0077 · `ZHnum` ZH06_009 · `X新文豐` XWDZ46p0241 · `涵芬樓` HFL退下142
+
+太上老君清靜心經  
+DZ:   DZ1169  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1170 太上老君說上七滅罪集福妙經 Taishang laojun shuo shangqi miezui jifu miaojing
+
+[KR5f0004](https://github.com/kanripo/KR5f0004) · `CUSTOM_ID` DZ1170 · `HK` CH0604 · `凱希` KX1192 · `三家本` Vol 27, p0157c · `Z中華道藏` ZHDZ06p0164 · `ZHnum` ZH06_039 · `X新文豐` XWDZ46p0243 · `涵芬樓` HFL退下148
+
+太上老君說上七滅罪集福妙經  
+DZ:   DZ1170  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1171 鬻子 Yuzi
+
+[KR5f0005](https://github.com/kanripo/KR5f0005) · `CUSTOM_ID` DZ1171 · `HK` CH0605 · `凱希` KX1193 · `三家本` Vol 27, p0159a · `Z中華道藏` ZHDZ24p0411 · `ZHnum` ZH24_007 · `X新文豐` XWDZ46p0245 · `涵芬樓` HFL顛上004
+
+鬻子(周-鬻熊)  
+DZ:   DZ1171  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1172 公孫龍子 Gongsun longzi
+
+[KR5f0006](https://github.com/kanripo/KR5f0006) · `CUSTOM_ID` DZ1172 · `HK` CH0606 · `凱希` KX1194 · `三家本` Vol 27, p0168c · `Z中華道藏` ZHDZ24p0257 · `ZHnum` ZH24_004 · `X新文豐` XWDZ46p0260 · `涵芬樓` HFL顛上062
+
+公孫龍子(周-公孫龍)  
+DZ:   DZ1172  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1173 尹文子 Yinwenzi
+
+[KR5f0007](https://github.com/kanripo/KR5f0007) · `CUSTOM_ID` DZ1173 · `HK` CH0607 · `凱希` KX1195 · `三家本` Vol 27, p0175b · `Z中華道藏` ZHDZ24p0267 · `ZHnum` ZH24_005 · `X新文豐` XWDZ46p0270 · `涵芬樓` HFL顛上102
+
+尹文子(周-尹文)  
+DZ:   DZ1173  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1174 子華子 Zihuazi
+
+[KR5f0008](https://github.com/kanripo/KR5f0008) · `CUSTOM_ID` DZ1174 · `HK` CH0608 · `凱希` KX1196 · `三家本` Vol 27, p0181c · `Z中華道藏` ZHDZ24p0422 · `ZHnum` ZH24_008 · `X新文豐` XWDZ46p0281 · `涵芬樓` HFL顛中004
+
+子華子(周-程本)  
+DZ:   DZ1174  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1175 鴞冠子 Xiaoguanzi
+
+[KR5f0009](https://github.com/kanripo/KR5f0009) · `CUSTOM_ID` DZ1175 · `HK` CH0609 · `凱希` KX1197 · `三家本` Vol 27, p0202c · `Z中華道藏` ZHDZ24p0447 · `ZHnum` ZH24_009 · `X新文豐` XWDZ46p0313 · `涵芬樓` HFL顛下004
+
+鶡冠子(宋-陸佃)  
+DZ:   DZ1175  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1176 墨子 Mozi
+
+[KR5f0010](https://github.com/kanripo/KR5f0010) · `CUSTOM_ID` DZ1176 · `HK` CH0610 · `凱希` KX1198 · `三家本` Vol 27, p0228b · `Z中華道藏` ZHDZ24p0001 · `ZHnum` ZH24_001 · `X新文豐` XWDZ46p0353 · `涵芬樓` HFL沛上004
+
+墨子(周-墨翟)  
+DZ:   DZ1176  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1177 韓非子 Han feizi
+
+[KR5f0011](https://github.com/kanripo/KR5f0011) · `CUSTOM_ID` DZ1177 · `HK` CH0611 · `凱希` KX1199 · `三家本` Vol 27, p0306b · `Z中華道藏` ZHDZ24p0275 · `ZHnum` ZH24_006 · `X新文豐` XWDZ46p0473 · `涵芬樓` HFL匪上004
+
+韓非子(周-韓非)  
+DZ:   DZ1177  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1178 黃石公素書 Huangshi gong sushu
+
+[KR5f0012](https://github.com/kanripo/KR5f0012) · `CUSTOM_ID` DZ1178 · `HK` CH0612 · `凱希` KX1200 · `三家本` Vol 27, p0421b · `Z中華道藏` ZHDZ24p0500 · `ZHnum` ZH24_010 · `X新文豐` XWDZ46p0651 · `涵芬樓` HFL虧下108
+
+黃石公素書(一)(漢-黃石公)  
+DZ:   DZ1178  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1179 黃石公素書 Huangshi gong sushu
+
+[KR5f0013](https://github.com/kanripo/KR5f0013) · `CUSTOM_ID` DZ1179 · `HK` CH0613 · `凱希` KX1201 · `三家本` Vol 27, p0428b · `Z中華道藏` ZHDZ24p0508 · `ZHnum` ZH24_011 · `X新文豐` XWDZ46p0662 · `涵芬樓` HFL虧下152
+
+黃石公素書(二)(漢-黃石公)  
+DZJY: JY155  
+DZJY0: JY155  
+DZ:   DZ1179  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1180 孫子註解 Sunzi zhujie
+
+[KR5f0014](https://github.com/kanripo/KR5f0014) · `CUSTOM_ID` DZ1180 · `HK` CH0614 · `凱希` KX1202 · `三家本` Vol 27, p0436a · `Z中華道藏` ZHDZ24p0099 · `ZHnum` ZH24_002 · `X新文豐` XWDZ46p0675 · `涵芬樓` HFL性上004
+
+孫子註解(宋-吉天保)  
+DZ:   DZ1180  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1181 孫子遺說 Sunzi yishuo
+
+[KR5f0015](https://github.com/kanripo/KR5f0015) · `CUSTOM_ID` DZ1181 · `HK` CH0615 · `凱希` KX1203 · `三家本` Vol 27, p0575b · `Z中華道藏` ZHDZ24p0249 · `ZHnum` ZH24_003 · `X新文豐` XWDZ46p0892 · `涵芬樓` HFL靜下086
+
+孫子遺說(宋-鄭友賢)  
+DZ:   DZ1181  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1182 天原發微 Tianyuan fawei
+
+[KR5f0016](https://github.com/kanripo/KR5f0016) · `CUSTOM_ID` DZ1182 · `HK` CH0616 · `凱希` KX1204 · `三家本` Vol 27, p0584a · `Z中華道藏` ZHDZ16p0656 · `ZHnum` ZH16_021 · `X新文豐` XWDZ47p0001 · `涵芬樓` HFL情上004
+
+天原發微(宋-鮑雲龍)  
+DZ:   DZ1182  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1183 太玄經集註 Taixuan jing jizhu
+
+[KR5f0017](https://github.com/kanripo/KR5f0017) · `CUSTOM_ID` DZ1183 · `HK` CH0617 · `凱希` KX1205 · `三家本` Vol 27, p0740b · `Z中華道藏` ZHDZ17p0663 · `ZHnum` ZH17_006 · `X新文豐` XWDZ47p0243 · `涵芬樓` HFL心上004
+
+集註太玄經(宋-司馬光)  
+DZ:   DZ1183  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1184 淮南鴻烈解 Huainan honglie jie
+
+[KR5f0018](https://github.com/kanripo/KR5f0018) · `CUSTOM_ID` DZ1184 · `HK` CH0618 · `凱希` KX1206 · `三家本` Vol 28, p0001a · `Z中華道藏` ZHDZ24p0517 · `ZHnum` ZH24_012 · `X新文豐` XWDZ47p0377 · `涵芬樓` HFL動上004
+
+淮南鴻烈解(漢-劉安)  
+DZJY: JY143  
+DZJY0: JY143  
+DZ:   DZ1184  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1185 抱朴子內篇 Baopuzi neipian
+
+[KR5f0019](https://github.com/kanripo/KR5f0019) · `CUSTOM_ID` DZ1185 · `HK` CH0619 · `凱希` KX1207 · `三家本` Vol 28, p0171b · `Z中華道藏` ZHDZ25p0001 · `ZHnum` ZH25_001 · `X新文豐` XWDZ47p0639 · `涵芬樓` HFL疲下004
+
+抱朴子內篇(晉-葛洪)  
+DZJY: JY144  
+DZJY0: JY144  
+DZ:   DZ1185  
+Contents
+
+**Work notes**
+
+**Comments** — xx DZ1186 KX1208 x 抱樸子別旨
+
+#### DZ1187 抱朴子外篇 Baopuzi waipian
+
+[KR5f0021](https://github.com/kanripo/KR5f0021) · `CUSTOM_ID` DZ1187 · `HK` CH0620 · `凱希` KX1209 · `三家本` Vol 28, p0252a · `Z中華道藏` ZHDZ25p0091 · `ZHnum` ZH25_002 · `X新文豐` XWDZ47p0763 · `涵芬樓` HFL真上004
+
+抱朴子外篇(晉-葛洪)  
+DZJY: JY145  
+DZJY0: JY145  
+DZ:   DZ1187  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1188 橐籥子 Tuoyuezi
+
+[KR5f0022](https://github.com/kanripo/KR5f0022) · `CUSTOM_ID` DZ1188 · `HK` CH0621 · `凱希` KX1210 · `三家本` Vol 28, p0343b · `Z中華道藏` ZHDZ19p0065 · `ZHnum` ZH19_012 · `X新文豐` XWDZ47p0903 · `涵芬樓` HFL志下004
+
+橐籥子  
+DZJY: JY219  
+DZJY0: JY219  
+DZ:   DZ1188  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1189 陰丹內篇 Yindan neipian
+
+[KR5f0023](https://github.com/kanripo/KR5f0023) · `CUSTOM_ID` DZ1189 · `HK` CH0622 · `凱希` KX1211 · `三家本` Vol 28, p0346a · `Z中華道藏` ZHDZ19p0069 · `ZHnum` ZH19_013 · `X新文豐` XWDZ47p0907 · `涵芬樓` HFL志下020
+
+陰丹內篇  
+DZJY: JY220  
+DZJY0: JY220  
+DZ:   DZ1189  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1190 天機經 Tianji jing
+
+[KR5f0024](https://github.com/kanripo/KR5f0024) · `CUSTOM_ID` DZ1190 · `HK` CH0623 · `凱希` KX1212 · `三家本` Vol 28, p0347a · `Z中華道藏` ZHDZ15p0853 · `ZHnum` ZH15_035 · `X新文豐` XWDZ47p0909 · `涵芬樓` HFL志下026
+
+天機經  
+DZ:   DZ1190  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1191 秘傳正陽真人靈寶畢法 Bichuan zhengyang zhenren lingbao bifa
+
+[KR5f0025](https://github.com/kanripo/KR5f0025) · `CUSTOM_ID` DZ1191 · `HK` CH0624 · `凱希` KX1213 · `三家本` x · `Z中華道藏` ZHDZ19p0154 · `ZHnum` ZH19_026 · `X新文豐` XWDZ47p0913 · `涵芬樓` HFL志下042
+
+秘傳正陽真人靈寶畢法(漢-鍾離權)  
+DZJY: JY148  
+DZJY0: JY148  
+DZ:   DZ1191  
+Contents
+
+**Work notes**
+
+**Comments**
+
+## 正　一　部 CH07
+
+分類	正　一　部　經名(作者)	上海版	新文豐	中華道藏	涵芬樓
+
+### CMTS0700
+
+#### DZ1192 大惠靜慈妙樂天尊說福德五聖經 Dahui jingci miaoyue tianzun shuo fude fusheng jing
+
+[KR5g0001](https://github.com/kanripo/KR5g0001) · `CUSTOM_ID` DZ1192 · `HK` CH07001 · `凱希` KX1214 · `三家本` Vol 28, p0364c · `Z中華道藏` ZHDZ06p0269 · `ZHnum` ZH06_087 · `X新文豐` XWDZ48p0001 · `涵芬樓` HFL滿上004
+
+大惠靜慈妙樂天尊說福德五聖經  
+DZ:   DZ1192  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1193 太上正一咒鬼經 Taishang zhengyi zhou guijing
+
+[KR5g0002](https://github.com/kanripo/KR5g0002) · `CUSTOM_ID` DZ1193 · `HK` CH07002 · `凱希` KX1215 · `三家本` Vol 28, p0367b · `Z中華道藏` ZHDZ08p0540 · `ZHnum` ZH08_054 · `X新文豐` XWDZ48p0006 · `涵芬樓` HFL滿上020
+
+太上正一咒鬼經  
+DZ:   DZ1193  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1194 太上洞玄靈寶天尊說羅天大醮上品妙經 Taishang dongxuan lingbao tianzun shuo luotian dajiao shangpin miaojing
+
+[KR5g0003](https://github.com/kanripo/KR5g0003) · `CUSTOM_ID` DZ1194 · `HK` CH07003 · `凱希` KX1216 · `三家本` Vol 28, p0370c · `Z中華道藏` ZHDZ44p0371 · `ZHnum` ZH44_044 · `X新文豐` XWDZ48p0011 · `涵芬樓` HFL滿上040
+
+太上洞玄靈寶天尊說羅天大醮上品妙經  
+DZ:   DZ1194  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1195 老君變化無極經 Laojun bianhua wuji jing +
+
+[KR5g0004](https://github.com/kanripo/KR5g0004) · `CUSTOM_ID` DZ1195 · `HK` CH07004 · `凱希` KX1217 · `三家本` Vol 28, p0371c · `Z中華道藏` ZHDZ08p0183 · `ZHnum` ZH08_011 · `X新文豐` XWDZ48p0013 · `涵芬樓` HFL滿上046
+
+老君變化無極經  
+DZ:   DZ1195  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1196 太上金華天尊救劫護命妙經 Taishang jinhua tianzun jiujie huming miaojing
+
+[KR5g0005](https://github.com/kanripo/KR5g0005) · `CUSTOM_ID` DZ1196 · `HK` CH07005 · `凱希` KX1218 · `三家本` Vol 28, p0374c · `Z中華道藏` ZHDZ06p0241 · `ZHnum` ZH06_077 · `X新文豐` XWDZ48p0017 · `涵芬樓` HFL滿上064
+
+太上金華天尊救劫護命妙經  
+DZ:   DZ1196  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1197 無上三天法師說廕育眾生妙經 Wushang santian fashi shuo yinyu zhongsheng miaojing
+
+[KR5g0006](https://github.com/kanripo/KR5g0006) · `CUSTOM_ID` DZ1197 · `HK` CH07006 · `凱希` KX1219 · `三家本` Vol 28, p0375c · `Z中華道藏` ZHDZ08p0536 · `ZHnum` ZH08_052 · `X新文豐` XWDZ48p0019 · `涵芬樓` HFL滿上070
+
+無上三天法師說廕育眾生妙經  
+DZ:   DZ1197  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1198 太上說青玄雷令法行因地妙經 Taishang shuo qingxuan leiling faxing yindi miaojing
+
+[KR5g0007](https://github.com/kanripo/KR5g0007) · `CUSTOM_ID` DZ1198 · `HK` CH07007 · `凱希` KX1220 · `三家本` Vol 28, p0377b · `Z中華道藏` ZHDZ32p0688 · `ZHnum` ZH32_063 · `X新文豐` XWDZ48p0022 · `涵芬樓` HFL滿上080
+
+太上說青玄雷令法行因地妙經  
+DZ:   DZ1198  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1199 上清太霄隱書元真洞飛二景經 Shangqing taixiao yinshu yuanzhen dongfei erjing jing
+
+[KR5g0008](https://github.com/kanripo/KR5g0008) · `CUSTOM_ID` DZ1199 · `HK` CH07008 · `凱希` KX1221 · `三家本` Vol 28, p0379a · `Z中華道藏` ZHDZ01p0530 · `ZHnum` ZH01_060 · `X新文豐` XWDZ48p0025 · `涵芬樓` HFL滿上090
+
+上清太霄隱書元真洞飛二景經  
+DZ:   DZ1199  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1200 洞玄靈寶六齋十直聖紀經 Dongxuan lingbao liuzhai shizhi shengji jing
+
+[KR5g0009](https://github.com/kanripo/KR5g0009) · `CUSTOM_ID` DZ1200 · `HK` CH07009 · `凱希` KX1222 · `三家本` Vol 28, p0381b · `Z中華道藏` ZHDZ04p0185 · `ZHnum` ZH04_025 · `X新文豐` XWDZ48p0028 · `涵芬樓` HFL滿上104
+
+洞玄靈寶太上六齋十直聖紀經  
+DZ:   DZ1200  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1201 道要靈祗神鬼品經 Daoyao lingzhi shengui pinjing
+
+[KR5g0010](https://github.com/kanripo/KR5g0010) · `CUSTOM_ID` DZ1201 · `HK` CH07010 · `凱希` KX1223 · `三家本` Vol 28, p0384c · `Z中華道藏` ZHDZ28p0371 · `ZHnum` ZH28_005 · `X新文豐` XWDZ48p0034 · `涵芬樓` HFL滿上124
+
+道要靈衹神鬼品經  
+DZ:   DZ1201  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1202 洞神八帝元變經 Dongshen badi yuanbian jing
+
+[KR5g0011](https://github.com/kanripo/KR5g0011) · `CUSTOM_ID` DZ1202 · `HK` CH07011 · `凱希` KX1224 · `三家本` Vol 28, p0393c · `Z中華道藏` ZHDZ04p0490 · `ZHnum` ZH04_088 · `X新文豐` XWDZ48p0049 · `涵芬樓` HFL滿下004
+
+洞神八帝元變經  
+DZ:   DZ1202  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1203 太上三天正法經 Taishang santian zhengfa jing
+
+[KR5g0012](https://github.com/kanripo/KR5g0012) · `CUSTOM_ID` DZ1203 · `HK` CH07012 · `凱希` KX1225 · `三家本` Vol 28, p0406c · `Z中華道藏` ZHDZ01p0263 · `ZHnum` ZH01_026 · `X新文豐` XWDZ48p0075 · `涵芬樓` HFL滿下082
+
+太上三天正法經  
+DZ:   DZ1203  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1204 太上正一法文經 Taishang zhengyi fawen jing
+
+[KR5g0013](https://github.com/kanripo/KR5g0013) · `CUSTOM_ID` DZ1204 · `HK` CH07013 · `凱希` KX1226 · `三家本` Vol 28, p0410b · `Z中華道藏` ZHDZ08p0314 · `ZHnum` ZH08_020 · `X新文豐` XWDZ48p0079 · `涵芬樓` HFL滿下104
+
+太上正一法文經  
+DZ:   DZ1204  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1205 三天內解經 Santian neijie jing +
+
+[KR5g0014](https://github.com/kanripo/KR5g0014) · `CUSTOM_ID` DZ1205 · `HK` CH07014 · `凱希` KX1227 · `三家本` Vol 28, p0413a · `Z中華道藏` ZHDZ08p0544 · `ZHnum` ZH08_055 · `X新文豐` XWDZ48p0087 · `涵芬樓` HFL滿下120
+
+三天內解經  
+DZ:   DZ1205  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1206 上清明鑑要經 Shangqing mingjian yaojing
+
+[KR5g0015](https://github.com/kanripo/KR5g0015) · `CUSTOM_ID` DZ1206 · `HK` CH07015 · `凱希` KX1228 · `三家本` Vol 28, p0418a · `Z中華道藏` ZHDZ02p0526 · `ZHnum` ZH02_071 · `X新文豐` XWDZ48p0094 · `涵芬樓` HFL滿下150
+
+上清明鑑要經  
+DZ:   DZ1206  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1207 太上明鑑真經 Taishang mingjian zhenjing
+
+[KR5g0016](https://github.com/kanripo/KR5g0016) · `CUSTOM_ID` DZ1207 · `HK` CH07016 · `凱希` KX1229 · `三家本` Vol 28, p0422b · `Z中華道藏` ZHDZ02p0531 · `ZHnum` ZH02_072 · `X新文豐` XWDZ48p0101 · `涵芬樓` HFL滿下176
+
+太上明鑑真經  
+DZ:   DZ1207  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1208 太上三五正一盟威籙 Taishang sanwu zhengyi mingwei lu
+
+[KR5g0017](https://github.com/kanripo/KR5g0017) · `CUSTOM_ID` DZ1208 · `HK` CH07017 · `凱希` KX1230 · `三家本` Vol 28, p0426a · `Z中華道藏` ZHDZ08p0393 · `ZHnum` ZH08_029 · `X新文豐` XWDZ48p0163 · `涵芬樓` HFL逐上004
+
+太上三五正一盟威籙  
+DZ:   DZ1208  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1209 太上正一盟威法籙 Taishang zhengyi mingwei falu
+
+[KR5g0018](https://github.com/kanripo/KR5g0018) · `CUSTOM_ID` DZ1209 · `HK` CH07018 · `凱希` KX1231 · `三家本` Vol 28, p0466b · `Z中華道藏` ZHDZ08p0432 · `ZHnum` ZH08_030 · `X新文豐` XWDZ48p0186 · `涵芬樓` HFL逐下004
+
+太上正一盟威法籙  
+DZ:   DZ1209  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1210 正一法文十籙召儀 Zhengyi fawen shilu zhaoyi
+
+[KR5g0019](https://github.com/kanripo/KR5g0019) · `CUSTOM_ID` DZ1210 · `HK` CH07019 · `凱希` KX1232 · `三家本` Vol 28, p0481a · `Z中華道藏` ZHDZ08p0362 · `ZHnum` ZH08_025 · `X新文豐` XWDZ48p0200 · `涵芬樓` HFL逐下092
+
+正一法文十籙召儀  
+DZ:   DZ1210  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1211 正一法文傳都左彿� Zhengyi fawen chuandu gongban yi
+
+[KR5g0020](https://github.com/kanripo/KR5g0020) · `CUSTOM_ID` DZ1211 · `HK` CH07020 · `凱希` xx · `三家本` x · `Z中華道藏` ZHDZ08p0371 · `ZHnum` ZH08_026 · `X新文豐` XWDZ48p0203 · `涵芬樓` HFL逐下148
+
+正一法文傳都功威儀  
+DZ:   DZ1211  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1212 醮三洞真文五法正一盟威籙立成儀 Jiao sandong zhenwen wufa zhengyi mingwei lu licheng yi
+
+[KR5g0021](https://github.com/kanripo/KR5g0021) · `CUSTOM_ID` DZ1212 · `HK` CH07021 · `凱希` KX1233 · `三家本` Vol 28, p0492a · `Z中華道藏` ZHDZ42p0130 · `ZHnum` ZH42_015 · `X新文豐` XWDZ48p0217 · `涵芬樓` HFL逐下158
+
+醮三洞真文五法正一盟威籙立成儀(唐-張萬福)  
+DZ:   DZ1212  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1213 太上玄天真武無上將軍籙 Taishang xuantian Zhenwu wushang jiangjun lu
+
+[KR5g0022](https://github.com/kanripo/KR5g0022) · `CUSTOM_ID` DZ1213 · `HK` CH07022 · `凱希` KX1234 · `三家本` Vol 28, p0500c · `Z中華道藏` ZHDZ30p0583 · `ZHnum` ZH30_039 · `X新文豐` XWDZ48p0222 · `涵芬樓` HFL物上004
+
+太上玄天真武無上將軍籙  
+DZ:   DZ1213  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1214 高上大洞文昌司祿紫陽寶籙 Gaoshang dadong Wenchang silu Ziyang baolu
+
+[KR5g0023](https://github.com/kanripo/KR5g0023) · `CUSTOM_ID` DZ1214 · `HK` CH07023 · `凱希` KX1235 · `三家本` Vol 28, p0503c · `Z中華道藏` ZHDZ06p0619 · `ZHnum` ZH06_100 · `X新文豐` XWDZ48p0250 · `涵芬樓` HFL物上022
+
+高上大洞文昌司祿紫陽寶籙  
+DZ:   DZ1214  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1215 太上北極伏魔神咒殺鬼籙 Taishang beiji fumo shenzhou shagui lu
+
+[KR5g0024](https://github.com/kanripo/KR5g0024) · `CUSTOM_ID` DZ1215 · `HK` CH07024 · `凱希` KX1236 · `三家本` Vol 28, p0522a · `Z中華道藏` ZHDZ30p0205 · `ZHnum` ZH30_017 · `X新文豐` XWDZ48p0261 · `涵芬樓` HFL物上132
+
+太上北極伏魔神咒殺鬼籙  
+DZ:   DZ1215  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1216 太上正一延生保命籙 Taishang zhengyi yansheng baoming lu
+
+[KR5g0025](https://github.com/kanripo/KR5g0025) · `CUSTOM_ID` DZ1216 · `HK` CH07025 · `凱希` KX1237 · `三家本` Vol 28, p0528c · `Z中華道藏` ZHDZ08p0451 · `ZHnum` ZH08_032 · `X新文豐` XWDZ48p0267 · `涵芬樓` HFL物下004
+
+太上正一延生保命籙  
+DZ:   DZ1216  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1217 太上正一解五音咒詛秘籙 Taishang zhengyi jie wuyin zhouzu bilu
+
+[KR5g0026](https://github.com/kanripo/KR5g0026) · `CUSTOM_ID` DZ1217 · `HK` CH07026 · `凱希` KX1238 · `三家本` Vol 28, p0532a · `Z中華道藏` ZHDZ08p0454 · `ZHnum` ZH08_033 · `X新文豐` XWDZ48p0271 · `涵芬樓` HFL物下024
+
+太上正一解五音咒詛秘籙  
+DZ:   DZ1217  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1218 正一法文經章官品 Zhengyi jie bilu
+
+[KR5g0027](https://github.com/kanripo/KR5g0027) · `CUSTOM_ID` DZ1218 · `HK` CH07027 · `凱希` KX1239 · `三家本` Vol 28, p0534c · `Z中華道藏` ZHDZ08p0326 · `ZHnum` ZH08_022 · `X新文豐` XWDZ48p0307 · `涵芬樓` HFL物下040
+
+正一法文經章官品  
+DZ:   DZ1218  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1219 高上神霄玉清真王紫書大法 Gaoshang shenxiao yuqing zhenwang zishu dafa
+
+[KR5g0028](https://github.com/kanripo/KR5g0028) · `CUSTOM_ID` DZ1219 · `HK` CH07028 · `凱希` KX1240 · `三家本` Vol 28, p0557c · `Z中華道藏` ZHDZ32p0178 · `ZHnum` ZH31_008 · `X新文豐` XWDZ48p0479 · `涵芬樓` HFL意上004
+
+高上神霄玉清真王紫書大法  
+DZJY: JY122  
+DZJY0: JY122  
+DZ:   DZ1219  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1220 道法會元 Daofa huiyuan +
+
+[KR5g0029](https://github.com/kanripo/KR5g0029) · `CUSTOM_ID` DZ1220 · `HK` CH07029 · `凱希` KX1241 · `三家本` Vol 28, p0669a · `Z中華道藏` ZHDZ38p0001 · `ZHnum` ZH38_001 · `X新文豐` XWDZ51p0617 · `涵芬樓` HFL移上004
+
+道法會元  
+DZ:   DZ1220  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1221 上清靈寶大法 Shangqing lingbao dafa
+
+[KR5g0030](https://github.com/kanripo/KR5g0030) · `CUSTOM_ID` DZ1221 · `HK` CH07030 · `凱希` KX1242 · `三家本` Vol 30, p0649b · `Z中華道藏` ZHDZ33p0168 · `ZHnum` ZH33_002 · `X新文豐` XWDZ51p0731 · `涵芬樓` HFL鬱上004
+
+上清靈寶大法(一)(宋-甯全真)  
+DZ:   DZ1221  
+Contents
+
+**Work notes**
+
+**Comments** — xx DZ1222 xx xx 上清靈寳大法目録
+
+#### DZ1223 上清靈寶大法 Shangqing lingbao dafa
+
+[KR5g0032](https://github.com/kanripo/KR5g0032) · `CUSTOM_ID` DZ1223 · `HK` CH07031 · `凱希` KX1243 · `三家本` Vol 31, p0345a · `Z中華道藏` ZHDZ34p0000 · `ZHnum` ZH34_001 · `X新文豐` XWDZ53p0393 · `涵芬樓` HFL獸上004
+
+上清靈寶大法(二)金允中)  
+DZ:   DZ1223  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1224 道門定制 Daomen dingzhi
+
+[KR5g0033](https://github.com/kanripo/KR5g0033) · `CUSTOM_ID` DZ1224 · `HK` CH07032 · `凱希` KX1244 · `三家本` Vol 31, p0653c · `Z中華道藏` ZHDZ42p0534 · `ZHnum` ZH42_026 · `X新文豐` XWDZ53p0555 · `涵芬樓` HFL丙上004
+
+道門定制(宋-呂元素)  
+DZ:   DZ1224  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1225 道門科範大全集 Daomen kefan daquan ji
+
+[KR5g0034](https://github.com/kanripo/KR5g0034) · `CUSTOM_ID` DZ1225 · `HK` CH07033 · `凱希` KX1245 · `三家本` Vol 31, p0758c · `Z中華道藏` ZHDZ42p0266 · `ZHnum` ZH42_024 · `X新文豐` XWDZ54p0001 · `涵芬樓` HFL舍上004
+
+道門科範大全(前蜀-杜光庭)  
+DZ:   DZ1225  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1226 道門通教必用集 Daomen tongjiao biyong ji
+
+[KR5g0035](https://github.com/kanripo/KR5g0035) · `CUSTOM_ID` DZ1226 · `HK` CH07034 · `凱希` KX1246 · `三家本` Vol 32, p0001a · `Z中華道藏` ZHDZ42p0478 · `ZHnum` ZH42_025 · `X新文豐` XWDZ54p0081 · `涵芬樓` HFL帳上004
+
+道門通教必用集(宋-呂太古)  
+DZ:   DZ1226  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1227 太上助國救民總真秘要 Taishang zhuguo jiumin zongzhen biyao
+
+[KR5g0036](https://github.com/kanripo/KR5g0036) · `CUSTOM_ID` DZ1227 · `HK` CH07035 · `凱希` KX1247 · `三家本` Vol 32, p0053c · `Z中華道藏` ZHDZ30p0313 · `ZHnum` ZH30_032 · `X新文豐` XWDZ54p0193 · `涵芬樓` HFL對上004
+
+太上助國救民總真秘要(宋-元妙宗)  
+DZ:   DZ1227  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1228 正一論 Zhengyi lun
+
+[KR5g0037](https://github.com/kanripo/KR5g0037) · `CUSTOM_ID` DZ1228 · `HK` CH07036 · `凱希` KX1248 · `三家本` Vol 32, p0125a · `Z中華道藏` ZHDZ08p0553 · `ZHnum` ZH08_057 · `X新文豐` XWDZ54p0197 · `涵芬樓` HFL鼓上004
+
+正一論  
+DZ:   DZ1228  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1229 全真坐缽捷法 Quanzhen zuo jiefa
+
+[KR5g0038](https://github.com/kanripo/KR5g0038) · `CUSTOM_ID` DZ1229 · `HK` CH07037 · `凱希` KX1249 · `三家本` Vol 32, p0127b · `Z中華道藏` ZHDZ27p0693 · `ZHnum` ZH27_036 · `X新文豐` XWDZ54p0199 · `涵芬樓` HFL鼓上018
+
+全真坐捷法  
+DZ:   DZ1229  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1230 太平御覽 Taiping yulan
+
+[KR5g0039](https://github.com/kanripo/KR5g0039) · `CUSTOM_ID` DZ1230 · `HK` CH07038 · `凱希` KX1250 · `三家本` Vol 32, p0128c · `Z中華道藏` ZHDZ28p0564 · `ZHnum` 00 · `X新文豐` XWDZ54p0222 · `涵芬樓` HFL鼓上
+
+太平御覽道部(宋-李昉)  
+DZ:   DZ1230  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1231 道書授神契 Daoshu shoushen qi
+
+[KR5g0040](https://github.com/kanripo/KR5g0040) · `CUSTOM_ID` DZ1231 · `HK` CH07039 · `凱希` KX1251 · `三家本` Vol 32, p0143c · `Z中華道藏` ZHDZ28p0664 · `ZHnum` ZH28_010 · `X新文豐` XWDZ54p0226 · `涵芬樓` HFL鼓上118
+
+道書援神契(元-)  
+DZ:   DZ1231  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1232 道門十規 Daomen shigui
+
+[KR5g0041](https://github.com/kanripo/KR5g0041) · `CUSTOM_ID` DZ1232 · `HK` CH07040 · `凱希` KX1252 · `三家本` Vol 32, p0146b · `Z中華道藏` ZHDZ42p0639 · `ZHnum` ZH42_027 · `X新文豐` XWDZ54p0237 · `涵芬樓` HFL鼓上132
+
+道門十規(明-張宇初)  
+DZ:   DZ1232  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1233 重陽立教十五論 Chongyang lijiao shiwu lun +
+
+[KR5g0042](https://github.com/kanripo/KR5g0042) · `CUSTOM_ID` DZ1233 · `HK` CH07041 · `凱希` KX1253 · `三家本` Vol 32, p0153a · `Z中華道藏` ZHDZ26p0271 · `ZHnum` ZH26_021 · `X新文豐` XWDZ54p0241 · `涵芬樓` HFL鼓下004
+
+重陽立教十五論  
+DZJY: JY190  
+DZJY0: JY190  
+DZ:   DZ1233  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1234 丹陽真人直言 Danyang zhenren zhiyan
+
+[KR5g0043](https://github.com/kanripo/KR5g0043) · `CUSTOM_ID` DZ1234 · `HK` CH07042 · `凱希` KX1254 · `三家本` Vol 32, p0155a · `Z中華道藏` ZHDZ26p0409 · `ZHnum` ZH26_028 · `X新文豐` XWDZ54p0243 · `涵芬樓` HFL鼓下016
+
+丹陽真人直言  
+DZJY: JY191  
+DZJY0: JY191  
+DZ:   DZ1234  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1235 全真清規 Quanzhen qinggui +
+
+[KR5g0044](https://github.com/kanripo/KR5g0044) · `CUSTOM_ID` DZ1235 · `HK` CH07043 · `凱希` KX1255 · `三家本` Vol 32, p0156a · `Z中華道藏` ZHDZ27p0687 · `ZHnum` ZH27_035 · `X新文豐` XWDZ54p0251 · `涵芬樓` HFL鼓下022
+
+全真清規(陸道和)  
+DZJY: JY276  
+DZJY0: JY276  
+DZ:   DZ1235  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1236 太上出家傳度儀 Taishang chujia chuandu yi
+
+[KR5g0045](https://github.com/kanripo/KR5g0045) · `CUSTOM_ID` DZ1236 · `HK` CH07044 · `凱希` KX1256 · `三家本` Vol 32, p0161b · `Z中華道藏` ZHDZ42p0261 · `ZHnum` ZH42_023 · `X新文豐` XWDZ54p0258 · `涵芬樓` HFL鼓下052
+
+太上出家傳度儀(宋-賈善翔)  
+DZ:   DZ1236  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1237 三洞修道儀 Sandong xiudao yi
+
+[KR5g0046](https://github.com/kanripo/KR5g0046) · `CUSTOM_ID` DZ1237 · `HK` CH07045 · `凱希` KX1257 · `三家本` Vol 32, p0166a · `Z中華道藏` ZHDZ42p0257 · `ZHnum` ZH42_022 · `X新文豐` XWDZ54p0264 · `涵芬樓` HFL鼓下080
+
+三洞修道儀  
+DZJY: JY277  
+DZJY0: JY277  
+DZ:   DZ1237  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1238 傳授經戒儀註訣 Chuanshou jing jieyi zhujue
+
+[KR5g0047](https://github.com/kanripo/KR5g0047) · `CUSTOM_ID` DZ1238 · `HK` CH07046 · `凱希` KX1258 · `三家本` Vol 32, p0169c · `Z中華道藏` ZHDZ08p0301 · `ZHnum` ZH08_018 · `X新文豐` XWDZ54p0273 · `涵芬樓` HFL鼓下102
+
+傳授經戒儀注訣  
+DZ:   DZ1238  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1239 正一修道略儀洞玄 Zhengyi xiudao lueyi
+
+[KR5g0048](https://github.com/kanripo/KR5g0048) · `CUSTOM_ID` DZ1239 · `HK` CH07047 · `凱希` KX1259 · `三家本` Vol 32, p0175b · `Z中華道藏` ZHDZ42p0103 · `ZHnum` ZH42_011 · `X新文豐` XWDZ54p0284 · `涵芬樓` HFL肆上004
+
+正一修真略儀  
+DZ:   DZ1239  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1240 靈寶道士受三洞經誡法籙擇日曆 Dongxuan lingbao daoshi shousan dongjing jiefa luzhai rili
+
+[KR5g0049](https://github.com/kanripo/KR5g0049) · `CUSTOM_ID` DZ1240 · `HK` CH07048 · `凱希` KX1260 · `三家本` Vol 32, p0182a · `Z中華道藏` ZHDZ42p0125 · `ZHnum` ZH42_013 · `X新文豐` XWDZ54p0288 · `涵芬樓` HFL肆上044
+
+洞玄靈寶道士受三洞經籙法籙擇日曆(唐-張萬福)  
+DZ:   DZ1240  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1241 傳授三洞經經戒法籙略說 Chuanshou sandong jing jiefa lulue shuo
+
+[KR5g0050](https://github.com/kanripo/KR5g0050) · `CUSTOM_ID` DZ1241 · `HK` CH07049 · `凱希` KX1261 · `三家本` Vol 32, p0184c · `Z中華道藏` ZHDZ42p0110 · `ZHnum` ZH42_012 · `X新文豐` XWDZ54p0308 · `涵芬樓` HFL肆上060
+
+傳授三洞經戒法籙略說  
+DZ:   DZ1241  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1242 正一法文法籙部儀 Zhengyi fawen falu buyi
+
+[KR5g0051](https://github.com/kanripo/KR5g0051) · `CUSTOM_ID` DZ1242 · `HK` CH07050 · `凱希` KX1262 · `三家本` Vol 32, p0198a · `Z中華道藏` ZHDZ08p0373 · `ZHnum` ZH08_027 · `X新文豐` XWDZ54p0321 · `涵芬樓` HFL肆上140
+
+正一法文法籙部儀  
+DZ:   DZ1242  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1243 正一法文太上外籙儀 Zhengyi fawen taishang wailu yi
+
+[KR5g0052](https://github.com/kanripo/KR5g0052) · `CUSTOM_ID` DZ1243 · `HK` CH07051 · `凱希` KX1263 · `三家本` Vol 32, p0206a · `Z中華道藏` ZHDZ08p0382 · `ZHnum` ZH08_028 · `X新文豐` XWDZ54p0337 · `涵芬樓` HFL肆下004
+
+正一法文太上外籙儀  
+DZ:   DZ1243  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1244 受籙次第法信儀 Shoulu cidi faxin yi
+
+[KR5g0053](https://github.com/kanripo/KR5g0053) · `CUSTOM_ID` DZ1244 · `HK` CH07052 · `凱希` KX1264 · `三家本` Vol 32, p0216a · `Z中華道藏` ZHDZ42p0150 · `ZHnum` ZH42_018 · `X新文豐` XWDZ54p0352 · `涵芬樓` HFL肆下064
+
+受籙次第法信儀(梁-張辯)  
+DZ:   DZ1244  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1245 洞玄靈寶道士明鏡法 Dongxuan lingbao daoshi mingjing fa
+
+[KR5g0054](https://github.com/kanripo/KR5g0054) · `CUSTOM_ID` DZ1245 · `HK` CH07053 · `凱希` KX1265 · `三家本` Vol 32, p0226a · `Z中華道藏` ZHDZ04p0405 · `ZHnum` ZH04_075 · `X新文豐` XWDZ54p0354 · `涵芬樓` HFL肆下124
+
+洞玄靈寶道士明鏡法  
+DZ:   DZ1245  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1246 洞玄靈寶課中法 Dongxuan lingbao ke zhongfa
+
+[KR5g0055](https://github.com/kanripo/KR5g0055) · `CUSTOM_ID` DZ1246 · `HK` CH07054 · `凱希` KX1266 · `三家本` Vol 32, p0227a · `Z中華道藏` ZHDZ08p0473 · `ZHnum` ZH08_036 · `X新文豐` XWDZ54p0358 · `涵芬樓` HFL肆下130
+
+洞玄靈寶課中法  
+DZ:   DZ1246  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1247 太清玉司左院秘要上法 Taiqing yusi zuoyuan biyao shangfa
+
+[KR5g0056](https://github.com/kanripo/KR5g0056) · `CUSTOM_ID` DZ1247 · `HK` CH07055 · `凱希` KX1267 · `三家本` Vol 32, p0229c · `Z中華道藏` ZHDZ32p0796 · `ZHnum` ZH32_066 · `X新文豐` XWDZ54p0365 · `涵芬樓` HFL肆下146
+
+太清玉司左院秘要上法(霞映)  
+DZ:   DZ1247  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1248 三洞群仙錄 Sandong qunxian lu
+
+[KR5g0057](https://github.com/kanripo/KR5g0057) · `CUSTOM_ID` DZ1248 · `HK` CH07056 · `凱希` KX1268 · `三家本` Vol 32, p0233c · `Z中華道藏` ZHDZ45p0268 · `ZHnum` ZH45_010 · `X新文豐` XWDZ54p0571 · `涵芬樓` HFL筵上
+
+三洞群仙錄(宋-陳葆光)  
+DZJY: JY296  
+DZJY0: JY296  
+DZ:   DZ1248  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1249 三十代天師虛靖真君語錄 Sanshidai tianshi xujing zhenjun yulu
+
+[KR5g0058](https://github.com/kanripo/KR5g0058) · `CUSTOM_ID` DZ1249 · `HK` CH07057 · `凱希` KX1269 · `三家本` Vol 32, p0368a · `Z中華道藏` ZHDZ26p0131 · `ZHnum` ZH26_018 · `X新文豐` XWDZ54p0605 · `涵芬樓` HFL席上004
+
+三十代天師虛靖真君語錄(明-張宇初)  
+DZJY: JY300  
+DZJY0: JY300  
+DZ:   DZ1249  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1250 沖虛通妙侍宸王先生家話 Chongxu tongmiao Shi chenwang xiansheng jiahua
+
+[KR5g0059](https://github.com/kanripo/KR5g0059) · `CUSTOM_ID` DZ1250 · `HK` CH07058 · `凱希` KX1270 · `三家本` Vol 32, p0390a · `Z中華道藏` ZHDZ31p0335 · `ZHnum` ZH31_015 · `X新文豐` XWDZ54p0613 · `涵芬樓` HFL席下004
+
+沖虛通妙侍宸王先生家語(王旻)  
+DZ:   DZ1250  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1251 虛靜沖和先生徐神翁語錄 Xujing chonghe xiansheng Xu shenweng yulu
+
+[KR5g0060](https://github.com/kanripo/KR5g0060) · `CUSTOM_ID` DZ1251 · `HK` CH07059 · `凱希` KX1271 · `三家本` Vol 32, p0395b · `Z中華道藏` ZHDZ32p0415 · `ZHnum` ZH32_028 · `X新文豐` XWDZ54p0637 · `涵芬樓` HFL席下010
+
+虛靜沖和先生徐神翁語錄(宋-徐守信)  
+DZJY: JY228  
+DZJY0: JY228  
+DZ:   DZ1251  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1252 靜餘玄問 Jingyu xuanwen
+
+[KR5g0061](https://github.com/kanripo/KR5g0061) · `CUSTOM_ID` DZ1252 · `HK` CH07060 · `凱希` KX1272 · `三家本` Vol 32, p0411a · `Z中華道藏` ZHDZ19p0577 · `ZHnum` ZH19_072 · `X新文豐` XWDZ54p0640 · `涵芬樓` HFL席下098
+
+靜餘玄問  
+DZ:   DZ1252  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1253 道法心傳 Daofa xinzhuan
+
+[KR5g0062](https://github.com/kanripo/KR5g0062) · `CUSTOM_ID` DZ1253 · `HK` CH07061 · `凱希` KX1273 · `三家本` Vol 32, p0413a · `Z中華道藏` ZHDZ31p0346 · `ZHnum` ZH31_017 · `X新文豐` XWDZ54p0658 · `涵芬樓` HFL席下110
+
+道法心傳(元-王惟一)  
+DZJY: JY218  
+DZJY0: JY218  
+DZ:   DZ1253  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1254 雷法議玄篇 Lei fayi xuanpian
+
+[KR5g0063](https://github.com/kanripo/KR5g0063) · `CUSTOM_ID` DZ1254 · `HK` CH07062 · `凱希` KX1274 · `三家本` Vol 32, p0424c · `Z中華道藏` ZHDZ31p0341 · `ZHnum` ZH31_016 · `X新文豐` XWDZ54p0667 · `涵芬樓` HFL席下180
+
+雷法議玄篇(宋-萬宗師)  
+DZ:   DZ1254  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1255 老子微旨例略 Laozi weizhi lilue
+
+[KR5g0064](https://github.com/kanripo/KR5g0064) · `CUSTOM_ID` DZ1255 · `HK` CH07063 · `凱希` KX1275 · `三家本` Vol 32, p0429c · `Z中華道藏` ZHDZ09p0188 · `ZHnum` ZH09_010 · `X新文豐` XWDZ54p0672 · `涵芬樓` HFL鼓上004
+
+老子秘旨例略  
+DZ:   DZ1255  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1256 真仙直指語錄 Zhenxian zhizhi yulu
+
+[KR5g0065](https://github.com/kanripo/KR5g0065) · `CUSTOM_ID` DZ1256 · `HK` CH07064 · `凱希` KX1276 · `三家本` Vol 32, p0432b · `Z中華道藏` ZHDZ27p0078 · `ZHnum` ZH27_003 · `X新文豐` XWDZ54p0692 · `涵芬樓` HFL鼓上020
+
+真仙真指語錄(金-玄全子)  
+DZ:   DZ1256  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1257 群仙要語纂集 Qunxian yaoyu zuanji
+
+[KR5g0066](https://github.com/kanripo/KR5g0066) · `CUSTOM_ID` DZ1257 · `HK` CH07065 · `凱希` KX1277 · `三家本` Vol 32, p0445b · `Z中華道藏` ZHDZ27p0751 · `ZHnum` ZH27_042 · `X新文豐` XWDZ54p0714 · `涵芬樓` HFL鼓上098
+
+群仙要語纂集(元-董漢醇)  
+DZJY: JY173  
+DZJY0: JY173  
+DZ:   DZ1257  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1258 諸真內丹集要 Zhuzhen neidan jiyao
+
+[KR5g0067](https://github.com/kanripo/KR5g0067) · `CUSTOM_ID` DZ1258 · `HK` CH07066 · `凱希` KX1278 · `三家本` Vol 32, p0458c · `Z中華道藏` ZHDZ27p0092 · `ZHnum` ZH27_004 · `X新文豐` XWDZ54p0735 · `涵芬樓` HFL鼓下036
+
+諸真內丹集要(金-玄全子)  
+DZ:   DZ1258  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1259 龍虎精微論 Longhu jingwei lun
+
+[KR5g0068](https://github.com/kanripo/KR5g0068) · `CUSTOM_ID` DZ1259 · `HK` CH07067 · `凱希` KX1279 · `三家本` Vol 32, p0472c · `Z中華道藏` ZHDZ19p0205 · `ZHnum` ZH19_035 · `X新文豐` XWDZ54p0739 · `涵芬樓` HFL鼓下120
+
+龍虎精微論  
+DZ:   DZ1259  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1260 三要達道篇 Sanyao dadao pian
+
+[KR5g0069](https://github.com/kanripo/KR5g0069) · `CUSTOM_ID` DZ1260 · `HK` CH07068 · `凱希` KX1280 · `三家本` Vol 32, p0475b · `Z中華道藏` ZHDZ26p0126 · `ZHnum` ZH26_015 · `X新文豐` XWDZ54p0740 · `涵芬樓` HFL鼓下136
+
+三要達道論  
+DZ:   DZ1260  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1261 六根歸道論 Liugen guidao lun
+
+[KR5g0070](https://github.com/kanripo/KR5g0070) · `CUSTOM_ID` DZ1261 · `HK` CH07069 · `凱希` KX1281 · `三家本` Vol 32, p0476a · `Z中華道藏` ZHDZ26p0127 · `ZHnum` ZH26_016 · `X新文豐` XWDZ54p0743 · `涵芬樓` HFL鼓下140
+
+六根歸道論  
+DZ:   DZ1261  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1262 意林 Yilin
+
+[KR5g0071](https://github.com/kanripo/KR5g0071) · `CUSTOM_ID` DZ1262 · `HK` CH07070 · `凱希` KX1282 · `三家本` Vol 32, p0477a · `Z中華道藏` ZHDZ25p0277 · `ZHnum` ZH25_007 · `X新文豐` XWDZ54p0814 · `涵芬樓` HFL瑟上004
+
+意林(唐-馬總)  
+DZ:   DZ1262  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1263 莊列十論 Zhuang-Lie shilun
+
+[KR5g0072](https://github.com/kanripo/KR5g0072) · `CUSTOM_ID` DZ1263 · `HK` CH07071 · `凱希` KX1283 · `三家本` Vol 32, p0523a · `Z中華道藏` ZHDZ26p0115 · `ZHnum` ZH26_013 · `X新文豐` XWDZ54p0825 · `涵芬樓` HFL瑟下052
+
+莊列十論(宋-李元卓)  
+DZ:   DZ1263  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1264 離峰老 Lifeng laoren ji
+
+[KR5g0073](https://github.com/kanripo/KR5g0073) · `CUSTOM_ID` DZ1264 · `HK` CH07072 · `凱希` KX1284 · `三家本` Vol 32, p0530a · `Z中華道藏` ZHDZ27p0060 · `ZHnum` ZH27_002 · `X新文豐` XWDZ54p0825 · `涵芬樓` HFL瑟下094
+
+離峰老人集(金-于道顯)  
+DZ:   DZ1264  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1265 人集北帝七元紫庭延生秘訣 Beidi qiyuan ziting yansheng bijue
+
+[KR5g0074](https://github.com/kanripo/KR5g0074) · `CUSTOM_ID` DZ1265 · `HK` CH07073 · `凱希` KX1285 · `三家本` Vol 32, p0549b · `Z中華道藏` ZHDZ30p0241 · `ZHnum` ZH30_027 · `X新文豐` XWDZ55p0001 · `涵芬樓` HFL吹上004
+
+北帝七元紫庭延生秘訣  
+DZ:   DZ1265  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1266 鄧天君玄靈八門報應內旨 Deng tianjun xuanling bamen baoying neizhi
+
+[KR5g0075](https://github.com/kanripo/KR5g0075) · `CUSTOM_ID` DZ1266 · `HK` CH07074 · `凱希` KX1286 · `三家本` Vol 32, p0552c · `Z中華道藏` ZHDZ32p0407 · `ZHnum` ZH32_026 · `X新文豐` XWDZ55p0007 · `涵芬樓` HFL吹上024
+
+鄧天君玄靈八門報應內旨  
+DZ:   DZ1266  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1267 九天上聖秘傳金符經 Jiutian shangsheng bichuan jinfu jing
+
+[KR5g0076](https://github.com/kanripo/KR5g0076) · `CUSTOM_ID` DZ1267 · `HK` CH07075 · `凱希` KX1287 · `三家本` Vol 32, p0557b · `Z中華道藏` ZHDZ32p0402 · `ZHnum` ZH32_025 · `X新文豐` XWDZ55p0014 · `涵芬樓` HFL吹上052
+
+九天上聖秘傳金符經  
+DZ:   DZ1267  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1268 天皇太一神律避穢經 Tianhuang taiyi shenlü bihui jing
+
+[KR5g0077](https://github.com/kanripo/KR5g0077) · `CUSTOM_ID` DZ1268 · `HK` CH07076 · `凱希` KX1288 · `三家本` Vol 32, p0562a · `Z中華道藏` ZHDZ18p0290 · `ZHnum` ZH18_035 · `X新文豐` XWDZ55p0021 · `涵芬樓` HFL吹上080
+
+天皇太一神律避穢經  
+DZ:   DZ1268  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1269 上清修身要事經 Shangqing xiushen yaoshi jing
+
+[KR5g0078](https://github.com/kanripo/KR5g0078) · `CUSTOM_ID` DZ1269 · `HK` CH07077 · `凱希` KX1289 · `三家本` Vol 32, p0562c · `Z中華道藏` ZHDZ02p0370 · `ZHnum` ZH02_035 · `X新文豐` XWDZ55p0022 · `涵芬樓` HFL吹上084
+
+上清修身要事經  
+DZ:   DZ1269  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1270 正一法文修真旨要 Zhengyi fawen xiuzhen zhiyao
+
+[KR5g0079](https://github.com/kanripo/KR5g0079) · `CUSTOM_ID` DZ1270 · `HK` CH07078 · `凱希` KX1290 · `三家本` Vol 32, p0572c · `Z中華道藏` ZHDZ08p0355 · `ZHnum` ZH08_024 · `X新文豐` XWDZ55p0037 · `涵芬樓` HFL吹下004
+
+正一法文修真旨要  
+DZ:   DZ1270  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1271 洞玄靈寶真人修行延年益筭法 Dongxuan lingbao zhenren xiuxing yannian yisuan fa
+
+[KR5g0080](https://github.com/kanripo/KR5g0080) · `CUSTOM_ID` DZ1271 · `HK` CH07079 · `凱希` KX1291 · `三家本` Vol 32, p0579b · `Z中華道藏` ZHDZ04p0401 · `ZHnum` ZH04_074 · `X新文豐` XWDZ55p0048 · `涵芬樓` HFL吹下044
+
+洞玄靈寶真人修行延年益算法  
+DZ:   DZ1271  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1272 三洞道士居山修練科 Sandong daoshi jushan xiulian ke
+
+[KR5g0081](https://github.com/kanripo/KR5g0081) · `CUSTOM_ID` DZ1272 · `HK` CH07080 · `凱希` KX1292 · `三家本` Vol 32, p0583b · `Z中華道藏` ZHDZ42p0068 · `ZHnum` ZH42_005 · `X新文豐` XWDZ55p0054 · `涵芬樓` HFL吹下068
+
+三洞道士居山修煉科  
+DZ:   DZ1272  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1273 正一天師告趙昇口訣 Zhengyi tianshi gao zhaosheng koujue
+
+[KR5g0082](https://github.com/kanripo/KR5g0082) · `CUSTOM_ID` DZ1273 · `HK` CH07081 · `凱希` KX1293 · `三家本` Vol 32, p0593a · `Z中華道藏` ZHDZ08p0538 · `ZHnum` ZH08_053 · `X新文豐` XWDZ55p0069 · `涵芬樓` HFL吹下126
+
+正一天師告趙昇口訣  
+DZ:   DZ1273  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1274 玄和子十二月卦金訣 Xuanhezi shier yuegua jinjue
+
+[KR5g0083](https://github.com/kanripo/KR5g0083) · `CUSTOM_ID` DZ1274 · `HK` CH07082 · `凱希` KX1294 · `三家本` Vol 32, p0594c · `Z中華道藏` ZHDZ18p0287 · `ZHnum` ZH18_034 · `X新文豐` XWDZ55p0072 · `涵芬樓` HFL吹下136
+
+玄和子十二月卦金訣  
+DZ:   DZ1274  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1275 雨暘氣候親機 Yuyang qihou qinji
+
+[KR5g0084](https://github.com/kanripo/KR5g0084) · `CUSTOM_ID` DZ1275 · `HK` CH07083 · `凱希` KX1295 · `三家本` Vol 32, p0597b · `Z中華道藏` ZHDZ31p0377 · `ZHnum` ZH31_020 · `X新文豐` XWDZ55p0077 · `涵芬樓` HFL笙上004
+
+雨陽氣候親機  
+DZ:   DZ1275  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1276 盤天經 Pantian jing
+
+[KR5g0085](https://github.com/kanripo/KR5g0085) · `CUSTOM_ID` DZ1276 · `HK` CH07084 · `凱希` KX1296 · `三家本` Vol 32, p0602c · `Z中華道藏` ZHDZ32p0307 · `ZHnum` ZH32_018 · `X新文豐` XWDZ55p0086 · `涵芬樓` HFL笙上036
+
+盤天經  
+DZ:   DZ1276  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1277 道法宗旨圖衍義 Daofa zongzhi tuyan yi
+
+[KR5g0086](https://github.com/kanripo/KR5g0086) · `CUSTOM_ID` DZ1277 · `HK` CH07085 · `凱希` KX1297 · `三家本` Vol 32, p0607c · `Z中華道藏` ZHDZ31p0365 · `ZHnum` ZH31_019 · `X新文豐` XWDZ55p0094 · `涵芬樓` HFL笙上066
+
+道法宗旨圖衍義(鄧)  
+DZ:   DZ1277  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1278 洞玄靈寶五感文 Dongxuan lingbao wugan wen
+
+[KR5g0087](https://github.com/kanripo/KR5g0087) · `CUSTOM_ID` DZ1278 · `HK` CH07086 · `凱希` KX1298 · `三家本` Vol 32, p0618c · `Z中華道藏` ZHDZ08p0560 · `ZHnum` ZH08_059 · `X新文豐` XWDZ55p0111 · `涵芬樓` HFL笙上132
+
+洞玄靈寶五感文(劉宋-陸脩靜)  
+DZ:   DZ1278  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1279 靈書肘後鈔 Lingshu zhouhou chao
+
+[KR5g0088](https://github.com/kanripo/KR5g0088) · `CUSTOM_ID` DZ1279 · `HK` CH07087 · `凱希` KX1299 · `三家本` Vol 32, p0621b · `Z中華道藏` ZHDZ32p0661 · `ZHnum` ZH32_055 · `X新文豐` XWDZ55p0115 · `涵芬樓` HFL笙上148
+
+靈書肘後鈔  
+DZ:   DZ1279  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1280 玄壇刊誤論 Xuantan kanwu lun
+
+[KR5g0089](https://github.com/kanripo/KR5g0089) · `CUSTOM_ID` DZ1280 · `HK` CH07088 · `凱希` KX1300 · `三家本` Vol 32, p0623b · `Z中華道藏` ZHDZ42p0251 · `ZHnum` ZH42_021 · `X新文豐` XWDZ55p0119 · `涵芬樓` HFL笙下004
+
+玄壇刊誤論(張若海)  
+DZ:   DZ1280  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1281 五嶽真形序論 Wuyue zhenxing xulun
+
+[KR5g0090](https://github.com/kanripo/KR5g0090) · `CUSTOM_ID` DZ1281 · `HK` CH07089 · `凱希` KX1301 · `三家本` Vol 32, p0628c · `Z中華道藏` ZHDZ04p0358 · `ZHnum` ZH04_067 · `X新文豐` XWDZ55p0128 · `涵芬樓` HFL笙下036
+
+五嶽真形序論  
+DZ:   DZ1281  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1282 高上神霄宗師受經式 Gaoshang shenxiao zongshi shou jingshi
+
+[KR5g0091](https://github.com/kanripo/KR5g0091) · `CUSTOM_ID` DZ1282 · `HK` CH07090 · `凱希` KX1302 · `三家本` Vol 32, p0637a · `Z中華道藏` ZHDZ31p0175 · `ZHnum` ZH31_007 · `X新文豐` XWDZ55p0141 · `涵芬樓` HFL笙下086
+
+高上神霄宗師受經式  
+DZ:   DZ1282  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1283 太上洞神行道授度儀 Taishang dongshen xingdao shoudu yi
+
+[KR5g0092](https://github.com/kanripo/KR5g0092) · `CUSTOM_ID` DZ1283 · `HK` CH07091 · `凱希` KX1303 · `三家本` Vol 32, p0639b · `Z中華道藏` ZHDZ04p0504 · `ZHnum` ZH04_089 · `X新文豐` XWDZ55p0145 · `涵芬樓` HFL笙下100
+
+太上洞神行道授度儀  
+DZ:   DZ1283  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1284 太上洞神三皇傳授儀 Taishang dongshen sanhuang chuanshou yi
+
+[KR5g0093](https://github.com/kanripo/KR5g0093) · `CUSTOM_ID` DZ1284 · `HK` CH07092 · `凱希` KX1304 · `三家本` Vol 32, p0644b · `Z中華道藏` ZHDZ04p0515 · `ZHnum` ZH04_091 · `X新文豐` XWDZ55p0153 · `涵芬樓` HFL笙下130
+
+太上洞神三皇傳授儀  
+DZ:   DZ1284  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1285 翊聖保德傳 Yisheng baode zhuan
+
+[KR5g0094](https://github.com/kanripo/KR5g0094) · `CUSTOM_ID` DZ1285 · `HK` CH07093 · `凱希` KX1305 · `三家本` Vol 32, p0649c · `Z中華道藏` ZHDZ46p0371 · `ZHnum` ZH46_024 · `X新文豐` XWDZ55p0161 · `涵芬樓` HFL陞上004
+
+翊聖保德傳(宋-王欣若)  
+DZ:   DZ1285  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1286 廬山太平興國宮採訪真君事實 Lushan taiping xingguo gong caifang zhenjun shishi
+
+[KR5g0095](https://github.com/kanripo/KR5g0095) · `CUSTOM_ID` DZ1286 · `HK` CH07094 · `凱希` KX1306 · `三家本` Vol 32, p0661b · `Z中華道藏` ZHDZ46p0540 · `ZHnum` ZH46_034 · `X新文豐` XWDZ55p0179 · `涵芬樓` HFL陞上074
+
+靈山太平興國官採訪真君事實  
+DZ:   DZ1286  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1287 正一法文經護國醮海品 Zhengyi fawen jing huguo jiaohai pin
+
+[KR5g0096](https://github.com/kanripo/KR5g0096) · `CUSTOM_ID` DZ1287 · `HK` CH07095 · `凱希` KX1307 · `三家本` Vol 32, p0702b · `Z中華道藏` ZHDZ08p0351 · `ZHnum` ZH08_023 · `X新文豐` XWDZ55p0243 · `涵芬樓` HFL階上004
+
+正一法文經護國醮海品  
+DZ:   DZ1287  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1288 元辰章醮立成曆 Yuanchen zhangjiao licheng li
+
+[KR5g0097](https://github.com/kanripo/KR5g0097) · `CUSTOM_ID` DZ1288 · `HK` CH07096 · `凱希` KX1308 · `三家本` Vol 32, p0706b · `Z中華道藏` ZHDZ32p0390 · `ZHnum` ZH32_024 · `X新文豐` XWDZ55p0250 · `涵芬樓` HFL階上028
+
+元辰章醮立成曆  
+DZ:   DZ1288  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1289 六十甲子本命元辰曆 Liushi jiazi benming yuanchen li
+
+[KR5g0098](https://github.com/kanripo/KR5g0098) · `CUSTOM_ID` DZ1289 · `HK` CH07097 · `凱希` KX1309 · `三家本` Vol 32, p0717b · `Z中華道藏` ZHDZ32p0387 · `ZHnum` ZH32_023 · `X新文豐` XWDZ55p0267 · `涵芬樓` HFL階上094
+
+六十甲子本命元辰曆  
+DZ:   DZ1289  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1290 太上洞神洞元神咒治病口章 Taishang dongshen dongyuan shenzhou zhibing kouzhang
+
+[KR5g0099](https://github.com/kanripo/KR5g0099) · `CUSTOM_ID` DZ1290 · `HK` CH07098 · `凱希` KX1310 · `三家本` Vol 32, p0719c · `Z中華道藏` ZHDZ30p0129 · `ZHnum` ZH30_010 · `X新文豐` XWDZ55p0271 · `涵芬樓` HFL階上108
+
+太上洞神洞淵神咒治病口章  
+DZ:   DZ1290  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1291 上清經秘訣 Shangqing jing bijue
+
+[KR5g0100](https://github.com/kanripo/KR5g0100) · `CUSTOM_ID` DZ1291 · `HK` CH07099 · `凱希` KX1311 · `三家本` Vol 32, p0731c · `Z中華道藏` ZHDZ02p0440 · `ZHnum` ZH02_050 · `X新文豐` XWDZ55p0289 · `涵芬樓` HFL階下004
+
+上清經秘訣  
+DZ:   DZ1291  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1292 靈寶鍊度五仙安靈鎮神黃繪章法 Lingbao liandu wuxian anling zhenshen huanghui zhangfa
+
+[KR5g0101](https://github.com/kanripo/KR5g0101) · `CUSTOM_ID` DZ1292 · `HK` CH07100 · `凱希` KX1312 · `三家本` Vol 32, p0732b · `Z中華道藏` ZHDZ03p0763 · `ZHnum` ZH03_042 · `X新文豐` XWDZ55p0291 · `涵芬樓` HFL階下008
+
+靈寶鍊度五仙安靈鎮神黃繒章法  
+DZ:   DZ1292  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1293 上清太微帝君結帶真文法 Shangqing taiwei dijun jiedai zhen wenfa
+
+[KR5g0102](https://github.com/kanripo/KR5g0102) · `CUSTOM_ID` DZ1293 · `HK` CH07101 · `凱希` KX1313 · `三家本` Vol 32, p0734c · `Z中華道藏` ZHDZ02p0458 · `ZHnum` ZH02_055 · `X新文豐` XWDZ55p0295 · `涵芬樓` HFL階下022
+
+上清太微帝君結帶真文法  
+DZ:   DZ1293  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1294 上清黃書過度儀 Huangshu guodu yi
+
+[KR5g0103](https://github.com/kanripo/KR5g0103) · `CUSTOM_ID` DZ1294 · `HK` CH07102 · `凱希` KX1314 · `三家本` Vol 32, p0735b · `Z中華道藏` ZHDZ08p0524 · `ZHnum` ZH08_050 · `X新文豐` XWDZ55p0296 · `涵芬樓` HFL階下026
+
+上清黃書過度儀  
+DZ:   DZ1294  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1295 太上洞玄靈寶二部傳授儀 Taishang dongxuan lingbao erbu chuanshou yi
+
+[KR5g0104](https://github.com/kanripo/KR5g0104) · `CUSTOM_ID` DZ1295 · `HK` CH07103 · `凱希` KX1315 · `三家本` Vol 32, p0743b · `Z中華道藏` ZHDZ04p0438 · `ZHnum` ZH04_080 · `X新文豐` XWDZ55p0308 · `涵芬樓` HFL階下074
+
+太上洞玄靈寶二部傳授儀  
+DZ:   DZ1295  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1296 洞玄靈寶八節齋宿啟儀 Dongxuan lingbao baojie zhaisu qiyi
+
+[KR5g0105](https://github.com/kanripo/KR5g0105) · `CUSTOM_ID` DZ1296 · `HK` CH07104 · `凱希` KX1316 · `三家本` Vol 32, p0746c · `Z中華道藏` ZHDZ43p0707 · `ZHnum` ZH43_038 · `X新文豐` XWDZ55p0313 · `涵芬樓` HFL階下094
+
+洞玄靈寶八節齋宿啟儀  
+DZ:   DZ1296  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1297 洞玄靈寶五老攝召北酆鬼魔赤書玉訣 Dongxuan lingbao wulao shezhao beifeng guimo chishu yujue
+
+[KR5g0106](https://github.com/kanripo/KR5g0106) · `CUSTOM_ID` DZ1297 · `HK` CH07105 · `凱希` KX1317 · `三家本` Vol 32, p0749c · `Z中華道藏` ZHDZ03p0049 · `ZHnum` ZH03_003 · `X新文豐` XWDZ55p0318 · `涵芬樓` HFL階下112
+
+洞玄靈寶五老攝召北酆鬼魔赤書玉訣  
+DZ:   DZ1297  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1298 四聖真君靈籤 Sisheng zhenjun lingqian
+
+[KR5g0107](https://github.com/kanripo/KR5g0107) · `CUSTOM_ID` DZ1298 · `HK` CH07106 · `凱希` KX1318 · `三家本` Vol 32, p0752a · `Z中華道藏` ZHDZ32p0072 · `ZHnum` ZH32_005 · `X新文豐` XWDZ55p0323 · `涵芬樓` HFL納上004
+
+四聖真君靈籤  
+DZ:   DZ1298  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1299 玄真靈應寶籤 Xuanzhen lingying baoqian
+
+[KR5g0108](https://github.com/kanripo/KR5g0108) · `CUSTOM_ID` DZ1299 · `HK` CH07107 · `凱希` KX1319 · `三家本` Vol 32, p0768b · `Z中華道藏` ZHDZ32p0089 · `ZHnum` ZH32_006 · `X新文豐` XWDZ55p0348 · `涵芬樓` HFL納上102
+
+玄真靈應寶籤  
+DZ:   DZ1299  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1300 大慈好生九天衛房聖母元君靈應寶籤 Daci haosheng jiutian weifang shengmu yuanjun lingying baoqian
+
+[KR5g0109](https://github.com/kanripo/KR5g0109) · `CUSTOM_ID` DZ1300 · `HK` CH07108 · `凱希` KX1320 · `三家本` Vol 32, p0806b · `Z中華道藏` ZHDZ32p0123 · `ZHnum` ZH32_007 · `X新文豐` XWDZ55p0407 · `涵芬樓` HFL納中154
+
+大慈好生九天衛房聖母元君靈應寶籤  
+DZ:   DZ1300  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1301 洪恩靈齋真君靈籤 Hong'en lingzhai zhenjun lingqian
+
+[KR5g0110](https://github.com/kanripo/KR5g0110) · `CUSTOM_ID` DZ1301 · `HK` CH07109 · `凱希` KX1321 · `三家本` Vol 32, p0814c · `Z中華道藏` ZHDZ32p0147 · `ZHnum` ZH32_009 · `X新文豐` XWDZ55p0420 · `涵芬樓` HFL納中204
+
+洪恩靈濟真君靈籤  
+DZ:   DZ1301  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1302 靈齋真君注生堂靈籤 Lingzhai zhenjun zhu shengtang lingqian
+
+[KR5g0111](https://github.com/kanripo/KR5g0111) · `CUSTOM_ID` DZ1302 · `HK` CH07110 · `凱希` KX1322 · `三家本` Vol 32, p0817c · `Z中華道藏` ZHDZ32p0150 · `ZHnum` ZH32_010 · `X新文豐` XWDZ55p0425 · `涵芬樓` HFL納下004
+
+靈濟真君注生堂靈籤  
+DZ:   DZ1302  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1303 扶天廣聖如意靈籤 Futian guangsheng ruyi lingqian
+
+[KR5g0112](https://github.com/kanripo/KR5g0112) · `CUSTOM_ID` DZ1303 · `HK` CH07111 · `凱希` KX1323 · `三家本` Vol 32, p0821a · `Z中華道藏` ZHDZ32p0050 · `ZHnum` ZH32_004 · `X新文豐` XWDZ55p0431 · `涵芬樓` HFL納下024
+
+扶天廣聖如意靈籤  
+DZ:   DZ1303  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1304 贛州聖齋廟靈蹟理 Ganzhou shengzhai miaoling jili
+
+[KR5g0113](https://github.com/kanripo/KR5g0113) · `CUSTOM_ID` DZ1304 · `HK` CH07112 · `凱希` KX1324 · `三家本` Vol 32, p0841b · `Z中華道藏` ZHDZ32p0131 · `ZHnum` ZH32_008 · `X新文豐` XWDZ55p0462 · `涵芬樓` HFL納下146
+
+贛州聖濟廟靈跡碑  
+DZ:   DZ1304  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1305 護國嘉齋江東王靈籤 Huguo jiazhai jiang dongwang lingqian
+
+[KR5g0114](https://github.com/kanripo/KR5g0114) · `CUSTOM_ID` DZ1305 · `HK` CH07113 · `凱希` KX1325 · `三家本` Vol 32, p0843b · `Z中華道藏` ZHDZ32p0000 · `ZHnum` ZH32_008 · `X新文豐` XWDZ55p0465 · `涵芬樓` HFL納下158
+
+護國嘉濟江東王靈籤  
+DZ:   DZ1305  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1306 葛仙翁肘後備急方 Ge xianweng zhouhou beiji fang
+
+[KR5g0115](https://github.com/kanripo/KR5g0115) · `CUSTOM_ID` DZ1306 · `HK` CH07114 · `凱希` KX1326 · `三家本` Vol 33, p0001a · `Z中華道藏` ZHDZ21p0606 · `ZHnum` ZH21_002 · `X新文豐` XWDZ55p0487 · `涵芬樓` HFL陛上004
+
+葛仙翁肘後方備急方(晉-葛洪)  
+DZJY: JY146  
+DZJY0: JY146  
+DZ:   DZ1306  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1307 海瓊白真人語錄 Hai Qiongbai zhenren yulu
+
+[KR5g0116](https://github.com/kanripo/KR5g0116) · `CUSTOM_ID` DZ1307 · `HK` CH07115 · `凱希` KX1327 · `三家本` Vol 33, p0111b · `Z中華道藏` ZHDZ19p0545 · `ZHnum` ZH19_071 · `X新文豐` XWDZ55p0657 · `涵芬樓` HFL弁上004
+
+海瓊白真人語錄(宋-白玉蟾)  
+DZJY: JY186  
+DZJY0: JY186  
+DZ:   DZ1307  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1308 海瓊問道集 Hai Qiong wendao ji
+
+[KR5g0117](https://github.com/kanripo/KR5g0117) · `CUSTOM_ID` DZ1308 · `HK` CH07116 · `凱希` KX1328 · `三家本` Vol 33, p0140a · `Z中華道藏` ZHDZ19p0529 · `ZHnum` ZH19_069 · `X新文豐` XWDZ00p0000 · `涵芬樓` HFL弁上176
+
+海瓊問道集  
+DZ:   DZ1308  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1309 傳道集 Chuandao ji
+
+[KR5g0118](https://github.com/kanripo/KR5g0118) · `CUSTOM_ID` DZ1309 · `HK` CH07117 · `凱希` KX1329 · `三家本` Vol 33, p0147c · `Z中華道藏` ZHDZ19p0538 · `ZHnum` ZH19_070 · `X新文豐` XWDZ55p0714 · `涵芬樓` HFL弁下004
+
+傳道集  
+DZ:   DZ1309  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1310 清和真人北遊語錄 Qinghe zhenren beiyou yulu
+
+[KR5g0119](https://github.com/kanripo/KR5g0119) · `CUSTOM_ID` DZ1310 · `HK` CH07118 · `凱希` KX1330 · `三家本` Vol 33, p0153c · `Z中華道藏` ZHDZ26p0725 · `ZHnum` ZH26_041 · `X新文豐` XWDZ55p0723 · `涵芬樓` HFL弁下040
+
+清和真人北遊語錄(金-尹志平)  
+DZJY: JY230  
+DZJY0: JY230  
+DZ:   DZ1310  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1311 峴泉集 Xianquan ji
+
+[KR5g0120](https://github.com/kanripo/KR5g0120) · `CUSTOM_ID` DZ1311 · `HK` CH07119 · `凱希` KX1331 · `三家本` Vol 33, p0179b · `Z中華道藏` ZHDZ26p0239 · `ZHnum` ZH26_019 · `X新文豐` XWDZ55p0763 · `涵芬樓` HFL轉上004
+
+峴泉集(明-張宇初)  
+DZ:   DZ1311  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1312 太上大道玉清經 Taishang dadao yuqing jing
+
+[KR5g0121](https://github.com/kanripo/KR5g0121) · `CUSTOM_ID` DZ1312 · `HK` CH07120 · `凱希` KX1332 · `三家本` Vol 33, p0281b · `Z中華道藏` ZHDZ04p0543 · `ZHnum` ZH04_096 · `X新文豐` XWDZ56p0001 · `涵芬樓` HFL星上004
+
+太上大道玉清經  
+DZJY: JY018  
+DZJY0: JY018  
+DZ:   DZ1312  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1313 洞真高上玉帝大洞雌一玉檢五老寶經 Dongzhen gaoshang yudi dadong ciyi yujian wulao baojing
+
+[KR5g0122](https://github.com/kanripo/KR5g0122) · `CUSTOM_ID` DZ1313 · `HK` CH07121 · `凱希` KX1333 · `三家本` Vol 33, p0381a · `Z中華道藏` ZHDZ01p0076 · `ZHnum` ZH01_004 · `X新文豐` XWDZ56p0155 · `涵芬樓` HFL右上004
+
+洞真高上玉帝大洞雌一玉檢五老寶經  
+DZ:   DZ1313  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1314 洞真太上素靈洞元大有妙經 Dongzhen taishang suling dongyuan dayou miaojing
+
+[KR5g0123](https://github.com/kanripo/KR5g0123) · `CUSTOM_ID` DZ1314 · `HK` CH07122 · `凱希` KX1334 · `三家本` Vol 33, p0400b · `Z中華道藏` ZHDZ01p0106 · `ZHnum` ZH01_007 · `X新文豐` XWDZ56p0185 · `涵芬樓` HFL右中004
+
+洞真太上素靈洞元大有妙經  
+DZ:   DZ1314  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1315 洞真上清青要紫書金根眾經 Dongzhen shangqing qingyao zishu jin'gen zhongjing
+
+[KR5g0124](https://github.com/kanripo/KR5g0124) · `CUSTOM_ID` DZ1315 · `HK` CH07123 · `凱希` KX1335 · `三家本` Vol 33, p0423b · `Z中華道藏` ZHDZ01p0323 · `ZHnum` ZH01_034 · `X新文豐` XWDZ56p0220 · `涵芬樓` HFL右中142
+
+洞真上清青要紫書金根眾經  
+DZJY: JY126  
+DZJY0: JY126  
+DZ:   DZ1315  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1316 洞真上清太微帝君步天綱飛地紀金簡玉字上經 Dongzhen shangqing taiwei dijun butian gangfei diji jinjian yuzi shangjing
+
+[KR5g0125](https://github.com/kanripo/KR5g0125) · `CUSTOM_ID` DZ1316 · `HK` CH07124 · `凱希` KX1336 · `三家本` Vol 33, p0438b · `Z中華道藏` ZHDZ01p0212 · `ZHnum` ZH01_020 · `X新文豐` XWDZ56p0243 · `涵芬樓` HFL右下050
+
+洞真上清太微帝君步天綱飛地紀金簡玉字上經  
+DZ:   DZ1316  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1317 洞真上清開天三圖七星移度經 Dongzhen shangqing kaitian santu qixing yidu jing
+
+[KR5g0126](https://github.com/kanripo/KR5g0126) · `CUSTOM_ID` DZ1317 · `HK` CH07125 · `凱希` KX1337 · `三家本` Vol 33, p0448a · `Z中華道藏` ZHDZ01p0404 · `ZHnum` ZH01_042 · `X新文豐` XWDZ56p0258 · `涵芬樓` HFL右下108
+
+洞真上清開天三圖七星移度經  
+DZ:   DZ1317  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1318 洞真太上三元流珠經 Dongzhen taishang sanyuan liuzhu jing
+
+[KR5g0127](https://github.com/kanripo/KR5g0127) · `CUSTOM_ID` DZ1318 · `HK` CH07126 · `凱希` KX1338 · `三家本` Vol 33, p0458a · `Z中華道藏` ZHDZ02p0409 · `ZHnum` ZH02_040 · `X新文豐` XWDZ56p0273 · `涵芬樓` HFL右下168
+
+洞真太上三元流珠經  
+DZJY: JY123  
+DZJY0: JY123  
+DZ:   DZ1318  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1319 洞真西王母寶神起居經 Dongzhen Xiwangmu baoshen qiju jing +
+
+[KR5g0128](https://github.com/kanripo/KR5g0128) · `CUSTOM_ID` DZ1319 · `HK` CH07127 · `凱希` KX1339 · `三家本` Vol 33, p0460b · `Z中華道藏` ZHDZ02p0299 · `ZHnum` ZH02_026 · `X新文豐` XWDZ56p0277 · `涵芬樓` HFL右下182
+
+洞真西王母寶神起居經  
+DZJY: JY125  
+DZJY0: JY125  
+DZ:   DZ1319  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1320 洞真太上八素真經精耀三景妙訣 Dongzhen taishang basu zhenjing jingyao sanjing miaojue
+
+[KR5g0129](https://github.com/kanripo/KR5g0129) · `CUSTOM_ID` DZ1320 · `HK` CH07128 · `凱希` KX1340 · `三家本` Vol 33, p0466c · `Z中華道藏` ZHDZ01p0190 · `ZHnum` ZH01_015 · `X新文豐` XWDZ56p0287 · `涵芬樓` HFL通上004
+
+洞真太上八素真經精耀三景妙訣  
+DZ:   DZ1320  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1321 洞真太上八素真經修習扑~妙訣 Dongzhen taishang basu zhenjing xiuxi gongye miaojue
+
+[KR5g0130](https://github.com/kanripo/KR5g0130) · `CUSTOM_ID` DZ1321 · `HK` CH07129 · `凱希` KX1341 · `三家本` Vol 33, p0468c · `Z中華道藏` ZHDZ01p0193 · `ZHnum` ZH01_016 · `X新文豐` XWDZ56p0291 · `涵芬樓` HFL通上016
+
+洞真太上八素真經修習功業妙訣  
+DZ:   DZ1321  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1322 洞真太上八素真經三五行化妙訣 Dongzhen taishang basu zhenjing sanwu xinghua miaojue
+
+[KR5g0131](https://github.com/kanripo/KR5g0131) · `CUSTOM_ID` DZ1322 · `HK` CH07130 · `凱希` KX1342 · `三家本` Vol 33, p0473b · `Z中華道藏` ZHDZ01p0198 · `ZHnum` ZH01_017 · `X新文豐` XWDZ56p0298 · `涵芬樓` HFL通上042
+
+洞真太上八素真經三五行化妙訣  
+DZ:   DZ1322  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1323 洞真太上八素真經服食日月皇華訣 Dongzhen taishang basu zhenjing fushi riyue huanghua jue
+
+[KR5g0132](https://github.com/kanripo/KR5g0132) · `CUSTOM_ID` DZ1323 · `HK` CH07131 · `凱希` KX1343 · `三家本` Vol 33, p0477a · `Z中華道藏` ZHDZ01p0181 · `ZHnum` ZH01_014 · `X新文豐` XWDZ56p0304 · `涵芬樓` HFL通上064
+
+洞真太上八素真經受食日月皇華訣  
+DZ:   DZ1323  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1324 洞真太上八素真經登壇符札妙訣 Dongzhen taishang basu zhenjing dengtan fuzha miaojue
+
+[KR5g0133](https://github.com/kanripo/KR5g0133) · `CUSTOM_ID` DZ1324 · `HK` CH07132 · `凱希` KX1344 · `三家本` Vol 33, p0485c · `Z中華道藏` ZHDZ01p0203 · `ZHnum` ZH01_018 · `X新文豐` XWDZ56p0317 · `涵芬樓` HFL通上116
+
+洞真太上八素真經登壇符札妙訣  
+DZ:   DZ1324  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1325 洞真太上八素真經占候入定妙訣 Dongzhen taishang basu zhenjing zhanhou ruding miaojue
+
+[KR5g0134](https://github.com/kanripo/KR5g0134) · `CUSTOM_ID` DZ1325 · `HK` CH07133 · `凱希` KX1345 · `三家本` Vol 33, p0490b · `Z中華道藏` ZHDZ01p0208 · `ZHnum` ZH01_019 · `X新文豐` XWDZ56p0324 · `涵芬樓` HFL通上144
+
+洞真太上八素真經占候入定妙訣  
+DZ:   DZ1325  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1326 洞真上清龍飛九道尺素隱訣 Dongzhen shangqing longfei jiudao chisu yinjue
+
+[KR5g0135](https://github.com/kanripo/KR5g0135) · `CUSTOM_ID` DZ1326 · `HK` CH07134 · `凱希` KX1346 · `三家本` Vol 33, p0493c · `Z中華道藏` ZHDZ01p0497 · `ZHnum` ZH01_056 · `X新文豐` XWDZ56p0329 · `涵芬樓` HFL通上164
+
+洞真上清龍飛九道尺素隱訣  
+DZ:   DZ1326  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1327 洞真太上三九素語玉精真訣 Dongzhen taishang sanjiu suyu yujing zhenjue
+
+[KR5g0136](https://github.com/kanripo/KR5g0136) · `CUSTOM_ID` DZ1327 · `HK` CH07135 · `凱希` KX1347 · `三家本` Vol 33, p0497b · `Z中華道藏` ZHDZ01p0339 · `ZHnum` ZH01_035 · `X新文豐` XWDZ56p0335 · `涵芬樓` HFL通下004
+
+洞真太上三九素語玉清真訣  
+DZ:   DZ1327  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1328 洞真太上八道命籍經 Dongzhen taishang badao mingji jing
+
+[KR5g0137](https://github.com/kanripo/KR5g0137) · `CUSTOM_ID` DZ1328 · `HK` CH07136 · `凱希` KX1348 · `三家本` Vol 33, p0502a · `Z中華道藏` ZHDZ02p0335 · `ZHnum` ZH02_032 · `X新文豐` XWDZ56p0343 · `涵芬樓` HFL通下032
+
+洞真太上八道命籍經  
+DZ:   DZ1328  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1329 洞真九赤班符五帝內真經 Dongzhen jiu chi ban fu wu di nei zhenjing
+
+[KR5g0138](https://github.com/kanripo/KR5g0138) · `CUSTOM_ID` DZ1329 · `HK` CH07137 · `凱希` KX1349 · `三家本` Vol 33, p0518a · `Z中華道藏` ZHDZ01p0442 · `ZHnum` ZH01_046 · `X新文豐` XWDZ56p0368 · `涵芬樓` HFL通下128
+
+太上九赤班符五帝內真經  
+DZ:   DZ1329  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1330 洞真太一帝君太丹隱書洞真玄經 Dongzhen taiyi dijun taidan yinshu dongzhen xuanjing
+
+[KR5g0139](https://github.com/kanripo/KR5g0139) · `CUSTOM_ID` DZ1330 · `HK` CH07138 · `凱希` KX1350 · `三家本` Vol 33, p0528c · `Z中華道藏` ZHDZ01p0378 · `ZHnum` ZH01_039 · `X新文豐` XWDZ56p0385 · `涵芬樓` HFL廣上004
+
+洞真太一帝君丹隱書洞真玄經  
+DZ:   DZ1330  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1331 洞真上清神州七轉七變舞天經 Dongzhen shangqing shenzhou qizhuan qibian wutian jing
+
+[KR5g0140](https://github.com/kanripo/KR5g0140) · `CUSTOM_ID` DZ1331 · `HK` CH07139 · `凱希` KX1351 · `三家本` Vol 33, p0544a · `Z中華道藏` ZHDZ01p0367 · `ZHnum` ZH01_038 · `X新文豐` XWDZ56p0409 · `涵芬樓` HFL廣上096
+
+洞真上清神州七轉七變舞天經  
+DZ:   DZ1331  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1332 洞真上清紫度炎光神元變經 Dongzhen shangqing zidu yanguang shenyuan bianjing
+
+[KR5g0141](https://github.com/kanripo/KR5g0141) · `CUSTOM_ID` DZ1332 · `HK` CH07140 · `凱希` KX1352 · `三家本` Vol 33, p0553c · `Z中華道藏` ZHDZ01p0310 · `ZHnum` ZH01_033 · `X新文豐` XWDZ56p0424 · `涵芬樓` HFL廣上154
+
+洞真太上紫度炎光神元變經  
+DZ:   DZ1332  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1333 洞真太上神虎玉經 Dongzhen taishang shenhu yujing
+
+[KR5g0142](https://github.com/kanripo/KR5g0142) · `CUSTOM_ID` DZ1333 · `HK` CH07141 · `凱希` KX1353 · `三家本` Vol 33, p0564c · `Z中華道藏` ZHDZ01p0463 · `ZHnum` ZH01_049 · `X新文豐` XWDZ56p0441 · `涵芬樓` HFL廣下004
+
+洞真太上神虎玉經  
+DZ:   DZ1333  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1334 洞真太上神虎隱文 Dongzhen taishang shenhu yinwen
+
+[KR5g0143](https://github.com/kanripo/KR5g0143) · `CUSTOM_ID` DZ1334 · `HK` CH07142 · `凱希` KX1354 · `三家本` Vol 33, p0566b · `Z中華道藏` ZHDZ01p0465 · `ZHnum` ZH01_050 · `X新文豐` XWDZ56p0444 · `涵芬樓` HFL廣下014
+
+洞真太上神虎隱文  
+DZ:   DZ1334  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1335 洞真太上紫文丹章 Dongzhen taishang ziwen danzhang
+
+[KR5g0144](https://github.com/kanripo/KR5g0144) · `CUSTOM_ID` DZ1335 · `HK` CH07143 · `凱希` KX1355 · `三家本` Vol 33, p0568c · `Z中華道藏` ZHDZ01p0743 · `ZHnum` ZH01_070 · `X新文豐` XWDZ56p0448 · `涵芬樓` HFL廣下026
+
+洞真太上紫文丹章  
+DZ:   DZ1335  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1336 洞真太上金篇虎符真文經 Dongzhen taishang jinpian hufu zhenwen jing
+
+[KR5g0145](https://github.com/kanripo/KR5g0145) · `CUSTOM_ID` DZ1336 · `HK` CH07144 · `凱希` KX1356 · `三家本` Vol 33, p0570b · `Z中華道藏` ZHDZ01p0460 · `ZHnum` ZH01_048 · `X新文豐` XWDZ56p0451 · `涵芬樓` HFL廣下036
+
+洞真太上金篇虎符真文經  
+DZ:   DZ1336  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1337 洞真太微金虎真符 Dongzhen taiwei jinhu zhenfu
+
+[KR5g0146](https://github.com/kanripo/KR5g0146) · `CUSTOM_ID` DZ1337 · `HK` CH07145 · `凱希` KX1357 · `三家本` Vol 33, p0572b · `Z中華道藏` ZHDZ01p0454 · `ZHnum` ZH01_047 · `X新文豐` XWDZ56p0454 · `涵芬樓` HFL廣下048
+
+洞真太微金虎真符  
+DZ:   DZ1337  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1338 洞真太上太素玉籙 Dongzhen taishang taisu yulu
+
+[KR5g0147](https://github.com/kanripo/KR5g0147) · `CUSTOM_ID` DZ1338 · `HK` CH07146 · `凱希` KX1358 · `三家本` Vol 33, p0578a · `Z中華道藏` ZHDZ02p0455 · `ZHnum` ZH02_054 · `X新文豐` XWDZ56p0463 · `涵芬樓` HFL廣下082
+
+洞真太上太素玉籙  
+DZ:   DZ1338  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1339 洞真八景玉籙晨圖隱符 Dongzhen bajing yulu chentu yinfu
+
+[KR5g0148](https://github.com/kanripo/KR5g0148) · `CUSTOM_ID` DZ1339 · `HK` CH07147 · `凱希` KX1359 · `三家本` Vol 33, p0580c · `Z中華道藏` ZHDZ02p0563 · `ZHnum` ZH02_078 · `X新文豐` XWDZ56p0467 · `涵芬樓` HFL廣下097
+
+洞真八景玉籙晨圖隱符  
+DZ:   DZ1339  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1340 洞真太上倉元上錄 Dongzhen taishang cangyuan shanglu
+
+[KR5g0149](https://github.com/kanripo/KR5g0149) · `CUSTOM_ID` DZ1340 · `HK` CH07148 · `凱希` KX1360 · `三家本` Vol 33, p0583b · `Z中華道藏` ZHDZ02p0783 · `ZHnum` ZH02_098 · `X新文豐` XWDZ56p0471 · `涵芬樓` HFL廣下114
+
+洞真太上倉元上錄  
+DZ:   DZ1340  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1341 洞真太上上皇民籍定真玉籙 Dongzhen taishang shanghuang minji dingzhen
+
+[KR5g0150](https://github.com/kanripo/KR5g0150) · `CUSTOM_ID` DZ1341 · `HK` CH07149 · `凱希` KX1361 · `三家本` Vol 33, p0585c · `Z中華道藏` ZHDZ02p0786 · `ZHnum` ZH02_099 · `X新文豐` XWDZ56p0475 · `涵芬樓` HFL廣下128
+
+洞真太上上皇民籍定真玉籙  
+DZ:   DZ1341  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1342 洞真太上紫書籙傳 Dongzhen taishang zishu yuzhuan yulu
+
+[KR5g0151](https://github.com/kanripo/KR5g0151) · `CUSTOM_ID` DZ1342 · `HK` CH07150 · `凱希` KX1362 · `三家本` Vol 33, p0587c · `Z中華道藏` ZHDZ02p0463 · `ZHnum` ZH02_057 · `X新文豐` XWDZ56p0478 · `涵芬樓` HFL廣下140
+
+洞真太上紫書籙傳  
+DZ:   DZ1342  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1343 洞真黃書 Dongzhen huangshu
+
+[KR5g0152](https://github.com/kanripo/KR5g0152) · `CUSTOM_ID` DZ1343 · `HK` CH07151 · `凱希` KX1363 · `三家本` Vol 33, p0591c · `Z中華道藏` ZHDZ08p0518 · `ZHnum` ZH08_049 · `X新文豐` XWDZ56p0484 · `涵芬樓` HFL廣下164
+
+洞真黃書  
+DZ:   DZ1343  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1344 洞真太上說智慧消魔真經 Dongzhen taishang shuo zhihui xiaomo zhenjing
+
+[KR5g0153](https://github.com/kanripo/KR5g0153) · `CUSTOM_ID` DZ1344 · `HK` CH07152 · `凱希` KX1364 · `三家本` Vol 33, p0597a · `Z中華道藏` ZHDZ02p0468 · `ZHnum` ZH02_058 · `X新文豐` XWDZ56p0493 · `涵芬樓` HFL內上004
+
+洞真太上說智慧消魔真經  
+DZ:   DZ1344  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1345 洞真太上真君元丹上經 Dongzhen taishang zhenjun yuandan shangjing
+
+[KR5g0154](https://github.com/kanripo/KR5g0154) · `CUSTOM_ID` DZ1345 · `HK` CH07153 · `凱希` KX1365 · `三家本` Vol 33, p0614a · `Z中華道藏` ZHDZ01p0131 · `ZHnum` ZH01_008 · `X新文豐` XWDZ56p0519 · `涵芬樓` HFL內上106
+
+洞真太上道君元丹上經  
+DZ:   DZ1345  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1346 洞真金房度命錄字迴年三華寶曜內真上經 Dongzhen jinfang duming luzi huinian sanhua baoyao neizhen shangjing
+
+[KR5g0155](https://github.com/kanripo/KR5g0155) · `CUSTOM_ID` DZ1346 · `HK` CH07154 · `凱希` KX1366 · `三家本` Vol 33, p0627c · `Z中華道藏` ZHDZ02p0405 · `ZHnum` ZH02_039 · `X新文豐` XWDZ56p0541 · `涵芬樓` HFL內下004
+
+洞真金房度命綠字迴年三華寶曤內真上經  
+DZ:   DZ1346  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1351 洞真太上飛行羽經九真昇玄上記 Dongzhen taishang feixing yujing jiuzhen shengxuan shangji
+
+[KR5g0160](https://github.com/kanripo/KR5g0160) · `CUSTOM_ID` DZ1351 · `HK` CH07155 · `凱希` KX1371 · `三家本` Vol 33, p0641a · `Z中華道藏` ZHDZ02p0001 · `ZHnum` ZH02_001 · `X新文豐` XWDZ56p0547 · `涵芬樓` HFL內下084
+
+洞真太上飛行羽經九真昇玄上記  
+DZ:   DZ1351  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1347 洞真太上上清內經 Dongzhen taishang shangqing neijing
+
+[KR5g0156](https://github.com/kanripo/KR5g0156) · `CUSTOM_ID` DZ1347 · `HK` CH07156 · `凱希` KX1367 · `三家本` Vol 33, p0631b · `Z中華道藏` ZHDZ02p0459 · `ZHnum` ZH02_056 · `X新文豐` XWDZ56p0553 · `涵芬樓` HFL內下026
+
+洞真太上上清內經  
+DZ:   DZ1347  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1348 洞真太上丹景道精經 Dongzhen taishang danjing daojing jing
+
+[KR5g0157](https://github.com/kanripo/KR5g0157) · `CUSTOM_ID` DZ1348 · `HK` CH07157 · `凱希` KX1368 · `三家本` Vol 33, p0635a · `Z中華道藏` ZHDZ02p0487 · `ZHnum` ZH02_060 · `X新文豐` XWDZ56p0557 · `涵芬樓` HFL內下048
+
+洞真太上丹景道精經  
+DZ:   DZ1348  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1349 洞真太上青牙始生經 Dongzhen taishang qingya shisheng jing
+
+[KR5g0158](https://github.com/kanripo/KR5g0158) · `CUSTOM_ID` DZ1349 · `HK` CH07158 · `凱希` KX1369 · `三家本` Vol 33, p0637c · `Z中華道藏` ZHDZ02p0486 · `ZHnum` ZH02_059 · `X新文豐` XWDZ56p0559 · `涵芬樓` HFL內下064
+
+洞真太上青芽始生經  
+DZ:   DZ1349  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1350 洞真三天秘諱 Dongzhen santian bihui
+
+[KR5g0159](https://github.com/kanripo/KR5g0159) · `CUSTOM_ID` DZ1350 · `HK` CH07159 · `凱希` KX1370 · `三家本` Vol 33, p0638c · `Z中華道藏` ZHDZ08p0533 · `ZHnum` ZH08_051 · `X新文豐` XWDZ56p0563 · `涵芬樓` HFL內下070
+
+洞真三天秘諱  
+DZ:   DZ1350  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1352 洞真太上太霄琅書 Dongzhen taishang taixiao langshu
+
+[KR5g0161](https://github.com/kanripo/KR5g0161) · `CUSTOM_ID` DZ1352 · `HK` CH07160 · `凱希` KX1372 · `三家本` Vol 33, p0645b · `Z中華道藏` ZHDZ01p0646 · `ZHnum` ZH01_067 · `X新文豐` XWDZ56p0571 · `涵芬樓` HFL左上004
+
+洞真太上太霄琅書  
+DZJY: JY121  
+DZJY0: JY121  
+DZ:   DZ1352  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1353 上清道寶經 Shangqing dao baojing
+
+[KR5g0162](https://github.com/kanripo/KR5g0162) · `CUSTOM_ID` DZ1353 · `HK` CH07161 · `凱希` KX1373 · `三家本` Vol 33, p0699c · `Z中華道藏` ZHDZ28p0480 · `ZHnum` ZH28_008 · `X新文豐` XWDZ56p0659 · `涵芬樓` HFL達上004
+
+上清道寶經  
+DZ:   DZ1353  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1354 上清太上開天龍蹻經 Shangqing taishang kaitian longqiao jing
+
+[KR5g0163](https://github.com/kanripo/KR5g0163) · `CUSTOM_ID` DZ1354 · `HK` CH07162 · `凱希` KX1374 · `三家本` Vol 33, p0731a · `Z中華道藏` ZHDZ02p0789 · `ZHnum` ZH02_100 · `X新文豐` XWDZ56p0709 · `涵芬樓` HFL達下048
+
+上清太上開天龍蹻經  
+DZ:   DZ1354  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1355 上清太上玉清隱書滅魔神慧高玄真經 Shangqing taishang yuqing yinshu miemo shenhui gaoxuan zhenjing
+
+[KR5g0164](https://github.com/kanripo/KR5g0164) · `CUSTOM_ID` DZ1355 · `HK` CH07163 · `凱希` KX1375 · `三家本` Vol 33, p0748c · `Z中華道藏` ZHDZ01p0707 · `ZHnum` ZH01_069 · `X新文豐` XWDZ56p0737 · `涵芬樓` HFL承上004
+
+上清太上玉清隱書滅魔神慧高玄真經  
+DZ:   DZ1355  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1356 上清高上滅魔玉帝神慧玉清隱書 Shangqing gaoshang miemo yudi shenhui yuqing yinshu
+
+[KR5g0165](https://github.com/kanripo/KR5g0165) · `CUSTOM_ID` DZ1356 · `HK` CH07164 · `凱希` KX1376 · `三家本` Vol 33, p0762c · `Z中華道藏` ZHDZ01p0722 · `ZHnum` ZH01_069 · `X新文豐` XWDZ56p0759 · `涵芬樓` HFL承上088
+
+上清高上滅魔玉帝神慧玉清隱書  
+DZ:   DZ1356  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1357 上清高上滅魔洞景金元玉清隱書經 Shangqing gaoshang miemo dongjing jinyuan yuqing yinshu jing
+
+[KR5g0166](https://github.com/kanripo/KR5g0166) · `CUSTOM_ID` DZ1357 · `HK` CH07165 · `凱希` KX1377 · `三家本` Vol 33, p0769b · `Z中華道藏` ZHDZ01p0729 · `ZHnum` ZH01_069 · `X新文豐` XWDZ56p0769 · `涵芬樓` HFL承上128
+
+上清高上滅魔洞景金元玉清隱書經  
+DZ:   DZ1357  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1358 上清高上金元羽章玉清隱書經 Shangqing gaoshang jinyuan yuzhang yuqing yinshu jing
+
+[KR5g0167](https://github.com/kanripo/KR5g0167) · `CUSTOM_ID` DZ1358 · `HK` CH07166 · `凱希` KX1378 · `三家本` Vol 33, p0773a · `Z中華道藏` ZHDZ01p0733 · `ZHnum` ZH01_069 · `X新文豐` XWDZ56p0775 · `涵芬樓` HFL承上150
+
+上清高上金元羽章玉清隱書經  
+DZ:   DZ1358  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1359 上清丹景道精隱地八術經 Shangqing danjing daojing yindi bashu jing
+
+[KR5g0168](https://github.com/kanripo/KR5g0168) · `CUSTOM_ID` DZ1359 · `HK` CH07167 · `凱希` KX1379 · `三家本` Vol 33, p0782b · `Z中華道藏` ZHDZ01p0360 · `ZHnum` ZH01_037 · `X新文豐` XWDZ56p0789 · `涵芬樓` HFL承下004
+
+上清丹景道精隱地八術經  
+DZ:   DZ1359  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1360 上清九天上帝祝百神內名經 Shangqing jiutian shangdi zhu baishen neiming jing
+
+[KR5g0169](https://github.com/kanripo/KR5g0169) · `CUSTOM_ID` DZ1360 · `HK` CH07168 · `凱希` KX1380 · `三家本` Vol 33, p0788b · `Z中華道藏` ZHDZ01p0102 · `ZHnum` ZH01_006 · `X新文豐` XWDZ56p0799 · `涵芬樓` HFL承下040
+
+上清九天上帝祝百神內名經  
+DZ:   DZ1360  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1361 上清七聖玄紀經 Shangqing qisheng xuanji jing
+
+[KR5g0170](https://github.com/kanripo/KR5g0170) · `CUSTOM_ID` DZ1361 · `HK` CH07169 · `凱希` KX1381 · `三家本` Vol 33, p0791b · `Z中華道藏` ZHDZ02p0111 · `ZHnum` ZH02_020 · `X新文豐` XWDZ56p0804 · `涵芬樓` HFL承下058
+
+上清七聖玄紀經  
+DZ:   DZ1361  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1362 上清太上迴元隱道除罪籍經 Shangqing taishang huiyuan yindao chuzui jijing
+
+[KR5g0171](https://github.com/kanripo/KR5g0171) · `CUSTOM_ID` DZ1362 · `HK` CH07170 · `凱希` KX1382 · `三家本` Vol 33, p0792b · `Z中華道藏` ZHDZ01p0256 · `ZHnum` ZH01_025 · `X新文豐` XWDZ56p0806 · `涵芬樓` HFL承下064
+
+上清太上迴元隱道除罪籍經  
+DZ:   DZ1362  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1363 上清太極真人撰所施行秘要經 Shangqing taiji zhenren zhuansuo shixing biyao jing
+
+[KR5g0172](https://github.com/kanripo/KR5g0172) · `CUSTOM_ID` DZ1363 · `HK` CH07171 · `凱希` KX1383 · `三家本` Vol 33, p0794c · `Z中華道藏` ZHDZ02p0307 · `ZHnum` ZH02_027 · `X新文豐` XWDZ56p0810 · `涵芬樓` HFL承下078
+
+上清太極真人撰所施行秘要經  
+DZ:   DZ1363  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1364 上清洞真智慧觀身大戒文 Shangqing dongzhen zhihui guanshen dajie wen +
+
+[KR5g0173](https://github.com/kanripo/KR5g0173) · `CUSTOM_ID` DZ1364 · `HK` CH07172 · `凱希` KX1384 · `三家本` Vol 33, p0797a · `Z中華道藏` ZHDZ02p0735 · `ZHnum` ZH02_095 · `X新文豐` XWDZ56p0814 · `涵芬樓` HFL承下092
+
+上清洞真智慧觀身大戒文  
+DZ:   DZ1364  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1365 上清元始譜錄太真玉訣 Shangqing yuanshi pulu taizhen yujue
+
+[KR5g0174](https://github.com/kanripo/KR5g0174) · `CUSTOM_ID` DZ1365 · `HK` CH07173 · `凱希` KX1385 · `三家本` Vol 33, p0805a · `Z中華道藏` ZHDZ02p0615 · `ZHnum` ZH02_083 · `X新文豐` XWDZ56p0826 · `涵芬樓` HFL承下140
+
+上清元始譜籙太真玉訣  
+DZ:   DZ1365  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1366 上清天關三圖經 Shangqing tianguan santu jing
+
+[KR5g0175](https://github.com/kanripo/KR5g0175) · `CUSTOM_ID` DZ1366 · `HK` CH07174 · `凱希` KX1386 · `三家本` Vol 33, p0808b · `Z中華道藏` ZHDZ01p0415 · `ZHnum` ZH01_043 · `X新文豐` XWDZ57p0001 · `涵芬樓` HFL明上004
+
+上清天關三圖經  
+DZ:   DZ1366  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1367 上清河圖內玄經 Shangqing hetu neixuan jing
+
+[KR5g0176](https://github.com/kanripo/KR5g0176) · `CUSTOM_ID` DZ1367 · `HK` CH07175 · `凱希` KX1387 · `三家本` x · `Z中華道藏` ZHDZ02p0049 · `ZHnum` ZH02_006 · `X新文豐` XWDZ57p0018 · `涵芬樓` HFL明上068
+
+上清河圖內玄經  
+DZ:   DZ1367  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1368 上清迴神飛霄登空招五星上法經 Shangqing huishen feixiao dengkong zhao wuxing shangfa jing
+
+[KR5g0177](https://github.com/kanripo/KR5g0177) · `CUSTOM_ID` DZ1368 · `HK` CH07176 · `凱希` KX1388 · `三家本` Vol 33, p0830a · `Z中華道藏` ZHDZ02p0419 · `ZHnum` ZH02_043 · `X新文豐` XWDZ57p0035 · `涵芬樓` HFL明上134
+
+上清迴神飛霄登空招五星上法經  
+DZ:   DZ1368  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1369 上清化形隱景登昇保仙上經 Shangqing huaxing yinjing dengsheng baoxian shangjing
+
+[KR5g0178](https://github.com/kanripo/KR5g0178) · `CUSTOM_ID` DZ1369 · `HK` CH07177 · `凱希` KX1389 · `三家本` Vol 33, p0832c · `Z中華道藏` ZHDZ02p0422 · `ZHnum` ZH02_044 · `X新文豐` XWDZ57p0039 · `涵芬樓` HFL明上150
+
+上清化形隱景登昇保仙上經  
+DZ:   DZ1369  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1370 上清迴耀飛光日月精華上經 Shangqing huiyao feiguang riyue jinghua shangjing
+
+[KR5g0179](https://github.com/kanripo/KR5g0179) · `CUSTOM_ID` DZ1370 · `HK` CH07178 · `凱希` KX1390 · `三家本` Vol 33, p0834b · `Z中華道藏` ZHDZ02p0521 · `ZHnum` ZH02_069 · `X新文豐` XWDZ57p0042 · `涵芬樓` HFL明上160
+
+上清迴耀飛光日月精華上經  
+DZ:   DZ1370  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1371 上清素靈上篇 Shangqing suling shangpian
+
+[KR5g0180](https://github.com/kanripo/KR5g0180) · `CUSTOM_ID` DZ1371 · `HK` CH07179 · `凱希` KX1391 · `三家本` Vol 33, p0836a · `Z中華道藏` ZHDZ01p0148 · `ZHnum` ZH01_010 · `X新文豐` XWDZ57p0045 · `涵芬樓` HFL明上170
+
+上清素靈上篇  
+DZ:   DZ1371  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1372 上清高上玉晨鳳臺曲素上經 Shangqing gaoshang yuchen fengtai qusu shangjing
+
+[KR5g0181](https://github.com/kanripo/KR5g0181) · `CUSTOM_ID` DZ1372 · `HK` CH07180 · `凱希` KX1392 · `三家本` Vol 34, p0001a · `Z中華道藏` ZHDZ01p0477 · `ZHnum` ZH01_053 · `X新文豐` XWDZ57p0051 · `涵芬樓` HFL明下004
+
+上清高上玉晨鳳臺曲素上經  
+DZ:   DZ1372  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1373 上清外國放品青童內文 Shangqing waiguo fangpin qingtong neiwen
+
+[KR5g0182](https://github.com/kanripo/KR5g0182) · `CUSTOM_ID` DZ1373 · `HK` CH07181 · `凱希` KX1393 · `三家本` Vol 34, p0008c · `Z中華道藏` ZHDZ01p0278 · `ZHnum` ZH01_029 · `X新文豐` XWDZ57p0063 · `涵芬樓` HFL明下050
+
+上清外國放品青童內文  
+DZ:   DZ1373  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1374 上清諸真人授經時頌金真章 Shangqing zhu zhenren shoujing shisong jinzhen zhang
+
+[KR5g0183](https://github.com/kanripo/KR5g0183) · `CUSTOM_ID` DZ1374 · `HK` CH07182 · `凱希` KX1394 · `三家本` Vol 34, p0029b · `Z中華道藏` ZHDZ02p0503 · `ZHnum` ZH02_065 · `X新文豐` XWDZ57p0094 · `涵芬樓` HFL明下174
+
+上清諸真人授經時頌金真章  
+DZ:   DZ1374  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1375 上清無上金元玉清金真飛元步虛玉章 Shangqing wushang jinyuan yuqing jinzhen feiyuan buxu yuzhang
+
+[KR5g0184](https://github.com/kanripo/KR5g0184) · `CUSTOM_ID` DZ1375 · `HK` CH07183 · `凱希` KX1395 · `三家本` Vol 34, p0031a · `Z中華道藏` ZHDZ02p0505 · `ZHnum` ZH02_066 · `X新文豐` XWDZ57p0097 · `涵芬樓` HFL明下184
+
+上清無上金元玉清金真飛元步虛玉章  
+DZ:   DZ1375  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1376 上清太上帝君九真中經 Shangqing taishang dijun jiuzhen zhongjing +
+
+[KR5g0185](https://github.com/kanripo/KR5g0185) · `CUSTOM_ID` DZ1376 · `HK` CH07184 · `凱希` KX1396 · `三家本` Vol 34, p0033a · `Z中華道藏` ZHDZ01p0222 · `ZHnum` ZH01_021 · `X新文豐` XWDZ57p0101 · `涵芬樓` HFL既上004
+
+上清太上帝君九真中經  
+DZ:   DZ1376  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1377 上清太上九真中經降生神丹訣 Shangqing taishang jiuzhen zhongjing jiangsheng shendan jue
+
+[KR5g0186](https://github.com/kanripo/KR5g0186) · `CUSTOM_ID` DZ1377 · `HK` CH07185 · `凱希` KX1397 · `三家本` Vol 34, p0046c · `Z中華道藏` ZHDZ01p0237 · `ZHnum` ZH01_022 · `X新文豐` XWDZ57p0122 · `涵芬樓` HFL既上086
+
+上清太上九真中經絳生神丹訣  
+DZ:   DZ1377  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1378 上清金真玉光八景飛經 Shangqing jinzhen yuguang bajing feijing
+
+[KR5g0187](https://github.com/kanripo/KR5g0187) · `CUSTOM_ID` DZ1378 · `HK` CH07186 · `凱希` KX1398 · `三家本` Vol 34, p0054a · `Z中華道藏` ZHDZ01p0161 · `ZHnum` ZH01_012 · `X新文豐` XWDZ57p0133 · `涵芬樓` HFL既上130
+
+上清金真玉光八景飛經  
+DZ:   DZ1378  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1379 上清玉帝七聖玄紀迴天九霄經 Shangqing yudi qisheng xuanji huitian jiuxiao jing
+
+[KR5g0188](https://github.com/kanripo/KR5g0188) · `CUSTOM_ID` DZ1379 · `HK` CH07187 · `凱希` KX1399 · `三家本` Vol 34, p0062b · `Z中華道藏` ZHDZ01p0616 · `ZHnum` ZH01_064 · `X新文豐` XWDZ57p0147 · `涵芬樓` HFL既下004
+
+上清玉帝七聖玄紀迴天九霄經  
+DZ:   DZ1379  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1380 上清太上黃素四十四方經 Shangqing taishang huangsu sishisi fang jing
+
+[KR5g0189](https://github.com/kanripo/KR5g0189) · `CUSTOM_ID` DZ1380 · `HK` CH07188 · `凱希` KX1400 · `三家本` Vol 34, p0073a · `Z中華道藏` ZHDZ01p0628 · `ZHnum` ZH01_065 · `X新文豐` XWDZ57p0164 · `涵芬樓` HFL既下068
+
+上清太上黃素四十四方經  
+DZ:   DZ1380  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1381 上清明堂玄丹真經 Shangqing mingtang xuandan zhenjing
+
+[KR5g0190](https://github.com/kanripo/KR5g0190) · `CUSTOM_ID` DZ1381 · `HK` CH07189 · `凱希` KX1401 · `三家本` Vol 34, p0080a · `Z中華道藏` ZHDZ01p0146 · `ZHnum` ZH01_009 · `X新文豐` XWDZ57p0175 · `涵芬樓` HFL既下110
+
+上清明堂玄丹真經  
+DZ:   DZ1381  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1382 上清九丹上化胎精中記經 Shangqing jiudan shanghua taijing zhongji jing
+
+[KR5g0191](https://github.com/kanripo/KR5g0191) · `CUSTOM_ID` DZ1382 · `HK` CH07190 · `凱希` KX1402 · `三家本` Vol 34, p0082a · `Z中華道藏` ZHDZ01p0427 · `ZHnum` ZH01_044 · `X新文豐` XWDZ57p0178 · `涵芬樓` HFL既下122
+
+上清九丹上化胎精中記經  
+DZ:   DZ1382  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1383 上清太上元始耀光金虎鳳文章寶經 Shangqing taishang yuanshi yaoguang jin hufeng wenzhang baojing
+
+[KR5g0192](https://github.com/kanripo/KR5g0192) · `CUSTOM_ID` DZ1383 · `HK` CH07191 · `凱希` KX1403 · `三家本` Vol 34, p0091a · `Z中華道藏` ZHDZ01p0472 · `ZHnum` ZH01_052 · `X新文豐` XWDZ57p0192 · `涵芬樓` HFL既下176
+
+上清太上元始耀光金虎鳳文章寶經  
+DZ:   DZ1383  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1384 上清太一帝君太丹隱書解胞十二結節圖訣 Shangqing taiyi dijun taidan yinshu jiebao shier jiejie tujue
+
+[KR5g0193](https://github.com/kanripo/KR5g0193) · `CUSTOM_ID` DZ1384 · `HK` CH07192 · `凱希` KX1404 · `三家本` Vol 34, p0096a · `Z中華道藏` ZHDZ01p0397 · `ZHnum` ZH01_041 · `X新文豐` XWDZ57p0200 · `涵芬樓` HFL既下206
+
+上清太一帝君太丹隱書解胞十二結節圖訣  
+DZ:   DZ1384  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1385 上清洞真天寶大洞三景胞籙 Shangqing dongzhen tianbao dadong sanjing baolu
+
+[KR5g0194](https://github.com/kanripo/KR5g0194) · `CUSTOM_ID` DZ1385 · `HK` CH07193 · `凱希` KX1405 · `三家本` Vol 34, p0101b · `Z中華道藏` ZHDZ02p0566 · `ZHnum` ZH02_079 · `X新文豐` XWDZ57p0209 · `涵芬樓` HFL集上004
+
+上清洞真天寶大洞三景寶籙  
+DZ:   DZ1385  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1386 上清大洞三景玉清隱書訣籙 Shangqing dadong sanjing yuqing yinshu juelu
+
+[KR5g0195](https://github.com/kanripo/KR5g0195) · `CUSTOM_ID` DZ1386 · `HK` CH07194 · `凱希` KX1406 · `三家本` Vol 34, p0126c · `Z中華道藏` ZHDZ02p0591 · `ZHnum` ZH02_080 · `X新文豐` XWDZ57p0249 · `涵芬樓` HFL集中004
+
+上清大洞三景玉清隱書訣籙  
+DZ:   DZ1386  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1387 上清元始高上玉皇九天譜錄 Shangqing yuanshi gaoshang yuhuang jiutian pulu
+
+[KR5g0196](https://github.com/kanripo/KR5g0196) · `CUSTOM_ID` DZ1387 · `HK` CH07195 · `凱希` KX1407 · `三家本` Vol 34, p0132a · `Z中華道藏` ZHDZ02p0619 · `ZHnum` ZH02_084 · `X新文豐` XWDZ57p0158 · `涵芬樓` HFL集中036
+
+上清元始高上玉皇九天譜籙  
+DZ:   DZ1387  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1388 上清金真玉皇上元九天真靈三百六十五部元錄 Shangqing jinzhen yuhuang shangyuan jiutian zhenling sanbai liushiwu bu yuanlu
+
+[KR5g0197](https://github.com/kanripo/KR5g0197) · `CUSTOM_ID` DZ1388 · `HK` CH07196 · `凱希` KX1408 · `三家本` Vol 34, p0137b · `Z中華道藏` ZHDZ02p0647 · `ZHnum` ZH02_089 · `X新文豐` XWDZ57p0266 · `涵芬樓` HFL集中068
+
+上清金真玉皇上元九天真靈二百六十五部元錄  
+DZ:   DZ1388  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1389 上清高上太上大道君洞真金元八景玉錄 Shangqing gaosheng taishang da daojun dongzhen jinyuan bajing yulu
+
+[KR5g0198](https://github.com/kanripo/KR5g0198) · `CUSTOM_ID` DZ1389 · `HK` CH07197 · `凱希` KX1409 · `三家本` Vol 34, p0145c · `Z中華道藏` ZHDZ02p0556 · `ZHnum` ZH02_077 · `X新文豐` XWDZ57p0279 · `涵芬樓` HFL集中118
+
+上清高聖太上大道君洞真金元八景玉錄  
+DZ:   DZ1389  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1390 上清洞天三五金剛玄籙儀經 Shangqing dongtian san wu jin gang xuanlu yijing
+
+[KR5g0199](https://github.com/kanripo/KR5g0199) · `CUSTOM_ID` DZ1390 · `HK` CH07198 · `凱希` KX1410 · `三家本` Vol 34, p0151b · `Z中華道藏` ZHDZ08p0462 · `ZHnum` ZH08_035 · `X新文豐` XWDZ57p0289 · `涵芬樓` HFL集下004
+
+上清洞天三五金剛玄籙儀經  
+DZ:   DZ1390  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1391 上清瓊宮靈飛六甲錄 Shangqing qionggong lingfei liujia lu
+
+[KR5g0200](https://github.com/kanripo/KR5g0200) · `CUSTOM_ID` DZ1391 · `HK` CH07199 · `凱希` KX1411 · `三家本` Vol 34, p0161b · `Z中華道藏` ZHDZ01p0510 · `ZHnum` ZH01_058 · `X新文豐` XWDZ57p0305 · `涵芬樓` HFL集下064
+
+上清瓊宮靈飛六甲籙  
+DZ:   DZ1391  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1392 上清曲素訣辭籙 Shangqing qusu jue cilu
+
+[KR5g0201](https://github.com/kanripo/KR5g0201) · `CUSTOM_ID` DZ1392 · `HK` CH07200 · `凱希` KX1412 · `三家本` Vol 34, p0169a · `Z中華道藏` ZHDZ01p0486 · `ZHnum` ZH01_054 · `X新文豐` XWDZ57p0317 · `涵芬樓` HFL集下110
+
+上清曲素訣辭籙  
+DZ:   DZ1392  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1393 上清元始變化寶真上經九靈太妙龜山玄籙 Shangqing yuanshi bianhua baozhen shangjing jiuling taimiao guishan xuanlu
+
+[KR5g0202](https://github.com/kanripo/KR5g0202) · `CUSTOM_ID` DZ1393 · `HK` CH07201 · `凱希` KX1413 · `三家本` Vol 34, p0177a · `Z中華道藏` ZHDZ01p0533 · `ZHnum` ZH01_061 · `X新文豐` XWDZ57p0329 · `涵芬樓` HFL墳上004
+
+上清元始變化寶真上經九靈大妙龜山玄籙  
+DZ:   DZ1393  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1394 上清高上龜山玄籙 Shangqing gaoshang guishan xuanlu
+
+[KR5g0203](https://github.com/kanripo/KR5g0203) · `CUSTOM_ID` DZ1394 · `HK` CH07202 · `凱希` KX1414 · `三家本` Vol 34, p0230a · `Z中華道藏` ZHDZ01p0604 · `ZHnum` ZH01_063 · `X新文豐` XWDZ57p0410 · `涵芬樓` HFL墳下118
+
+上清高上龜山玄籙  
+DZ:   DZ1394  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1395 上清大洞九微八道大經妙籙 Shangqing dadong jiuwei badao dajing miaolu
+
+[KR5g0204](https://github.com/kanripo/KR5g0204) · `CUSTOM_ID` DZ1395 · `HK` CH07203 · `凱希` KX1415 · `三家本` Vol 34, p0243a · `Z中華道藏` ZHDZ01p0264 · `ZHnum` ZH01_027 · `X新文豐` XWDZ57p0430 · `涵芬樓` HFL墳下196
+
+上清大洞九微八道大經妙籙  
+DZ:   DZ1395  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1396 上清河圖寶籙 Shangqing hetu baolu
+
+[KR5g0205](https://github.com/kanripo/KR5g0205) · `CUSTOM_ID` DZ1396 · `HK` CH07204 · `凱希` KX1416 · `三家本` Vol 34, p0245a · `Z中華道藏` ZHDZ02p0061 · `ZHnum` ZH02_007 · `X新文豐` XWDZ57p0433 · `涵芬樓` HFL墳下208
+
+上清河圖寶籙  
+DZ:   DZ1396  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1397 四斗二十八宿天帝大籙 Sidou ershiba su tiandi dalu
+
+[KR5g0206](https://github.com/kanripo/KR5g0206) · `CUSTOM_ID` DZ1397 · `HK` CH07205 · `凱希` KX1417 · `三家本` Vol 34, p0247c · `Z中華道藏` ZHDZ08p0444 · `ZHnum` ZH08_031 · `X新文豐` XWDZ57p0437 · `涵芬樓` HFL墳下224
+
+四斗二十八宿天帝大籙  
+DZ:   DZ1397  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1398 大乘妙林經 Dasheng miaolin jing
+
+[KR5g0207](https://github.com/kanripo/KR5g0207) · `CUSTOM_ID` DZ1398 · `HK` CH07206 · `凱希` KX1418 · `三家本` Vol 34, p0254c · `Z中華道藏` ZHDZ05p0464 · `ZHnum` ZH05_024 · `X新文豐` XWDZ57p0449 · `涵芬樓` HFL典上004
+
+大乘妙林經  
+DZJY: JY009  
+DZJY0: JY009  
+DZ:   DZ1398  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1399 太上元寶金庭無為妙經 Taishang yuanbao jinting wuwei miaojing
+
+[KR5g0208](https://github.com/kanripo/KR5g0208) · `CUSTOM_ID` DZ1399 · `HK` CH07207 · `凱希` KX1419 · `三家本` Vol 34, p0275b · `Z中華道藏` ZHDZ19p0032 · `ZHnum` ZH19_008 · `X新文豐` XWDZ57p0481 · `涵芬樓` HFL典上128
+
+太上元寶金庭無為妙經  
+DZ:   DZ1399  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1400 上清黃庭養神經 Shangqing huangting yangshen jing
+
+[KR5g0209](https://github.com/kanripo/KR5g0209) · `CUSTOM_ID` DZ1400 · `HK` CH07208 · `凱希` KX1420 · `三家本` Vol 34, p0281b · `Z中華道藏` ZHDZ23p0095 · `ZHnum` ZH23_009 · `X新文豐` XWDZ57p0490 · `涵芬樓` HFL典上164
+
+上清黃庭養神經  
+DZ:   DZ1400  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1401 太上黃庭中景經 Taishang huangting zhongjing jing
+
+[KR5g0210](https://github.com/kanripo/KR5g0210) · `CUSTOM_ID` DZ1401 · `HK` CH07209 · `凱希` KX1421 · `三家本` Vol 34, p0284c · `Z中華道藏` ZHDZ23p0085 · `ZHnum` ZH23_008 · `X新文豐` XWDZ57p0495 · `涵芬樓` HFL典下004
+
+太上黃庭中景經(金-李千乘)  
+DZJY: JY079  
+DZJY0: JY079  
+DZ:   DZ1401  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1402 上清黃庭五臟六腑真人玉軸經 Shangqing huangting wuzang liufu zhenren yuzhu jing
+
+[KR5g0211](https://github.com/kanripo/KR5g0211) · `CUSTOM_ID` DZ1402 · `HK` CH07210 · `凱希` KX1422 · `三家本` Vol 34, p0289a · `Z中華道藏` ZHDZ23p0103 · `ZHnum` ZH23_011 · `X新文豐` XWDZ57p0502 · `涵芬樓` HFL典下030
+
+上清黃庭五臟六府真人玉軸經  
+DZ:   DZ1402  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1403 上清僊府瓊林經 Shangqing xianfu qionglin jing
+
+[KR5g0212](https://github.com/kanripo/KR5g0212) · `CUSTOM_ID` DZ1403 · `HK` CH07211 · `凱希` KX1423 · `三家本` Vol 34, p0293a · `Z中華道藏` ZHDZ02p0392 · `ZHnum` ZH02_037 · `X新文豐` XWDZ57p0508 · `涵芬樓` HFL典下054
+
+上清僊府瓊林經  
+DZ:   DZ1403  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1404 上清太極真人神仙經 Shangqing taiji zhenren shenxian jing
+
+[KR5g0213](https://github.com/kanripo/KR5g0213) · `CUSTOM_ID` DZ1404 · `HK` CH07212 · `凱希` KX1424 · `三家本` Vol 34, p0301a · `Z中華道藏` ZHDZ02p0315 · `ZHnum` ZH02_029 · `X新文豐` XWDZ57p0520 · `涵芬樓` HFL典下102
+
+上清太極真人神仙經  
+DZ:   DZ1404  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1405 長生胎元神用經 Changsheng taiyuan shenyong jing
+
+[KR5g0214](https://github.com/kanripo/KR5g0214) · `CUSTOM_ID` DZ1405 · `HK` CH07213 · `凱希` KX1425 · `三家本` Vol 34, p0309c · `Z中華道藏` ZHDZ23p0203 · `ZHnum` ZH23_034 · `X新文豐` XWDZ57p0533 · `涵芬樓` HFL典下154
+
+長生胎元神用經(郎肇)  
+DZJY: JY124  
+DZJY0: JY124  
+DZ:   DZ1405  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1406 太上靈寶芝草品 Taishang lingbao zhicao pin
+
+[KR5g0215](https://github.com/kanripo/KR5g0215) · `CUSTOM_ID` DZ1406 · `HK` CH07214 · `凱希` KX1426 · `三家本` Vol 34, p0316a · `Z中華道藏` ZHDZ04p0031 · `ZHnum` ZH04_005 · `X新文豐` XWDZ57p0543 · `涵芬樓` HFL亦上004
+
+太上靈寶芝草品  
+DZ:   DZ1406  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1407 洞玄靈寶二十四生圖經 Dongxuan lingbao ershisi shengtu jing
+
+[KR5g0216](https://github.com/kanripo/KR5g0216) · `CUSTOM_ID` DZ1407 · `HK` CH07215 · `凱希` KX1427 · `三家本` Vol 34, p0337b · `Z中華道藏` ZHDZ04p0010 · `ZHnum` ZH04_003 · `X新文豐` XWDZ57p0576 · `涵芬樓` HFL亦上132
+
+洞玄靈寶二十四生圖經  
+DZ:   DZ1407  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1408 玉清上宮科太真文 Yuqing shanggong ketai zhenwen
+
+[KR5g0217](https://github.com/kanripo/KR5g0217) · `CUSTOM_ID` DZ1408 · `HK` CH07216 · `凱希` KX1428 · `三家本` Vol 34, p0353b · `Z中華道藏` ZHDZ02p0743 · `ZHnum` ZH02_096 · `X新文豐` XWDZ57p0601 · `涵芬樓` HFL亦下004
+
+玉清上宮科太真文  
+DZ:   DZ1408  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1409 太上九真明科 Taishang jiuzhen mingke
+
+[KR5g0218](https://github.com/kanripo/KR5g0218) · `CUSTOM_ID` DZ1409 · `HK` CH07217 · `凱希` KX1429 · `三家本` Vol 34, p0361c · `Z中華道藏` ZHDZ01p0152 · `ZHnum` ZH01_011 · `X新文豐` XWDZ57p0614 · `涵芬樓` HFL亦下054
+
+太上九真明科  
+DZ:   DZ1409  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1410 洞玄靈寶千真科 Dongxuan lingbao qianzhen ke
+
+[KR5g0219](https://github.com/kanripo/KR5g0219) · `CUSTOM_ID` DZ1410 · `HK` CH07218 · `凱希` KX1430 · `三家本` Vol 34, p0369b · `Z中華道藏` ZHDZ42p0057 · `ZHnum` ZH42_004 · `X新文豐` XWDZ57p0626 · `涵芬樓` HFL亦下110
+
+洞玄靈寶千真科  
+DZ:   DZ1410  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1411 洞玄靈寶長夜之府九幽玉匱明真科 Dongxuan lingbao changye zhifu jiuyou yukui mingzhen ke
+
+[KR5g0220](https://github.com/kanripo/KR5g0220) · `CUSTOM_ID` DZ1411 · `HK` CH07219 · `凱希` KX1431 · `三家本` Vol 34, p0379b · `Z中華道藏` ZHDZ03p0283 · `ZHnum` ZH03_022 · `X新文豐` XWDZ57p0641 · `涵芬樓` HFL亦下160
+
+洞玄靈寶長夜之府九幽玉匱明真科  
+DZ:   DZ1411  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1412 太上元始天尊說北帝伏魔神咒妙經 Taishang yuanshi tianzun shuo beidi fumo shenzhou miaojing
+
+[KR5g0221](https://github.com/kanripo/KR5g0221) · `CUSTOM_ID` DZ1412 · `HK` CH07220 · `凱希` KX1432 · `三家本` Vol 34, p0392b · `Z中華道藏` ZHDZ30p0164 · `ZHnum` ZH30_016 · `X新文豐` XWDZ57p0661 · `涵芬樓` HFL聚上004
+
+太上元始天尊說北帝伏魔神咒妙經  
+DZ:   DZ1412  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1413 北帝伏魔經法建壇儀 Beidi fumo jingfa jiantan yi
+
+[KR5g0222](https://github.com/kanripo/KR5g0222) · `CUSTOM_ID` DZ1413 · `HK` CH07221 · `凱希` KX1433 · `三家本` Vol 34, p0433a · `Z中華道藏` ZHDZ30p0212 · `ZHnum` ZH30_018 · `X新文豐` XWDZ57p0725 · `涵芬樓` HFL聚下096
+
+北帝伏魔經法建壇儀(盧中苓)  
+DZ:   DZ1413  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1414 伏魔經壇謝恩醮儀 Fumo jiantan yi
+
+[KR5g0223](https://github.com/kanripo/KR5g0223) · `CUSTOM_ID` DZ1414 · `HK` CH07222 · `凱希` KX1434 · `三家本` Vol 34, p0439b · `Z中華道藏` ZHDZ30p0219 · `ZHnum` ZH30_019 · `X新文豐` XWDZ57p0735 · `涵芬樓` HFL聚下134
+
+伏魔經壇謝恩醮儀  
+DZ:   DZ1414  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1415 北帝說豁落七元經 Beidi shuo huoluo qiyuan jing
+
+[KR5g0224](https://github.com/kanripo/KR5g0224) · `CUSTOM_ID` DZ1415 · `HK` CH07223 · `凱希` KX1435 · `三家本` Vol 34, p0442c · `Z中華道藏` ZHDZ30p0223 · `ZHnum` ZH30_020 · `X新文豐` XWDZ57p0741 · `涵芬樓` HFL群上004
+
+北帝說豁落七元經  
+DZ:   DZ1415  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1416 七元真訣語驅疫秘經 Qiyuan zhen jueyu quyi bijing
+
+[KR5g0225](https://github.com/kanripo/KR5g0225) · `CUSTOM_ID` DZ1416 · `HK` CH07224 · `凱希` KX1436 · `三家本` Vol 34, p0446a · `Z中華道藏` ZHDZ30p0227 · `ZHnum` ZH30_021 · `X新文豐` XWDZ57p0747 · `涵芬樓` HFL群上024
+
+七元真訣語驅疫秘經  
+DZ:   DZ1416  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1417 七元璇璣召魔品經 Qiyuan xuanji zhaomo pinjing
+
+[KR5g0226](https://github.com/kanripo/KR5g0226) · `CUSTOM_ID` DZ1417 · `HK` CH07225 · `凱希` KX1437 · `三家本` Vol 34, p0447c · `Z中華道藏` ZHDZ30p0229 · `ZHnum` ZH30_022 · `X新文豐` XWDZ57p0750 · `涵芬樓` HFL群上034
+
+七元璇璣召魔品經  
+DZ:   DZ1417  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1418 元始說度酆都經 Yuanshi shuodu fengdu jing
+
+[KR5g0227](https://github.com/kanripo/KR5g0227) · `CUSTOM_ID` DZ1418 · `HK` CH07226 · `凱希` KX1438 · `三家本` Vol 34, p0448c · `Z中華道藏` ZHDZ30p0230 · `ZHnum` ZH30_023 · `X新文豐` XWDZ57p0752 · `涵芬樓` HFL群上040
+
+元始說度酆都經  
+DZ:   DZ1418  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1419 七元召魔伏六天神咒經 Qiyuan zhao mofu liutian shenzhou jing
+
+[KR5g0228](https://github.com/kanripo/KR5g0228) · `CUSTOM_ID` DZ1419 · `HK` CH07227 · `凱希` KX1439 · `三家本` Vol 34, p0450b · `Z中華道藏` ZHDZ30p0232 · `ZHnum` ZH30_024 · `X新文豐` XWDZ57p0755 · `涵芬樓` HFL群上049
+
+七元召魔伏六天神咒經  
+DZ:   DZ1419  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1420 七元真人說神真靈符經 Qiyuan zhenren shuo shenzhen lingfu jing
+
+[KR5g0229](https://github.com/kanripo/KR5g0229) · `CUSTOM_ID` DZ1420 · `HK` CH07228 · `凱希` KX1440 · `三家本` Vol 34, p0454b · `Z中華道藏` ZHDZ30p0236 · `ZHnum` ZH30_025 · `X新文豐` XWDZ57p0761 · `涵芬樓` HFL群上074
+
+七元真人說神真靈符經  
+DZJY: JY127  
+DZJY0: JY127  
+DZ:   DZ1420  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1421 太上紫微中天七元真經 Taishang ziwei zhongtian qiyuan zhenjing
+
+[KR5g0230](https://github.com/kanripo/KR5g0230) · `CUSTOM_ID` DZ1421 · `HK` CH07229 · `凱希` KX1441 · `三家本` Vol 34, p0457b · `Z中華道藏` ZHDZ30p0293 · `ZHnum` ZH30_026 · `X新文豐` XWDZ57p0766 · `涵芬樓` HFL群上092
+
+太上紫微中天七元真經  
+DZJY: JY128  
+DZJY0: JY128  
+DZ:   DZ1421  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1422 枕中經 Zhenzhong jing
+
+[KR5g0231](https://github.com/kanripo/KR5g0231) · `CUSTOM_ID` DZ1422 · `HK` CH07230 · `凱希` KX1442 · `三家本` Vol 34, p0458c · `Z中華道藏` ZHDZ32p0611 · `ZHnum` ZH32_049 · `X新文豐` XWDZ57p0768 · `涵芬樓` HFL群上100
+
+枕中經  
+DZJY: JY071  
+DZJY0: JY071  
+DZ:   DZ1422  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1423 太清元道真經 Taiqing yuandao zhenjing
+
+[KR5g0232](https://github.com/kanripo/KR5g0232) · `CUSTOM_ID` DZ1423 · `HK` CH07231 · `凱希` KX1443 · `三家本` Vol 34, p0459c · `Z中華道藏` ZHDZ23p0132 · `ZHnum` ZH23_016 · `X新文豐` XWDZ57p0770 · `涵芬樓` HFL群上106
+
+太清元道真經  
+DZJY: JY072  
+DZJY0: JY072  
+DZ:   DZ1423  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1424 太上老君太素經 Taishang laojun taisu jing
+
+[KR5g0233](https://github.com/kanripo/KR5g0233) · `CUSTOM_ID` DZ1424 · `HK` CH07232 · `凱希` KX1444 · `三家本` Vol 34, p0462c · `Z中華道藏` ZHDZ08p0169 · `ZHnum` ZH08_007 · `X新文豐` XWDZ57p0775 · `涵芬樓` HFL群上124
+
+太上老君太素經  
+DZJY: JY073  
+DZJY0: JY073  
+DZ:   DZ1424  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1425 靈信經旨 Lingxin jingzhi
+
+[KR5g0234](https://github.com/kanripo/KR5g0234) · `CUSTOM_ID` DZ1425 · `HK` CH07233 · `凱希` KX1445 · `三家本` Vol 34, p0463b · `Z中華道藏` ZHDZ32p0047 · `ZHnum` ZH32_003 · `X新文豐` XWDZ57p0776 · `涵芬樓` HFL群上128
+
+靈信經旨  
+DZ:   DZ1425  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1426 唐太古妙應孫真人福壽論 Tang Taigu miaoying Sun zhenren fushou lun
+
+[KR5g0235](https://github.com/kanripo/KR5g0235) · `CUSTOM_ID` DZ1426 · `HK` CH07234 · `凱希` KX1446 · `三家本` Vol 34, p0466a · `Z中華道藏` ZHDZ42p0660 · `ZHnum` ZH42_032 · `X新文豐` XWDZ57p0780 · `涵芬樓` HFL群上144
+
+唐太古妙應孫真人福壽論  
+DZ:   DZ1426  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1427 太清道林攝生論 Taiqing daolin shesheng lun
+
+[KR5g0236](https://github.com/kanripo/KR5g0236) · `CUSTOM_ID` DZ1427 · `HK` CH07235 · `凱希` KX1447 · `三家本` Vol 34, p0467b · `Z中華道藏` ZHDZ23p0631 · `ZHnum` ZH23_056 · `X新文豐` XWDZ57p0782 · `涵芬樓` HFL群上152
+
+太清道林攝生論  
+DZ:   DZ1427  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1428 侍帝晨東華上佐司命楊君傳記 Shi Dichen donghua shangzuo siming yangjun zhuanji
+
+[KR5g0237](https://github.com/kanripo/KR5g0237) · `CUSTOM_ID` DZ1428 · `HK` CH07236 · `凱希` KX1448 · `三家本` Vol 34, p0475b · `Z中華道藏` ZHDZ46p0197 · `ZHnum` ZH46_011 · `X新文豐` XWDZ57p0794 · `涵芬樓` HFL群上200
+
+侍帝晨東華上佐司命楊君傳記  
+DZ:   DZ1428  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1429 長春真人西遊記 Changchun zhenren xiyou ji
+
+[KR5g0238](https://github.com/kanripo/KR5g0238) · `CUSTOM_ID` DZ1429 · `HK` CH07237 · `凱希` KX1449 · `三家本` Vol 34, p0480b · `Z中華道藏` ZHDZ47p0001 · `ZHnum` ZH47_001 · `X新文豐` XWDZ57p0803 · `涵芬樓` HFL群下004
+
+長春真人西遊記(元-李志常)  
+DZJY: JY194  
+DZJY0: JY194  
+DZ:   DZ1429  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1430 道藏闕經目錄 Daozang quejing mulu
+
+[KR5g0240](https://github.com/kanripo/KR5g0240) · `CUSTOM_ID` DZ1430 · `HK` CH07238 · `凱希` KX1450 · `三家本` Vol 34, p0502a · `Z中華道藏` ZHDZ00p0000 · `ZHnum` 00 · `X新文豐` XWDZ57p0836 · `涵芬樓` HFL群下134
+
+道藏闕經目錄(元-)  
+DZ:   DZ1430  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### xx 道藏尊經歷代綱目
+
+`nopin` · `CUSTOM_ID` xx · `HK` CH07239 · `凱希` xx · `三家本` xx · `Z中華道藏` XX · `ZHnum` XX · `X新文豐` XWDZ00p0000 · `涵芬樓` HFL群下217
+
+道藏尊經歷代綱目  
+DZ:   xx  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### xx 道教宗源＿凡例
+
+`nopin` · `CUSTOM_ID` xx · `HK` CH07240 · `凱希` xx · `三家本` xx · `Z中華道藏` XX · `ZHnum` XX · `X新文豐` XWDZ00p0000 · `涵芬樓` HFL英全004
+
+道教宗源＿凡例  
+DZ:   xx  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1431a 道藏經目錄
+
+`nopin` · `CUSTOM_ID` DZ1431a · `HK` CH07241 · `凱希` KX1451 · `三家本` Vol 34, p0518a · `Z中華道藏` ZHDZ00p0000 · `ZHnum` 00 · `X新文豐` XWDZ57p0859 · `涵芬樓` HFL英全014
+
+道藏經目錄  
+DZ:   DZ1431a  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1431b 續道藏經目錄(明-白雲霽)
+
+`nopin` · `CUSTOM_ID` DZ1431b · `HK` CH07242 · `凱希` KX1452 · `三家本` Vol 34, p0556a · `Z中華道藏` ZHDZ00p0000 · `ZHnum` 00 · `X新文豐` XWDZ57p0918 · `涵芬樓` HFL英全236
+
+續道藏經目錄(明-白雲霽)  
+DZ:   DZ1431b  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### xx 全真清規
+
+`nopin` · `CUSTOM_ID` xx · `HK` CH07243 · `凱希` xx · `三家本` x · `Z中華道藏` XX · `ZHnum` XX · `X新文豐` XWDZ00p0000 · `涵芬樓` CH07243 xx xx x 全真清規 ZHDZ00p0000 XWDZ00p0000
+
+全真清規  
+DZ:   xx  
+Contents
+
+**Work notes**
+
+**Comments**
+
+## 續 道 藏 CH08
+
+分類	續 道 藏 經 名(作者)	上海版	新文豐
+
+### CMTS0800 續 道 藏
+
+#### DZ1432 太上中道妙法蓮華經 Taishang zhongdao miaofa lianhua jing
+
+[KR5h0001](https://github.com/kanripo/KR5h0001) · `CUSTOM_ID` DZ1432 · `HK` CH0801 · `凱希` KX1453 · `三家本` Vol 34, p0558a · `Z中華道藏` ZHDZ05p0059 · `ZHnum` ZH05_004 · `X新文豐` XWDZ58p0001 · `涵芬樓` HFL杜全004
+
+太上中道妙法蓮花經  
+DZJY: JY019  
+DZJY0: JY019  
+DZ:   DZ1432  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1433 太上元始天尊說寶月光皇后聖母天尊孔雀明王經 Taishang yuanshi tianzun shuo bao yueguang huanghou shengmu tianzun kongque ming wang jing
+
+[KR5h0002](https://github.com/kanripo/KR5h0002) · `CUSTOM_ID` DZ1433 · `HK` CH0802 · `凱希` KX1454 · `三家本` Vol 34, p0574b · `Z中華道藏` ZHDZ30p0592 · `ZHnum` ZH30_042 · `X新文豐` XWDZ58p0026 · `涵芬樓` HFL杜全102
+
+太上元始天尊說寶月光皇后聖母天尊孔雀明王經  
+DZ:   DZ1433  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1434 聖母孔雀明王尊經啟白儀 Shengmu kongque mingwang zunjing qibai yi
+
+[KR5h0003](https://github.com/kanripo/KR5h0003) · `CUSTOM_ID` DZ1434 · `HK` CH0803 · `凱希` KX1455 · `三家本` Vol 34, p0585c · `Z中華道藏` ZHDZ30p0000 · `ZHnum` ZH30_042 · `X新文豐` XWDZ58p0043 · `涵芬樓` HFL杜全170
+
+聖母孔雀明王尊經啟白儀  
+DZ:   DZ1434  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1435 太上元始天尊說孔雀經白文 Taishang yuanshi tianzun shuo kongque jing baiwen
+
+[KR5h0004](https://github.com/kanripo/KR5h0004) · `CUSTOM_ID` DZ1435 · `HK` CH0804 · `凱希` KX1456 · `三家本` Vol 34, p0593b · `Z中華道藏` ZHDZ30p0000 · `ZHnum` ZH30_042 · `X新文豐` XWDZ58p0055 · `涵芬樓` HFL杜全216
+
+太上元始天尊說孔雀經白文  
+DZ:   DZ1435  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1436 上清元始變化寶真上經 Shangqing yuanshi bianhua baozhen shangjing
+
+[KR5h0005](https://github.com/kanripo/KR5h0005) · `CUSTOM_ID` DZ1436 · `HK` CH0805 · `凱希` KX1457 · `三家本` Vol 34, p0600b · `Z中華道藏` ZHDZ01p0585 · `ZHnum` ZH01_062 · `X新文豐` XWDZ58p0067 · `涵芬樓` HFL虆全004
+
+上清元始變化寶真上經  
+DZ:   DZ1436  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1437 太上老君開天經 Taishang laojun kaitian jing
+
+[KR5h0006](https://github.com/kanripo/KR5h0006) · `CUSTOM_ID` DZ1437 · `HK` CH0806 · `凱希` KX1458 · `三家本` Vol 34, p0618a · `Z中華道藏` ZHDZ08p0160 · `ZHnum` ZH08_005 · `X新文豐` XWDZ58p0094 · `涵芬樓` HFL虆全110
+
+太上老君開天經  
+DZ:   DZ1437  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1438 太上老君虛無自然本起經
+
+[KR5h0007](https://github.com/kanripo/KR5h0007) · `nopin` · `CUSTOM_ID` DZ1438 · `HK` CH0807 · `凱希` KX1459 · `三家本` Vol 34, p0620b · `Z中華道藏` ZHDZ08p0163 · `ZHnum` ZH08_006 · `X新文豐` XWDZ58p0098 · `涵芬樓` HFL虆全124
+
+太上老君虛無自然本起經  
+DZ:   DZ1438  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1439 洞玄靈寶玉京山步虛經 Dongxuan lingbao yujing shan buxu jing
+
+[KR5h0008](https://github.com/kanripo/KR5h0008) · `CUSTOM_ID` DZ1439 · `HK` CH0808 · `凱希` KX1460 · `三家本` Vol 34, p0625b · `Z中華道藏` ZHDZ03p0070 · `ZHnum` ZH03_007 · `X新文豐` XWDZ58p0106 · `涵芬樓` HFL虆全154
+
+洞玄靈寶玉京山步虛經  
+DZ:   DZ1439  
+Contents
+
+**Work notes**
+
+**Comments** — CH0810 xx xx x 玉皇心印妙經註
+
+#### DZ1440 皇經集註 Huangjing jizhu
+
+[KR5h0009](https://github.com/kanripo/KR5h0009) · `CUSTOM_ID` DZ1440 · `HK` CH0809 · `凱希` KX1461 · `三家本` Vol 34, p0628c · `Z中華道藏` ZHDZ06p0327 · `ZHnum` ZH06_092 · `X新文豐` XWDZ58p0111 · `涵芬樓` HFL鐘上004
+
+皇經集註(明-周玄貞)  
+DZJY: JY089  
+DZJY0: JY089  
+DZ:   DZ1440  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1441 元始天尊說東嶽化身濟生度死拔罪解冤保命玄範誥咒妙經 Yuanshi tianzun shuo dongyue huashen ji sheng dusi bazui jieyuan baoming xuanfan gaozhou miaojing
+
+[KR5h0010](https://github.com/kanripo/KR5h0010) · `CUSTOM_ID` DZ1441 · `HK` CH0811 · `凱希` KX1462 · `三家本` Vol 34, p0729c · `Z中華道藏` ZHDZ06p0434 · `ZHnum` ZH06_081 · `X新文豐` XWDZ58p0267 · `涵芬樓` HFL
+
+太上始天尊說東嶽化身濟生度死拔罪解冤保命玄範誥咒妙經  
+DZJY: JY016  
+DZJY0: JY016  
+DZ:   DZ1441  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1442 太上三元賜福赦罪解厄消災延生保命妙經 Taishang sanyuan cifu shezui jie'e xiaozai yansheng baoming miaojing
+
+[KR5h0011](https://github.com/kanripo/KR5h0011) · `CUSTOM_ID` DZ1442 · `HK` CH0812 · `凱希` KX1463 · `三家本` Vol 34, p0733c · `Z中華道藏` ZHDZ06p0252 · `ZHnum` ZH06_080 · `X新文豐` XWDZ58p0274 · `涵芬樓` HFL隸全004
+
+太上三元賜福敖罪解厄消災延生保命妙經  
+DZ:   DZ1442  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1443 太上元陽上帝無始天尊說火車王靈官真經 Taishang yuanyang shangdi wushi tianzun shuo huoche wang lingguan zhenjing
+
+[KR5h0012](https://github.com/kanripo/KR5h0012) · `CUSTOM_ID` DZ1443 · `HK` CH0813 · `凱希` KX1464 · `三家本` Vol 34, p0737b · `Z中華道藏` ZHDZ06p0248 · `ZHnum` ZH32_062 · `X新文豐` XWDZ58p0280 · `涵芬樓` HFL隸全028
+
+太上元陽上帝無始天尊說火車王靈官真經  
+DZ:   DZ1443  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1444 元始天尊說藥王救八十一難真經 Yuanshi tianzun shuo yaowang jiu bashiyi nan zhenjing
+
+[KR5h0013](https://github.com/kanripo/KR5h0013) · `CUSTOM_ID` DZ1444 · `HK` CH0814 · `凱希` KX1465 · `三家本` Vol 34, p0741b · `Z中華道藏` ZHDZ06p0266 · `ZHnum` ZH06_086 · `X新文豐` XWDZ58p0286 · `涵芬樓` HFL隸全050
+
+元始天尊說藥王救八十一難真經  
+DZJY: JY014  
+DZJY0: JY014  
+DZ:   DZ1444  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1445 碧霞元君護國庇民普濟保生妙經 Bixia yuanjun huguo bimin puji baosheng miaojing
+
+[KR5h0014](https://github.com/kanripo/KR5h0014) · `CUSTOM_ID` DZ1445 · `HK` CH0815 · `凱希` KX1466 · `三家本` Vol 34, p0744a · `Z中華道藏` ZHDZ06p0266 · `ZHnum` ZH06_082 · `X新文豐` XWDZ58p0290 · `涵芬樓` HFL隸全074
+
+碧霞元君護國庇民普濟保生妙經  
+DZJY: JY017  
+DZJY0: JY017  
+DZ:   DZ1445  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1446 太上大聖朗靈上將護國妙經 Taishang dasheng langling shangjiang huguo miaojing
+
+[KR5h0015](https://github.com/kanripo/KR5h0015) · `CUSTOM_ID` DZ1446 · `HK` CH0816 · `凱希` KX1467 · `三家本` Vol 34, p0746c · `Z中華道藏` ZHDZ06p0257 · `ZHnum` ZH06_085 · `X新文豐` XWDZ58p0294 · `涵芬樓` HFL隸全090
+
+太上大聖朗靈上將護國妙經  
+DZ:   DZ1446  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1447 太上老君說城隍感應消災集福妙經 Taishang laojun shuo chenghuang ganying xiaozai jifu miaojing
+
+[KR5h0016](https://github.com/kanripo/KR5h0016) · `CUSTOM_ID` DZ1447 · `HK` CH0817 · `凱希` KX1468 · `三家本` Vol 34, p0747c · `Z中華道藏` ZHDZ06p0265 · `ZHnum` ZH06_084 · `X新文豐` XWDZ58p0296 · `涵芬樓` HFL隸全106
+
+太上老君說城隍感應消災集福妙經  
+DZ:   DZ1447  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1448 太上洞玄靈寶五顯觀華光本行妙經 Taishang dongxuan lingbao wu xianguan huaguang benxing miaojing
+
+[KR5h0017](https://github.com/kanripo/KR5h0017) · `CUSTOM_ID` DZ1448 · `HK` CH0818 · `凱希` KX1469 · `三家本` Vol 34, p0749b · `Z中華道藏` ZHDZ04p0331 · `ZHnum` ZH04_055 · `X新文豐` XWDZ58p0299 · `涵芬樓` HFL隸全112
+
+太上洞玄靈寶五顯觀華光本行妙經  
+DZ:   DZ1448  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1449 太上說通真高皇解冤經 Gaohuang jieyuan jing
+
+[KR5h0018](https://github.com/kanripo/KR5h0018) · `CUSTOM_ID` DZ1449 · `HK` CH0819 · `凱希` KX1470 · `三家本` Vol 34, p0752b · `Z中華道藏` ZHDZ06p0223 · `ZHnum` ZH06_071 · `X新文豐` XWDZ58p0304 · `涵芬樓` HFL隸全122
+
+太上說通真高皇解冤經  
+DZ:   DZ1449  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1450 中天紫微星真寶懺 Taishang shuo tongzhen gaohuang jieyuan jing
+
+[KR5h0019](https://github.com/kanripo/KR5h0019) · `CUSTOM_ID` DZ1450 · `HK` CH0820 · `凱希` KX1471 · `三家本` Vol 34, p0753a · `Z中華道藏` ZHDZ44p0290 · `ZHnum` ZH44_036 · `X新文豐` XWDZ58p0305 · `涵芬樓` HFL隸全140
+
+中天紫微星真寶懺  
+DZJY: JY129  
+DZJY0: JY129  
+DZ:   DZ1450  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1451 紫皇鍊度玄科 Ziwei baochan
+
+[KR5h0020](https://github.com/kanripo/KR5h0020) · `CUSTOM_ID` DZ1451 · `HK` CH0821 · `凱希` KX1472 · `三家本` Vol 34, p0755b · `Z中華道藏` ZHDZ44p0421 · `ZHnum` ZH44_055 · `X新文豐` XWDZ58p0309 · `涵芬樓` HFL隸全144
+
+紫皇鍊度玄科  
+DZJY: JY283  
+DZJY0: JY283  
+DZ:   DZ1451  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1452 先天斗母奏告玄科 Xiantian doumu zougao xuanke
+
+[KR5h0021](https://github.com/kanripo/KR5h0021) · `CUSTOM_ID` DZ1452 · `HK` CH0822 · `凱希` KX1473 · `三家本` Vol 34, p0765b · `Z中華道藏` ZHDZ06p0760 · `ZHnum` ZH06_116 · `X新文豐` XWDZ58p0325 · `涵芬樓` HFL漆全004
+
+先天斗母奏告玄科  
+DZ:   DZ1452  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1453 朝真發願懺悔文 Zhaozhen fayuan chanhui wen
+
+[KR5h0022](https://github.com/kanripo/KR5h0022) · `CUSTOM_ID` DZ1453 · `HK` CH0823 · `凱希` KX1474 · `三家本` Vol 34, p0771b · `Z中華道藏` ZHDZ44p0330 · `ZHnum` ZH44_041 · `X新文豐` XWDZ58p0334 · `涵芬樓` HFL漆全064
+
+朝真發願懺悔文  
+DZ:   DZ1453  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1454 靈寶施食法 Lingbao shishi fa
+
+[KR5h0023](https://github.com/kanripo/KR5h0023) · `CUSTOM_ID` DZ1454 · `HK` CH0824 · `凱希` KX1475 · `三家本` Vol 34, p0772b · `Z中華道藏` ZHDZ04p0406 · `ZHnum` ZH04_076 · `X新文豐` XWDZ58p0336 · `涵芬樓` HFL漆全100
+
+靈寶施食法  
+DZ:   DZ1454  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1455 太微帝君二十四神回元經 Taiwei dijun ershisi shen huiyuan jing
+
+[KR5h0024](https://github.com/kanripo/KR5h0024) · `CUSTOM_ID` DZ1455 · `HK` CH0825 · `凱希` KX1476 · `三家本` Vol 34, p0774a · `Z中華道藏` ZHDZ02p0081 · `ZHnum` ZH02_012 · `X新文豐` XWDZ58p0339 · `涵芬樓` HFL漆全106
+
+太微帝君二十四神回元經  
+DZ:   DZ1455  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1456 北斗九皇隱諱經 Beidou jiuhuang yinhui jing
+
+[KR5h0025](https://github.com/kanripo/KR5h0025) · `CUSTOM_ID` DZ1456 · `HK` CH0826 · `凱希` KX1477 · `三家本` Vol 34, p0776a · `Z中華道藏` ZHDZ02p0081 · `ZHnum` ZH02_008 · `X新文豐` XWDZ58p0342 · `涵芬樓` HFL漆全116
+
+北斗九皇隱諱經  
+DZ:   DZ1456  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1457 高上玉宸憂樂章 Gaoshang yuchen youle zhang
+
+[KR5h0026](https://github.com/kanripo/KR5h0026) · `CUSTOM_ID` DZ1457 · `HK` CH0827 · `凱希` KX1478 · `三家本` Vol 34, p0777c · `Z中華道藏` ZHDZ02p0064 · `ZHnum` ZH02_062 · `X新文豐` XWDZ58p0345 · `涵芬樓` HFL漆全128
+
+高上玉宸憂樂章  
+DZ:   DZ1457  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1458 太上洞真徊玄章 Taishang dongzhen huixuan zhang
+
+[KR5h0027](https://github.com/kanripo/KR5h0027) · `CUSTOM_ID` DZ1458 · `HK` CH0828 · `凱希` KX1479 · `三家本` Vol 34, p0779b · `Z中華道藏` ZHDZ02p0497 · `ZHnum` ZH02_063 · `X新文豐` XWDZ58p0348 · `涵芬樓` HFL漆全138
+
+太上洞真徊玄章  
+DZ:   DZ1458  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1459 上清金章十二篇 Shangqing jinzhang shier pian
+
+[KR5h0028](https://github.com/kanripo/KR5h0028) · `CUSTOM_ID` DZ1459 · `HK` CH0829 · `凱希` KX1480 · `三家本` Vol 34, p0780b · `Z中華道藏` ZHDZ02p0500 · `ZHnum` ZH02_064 · `X新文豐` XWDZ58p0350 · `涵芬樓` HFL漆全148
+
+上清金章十二篇  
+DZ:   DZ1459  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1460 太上洞玄濟眾經 Taishang dongxuan jizhong jing
+
+[KR5h0029](https://github.com/kanripo/KR5h0029) · `CUSTOM_ID` DZ1460 · `HK` CH0830 · `凱希` KX1481 · `三家本` Vol 34, p0781b · `Z中華道藏` ZHDZ05p0080 · `ZHnum` ZH05_006 · `X新文豐` XWDZ58p0352 · `涵芬樓` HFL漆全154
+
+太上洞玄濟眾經  
+DZ:   DZ1460  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1461 大洞經吉祥神咒法 Dadong jing jixiang shenzhou fa
+
+[KR5h0030](https://github.com/kanripo/KR5h0030) · `CUSTOM_ID` DZ1461 · `HK` CH0831 · `凱希` KX1482 · `三家本` Vol 34, p0782b · `Z中華道藏` ZHDZ06p0569 · `ZHnum` ZH06_095 · `X新文豐` XWDZ58p0354 · `涵芬樓` HFL漆全160
+
+大洞經吉祥神咒法  
+DZ:   DZ1461  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1462 皇明恩命世錄 Huangming enming shilu
+
+[KR5h0031](https://github.com/kanripo/KR5h0031) · `CUSTOM_ID` DZ1462 · `HK` CH0832 · `凱希` KX1483 · `三家本` Vol 34, p0784b · `Z中華道藏` ZHDZ46p0310 · `ZHnum` ZH46_022 · `X新文豐` XWDZ58p0357 · `涵芬樓` HFL漆全166
+
+皇明恩命世錄  
+DZJY: JY299  
+DZJY0: JY299  
+DZ:   DZ1462  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1463 漢天師世家 Han tianshi shijia
+
+[KR5h0032](https://github.com/kanripo/KR5h0032) · `CUSTOM_ID` DZ1463 · `HK` CH0833 · `凱希` KX1484 · `三家本` Vol 34, p0815a · `Z中華道藏` ZHDZ46p0340 · `ZHnum` ZH46_023 · `X新文豐` XWDZ58p0405 · `涵芬樓` HFL書全004
+
+漢天師世家(明-張鉞)  
+DZ:   DZ1463  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1464 弘道錄 Hongdao lu
+
+[KR5h0033](https://github.com/kanripo/KR5h0033) · `CUSTOM_ID` DZ1464 · `HK` CH0834 · `凱希` KX1485 · `三家本` Vol 35, p0001a · `Z中華道藏` ZHDZ46p0444 · `ZHnum` ZH25_010 · `X新文豐` XWDZ58p0449 · `涵芬樓` HFL壁全004
+
+弘道錄(明-邵經邦)  
+DZ:   DZ1464  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1465 消搖墟經 Xiaoyao xujing
+
+[KR5h0034](https://github.com/kanripo/KR5h0034) · `CUSTOM_ID` DZ1465 · `HK` CH0835 · `凱希` KX1486 · `三家本` Vol 35, p0367b · `Z中華道藏` ZHDZ25p0444 · `ZHnum` ZH45_014 · `X新文豐` XWDZ59p0079 · `涵芬樓` HFL經上004
+
+消搖墟經  
+DZ:   DZ1465  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1466 長生詮經 Changsheng quanjing
+
+[KR5h0035](https://github.com/kanripo/KR5h0035) · `CUSTOM_ID` DZ1466 · `HK` CH0836 · `凱希` KX1487 · `三家本` Vol 35, p0390c · `Z中華道藏` ZHDZ45p0491 · `ZHnum` ZH23_052 · `X新文豐` XWDZ59p0115 · `涵芬樓` HFL槐上004
+
+長生詮經  
+DZ:   DZ1466  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1467 無上訣經 Wushang juejing
+
+[KR5h0036](https://github.com/kanripo/KR5h0036) · `CUSTOM_ID` DZ1467 · `HK` CH0837 · `凱希` KX1488 · `三家本` Vol 35, p0401b · `Z中華道藏` ZHDZ23p0328 · `ZHnum` ZH23_053 · `X新文豐` XWDZ59p0132 · `涵芬樓` HFL槐下004
+
+無生訣經  
+DZ:   DZ1467  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1468 徐仙翰藻 Xuxian hanzao
+
+[KR5h0037](https://github.com/kanripo/KR5h0037) · `CUSTOM_ID` DZ1468 · `HK` CH0838 · `凱希` KX1489 · `三家本` Vol 35, p0413b · `Z中華道藏` ZHDZ31p0667 · `ZHnum` ZH31_065 · `X新文豐` XWDZ59p0150 · `涵芬樓` HFL槐下068
+
+徐仙翰藻(元-陳夢根)  
+DZ:   DZ1468  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1469 贊靈集 Zanling ji
+
+[KR5h0038](https://github.com/kanripo/KR5h0038) · `CUSTOM_ID` DZ1469 · `HK` CH0839 · `凱希` KX1490 · `三家本` Vol 35, p0493c · `Z中華道藏` ZHDZ31p0821 · `ZHnum` ZH31_067 · `X新文豐` XWDZ59p0278 · `涵芬樓` HFL卿上004
+
+贊靈集(元-)  
+DZ:   DZ1469  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1470 徐仙真錄 Xuxian zhenlu
+
+[KR5h0039](https://github.com/kanripo/KR5h0039) · `CUSTOM_ID` DZ1470 · `HK` CH0840 · `凱希` KX1491 · `三家本` Vol 35, p0511a · `Z中華道藏` ZHDZ31p0754 · `ZHnum` ZH31_066 · `X新文豐` XWDZ59p0305 · `涵芬樓` HFL卿下044
+
+徐仙真錄(明-方文照)  
+DZ:   DZ1470  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1471 儒門崇理折衷堪輿完孝錄 Kanyu wanxiao lu
+
+[KR5h0040](https://github.com/kanripo/KR5h0040) · `CUSTOM_ID` DZ1471 · `HK` CH0841 · `凱希` KX1492 · `三家本` Vol 35, p0580a · `Z中華道藏` ZHDZ32p0191 · `ZHnum` ZH32_015 · `X新文豐` XWDZ59p0411 · `涵芬樓` HFL戶上004
+
+儒門崇理折衷堪輿完孝錄  
+DZ:   DZ1471  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1472 岱史 Daishi
+
+[KR5h0041](https://github.com/kanripo/KR5h0041) · `CUSTOM_ID` DZ1472 · `HK` CH0842 · `凱希` KX1493 · `三家本` Vol 35, p0675a · `Z中華道藏` ZHDZ48p0209 · `ZHnum` ZH48_014 · `X新文豐` XWDZ59p0561 · `涵芬樓` HFL封上004
+
+岱史(明-查志隆)  
+DZ:   DZ1472  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1473 易因上下經(李氏易因) Yiyin shangxia jing (Lishi yiyin)
+
+[KR5h0042](https://github.com/kanripo/KR5h0042) · `CUSTOM_ID` DZ1473 · `HK` CH0843 · `凱希` KX1494 · `三家本` Vol 36, p0001a · `Z中華道藏` ZHDZ17p0061 · `ZHnum` ZH17_004 · `X新文豐` XWDZ59p0795 · `涵芬樓` HFL八上004
+
+易因(明-李贊)  
+DZ:   DZ1473  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1474 古易考原 Guyi kaoyuan
+
+[KR5h0043](https://github.com/kanripo/KR5h0043) · `CUSTOM_ID` DZ1474 · `HK` CH0844 · `凱希` KX1495 · `三家本` Vol 36, p0092a · `Z中華道藏` ZHDZ17p0040 · `ZHnum` ZH17_003 · `X新文豐` XWDZ59p0935 · `涵芬樓` HFL家上004
+
+古易考原(明-梅)  
+DZ:   DZ1474  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1475 易林上下經 Yilin shangxia jing
+
+[KR5h0044](https://github.com/kanripo/KR5h0044) · `CUSTOM_ID` DZ1475 · `HK` CH0845 · `凱希` KX1496 · `三家本` Vol 36, p0111b · `Z中華道藏` ZHDZ16p0351 · `ZHnum` ZH16_013 · `X新文豐` XWDZ60p0001 · `涵芬樓` HFL給下090
+
+易林(漢-焦贛)  
+DZ:   DZ1475  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1476 搜神記 Soushen ji
+
+[KR5h0045](https://github.com/kanripo/KR5h0045) · `CUSTOM_ID` DZ1476 · `HK` CH0846 · `凱希` KX1497 · `三家本` Vol 36, p0250c · `Z中華道藏` ZHDZ45p0517 · `ZHnum` ZH45_015 · `X新文豐` XWDZ60p0211 · `涵芬樓` HFL千上004
+
+搜神記  
+DZ:   DZ1476  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1477 太初元氣按要保生之論 Taichu yuanqi anyao baosheng zhilun
+
+[KR5h0046](https://github.com/kanripo/KR5h0046) · `CUSTOM_ID` DZ1477 · `HK` CH0847 · `凱希` KX1498 · `三家本` Vol 36, p0294b · `Z中華道藏` ZHDZ19p0213 · `ZHnum` ZH19_037 · `X新文豐` XWDZ60p0281 · `涵芬樓` HFL高上008
+
+太初元氣接要保生之論  
+DZ:   DZ1477  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1478 化書(譚子化書) Huashu (Tanzi huashu)
+
+[KR5h0047](https://github.com/kanripo/KR5h0047) · `CUSTOM_ID` DZ1478 · `HK` CH0848 · `凱希` KX1499 · `三家本` Vol 36, p0296b · `Z中華道藏` ZHDZ00p0000 · `ZHnum` 00 · `X新文豐` XWDZ60p0285 · `涵芬樓` HFL冠上004
+
+化書(南唐-譚峭)  
+DZ:   DZ1478  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1479 水鏡錄 Shuijing lu
+
+[KR5h0048](https://github.com/kanripo/KR5h0048) · `CUSTOM_ID` DZ1479 · `HK` CH0849 · `凱希` KX1500 · `三家本` Vol 36, p0312b · `Z中華道藏` ZHDZ42p0816 · `ZHnum` ZH42_035 · `X新文豐` XWDZ60p0309 · `涵芬樓` HFL冠上016
+
+水鏡錄(太上感應篇)  
+DZ:   DZ1479  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1480a 許真君玉匣記(晉-許遜)
+
+`nopin` · `CUSTOM_ID` DZ1480a · `HK` CH0850 · `凱希` KX1501 · `三家本` Vol 36, p0317c · `Z中華道藏` ZHDZ19p0672 · `ZHnum` 00 · `X新文豐` XWDZ60p0317 · `涵芬樓` HFL冠上112
+
+許真君玉匣記(晉-許遜)  
+DZ:   DZ1480a  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1480b 諸神聖誕日玉匣記等集目錄
+
+`nopin` · `CUSTOM_ID` DZ1480b · `HK` CH0851 · `凱希` KX1502 · `三家本` Vol 36, p0320a · `Z中華道藏` ZHDZ32p0412 · `ZHnum` 00 · `X新文豐` XWDZ60p0322 · `涵芬樓` HFL冠下004
+
+諸神聖誕日玉匣記等集目錄  
+DZ:   DZ1480b  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1481 法師選擇記 Fashi xuanze ji
+
+[KR5h0051](https://github.com/kanripo/KR5h0051) · `CUSTOM_ID` DZ1481 · `HK` CH0852 · `凱希` KX1503 · `三家本` Vol 36, p0322c · `Z中華道藏` ZHDZ32p0000 · `ZHnum` ZH32_027 · `X新文豐` XWDZ60p0325 · `涵芬樓` HFL冠下018
+
+法師選擇記  
+DZ:   DZ1481  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1482 玄天上帝百字聖號(玄帝感應靈籤) Xuantian shangdi baizi shenghao (Xuandi ganying lingqian)
+
+[KR5h0052](https://github.com/kanripo/KR5h0052) · `CUSTOM_ID` DZ1482 · `HK` CH0853 · `凱希` KX1504 · `三家本` Vol 36, p0337b · `Z中華道藏` ZHDZ30p0617 · `ZHnum` ZH30_043 · `X新文豐` XWDZ60p0347 · `涵芬樓` HFL冠下034
+
+玄天上帝百字聖號  
+DZ:   DZ1482  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1483 天皇至道太清玉冊 Tianhuang zhidao taiqing yuce
+
+[KR5h0053](https://github.com/kanripo/KR5h0053) · `CUSTOM_ID` DZ1483 · `HK` CH0854 · `凱希` KX1505 · `三家本` Vol 36, p0356a · `Z中華道藏` ZHDZ28p0668 · `ZHnum` ZH28_011 · `X新文豐` XWDZ60p0375 · `涵芬樓` HFL冠下120
+
+天皇至道太清玉冊(明-)  
+DZ:   DZ1483  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1484 呂祖志 Lüzu zhi
+
+[KR5h0054](https://github.com/kanripo/KR5h0054) · `CUSTOM_ID` DZ1484 · `HK` CH0855 · `凱希` KX1506 · `三家本` Vol 36, p0446a · `Z中華道藏` ZHDZ46p0483 · `ZHnum` ZH46_031 · `X新文豐` XWDZ60p0513 · `涵芬樓` HFL陪上004
+
+呂祖志  
+DZ:   DZ1484  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1485 紫微斗數 Ziwei doushu
+
+[KR5h0055](https://github.com/kanripo/KR5h0055) · `CUSTOM_ID` DZ1485 · `HK` CH0856 · `凱希` KX1507 · `三家本` Vol 36, p0490a · `Z中華道藏` ZHDZ32p0324 · `ZHnum` ZH32_021 · `X新文豐` XWDZ60p0581 · `涵芬樓` HFL輦上004
+
+紫微斗數  
+DZ:   DZ1485  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1486 老子翼 Laozi yi
+
+[KR5h0056](https://github.com/kanripo/KR5h0056) · `CUSTOM_ID` DZ1486 · `HK` CH0857 · `凱希` KX1508 · `三家本` Vol 36, p0530c · `Z中華道藏` ZHDZ21p0807 · `ZHnum` ZH12_014 · `X新文豐` XWDZ60p0643 · `涵芬樓` HFL驅全004
+
+老子翼(明-焦竤)  
+DZ:   DZ1486  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1487 莊子翼 Zhuangzi yi
+
+`CUSTOM_ID` DZ1487 · `HK` CH0858 · `凱希` KX1509 · `三家本` Vol 36, p0599c · `Z中華道藏` ZHDZ14p0698 · `ZHnum` ZH14_004 · `X新文豐` XWDZ60p0735 · `涵芬樓` HFL轂上004
+
+莊子翼(明-焦竤)  
+DZ:   DZ1487  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1487 莊子翼附錄(明-焦竤)
+
+`nopin` · `CUSTOM_ID` DZ1487 · `HK` CH0859 · `凱希` xx · `三家本` x · `Z中華道藏` ZHDZ14p0698 · `ZHnum` ZH14_004 · `X新文豐` XWDZ60p0950 · `涵芬樓` HFL振上004
+
+莊子翼附錄(明-焦竤)  
+DZ:   DZ1487  
+Contents
+
+**Work notes**
+
+**Comments**
+
+#### DZ1488 道藏目錄祥注
+
+`nopin` · `CUSTOM_ID` DZ1488 · `HK` CH0860 · `凱希` KX1510 · `三家本` Vol 36, p0757a · `Z中華道藏` ZHDZ00p0000 · `ZHnum` 00 · `X新文豐` XWDZ00p0000 · `涵芬樓` HFL
+
+道藏目錄祥注  
+DZ:   DZ1488  
+Contents
+
+**Work notes**
+
+**Comments** — ZHDZ02p0352 xx 紫文行事訣 ZHDZ02p0392 xx 上清仙府x林經 ZHDZ02p0296 xx 上清修行秘訣（擬） xx xx xx 玉清無極總真文昌大洞仙經序圖(元-衛琪) ZHDZ00p0000 XWDZ03p0743 HFL
+
+## Extra Stuff
+
+### DZ0263 修真十書 Xiuzhen shishu
+
+#### Work notes
+
+#### Comments
+
+### DZ0487 金籙早午晚朝儀 Jinlu zaowu wanchao yi
+
+#### Work notes
+
+#### Comments
+
+### DZ0492 金籙祈壽早午晚朝儀 Jinlu qishou zaowu wanchao yi
+
+#### Work notes
+
+#### Comments
+
+### DZ0495 金籙玄靈轉經早午晚朝儀 Jinlu xuanling zhuanjing zaowu wanchao yi
+
+#### Work notes
+
+#### Comments
+
+### DZ0496 金籙十迴度人早午晚朝開收儀 Jinlu shihui duren zaowu wanchao kaishou yi
+
+#### Work notes
+
+#### Comments
+
+### DZ0497 金籙十迴度人三朝轉經儀 Jinlu shihui duren sanchao zhuanjing yi
+
+#### Work notes
+
+#### Comments
+
+### DZ0502 玉籙資度早午晚朝儀 Yulu zidu zaowu wanchao yi
+
+#### Work notes
+
+#### Comments
+
+### DZ0505 玉籙三日九朝儀 Yulu sanri jiuchao yi
+
+#### Work notes
+
+#### Comments
+
+### DZ0546 靈寶玉鑑目錄 Lingbao yujian mulu
+
+#### Work notes
+
+#### Comments
+
+### DZ0560 靈寶淨明大法萬道玉章秘訣 Lingbao jingming dafa wandao yuzhang bijue
+
+#### Work notes
+
+#### Comments
+
+### DZ0960 御製真武廟碑 Yuzhi zhenwu miaobei
+
+#### Work notes
+
+#### Comments
+
+### DZ1012 空山先生易圖通變 Kongshan xiansheng yitu tongbian
+
+#### Work notes
+
+#### Comments
+
+### DZ1013 河圖 Hetu
+
+#### Work notes
+
+#### Comments
+
+### DZ1053 吳尊師傳 Wu zunshi zhuan
+
+#### Work notes
+
+#### Comments
+
+### DZ1062 上清太玄集 Jin dongtian haiyue biao
+
+#### Work notes
+
+#### Comments
+
+### DZ1162 孫真人備急千金要方目錄 Sun zhenren beiji qianjin yaofang mulu
+
+#### Work notes
+
+#### Comments
+
+### DZ1186 抱朴子別旨 Baopuzi biezhi
+
+#### Work notes
+
+#### Comments
+
+### DZ1222 上清靈寶大法目錄 Shangqing lingbao dafa mulu
+
+#### Work notes
+
+#### Comments
+
+### DZ1431 大明道藏經目錄 Daming daozang jing mulu
+
+#### Work notes
+
+#### Comments
+
+### DZ1447A 護國保寧佑聖王威靈公感應城隍經 Huguo baoning you shengwang weiling gong ganying chenghuang jing
+
+#### Work notes
+
+#### Comments
+
+### DZ1473A 易因上下經(李氏易因) Yiyin shangxia jing (Lishi yiyin)
+
+#### Work notes
+
+#### Comments
+
+### DZ1475A 焦氏易林 Jiao shi yilin
+
+#### Work notes
+
+#### Comments
+
+### DZ1480 許真君玉匣記 Xu zhenjun yuxia ji
+
+#### Work notes
+
+#### Comments
+
+### ZH02_025
+
+敦煌抄本  
+ZHDZ02p0296
+
+#### Work notes
+
+#### Comments
+
+### ZH02_033
+
+敦煌抄本  
+ZHDZ02p0352
+
+#### Work notes
+
+#### Comments
+
+### ZH03_006
+
+敦煌抄本  
+ZHDZ03p0063
+
+#### Work notes
+
+#### Comments
+
+### ZH03_021
+
+敦煌抄本  
+ZHDZ03p0273
+
+#### Work notes
+
+#### Comments
+
+### ZH03_024
+
+敦煌抄本  
+ZHDZ03p0308
+
+#### Work notes
+
+#### Comments
+
+### ZH03_026
+
+敦煌抄本  
+ZHDZ03p0325
+
+#### Work notes
+
+#### Comments
+
+### ZH04_010
+
+敦煌抄本  
+ZHDZ04p0097
+
+#### Work notes
+
+#### Comments
+
+### ZH04_014
+
+敦煌抄本  
+ZHDZ04p0127
+
+#### Work notes
+
+#### Comments
+
+### ZH04_016
+
+敦煌抄本  
+ZHDZ04p0134
+
+#### Work notes
+
+#### Comments
+
+### ZH04_017
+
+敦煌抄本  
+ZHDZ04p0136
+
+#### Work notes
+
+#### Comments
+
+### ZH04_029
+
+敦煌抄本  
+ZHDZ04p0197
+
+#### Work notes
+
+#### Comments
+
+### ZH04_034
+
+敦煌抄本  
+ZHDZ04p0242
+
+#### Work notes
+
+#### Comments
+
+### ZH04_047
+
+敦煌抄本  
+ZHDZ04p0304
+
+#### Work notes
+
+#### Comments
+
+### ZH04_049
+
+敦煌抄本  
+ZHDZ04p0312
+
+#### Work notes
+
+#### Comments
+
+### ZH04_092
+
+敦煌抄本  
+ZHDZ04p0521
+
+#### Work notes
+
+#### Comments
+
+### ZH04_097
+
+敦煌抄本  
+ZHDZ04p0652
+
+#### Work notes
+
+#### Comments
+
+### ZH04_099
+
+敦煌抄本  
+ZHDZ04p0731
+
+#### Work notes
+
+#### Comments
+
+### ZH05_002
+
+敦煌抄本  
+ZHDZ05p0021
+
+#### Work notes
+
+#### Comments
+
+### ZH05_005
+
+敦煌抄本  
+ZHDZ05p0076
+
+#### Work notes
+
+#### Comments
+
+### ZH05_007
+
+敦煌抄本  
+ZHDZ05p0082
+
+#### Work notes
+
+#### Comments
+
+### ZH05_015
+
+敦煌抄本  
+ZHDZ05p0214
+
+#### Work notes
+
+#### Comments
+
+### ZH05_016
+
+敦煌抄本  
+ZHDZ05p0267
+
+#### Work notes
+
+#### Comments
+
+### ZH05_027
+
+敦煌抄本  
+ZHDZ05p0509
+
+#### Work notes
+
+#### Comments
+
+### ZH05_028
+
+敦煌抄本  
+ZHDZ05p0519
+
+#### Work notes
+
+#### Comments
+
+### ZH05_033
+
+敦煌抄本  
+ZHDZ05p0601
+
+#### Work notes
+
+#### Comments
+
+### ZH06_013
+
+敦煌抄本  
+ZHDZ06p0086
+
+#### Work notes
+
+#### Comments
+
+### ZH06_029
+
+敦煌抄本  
+ZHDZ06p0122
+
+#### Work notes
+
+#### Comments
+
+### ZH06_030
+
+敦煌抄本  
+ZHDZ06p0125
+
+#### Work notes
+
+#### Comments
+
+### ZH06_031
+
+敦煌抄本  
+ZHDZ06p0127
+
+#### Work notes
+
+#### Comments
+
+### ZH07_001
+
+敦煌抄本  
+ZHDZ07p0001
+
+#### Work notes
+
+#### Comments
+
+### ZH07_006
+
+合校本  
+ZHDZ07p0321
+
+#### Work notes
+
+#### Comments
+
+### ZH08_001
+
+敦煌抄本  
+ZHDZ08p0001
+
+#### Work notes
+
+#### Comments
+
+### ZH08_010
+
+敦煌抄本  
+ZHDZ08p0181
+
+#### Work notes
+
+#### Comments
+
+### ZH08_012
+
+敦煌抄本  
+ZHDZ08p0186
+
+#### Work notes
+
+#### Comments
+
+### ZH08_013
+
+敦煌抄本  
+ZHDZ08p0207
+
+#### Work notes
+
+#### Comments
+
+### ZH08_034
+
+敦煌抄本  
+ZHDZ08p0457
+
+#### Work notes
+
+#### Comments
+
+### ZH08_039
+
+敦煌抄本  
+ZHDZ08p0487
+
+#### Work notes
+
+#### Comments
+
+### ZH08_040
+
+敦煌抄本  
+ZHDZ08p0490
+
+#### Work notes
+
+#### Comments
+
+### ZH08_056
+
+敦煌抄本  
+ZHDZ08p0550
+
+#### Work notes
+
+#### Comments
+
+### ZH08_064
+
+敦煌抄本  
+ZHDZ08p0595
+
+#### Work notes
+
+#### Comments
+
+### ZH08_065
+
+敦煌抄本  
+ZHDZ08p0597
+
+#### Work notes
+
+#### Comments
+
+### ZH09_001
+
+郭店楚簡本  
+ZHDZ09p0001
+
+#### Work notes
+
+#### Comments
+
+### ZH09_002
+
+馬王堆錦書本  
+ZHDZ09p0007
+
+#### Work notes
+
+#### Comments
+
+### ZH09_003
+
+敦煌抄本  
+ZHDZ09p0028
+
+#### Work notes
+
+#### Comments
+
+### ZH09_008
+
+敦煌抄本  
+ZHDZ09p0169
+
+#### Work notes
+
+#### Comments
+
+### ZH09_009
+
+敦煌抄本  
+ZHDZ09p0185
+
+#### Work notes
+
+#### Comments
+
+### ZH09_012
+
+敦煌抄本  
+ZHDZ09p0220
+
+#### Work notes
+
+#### Comments
+
+### ZH09_013
+
+敦煌抄本  
+ZHDZ09p0222
+
+#### Work notes
+
+#### Comments
+
+### ZH09_014
+
+敦煌抄本  
+ZHDZ09p0228
+
+#### Work notes
+
+#### Comments
+
+### ZH11_010
+
+續古逸叢書本  
+ZHDZ11p0499
+
+#### Work notes
+
+#### Comments
+
+### ZH15_007
+
+河北定縣寒墓竹簡本  
+ZHDZ15p0435
+
+#### Work notes
+
+#### Comments
+
+### ZH16_009
+
+道臧輯要本  
+ZHDZ16p0202
+
+#### Work notes
+
+#### Comments
+
+### ZH23_038
+
+北京圖書館藏本（藏外道書）  
+ZHDZ23p0232
+
+#### Work notes
+
+#### Comments
+
+### ZH28_002
+
+敦煌抄本  
+ZHDZ28p0318
+
+#### Work notes
+
+#### Comments
+
+### ZH28_003
+
+敦煌抄本  
+ZHDZ28p0337
+
+#### Work notes
+
+#### Comments
+
+### ZH28_009
+
+太平御覽本(卷659-679);  
+ZHDZ28p0564
+
+#### Work notes
+
+#### Comments
+
+### ZH30_002
+
+敦煌抄本  
+ZHDZ30p0084
+
+#### Work notes
+
+#### Comments
+
+### ZH30_004
+
+敦煌抄本  
+ZHDZ30p0119
+
+#### Work notes
+
+#### Comments
+
+### ZH30_011
+
+敦煌抄本  
+ZHDZ30p0142
+
+#### Work notes
+
+#### Comments
+
+### ZH32_002
+
+敦煌抄本  
+ZHDZ32p0037
+
+#### Work notes
+
+#### Comments
+
+### ZH42_002
+
+敦煌抄本  
+ZHDZ42p0028
+
+#### Work notes
+
+#### Comments
+
+### ZH42_009
+
+敦煌抄本  
+ZHDZ42p0089
+
+#### Work notes
+
+#### Comments
+
+### ZH42_030
+
+敦煌抄本  
+ZHDZ42p0652
+
+#### Work notes
+
+#### Comments
+
+### ZH43_001
+
+敦煌抄本  
+ZHDZ43p0001
+
+#### Work notes
+
+#### Comments
+
+### ZH43_039
+
+敦煌抄本  
+ZHDZ43p0710
+
+#### Work notes
+
+#### Comments
+
+### ZH45_002
+
+四庫全書本  
+ZHDZ45p0016
+
+#### Work notes
+
+#### Comments
+
+### ZH46_019
+
+敦煌抄本  
+ZHDZ46p0288
+
+#### Work notes
+
+#### Comments
