@@ -1,0 +1,2649 @@
+# KR6t 續諸宗
+
+[← 目録](../README.md) · [KR6 佛部](KR6.md)
+
+<sub>由 [`tools/org2md.py`](../tools/org2md.py) 自動生成，請勿直接編輯；資料源為 [`KR6t.txt`](KR6t.txt)。</sub>
+
+## [KR6t0001 三論名教抄--珍海](https://github.com/kanripo/KR6t0001)
+
+`EXTRA_ID` T:T70n2306 · `GENRE` 諸宗 · `lang@ja-rom` SANROM MYŌKYŌ SHŌ · `lang@zh-py` (San lun ming jiao chao) · `EXTENT` XV
+
+**人物**
+- 珍海 — `lang@ja-rom` Chinkai
+
+## [KR6t0002 三論興縁--聖守](https://github.com/kanripo/KR6t0002)
+
+`EXTRA_ID` T:T70n2307A · `GENRE` 諸宗 · `lang@ja-rom` SANRON KŌEN · `lang@zh-py` (San lun qu yuan) · `EXTENT` I
+
+**人物**
+- 聖守 — `lang@ja-rom` Shōshu
+
+## [KR6t0003 三論宗濫觴--](https://github.com/kanripo/KR6t0003)
+
+`EXTRA_ID` T:T70n2307B · `GENRE` 諸宗 · `lang@ja-rom` SANRONSHŪ RANSHŌ · `lang@zh-py` (San lun zong lan shang) · `EXTENT` I
+
+## [KR6t0004 三論宗初心初學鈔--實慶](https://github.com/kanripo/KR6t0004)
+
+`EXTRA_ID` T:T70n2308 · `GENRE` 諸宗 · `lang@ja-rom` SANRONSHŪ SHOSHIN SHOGAKU SHŌ · `lang@zh-py` (San lun zong chu xin chu xue chao) · `EXTENT` I
+
+**人物**
+- 實慶 — `lang@ja-rom` Jikkei
+
+## [KR6t0005 大乘法相研神章--護命](https://github.com/kanripo/KR6t0005)
+
+`EXTRA_ID` T:T71n2309 · `GENRE` 諸宗 · `lang@ja-rom` DAIJŌ HOSSŌ KENJINSHŌ · `lang@zh-py` (Da cheng fa xiang yan shen zhang) · `EXTENT` V
+
+**人物**
+- 護命 — `lang@ja-rom` Gomyō
+
+## [KR6t0006 法相燈明記--慚安](https://github.com/kanripo/KR6t0006)
+
+`EXTRA_ID` T:T71n2310 · `GENRE` 諸宗 · `lang@ja-rom` HOSSHŌ TŌMYŌKI · `lang@zh-py` (Fa xiang deng ming ji) · `EXTENT` I
+
+**人物**
+- 慚安 — `lang@ja-rom` Zaṇan
+
+## [KR6t0007 心要鈔--貞慶](https://github.com/kanripo/KR6t0007)
+
+`EXTRA_ID` T:T71n2311 · `GENRE` 諸宗 · `lang@ja-rom` SHIṄYŌ SHŌ · `lang@zh-py` (Xin yao chao) · `EXTENT` I
+
+**人物**
+- 貞慶 — `lang@ja-rom` Jōkei
+
+## [KR6t0008 觀心覺夢鈔--良遍](https://github.com/kanripo/KR6t0008)
+
+`EXTRA_ID` T:T71n2312 · `GENRE` 諸宗 · `lang@ja-rom` KANJIN KAKUMU SHŌ · `lang@zh-py` (Guan xin jiao meng chao) · `EXTENT` III
+
+**人物**
+- 良遍 — `lang@ja-rom` Ryōhen
+
+## [KR6t0009 眞心要決--良遍](https://github.com/kanripo/KR6t0009)
+
+`EXTRA_ID` T:T71n2313 · `GENRE` 諸宗 · `lang@ja-rom` SHINSHIN YŌKETSU · `lang@zh-py` (Zhen xin yao jue) · `EXTENT` III
+
+**人物**
+- 良遍 — `lang@ja-rom` Ryōhen
+
+## [KR6t0010 二卷鈔--良遍](https://github.com/kanripo/KR6t0010)
+
+`EXTRA_ID` T:T71n2314 · `GENRE` 諸宗 · `lang@ja-rom` NIKAN SHŌ · `lang@zh-py` (Er juang chao) · `EXTENT` II
+
+**人物**
+- 良遍 — `lang@ja-rom` Ryōhen
+
+## [KR6t0011 略述法相義--聞證](https://github.com/kanripo/KR6t0011)
+
+`EXTRA_ID` T:T71n2315 · `GENRE` 諸宗 · `lang@ja-rom` RYAKUJUTSU HOSSŌGI · `lang@zh-py` (Lüe shu fa xiang yi) · `EXTENT` III
+
+**人物**
+- 聞證 — `lang@ja-rom` Monshō
+
+## [KR6t0012 大乘一切法相玄論--基辧](https://github.com/kanripo/KR6t0012)
+
+`EXTRA_ID` T:T71n2316 · `GENRE` 諸宗 · `lang@ja-rom` DAIJŌ ISSAI HOSSŌ GENRON · `lang@zh-py` (Da cheng yi qie fa xiang xuan lun) · `EXTENT` II
+
+**人物**
+- 基辧 — `lang@ja-rom` Kiben
+
+## [KR6t0013 法苑義鏡--善珠](https://github.com/kanripo/KR6t0013)
+
+`EXTRA_ID` T:T71n2317 · `RELATED` T45n1861-11@諸宗, T45n1861-2@諸宗, T45n1861-4@諸宗, T45n1861-7@諸宗, T45n1861-8@諸宗, T45n1861-9@諸宗, T71n2318@諸宗, T71n2320@諸宗, T71n2323@諸宗 · `GENRE` 諸宗 · `lang@ja-rom` HŌON GIKYŌ · `lang@zh-py` (Fa yuan yi jing) · `EXTENT` VI
+
+**人物**
+- 善珠 — `lang@ja-rom` Zenju
+
+## [KR6t0014 五心義略記--清範](https://github.com/kanripo/KR6t0014)
+
+`EXTRA_ID` T:T71n2318 · `RELATED` T45n1861-2@諸宗, T71n2317-1@諸宗, T71n2323@諸宗 · `GENRE` 諸宗 · `lang@ja-rom` GOSHINGI RYAKKI · `lang@zh-py` (Wu xin yi lüe ji) · `EXTENT` II
+
+**人物**
+- 清範 — `lang@ja-rom` Seihan
+
+## [KR6t0015 唯識義私記--眞興](https://github.com/kanripo/KR6t0015)
+
+`EXTRA_ID` T:T71n2319 · `RELATED` T45n1861-3@諸宗, T71n2323@諸宗 · `GENRE` 諸宗 · `lang@ja-rom` YUISHIKIGI SHIKI · `lang@zh-py` (Wei zhi yi si ji) · `EXTENT` XII
+
+**人物**
+- 眞興 — `lang@ja-rom` Shinkō
+
+## [KR6t0016 法相宗賢聖義略問答卷第四--仲算](https://github.com/kanripo/KR6t0016)
+
+`EXTRA_ID` T:T71n2320 · `RELATED` T45n1861-7@諸宗, T71n2317-3@諸宗, T71n2323@諸宗 · `GENRE` 諸宗 · `lang@ja-rom` HOSSŌSHŪ GENJŌGI RYAKUMONDŌ KANDAISHI · `lang@zh-py` (Fa xiang zong xian sheng yi lüe wen da juang di si) · `EXTENT` I
+
+**人物**
+- 仲算 — `lang@ja-rom` Chūzan
+
+## [KR6t0017 唯識分量決--善珠](https://github.com/kanripo/KR6t0017)
+
+`EXTRA_ID` T:T71n2321 · `GENRE` 諸宗 · `lang@ja-rom` YUISHIKI BUNRYŌ KETSU · `lang@zh-py` (Wei zhi fen liang jue) · `EXTENT` I
+
+**人物**
+- 善珠 — `lang@ja-rom` Zenju
+
+## [KR6t0018 四分義極略私記--忠算](https://github.com/kanripo/KR6t0018)
+
+`EXTRA_ID` T:T71n2322 · `GENRE` 諸宗 · `lang@ja-rom` SHIBUNGI GOKURYAKU SHIKI · `lang@zh-py` (Si fen yi ji lüe si ji) · `EXTENT` II
+
+**人物**
+- 忠算 — `lang@ja-rom` Chūzan
+
+## [KR6t0019 大乘法苑義林章師子吼鈔--基辧](https://github.com/kanripo/KR6t0019)
+
+`EXTRA_ID` T:T71n2323 · `RELATED` T45n1861@諸宗, T71n2317@諸宗, T71n2318@諸宗, T71n2319@諸宗, T71n2320@諸宗 · `GENRE` 諸宗 · `lang@ja-rom` DAIJŌHŌONGIRINJŌ SHISHIKU SHŌ · `lang@zh-py` (Da cheng fa yuan yi lin zhang shi zi hou chao) · `EXTENT` XXII
+
+**人物**
+- 基辧 — `lang@ja-rom` Kiben
+
+## [KR6t0020 七十五法名目--](https://github.com/kanripo/KR6t0020)
+
+`EXTRA_ID` T:T71n2324 · `GENRE` 諸宗 · `lang@ja-rom` SHICHIJŪGOHŌ MYŌMOKU · `lang@zh-py` (Qi shi wu fa ming mu) · `EXTENT` I
+
+## [KR6t0021 有宗七十五法記--宗禎](https://github.com/kanripo/KR6t0021)
+
+`EXTRA_ID` T:T71n2325 · `GENRE` 諸宗 · `lang@ja-rom` USHŪ SHICHIJŪGOHŌ KI · `lang@zh-py` (You zong qi shi wu fa ji) · `EXTENT` III
+
+**人物**
+- 宗禎 — `lang@ja-rom` Shūtei
+
+## [KR6t0022 華嚴宗一乘開心論--普機](https://github.com/kanripo/KR6t0022)
+
+`EXTRA_ID` T:T72n2326 · `GENRE` 諸宗 · `lang@ja-rom` KEGONSHŪ ICHIJŌ KAISHI RON · `lang@zh-py` (Hua yan zong yi sheng kai xin lun) · `EXTENT` VI
+
+**人物**
+- 普機 — `lang@ja-rom` Fuki
+
+## [KR6t0023 華嚴一乘義私記--増春](https://github.com/kanripo/KR6t0023)
+
+`EXTRA_ID` T:T72n2327 · `GENRE` 諸宗 · `lang@ja-rom` KEGOṄ ICHIJŌGI SHIKI · `lang@zh-py` (Hua yan yi sheng yi si ji) · `EXTENT` I
+
+**人物**
+- 増春 — `lang@ja-rom` Zōshun
+
+## [KR6t0024 華嚴宗種性義抄--親圓](https://github.com/kanripo/KR6t0024)
+
+`EXTRA_ID` T:T72n2328 · `GENRE` 諸宗 · `lang@ja-rom` KEGONSHŪ SHUSHŌGI SHŌ · `lang@zh-py` (Hua yan zong zhong xing yi chao) · `EXTENT` I
+
+**人物**
+- 親圓 — `lang@ja-rom` Shiṇen
+
+## [KR6t0025 華嚴論草--景雅](https://github.com/kanripo/KR6t0025)
+
+`EXTRA_ID` T:T72n2329 · `GENRE` 諸宗 · `lang@ja-rom` KEGON RONSŌ · `lang@zh-py` (Hua yan lun cao) · `EXTENT` I
+
+**人物**
+- 景雅 — `lang@ja-rom` Keiga
+
+## [KR6t0026 華嚴信種義--高辧](https://github.com/kanripo/KR6t0026)
+
+`EXTRA_ID` T:T72n2330 · `GENRE` 諸宗 · `lang@ja-rom` KEGON SHINSHUGI · `lang@zh-py` (Hua yan xin zhong yi) · `EXTENT` I
+
+**人物**
+- 高辧 — `lang@ja-rom` Kōben
+
+## [KR6t0027 華嚴修禪觀照入解脱門義--高辧](https://github.com/kanripo/KR6t0027)
+
+`EXTRA_ID` T:T72n2331 · `GENRE` 諸宗 · `lang@ja-rom` KEGON SHUZENKANSHŌ NYŪGEDATSUMON GI · `lang@zh-py` (Hua yan xiu chan guan zhao ru jie tuo men yi) · `EXTENT` II
+
+**人物**
+- 高辧 — `lang@ja-rom` Kōben
+
+## [KR6t0028 華嚴佛光三昧觀祕寶藏--高辧](https://github.com/kanripo/KR6t0028)
+
+`EXTRA_ID` T:T72n2332 · `GENRE` 諸宗 · `lang@ja-rom` KEGON BUKKŌZAMMAI KANHIHŌZŌ · `lang@zh-py` (Hua yan fo guang san mei guan mi bao zang) · `EXTENT` II
+
+**人物**
+- 高辧 — `lang@ja-rom` Kōben
+
+## [KR6t0029 華嚴宗香薫抄--宗性](https://github.com/kanripo/KR6t0029)
+
+`EXTRA_ID` T:T72n2333 · `GENRE` 諸宗 · `lang@ja-rom` KEGONSHŪ KŌKUNSHŌ · `lang@zh-py` (Hua yan zong xiang xun chao) · `EXTENT` VII
+
+**人物**
+- 宗性 — `lang@ja-rom` Shūshō
+
+## [KR6t0030 華嚴宗大要抄--實弘](https://github.com/kanripo/KR6t0030)
+
+`EXTRA_ID` T:T72n2334 · `GENRE` 諸宗 · `lang@ja-rom` KEGONSHŪ TAIYŌ SHŌ · `lang@zh-py` (Hua yan zong da yao chao) · `EXTENT` I
+
+**人物**
+- 實弘 — `lang@ja-rom` Jikkō
+
+## [KR6t0031 華嚴宗要義--凝然](https://github.com/kanripo/KR6t0031)
+
+`EXTRA_ID` T:T72n2335 · `GENRE` 諸宗 · `lang@ja-rom` KEGONSHŪ　YŌGI · `lang@zh-py` (Hua yan zong yao yi) · `EXTENT` I
+
+**人物**
+- 凝然 — `lang@ja-rom` Gyōnen
+
+## [KR6t0032 華嚴宗所立五教十宗大意略抄--](https://github.com/kanripo/KR6t0032)
+
+`EXTRA_ID` T:T72n2336 · `GENRE` 諸宗 · `lang@ja-rom` KEGONSHŪ SHORYŪ GOKYŌ JISSHŪ TAII RYAKUSHŌ · `lang@zh-py` (Hua yan zong suo li wu jiao shi zong da yi lüe chao) · `EXTENT` I
+
+## [KR6t0033 華嚴五教章指事--壽靈](https://github.com/kanripo/KR6t0033)
+
+`EXTRA_ID` T:T72n2337 · `RELATED` T45n1866@諸宗, T72n2338@諸宗, T72n2339@諸宗, T72n2340@諸宗, T73n2341@諸宗, T73n2342@諸宗, T73n2343@諸宗, T73n2344@諸宗, T73n2345@諸宗 · `GENRE` 諸宗 · `lang@ja-rom` KEGONGOKYŌSHŌ SHIJI · `lang@zh-py` (Hua yan wu jiao zhang zhi shi) · `EXTENT` VI
+
+**人物**
+- 壽靈 — `lang@ja-rom` Juryō
+
+## [KR6t0034 華嚴五教章名目--喜海](https://github.com/kanripo/KR6t0034)
+
+`EXTRA_ID` T:T72n2338 · `RELATED` T45n1866@諸宗, T72n2337@諸宗, T72n2339@諸宗, T72n2340@諸宗, T73n2341@諸宗, T73n2342@諸宗, T73n2343@諸宗, T73n2344@諸宗, T73n2345@諸宗 · `GENRE` 諸宗 · `lang@ja-rom` KEGONGOKYŌSHŌ MYŌMOKU · `lang@zh-py` (Hua yan wu jiao zhang ming mu) · `EXTENT` III
+
+**人物**
+- 喜海 — `lang@ja-rom` Kikai
+
+## [KR6t0035 五教章通路記--凝然](https://github.com/kanripo/KR6t0035)
+
+`EXTRA_ID` T:T72n2339 · `RELATED` T45n1866@諸宗, T72n2337@諸宗, T72n2338@諸宗, T72n2340@諸宗, T73n2341@諸宗, T73n2342@諸宗, T73n2343@諸宗, T73n2344@諸宗, T73n2345@諸宗 · `GENRE` 諸宗 · `lang@ja-rom` GOKYŌSHŌ TSŪRO KI · `lang@zh-py` (Wu jiao zhang tong lu ji) · `EXTENT` LII
+
+**人物**
+- 凝然 — `lang@ja-rom` Gyōnen
+
+## [KR6t0036 華嚴五教章問答抄--審乘](https://github.com/kanripo/KR6t0036)
+
+`EXTRA_ID` T:T72n2340 · `RELATED` T45n1866@諸宗, T72n2337@諸宗, T72n2338@諸宗, T72n2339@諸宗, T73n2341@諸宗, T73n2342@諸宗, T73n2343@諸宗, T73n2344@諸宗, T73n2345@諸宗 · `GENRE` 諸宗 · `lang@ja-rom` KEGONGOKYŌSHŌ MONDŌ SHŌ · `lang@zh-py` (Hua yan wu jiao zhang wen da chao) · `EXTENT` XV
+
+**人物**
+- 審乘 — `lang@ja-rom` Shinjō
+
+## [KR6t0037 華嚴五教章深意鈔--聖詮](https://github.com/kanripo/KR6t0037)
+
+`EXTRA_ID` T:T73n2341 · `RELATED` T45n1866@諸宗, T72n2337@諸宗, T72n2338@諸宗, T72n2339@諸宗, T72n2340@諸宗, T73n2342@諸宗, T73n2343@諸宗, T73n2344@諸宗, T73n2345@諸宗 · `GENRE` 諸宗 · `lang@ja-rom` KEGONGOKYŌSHŌ JIṄI SHŌ · `lang@zh-py` (Hua yan wu jiao zhang shen yi chao) · `EXTENT` X
+
+**人物**
+- 聖詮 — `lang@ja-rom` Shōsen
+
+## [KR6t0038 華嚴五教章見聞鈔--靈波](https://github.com/kanripo/KR6t0038)
+
+`EXTRA_ID` T:T73n2342 · `RELATED` T45n1866@諸宗, T72n2337@諸宗, T72n2338@諸宗, T72n2339@諸宗, T72n2340@諸宗, T73n2341@諸宗, T73n2343@諸宗, T73n2344@諸宗, T73n2345@諸宗 · `GENRE` 諸宗 · `lang@ja-rom` KEGONGOKYŌSHŌ KEMMONSHŌ · `lang@zh-py` (Hua yan wu jiao zhang jian wen chao) · `EXTENT` VIII
+
+**人物**
+- 靈波 — `lang@ja-rom` Ryōha
+
+## [KR6t0039 華嚴五教章不審--實英](https://github.com/kanripo/KR6t0039)
+
+`EXTRA_ID` T:T73n2343 · `RELATED` T45n1866@諸宗, T72n2337@諸宗, T72n2338@諸宗, T72n2339@諸宗, T72n2340@諸宗, T73n2341@諸宗, T73n2342@諸宗, T73n2344@諸宗, T73n2345@諸宗 · `GENRE` 諸宗 · `lang@ja-rom` KEGONGOKYŌSHŌ FUSHIN · `lang@zh-py` (Hua yan wu jiao zhang bu shen) · `EXTENT` XX
+
+**人物**
+- 實英 — `lang@ja-rom` Jitsuei
+
+## [KR6t0040 華嚴五教章匡眞鈔--鳳潭](https://github.com/kanripo/KR6t0040)
+
+`EXTRA_ID` T:T73n2344 · `RELATED` T45n1866@諸宗, T72n2337@諸宗, T72n2338@諸宗, T72n2339@諸宗, T72n2340@諸宗, T73n2341@諸宗, T73n2342@諸宗, T73n2343@諸宗, T73n2345@諸宗 · `GENRE` 諸宗 · `lang@ja-rom` KEGONGOKYŌSHŌ KYŌSHIN SHŌ · `lang@zh-py` (Hua yan wu jiao zhang kuang zhen chao) · `EXTENT` X
+
+**人物**
+- 鳳潭 — `lang@ja-rom` Hōtan
+
+## [KR6t0041 華嚴五教章衍祕鈔--普寂](https://github.com/kanripo/KR6t0041)
+
+`EXTRA_ID` T:T73n2345A · `RELATED` T45n1866@諸宗, T72n2337@諸宗, T72n2338@諸宗, T72n2339@諸宗, T72n2340@諸宗, T73n2341@諸宗, T73n2342@諸宗, T73n2343@諸宗, T73n2344@諸宗 · `GENRE` 諸宗 · `lang@ja-rom` KEGONGOKYŌSHŌ EMPI SHŌ · `lang@zh-py` (Hua yan wu jiao zhang yan mi chao) · `EXTENT` V
+
+**人物**
+- 普寂 — `lang@ja-rom` Fujaku
+
+## [KR6t0042 華嚴五教章科--](https://github.com/kanripo/KR6t0042)
+
+`EXTRA_ID` T:T73n2345B · `RELATED` T45n1866@諸宗, T72n2337@諸宗, T72n2338@諸宗, T72n2339@諸宗, T72n2340@諸宗, T73n2341@諸宗, T73n2342@諸宗, T73n2343@諸宗, T73n2344@諸宗 · `GENRE` 諸宗 · `lang@ja-rom` KEGONGOKYŌSHŌ KA · `lang@zh-py` (Hua yan wu jiao zhang ke) · `EXTENT` I
+
+## [KR6t0043 金師子章勘文--景雅](https://github.com/kanripo/KR6t0043)
+
+`EXTRA_ID` T:T73n2346 · `GENRE` 諸宗 · `lang@ja-rom` KONJISHISHŌ KAMMON · `lang@zh-py` (Jin shi zi zhang kan wen) · `EXTENT` I
+
+**人物**
+- 景雅 — `lang@ja-rom` Keiga
+
+## [KR6t0044 戒律傳來記--豐安](https://github.com/kanripo/KR6t0044)
+
+`EXTRA_ID` T:T74n2347 · `GENRE` 諸宗 · `lang@ja-rom` KAIRITSU DENRAI KI · `lang@zh-py` (Jie lü zhuan lai ji) · `EXTENT` III
+
+**人物**
+- 豐安 — `lang@ja-rom` Buan
+
+## [KR6t0045 律宗綱要--凝然](https://github.com/kanripo/KR6t0045)
+
+`EXTRA_ID` T:T74n2348 · `GENRE` 諸宗 · `lang@ja-rom` RISSHŪ KŌYŌ · `lang@zh-py` (Lü zong gang yao) · `EXTENT` II
+
+**人物**
+- 凝然 — `lang@ja-rom` Gyōnen
+
+## [KR6t0046 東大寺受戒方軌--法進](https://github.com/kanripo/KR6t0046)
+
+`EXTRA_ID` T:T74n2349 · `GENRE` 諸宗 · `lang@ja-rom` TŌDAIJI JUKAI HŌKI · `lang@zh-py` (Dong da si shou jie fang gui) · `EXTENT` I
+
+**人物**
+- 法進 — `lang@ja-rom` Hōshin
+
+## [KR6t0047 東大寺戒壇院受戒式--實範](https://github.com/kanripo/KR6t0047)
+
+`EXTRA_ID` T:T74n2350 · `GENRE` 諸宗 · `lang@ja-rom` TŌDAIJI KAIDAṄIN JUKAI SHIKI · `lang@zh-py` (Dong da si jie tan yuan shou jie shi) · `EXTENT` I
+
+**人物**
+- 實範 — `lang@ja-rom` Jippan
+
+## [KR6t0048 唐招提寺戒壇別受戒式--惠光](https://github.com/kanripo/KR6t0048)
+
+`EXTRA_ID` T:T74n2351 · `GENRE` 諸宗 · `lang@ja-rom` TŌSHŌDAIJI KAIDAN BETSUJUKAI SHIKI · `lang@zh-py` (Tang zhao ti si jie tan bie shou jie shi) · `EXTENT` I
+
+**人物**
+- 惠光 — `lang@ja-rom` Ekō
+
+## [KR6t0049 菩薩戒本宗要雜文集--覺盛](https://github.com/kanripo/KR6t0049)
+
+`EXTRA_ID` T:T74n2352 · `RELATED` T45n1906@諸宗, T74n2356@諸宗 · `GENRE` 諸宗 · `lang@ja-rom` BOSATSU KAIHON SHŪYŌ ZŌMON SHŪ · `lang@zh-py` (Pu sa jie ben zong yao za wen ji) · `EXTENT` I
+
+**人物**
+- 覺盛 — `lang@ja-rom` Kakujō
+
+## [KR6t0050 菩薩戒通受遣疑鈔--覺盛](https://github.com/kanripo/KR6t0050)
+
+`EXTRA_ID` T:T74n2353 · `GENRE` 諸宗 · `lang@ja-rom` BOSATSUKAI TSŪJU KENGI SHŌ · `lang@zh-py` (Pu sa jie tong shou qian yi chao) · `EXTENT` I
+
+**人物**
+- 覺盛 — `lang@ja-rom` Kakujō
+
+## [KR6t0051 菩薩戒通別二受鈔--覺盛](https://github.com/kanripo/KR6t0051)
+
+`EXTRA_ID` T:T74n2354 · `GENRE` 諸宗 · `lang@ja-rom` BOSATSUKAI TSŪBETSU NIJU SHŌ · `lang@zh-py` (Pu sa jie tong bie er shou chao) · `EXTENT` I
+
+**人物**
+- 覺盛 — `lang@ja-rom` Kakujō
+
+## [KR6t0052 通受比丘懺悔兩寺不同記--凝然](https://github.com/kanripo/KR6t0052)
+
+`EXTRA_ID` T:T74n2355 · `GENRE` 諸宗 · `lang@ja-rom` TSŪJU BIKU SANGE RYŌJI FUDŌ KI · `lang@zh-py` (Tong shou bi qiu chan hui liang si bu tong ji) · `EXTENT` I
+
+**人物**
+- 凝然 — `lang@ja-rom` Gyōnen
+
+## [KR6t0053 菩薩戒本宗要輔\[補\]行文集--叡尊](https://github.com/kanripo/KR6t0053)
+
+`EXTRA_ID` T:T74n2356 · `ALT_TITLE` 菩薩戒本宗要補行文集 · `RELATED` T45n1906@諸宗, T74n2352@諸宗 · `GENRE` 諸宗 · `lang@ja-rom` BOSATSU KAIHON SHŪYŌ HO\[var. BU\]GYŌ MONJŪ · `lang@zh-py` (Pu sa jie ben zong yao fu xing wen ji) · `EXTENT` II
+
+**人物**
+- 叡尊 — `lang@ja-rom` Eizon
+
+## [KR6t0054 應理宗戒圖釋文鈔--叡尊](https://github.com/kanripo/KR6t0054)
+
+`EXTRA_ID` T:T74n2357 · `GENRE` 諸宗 · `lang@ja-rom` ŌRISHŪ KAIZU SHAKUMON SHŌ · `lang@zh-py` (Ying li zong jie tu shi wen chao) · `EXTENT` I
+
+**人物**
+- 叡尊 — `lang@ja-rom` Eizon
+
+## [KR6t0055 菩薩戒問答洞義抄--英心](https://github.com/kanripo/KR6t0055)
+
+`EXTRA_ID` T:T74n2358A · `GENRE` 諸宗 · `lang@ja-rom` BOSATSUKAI MONDŌ TŌGI SHŌ · `lang@zh-py` (Pu sa jie wen da dong yi chao) · `EXTENT` I
+
+**人物**
+- 英心 — `lang@ja-rom` Eishin
+
+## [KR6t0056 菩薩戒綱要鈔--](https://github.com/kanripo/KR6t0056)
+
+`EXTRA_ID` T:T74n2358B · `GENRE` 諸宗 · `lang@ja-rom` BOSATSUKAI KŌYŌ SHŌ · `lang@zh-py` (Pu sa jie gang yao chao) · `EXTENT` I
+
+## [KR6t0057 律宗行事目心鈔--忍仙](https://github.com/kanripo/KR6t0057)
+
+`EXTRA_ID` T:T74n2359 · `GENRE` 諸宗 · `lang@ja-rom` RISSHŪ GYŌJI MOKUSHIN SHŌ · `lang@zh-py` (Lü zong xing shi mu xin chao) · `EXTENT` III
+
+**人物**
+- 忍仙 — `lang@ja-rom` Ninsen
+
+## [KR6t0058 大乘圓戒顯正論--宗覺](https://github.com/kanripo/KR6t0058)
+
+`EXTRA_ID` T:T74n2360 · `GENRE` 諸宗 · `lang@ja-rom` DAIJŌ ENKAI KENSHŌ RON · `lang@zh-py` (Da cheng yuan jie xian zheng lun) · `EXTENT` I
+
+**人物**
+- 宗覺 — `lang@ja-rom` Sōkaku
+
+## [KR6t0059 願文--最澄](https://github.com/kanripo/KR6t0059)
+
+`EXTRA_ID` T:T74n2361 · `GENRE` 諸宗 · `lang@ja-rom` GAMMON · `lang@zh-py` (Yuan wen) · `EXTENT` I
+
+**人物**
+- 最澄 — `lang@ja-rom` Saichō
+
+## [KR6t0060 守護國界章--最澄](https://github.com/kanripo/KR6t0060)
+
+`EXTRA_ID` T:T74n2362 · `GENRE` 諸宗 · `lang@ja-rom` SHUGO KOKKAI SHŌ · `lang@zh-py` (Shou hu guo jie zhang) · `EXTENT` IX
+
+**人物**
+- 最澄 — `lang@ja-rom` Saichō
+
+## [KR6t0061 法華長講會式--最澄](https://github.com/kanripo/KR6t0061)
+
+`EXTRA_ID` T:T74n2363 · `GENRE` 諸宗 · `lang@ja-rom` HOKKE CHŌKŌ ESHIKI · `lang@zh-py` (Fa hua chang jiang hui shi) · `EXTENT` II
+
+**人物**
+- 最澄 — `lang@ja-rom` Saichō
+
+## [KR6t0062 長講金光明經會式--最澄](https://github.com/kanripo/KR6t0062)
+
+`EXTRA_ID` T:T74n2364 · `GENRE` 諸宗 · `lang@ja-rom` CHŌKŌ KONKŌMYŌKYŌ ESHIKI · `lang@zh-py` (Chang jiang jin guang ming jing hui shi) · `EXTENT` I
+
+**人物**
+- 最澄 — `lang@ja-rom` Saichō
+
+## [KR6t0063 長講仁王般若經會式--最澄](https://github.com/kanripo/KR6t0063)
+
+`EXTRA_ID` T:T74n2365 · `GENRE` 諸宗 · `lang@ja-rom` CHŌKŌ NINNŌHANNYAKYŌ ESHIKI · `lang@zh-py` (Chang jiang ren wang ban ruo jing hui shi) · `EXTENT` I
+
+**人物**
+- 最澄 — `lang@ja-rom` Saichō
+
+## [KR6t0064 天台法華宗義集--義眞](https://github.com/kanripo/KR6t0064)
+
+`EXTRA_ID` T:T74n2366 · `GENRE` 諸宗 · `lang@ja-rom` TENDAI HOKKE SHŪGI SHŪ · `lang@zh-py` (Tian tai fa hua zong yi ji) · `EXTENT` I
+
+**人物**
+- 義眞 — `lang@ja-rom` Gishin
+
+## [KR6t0065 授決集--圓珍](https://github.com/kanripo/KR6t0065)
+
+`EXTRA_ID` T:T74n2367 · `GENRE` 諸宗 · `lang@ja-rom` JUKES SHŪ · `lang@zh-py` (Shou jue ji) · `EXTENT` II
+
+**人物**
+- 圓珍 — `lang@ja-rom` Enchin
+
+## [KR6t0066 諸家教相同異集--圓珍](https://github.com/kanripo/KR6t0066)
+
+`EXTRA_ID` T:T74n2368 · `GENRE` 諸宗 · `lang@ja-rom` SHOKE KYŌSŌ DŌI SHŪ · `lang@zh-py` (Zhu jia jiao xiang tong yi ji) · `EXTENT` I
+
+**人物**
+- 圓珍 — `lang@ja-rom` Enchin
+
+## [KR6t0067 定宗論--蓮剛](https://github.com/kanripo/KR6t0067)
+
+`EXTRA_ID` T:T74n2369 · `GENRE` 諸宗 · `lang@ja-rom` JŌSHŪ RON · `lang@zh-py` (Ding zong lun) · `EXTENT` I
+
+**人物**
+- 蓮剛 — `lang@ja-rom` Rengō
+
+## [KR6t0068 一乘要決--源信](https://github.com/kanripo/KR6t0068)
+
+`EXTRA_ID` T:T74n2370 · `GENRE` 諸宗 · `lang@ja-rom` ICHIJŌ YŌKETSU · `lang@zh-py` (Yi sheng yao jue) · `EXTENT` III
+
+**人物**
+- 源信 — `lang@ja-rom` Genshin
+
+## [KR6t0069 漢光類聚--忠尋](https://github.com/kanripo/KR6t0069)
+
+`EXTRA_ID` T:T74n2371 · `GENRE` 諸宗 · `lang@ja-rom` KANKŌ RUIJŪ · `lang@zh-py` (Han guang lei ju) · `EXTENT` IV
+
+**人物**
+- 忠尋 — `lang@ja-rom` Chūjin
+
+## [KR6t0070 天台眞言二宗同異章--證眞](https://github.com/kanripo/KR6t0070)
+
+`EXTRA_ID` T:T74n2372 · `GENRE` 諸宗 · `lang@ja-rom` TENDAI SHINGON NISHŪ DŌI SHŌ · `lang@zh-py` (Tian tai zhen yan er zong tong yi zhang) · `EXTENT` I
+
+**人物**
+- 證眞 — `lang@ja-rom` Shōshin
+
+## [KR6t0071 圓密宗二教名目--惠鎭](https://github.com/kanripo/KR6t0071)
+
+`EXTRA_ID` T:T74n2373 · `GENRE` 諸宗 · `lang@ja-rom` EMMITSUSHŪ NIKYŌ MYŌMOKU · `lang@zh-py` (Yuan mi zong er jiao ming mu) · `EXTENT` I
+
+**人物**
+- 惠鎭 — `lang@ja-rom` Echin
+
+## [KR6t0072 宗要柏原案立--貞舜](https://github.com/kanripo/KR6t0072)
+
+`EXTRA_ID` T:T74n2374 · `GENRE` 諸宗 · `lang@ja-rom` SHŪYŌ KASHIWABARA ANRYŪ · `lang@zh-py` (Zong yao bo yuan an li) · `EXTENT` VI
+
+**人物**
+- 貞舜 — `lang@ja-rom` Teishun
+
+## [KR6t0073 天台圓宗四教五時西谷名目--](https://github.com/kanripo/KR6t0073)
+
+`EXTRA_ID` T:T74n2375 · `GENRE` 諸宗 · `lang@ja-rom` TENDAI ENSHŪ SHIKYŌ GOJI NISHIDANI MYŌMOKU · `lang@zh-py` (Tian tai yuan zong si jiao wu shi xi gu ming mu) · `EXTENT` II
+
+**人物**
+- \*Nishidanimyōmoku — `lang@ja-rom` An.
+
+## [KR6t0074 顯戒論--最澄](https://github.com/kanripo/KR6t0074)
+
+`EXTRA_ID` T:T74n2376 · `GENRE` 諸宗 · `lang@ja-rom` KENKAI RON · `lang@zh-py` (Xian jie lun) · `EXTENT` III
+
+**人物**
+- 最澄 — `lang@ja-rom` Saichō
+
+## [KR6t0075 山家學生式--最澄](https://github.com/kanripo/KR6t0075)
+
+`EXTRA_ID` T:T74n2377 · `GENRE` 諸宗 · `lang@ja-rom` SANGE GAKUSHŌ SHIKI · `lang@zh-py` (Shan gu xue sheng shi) · `EXTENT` I
+
+**人物**
+- 最澄 — `lang@ja-rom` Saichō
+
+## [KR6t0076 授菩薩戒儀--](https://github.com/kanripo/KR6t0076)
+
+`EXTRA_ID` T:T74n2378 · `GENRE` 諸宗 · `lang@ja-rom` JU BOSAKKAI GI · `lang@zh-py` (Shou pu sa jie yi) · `EXTENT` I
+
+## [KR6t0077 傳述一心戒文--光定](https://github.com/kanripo/KR6t0077)
+
+`EXTRA_ID` T:T74n2379 · `GENRE` 諸宗 · `lang@ja-rom` DENJUTSU ISSHIN KAIMON · `lang@zh-py` (Zhuan shu yi xin jie wen) · `EXTENT` III
+
+**人物**
+- 光定 — `lang@ja-rom` Kōjō
+
+## [KR6t0078 顯揚大戒論--圓仁](https://github.com/kanripo/KR6t0078)
+
+`EXTRA_ID` T:T74n2380 · `GENRE` 諸宗 · `lang@ja-rom` KENNYŌ DAIKAI RON · `lang@zh-py` (Xian yang da jie lun) · `EXTENT` VIII
+
+**人物**
+- 圓仁 — `lang@ja-rom` Ennin
+
+## [KR6t0079 普通授菩薩戒廣釋--安然](https://github.com/kanripo/KR6t0079)
+
+`EXTRA_ID` T:T74n2381 · `GENRE` 諸宗 · `lang@ja-rom` FUTSŪ JU BOSATSUKAI KŌSHAKU · `lang@zh-py` (Pu tong shou pu sa jie guang shi) · `EXTENT` III
+
+**人物**
+- 安然 — `lang@ja-rom` Annen
+
+## [KR6t0080 新學菩薩行要抄--仁空](https://github.com/kanripo/KR6t0080)
+
+`EXTRA_ID` T:T74n2382 · `GENRE` 諸宗 · `lang@ja-rom` SHINGAKU BOSATSUGYŌ YŌSHŌ · `lang@zh-py` (Xin xue pu sa xing yao chao) · `EXTENT` I
+
+**人物**
+- 仁空 — `lang@ja-rom` Ninkū
+
+## [KR6t0081 菩薩圓頓授戒灌頂記--惟賢](https://github.com/kanripo/KR6t0081)
+
+`EXTRA_ID` T:T74n2383 · `GENRE` 諸宗 · `lang@ja-rom` BOSATSU ENDON JUKAI KANJŌ KI · `lang@zh-py` (Pu sa yuan dun shou jie guan ding ji) · `EXTENT` I
+
+**人物**
+- 惟賢 — `lang@ja-rom` Yuiken
+
+## [KR6t0082 圓戒指掌--敬光](https://github.com/kanripo/KR6t0082)
+
+`EXTRA_ID` T:T74n2384 · `GENRE` 諸宗 · `lang@ja-rom` ENKAI SHISHŌ · `lang@zh-py` (Yuan jie zhi zhang) · `EXTENT` III
+
+**人物**
+- 敬光 — `lang@ja-rom` Kyōkō
+
+## [KR6t0083 胎藏界虚心記--圓仁](https://github.com/kanripo/KR6t0083)
+
+`EXTRA_ID` T:T75n2385 · `GENRE` 諸宗 · `lang@ja-rom` TAIZŌKAI KOSHIN KI · `lang@zh-py` (Tai zang jie xu xin ji) · `EXTENT` II
+
+**人物**
+- 圓仁 — `lang@ja-rom` Ennin
+
+## [KR6t0084 金剛界淨地記--圓仁](https://github.com/kanripo/KR6t0084)
+
+`EXTRA_ID` T:T75n2386 · `GENRE` 諸宗 · `lang@ja-rom` KONGŌKAI JŌJI KI · `lang@zh-py` (Jin gang jie jing di ji) · `EXTENT` I
+
+**人物**
+- 圓仁 — `lang@ja-rom` Ennin
+
+## [KR6t0085 蘇悉地妙心大--圓仁](https://github.com/kanripo/KR6t0085)
+
+`EXTRA_ID` T:T75n2387 · `GENRE` 諸宗 · `lang@ja-rom` SOSHICCHI MYŌSHINDAI · `lang@zh-py` (Su xi di miao xin da) · `EXTENT` I
+
+**人物**
+- 圓仁 — `lang@ja-rom` Ennin
+
+## [KR6t0086 妙成就記--圓仁](https://github.com/kanripo/KR6t0086)
+
+`EXTRA_ID` T:T75n2388 · `GENRE` 諸宗 · `lang@ja-rom` MYŌ JŌJU KI · `lang@zh-py` (Miao cheng jiu ji) · `EXTENT` I
+
+**人物**
+- 圓仁 — `lang@ja-rom` Ennin
+
+## [KR6t0087 眞言所立三身問答--圓仁](https://github.com/kanripo/KR6t0087)
+
+`EXTRA_ID` T:T75n2389 · `GENRE` 諸宗 · `lang@ja-rom` SHINGON SHORYŪ SANJIM MONDŌ · `lang@zh-py` (Zhen yan suo li san shen wen da) · `EXTENT` I
+
+**人物**
+- 圓仁 — `lang@ja-rom` Ennin
+
+## [KR6t0088 胎藏界大法對受記--安然](https://github.com/kanripo/KR6t0088)
+
+`EXTRA_ID` T:T75n2390 · `GENRE` 諸宗 · `lang@ja-rom` TAIZŌKAI DAIHŌ TAIJU KI · `lang@zh-py` (Tai zang jie da fa dui shou ji) · `EXTENT` VII
+
+**人物**
+- 安然 — `lang@ja-rom` Annen
+
+## [KR6t0089 金剛界大法對受記--安然](https://github.com/kanripo/KR6t0089)
+
+`EXTRA_ID` T:T75n2391 · `GENRE` 諸宗 · `lang@ja-rom` KONGŌKAI DAIHŌ TAIJU KI · `lang@zh-py` (Jin gang jie da fa dui shou ji) · `EXTENT` VIII
+
+**人物**
+- 安然 — `lang@ja-rom` Annen
+
+## [KR6t0090 蘇悉地對受記--安然](https://github.com/kanripo/KR6t0090)
+
+`EXTRA_ID` T:T75n2392 · `GENRE` 諸宗 · `lang@ja-rom` SOSHICCHI TAIJU KI · `lang@zh-py` (Su xi di dui shou ji) · `EXTENT` I
+
+**人物**
+- 安然 — `lang@ja-rom` Annen
+
+## [KR6t0091 觀中院撰定事業灌頂具足支分--安然](https://github.com/kanripo/KR6t0091)
+
+`EXTRA_ID` T:T75n2393 · `GENRE` 諸宗 · `lang@ja-rom` KANCHŪIN SENJŌ JIGŌ KANJŌ GUSOKU SHIBUN · `lang@zh-py` (Guan zhong yuan zhuan ding shi ye guan ding ju zu zhi fen) · `EXTENT` X
+
+**人物**
+- 安然 — `lang@ja-rom` Annen
+
+## [KR6t0092 大日經供養持誦不同--安然](https://github.com/kanripo/KR6t0092)
+
+`EXTRA_ID` T:T75n2394 · `GENRE` 諸宗 · `lang@ja-rom` DAINICHIKYŌ KUYŌ JIJU FUDŌ · `lang@zh-py` (Da ri jing gong yang chi song bu tong) · `EXTENT` VII
+
+**人物**
+- 安然 — `lang@ja-rom` Annen
+
+## [KR6t0093 教時諍--安然](https://github.com/kanripo/KR6t0093)
+
+`EXTRA_ID` T:T75n2395A · `GENRE` 諸宗 · `lang@ja-rom` KYŌJI JŌ · `lang@zh-py` (Jiao shi zheng) · `EXTENT` I
+
+**人物**
+- 安然 — `lang@ja-rom` Annen
+
+## [KR6t0094 教時諍論--安然](https://github.com/kanripo/KR6t0094)
+
+`EXTRA_ID` T:T75n2395B · `GENRE` 諸宗 · `lang@ja-rom` KYŌJI JŌ RON · `lang@zh-py` (Jiao shi zheng lun) · `EXTENT` I
+
+**人物**
+- 安然 — `lang@ja-rom` Annen
+
+## [KR6t0095 眞言宗教時義--安然](https://github.com/kanripo/KR6t0095)
+
+`EXTRA_ID` T:T75n2396 · `GENRE` 諸宗 · `lang@ja-rom` SHINGONSHŪ KYŌJI GI · `lang@zh-py` (Zhen yan zong jiao shi yi) · `EXTENT` IV
+
+**人物**
+- 安然 — `lang@ja-rom` Annen
+
+## [KR6t0096 胎藏金剛菩提心義略問答抄--安然](https://github.com/kanripo/KR6t0096)
+
+`EXTRA_ID` T:T75n2397 · `GENRE` 諸宗 · `lang@ja-rom` TAIZŌ KONGŌ BODAISHIN GI RYAKU MONDŌ SHŌ · `lang@zh-py` (Tai zang jin gang pu ti xin yi lüe wen da chao) · `EXTENT` V
+
+**人物**
+- 安然 — `lang@ja-rom` Annen
+
+## [KR6t0097 胎藏三密抄--覺超](https://github.com/kanripo/KR6t0097)
+
+`EXTRA_ID` T:T75n2398 · `GENRE` 諸宗 · `lang@ja-rom` TAIZŌ SAMMITSU SHŌ · `lang@zh-py` (Tai zang san mi chao) · `EXTENT` V
+
+**人物**
+- 覺超 — `lang@ja-rom` Kakuchō
+
+## [KR6t0098 三密抄料簡--覺超](https://github.com/kanripo/KR6t0098)
+
+`EXTRA_ID` T:T75n2399 · `GENRE` 諸宗 · `lang@ja-rom` SAMMITSUSHŌ RYŌKEN · `lang@zh-py` (San mi chao liao jian) · `EXTENT` II
+
+**人物**
+- 覺超 — `lang@ja-rom` Kakuchō
+
+## [KR6t0099 金剛三密抄--覺超](https://github.com/kanripo/KR6t0099)
+
+`EXTRA_ID` T:T75n2400 · `GENRE` 諸宗 · `lang@ja-rom` KONGŌ SAMMITSU SHŌ · `lang@zh-py` (Jin gang san mi chao) · `EXTENT` V
+
+**人物**
+- 覺超 — `lang@ja-rom` Kakuchō
+
+## [KR6t0100 東曼荼羅抄--覺超](https://github.com/kanripo/KR6t0100)
+
+`EXTRA_ID` T:T75n2401 · `GENRE` 諸宗 · `lang@ja-rom` TŌ MANDARA SHŌ · `lang@zh-py` (Dong man tu luo chao) · `EXTENT` III
+
+**人物**
+- 覺超 — `lang@ja-rom` Kakuchō
+
+## [KR6t0101 西曼荼羅集--覺超](https://github.com/kanripo/KR6t0101)
+
+`EXTRA_ID` T:T75n2402 · `GENRE` 諸宗 · `lang@ja-rom` SAIMONDARA SHŪ · `lang@zh-py` (Xi man tu luo ji) · `EXTENT` I
+
+**人物**
+- 覺超 — `lang@ja-rom` Kakuchō
+
+## [KR6t0102 五相成身私記--覺超](https://github.com/kanripo/KR6t0102)
+
+`EXTRA_ID` T:T75n2403 · `GENRE` 諸宗 · `lang@ja-rom` GOSŌJŌSHIN SHIKI · `lang@zh-py` (Wu xiang cheng shen si ji) · `EXTENT` I
+
+**人物**
+- 覺超 — `lang@ja-rom` Kakuchō
+
+## [KR6t0103 胎藏界生起--覺超](https://github.com/kanripo/KR6t0103)
+
+`EXTRA_ID` T:T75n2404 · `GENRE` 諸宗 · `lang@ja-rom` TAIZŌKAI SHŌKI · `lang@zh-py` (Tai zang jie sheng qi) · `EXTENT` I
+
+**人物**
+- 覺超 — `lang@ja-rom` Kakuchō
+
+## [KR6t0104 祕密壇都法大阿闍梨常念誦生起--](https://github.com/kanripo/KR6t0104)
+
+`EXTRA_ID` T:T75n2405 · `GENRE` 諸宗 · `lang@ja-rom` HIMITSU DANTOHŌ DAIAJARI JŌNENJU SHŌKI · `lang@zh-py` (Mi mi tan dou fa da a she li chang nian song sheng qi) · `EXTENT` I
+
+## [KR6t0105 金剛界次第生起--最圓](https://github.com/kanripo/KR6t0105)
+
+`EXTRA_ID` T:T75n2406A · `GENRE` 諸宗 · `lang@ja-rom` KONGŌKAI SHIDAI SHŌKI · `lang@zh-py` (Jin gang jie ci di sheng qi) · `EXTENT` I
+
+**人物**
+- 最圓 — `lang@ja-rom` Saien
+
+## [KR6t0106 謹答金剛界疑問總來十條--](https://github.com/kanripo/KR6t0106)
+
+`EXTRA_ID` T:T75n2406B · `GENRE` 諸宗 · `lang@ja-rom` KINTŌ KONGŌKAI GIMON SŌRAI JŪJŌ · `lang@zh-py` (Jin da jin gang jie yi wen zong lai shi tiao) · `EXTENT` I
+
+## [KR6t0107 隨要記--皇慶](https://github.com/kanripo/KR6t0107)
+
+`EXTRA_ID` T:T75n2407 · `GENRE` 諸宗 · `lang@ja-rom` ZUIYŌ KI · `lang@zh-py` (Sui yao ji) · `EXTENT` II
+
+**人物**
+- 皇慶 — `lang@ja-rom` Kōgei
+
+## [KR6t0108 四十帖決--長宴](https://github.com/kanripo/KR6t0108)
+
+`EXTRA_ID` T:T75n2408 · `GENRE` 諸宗 · `lang@ja-rom` SHIJŪJŌ KETSU · `lang@zh-py` (Si shi tie jue) · `EXTENT` XV
+
+**人物**
+- 長宴 — `lang@ja-rom` Jōen
+
+## [KR6t0109 行林抄--靜然](https://github.com/kanripo/KR6t0109)
+
+`EXTRA_ID` T:T76n2409 · `GENRE` 諸宗 · `lang@ja-rom` GYŌRIN SHŌ · `lang@zh-py` (Xing lin chao) · `EXTENT` LXXXII
+
+**人物**
+- 靜然 — `lang@ja-rom` Jōnen
+
+## [KR6t0110 溪嵐拾葉集--光宗](https://github.com/kanripo/KR6t0110)
+
+`EXTRA_ID` T:T76n2410 · `GENRE` 諸宗 · `lang@ja-rom` KEIRAN SHŪYŌ SHŪ · `lang@zh-py` (Xi lan shi ye ji) · `EXTENT` CXVI
+
+**人物**
+- 光宗 — `lang@ja-rom` Kōshū
+
+## [KR6t0111 三昧流口傳集--良祐](https://github.com/kanripo/KR6t0111)
+
+`EXTRA_ID` T:T77n2411 · `GENRE` 諸宗 · `lang@ja-rom` SAMMAIRYŪ KUDEN SHŪ · `lang@zh-py` (San mei liu kou zhuan ji) · `EXTENT` II
+
+**人物**
+- 良祐 — `lang@ja-rom` Ryōyū
+
+## [KR6t0112 總持抄--澄豪](https://github.com/kanripo/KR6t0112)
+
+`EXTRA_ID` T:T77n2412 · `GENRE` 諸宗 · `lang@ja-rom` SŌJI SHŌ · `lang@zh-py` (Zong chi chao) · `EXTENT` X
+
+**人物**
+- 澄豪 — `lang@ja-rom` Chōgō
+
+## [KR6t0113 四度授法日記--](https://github.com/kanripo/KR6t0113)
+
+`EXTRA_ID` T:T77n2413 · `GENRE` 諸宗 · `lang@ja-rom` SHIDO JUHŌ NIKKI · `lang@zh-py` (Si du shou fa ri ji) · `EXTENT` IV
+
+## [KR6t0114 了因決--了惠](https://github.com/kanripo/KR6t0114)
+
+`EXTRA_ID` T:T77n2414 · `GENRE` 諸宗 · `lang@ja-rom` RYŌIN KETSU · `lang@zh-py` (Liao yin jue) · `EXTENT` XLVIII
+
+**人物**
+- 了惠 — `lang@ja-rom` Ryōe
+
+## [KR6t0115 灌頂私見聞--了翁](https://github.com/kanripo/KR6t0115)
+
+`EXTRA_ID` T:T77n2415 · `GENRE` 諸宗 · `lang@ja-rom` KANJŌ SHIKEMMON · `lang@zh-py` (Guan ding si jian wen) · `EXTENT` I
+
+**人物**
+- 了翁 — `lang@ja-rom` Ryōō
+
+## [KR6t0116 遮那業案立草--仁空](https://github.com/kanripo/KR6t0116)
+
+`EXTRA_ID` T:T77n2416 · `GENRE` 諸宗 · `lang@ja-rom` SHANAGŌ ANRYŪ SŌ · `lang@zh-py` (Zhe na ye an li cao) · `EXTENT` XIII
+
+**人物**
+- 仁空 — `lang@ja-rom` Ninkū
+
+## [KR6t0117 法華懺法--](https://github.com/kanripo/KR6t0117)
+
+`EXTRA_ID` T:T77n2417 · `GENRE` 諸宗 · `lang@ja-rom` HOKKE SEMPŌ · `lang@zh-py` (Fa hua chan fa) · `EXTENT` I
+
+## [KR6t0118 例時作法--](https://github.com/kanripo/KR6t0118)
+
+`EXTRA_ID` T:T77n2418 · `GENRE` 諸宗 · `lang@ja-rom` REIJI SAHŌ · `lang@zh-py` (Li shi zuo fa) · `EXTENT` I
+
+## [KR6t0119 遮那業學則--覺千](https://github.com/kanripo/KR6t0119)
+
+`EXTRA_ID` T:T77n2419 · `GENRE` 諸宗 · `lang@ja-rom` SHANAGŌ GAKUSOKU · `lang@zh-py` (Zhe na ye xue ze) · `EXTENT` I
+
+**人物**
+- 覺千 — `lang@ja-rom` Kakusen
+
+## [KR6t0120 奏進法語--眞盛](https://github.com/kanripo/KR6t0120)
+
+`EXTRA_ID` T:T77n2420 · `GENRE` 諸宗 · `lang@ja-rom` SŌSHIN HŌGO · `lang@zh-py` (Zou jin fa yu) · `EXTENT` I
+
+**人物**
+- 眞盛 — `lang@ja-rom` Shinzei
+
+## [KR6t0121 念佛三昧法語--眞盛](https://github.com/kanripo/KR6t0121)
+
+`EXTRA_ID` T:T77n2421 · `GENRE` 諸宗 · `lang@ja-rom` NEMBUTSUZAMMAI HŌGO · `lang@zh-py` (Nian fo san mei fa yu) · `EXTENT` I
+
+**人物**
+- 眞盛 — `lang@ja-rom` Shinzei
+
+## [KR6t0122 眞迢上人法語--](https://github.com/kanripo/KR6t0122)
+
+`EXTRA_ID` T:T77n2422 · `GENRE` 諸宗 · `lang@ja-rom` SHINCHŌSHŌNIN HŌGO · `lang@zh-py` (Zhen tiao shang ren fa yu) · `EXTENT` I
+
+## [KR6t0123 眞荷上人法語--](https://github.com/kanripo/KR6t0123)
+
+`EXTRA_ID` T:T77n2423 · `GENRE` 諸宗 · `lang@ja-rom` SHINKASHŌNIN HŌGO · `lang@zh-py` (Zhen he shang ren fa yu) · `EXTENT` I
+
+## [KR6t0124 眞朗上人法語--](https://github.com/kanripo/KR6t0124)
+
+`EXTRA_ID` T:T77n2424 · `GENRE` 諸宗 · `lang@ja-rom` SHINRŌSHŌNIN HŌGO · `lang@zh-py` (Zhen lang shang ren fa yu) · `EXTENT` I
+
+## [KR6t0125 祕密曼荼羅十住心論--空海](https://github.com/kanripo/KR6t0125)
+
+`EXTRA_ID` T:T77n2425 · `RELATED` T77n2443@諸宗, T77n2444@諸宗, T77n2454@諸宗 · `GENRE` 諸宗 · `lang@ja-rom` HIMITSU MANDARA JŪJŪSHIN RON · `lang@zh-py` (Mi mi man tu luo shi zhu xin lun) · `EXTENT` X
+
+**人物**
+- 空海 — `lang@ja-rom` Kūkai
+
+## [KR6t0126 祕藏寶鑰--空海](https://github.com/kanripo/KR6t0126)
+
+`EXTRA_ID` T:T77n2426 · `GENRE` 諸宗 · `lang@ja-rom` HIZŌ HŌYAKU · `lang@zh-py` (Mi zang bao yue) · `EXTENT` III
+
+**人物**
+- 空海 — `lang@ja-rom` Kūkai
+
+## [KR6t0127 辧顯密二教論--空海](https://github.com/kanripo/KR6t0127)
+
+`EXTRA_ID` T:T77n2427 · `RELATED` T77n2434@諸宗 · `GENRE` 諸宗 · `lang@ja-rom` BEN KEMMITSU NIKYŌ RON · `lang@zh-py` (Bian xian mi er jiao lun) · `EXTENT` II
+
+**人物**
+- 空海 — `lang@ja-rom` Kūkai
+
+## [KR6t0128 即身成佛義--空海](https://github.com/kanripo/KR6t0128)
+
+`EXTRA_ID` T:T77n2428A · `GENRE` 諸宗 · `lang@ja-rom` SOKUSHIN JŌBUTSU GI · `lang@zh-py` (Ji shen cheng fo yi) · `EXTENT` I
+
+**人物**
+- 空海 — `lang@ja-rom` Kūkai
+
+## [KR6t0129 眞言宗即身成佛義問答--](https://github.com/kanripo/KR6t0129)
+
+`EXTRA_ID` T:T77n2428B · `GENRE` 諸宗 · `lang@ja-rom` SHINGONSHŪ SOKUSHIN JŌBUTSU GI MONDŌ · `lang@zh-py` (Zhen yan zong ji shen cheng fo yi wen da) · `EXTENT` I
+
+## [KR6t0130 即身成佛義--](https://github.com/kanripo/KR6t0130)
+
+`EXTRA_ID` T:T77n2428C · `GENRE` 諸宗 · `lang@ja-rom` SOKUSHIN JŌBUTSU GI · `lang@zh-py` (Ji shen cheng fo yi) · `EXTENT` I
+
+## [KR6t0131 眞言宗即身成佛義--](https://github.com/kanripo/KR6t0131)
+
+`EXTRA_ID` T:T77n2428D · `GENRE` 諸宗 · `lang@ja-rom` SHINGONSHŪ SOKUSHIN JŌBUTSU GI MONDŌ · `lang@zh-py` (Zhen yan zong ji shen cheng fo yi wen da) · `EXTENT` I
+
+## [KR6t0132 即身成佛義--](https://github.com/kanripo/KR6t0132)
+
+`EXTRA_ID` T:T77n2428E · `GENRE` 諸宗 · `lang@ja-rom` SOKUSHIN JŌBUTSU GI · `lang@zh-py` (Ji shen cheng fo yi) · `EXTENT` I
+
+## [KR6t0133 即身成佛義--](https://github.com/kanripo/KR6t0133)
+
+`EXTRA_ID` T:T77n2428F · `GENRE` 諸宗 · `lang@ja-rom` SOKUSHIN JŌBUTSU GI · `lang@zh-py` (Ji shen cheng fo yi) · `EXTENT` I
+
+## [KR6t0134 眞言宗即身成佛義問答--](https://github.com/kanripo/KR6t0134)
+
+`EXTRA_ID` T:T77n2428G · `GENRE` 諸宗 · `lang@ja-rom` SHINGONSHŪ SOKUSHIN JŌBUTSU GI MONDŌ · `lang@zh-py` (Zhen yan zong ji shen cheng fo yi wen da) · `EXTENT` I
+
+## [KR6t0135 聲字實相義--空海](https://github.com/kanripo/KR6t0135)
+
+`EXTRA_ID` T:T77n2429 · `GENRE` 諸宗 · `lang@ja-rom` SHŌJI JISSŌ GI · `lang@zh-py` (Sheng zi shi xiang yi) · `EXTENT` I
+
+**人物**
+- 空海 — `lang@ja-rom` Kūkai
+
+## [KR6t0136 吽字義--空海](https://github.com/kanripo/KR6t0136)
+
+`EXTRA_ID` T:T77n2430 · `GENRE` 諸宗 · `lang@ja-rom` UNJI GI · `lang@zh-py` (Hong zi yi) · `EXTENT` I
+
+**人物**
+- 空海 — `lang@ja-rom` Kūkai
+
+## [KR6t0137 御遺告--空海](https://github.com/kanripo/KR6t0137)
+
+`EXTRA_ID` T:T77n2431 · `GENRE` 諸宗 · `lang@ja-rom` GOYUIGŌ · `lang@zh-py` (Yu yi gao) · `EXTENT` I
+
+**人物**
+- 空海 — `lang@ja-rom` Kūkai
+
+## [KR6t0138 阿字觀用心口決--實慧](https://github.com/kanripo/KR6t0138)
+
+`EXTRA_ID` T:T77n2432 · `GENRE` 諸宗 · `lang@ja-rom` AJIKAṄ YŌJIN KUKETSU · `lang@zh-py` (A zi guan yong xin kou jue) · `EXTENT` I
+
+**人物**
+- 實慧 — `lang@ja-rom` Jichie
+
+## [KR6t0139 眞言付法纂要抄--成尊](https://github.com/kanripo/KR6t0139)
+
+`EXTRA_ID` T:T77n2433 · `GENRE` 諸宗 · `lang@ja-rom` SHINGON FUHŌ SANNYŌ SHŌ · `lang@zh-py` (Zhen yan fu fa zuan yao chao) · `EXTENT` I
+
+**人物**
+- 成尊 — `lang@ja-rom` Seison
+
+## [KR6t0140 辧顯密二教論懸鏡抄--濟暹](https://github.com/kanripo/KR6t0140)
+
+`EXTRA_ID` T:T77n2434 · `RELATED` T77n2427@諸宗 · `GENRE` 諸宗 · `lang@ja-rom` BENKEMMITSUNIKYŌRON KENKYŌ SHŌ · `lang@zh-py` (Bian xian mi er jiao lun xuan jing chao) · `EXTENT` VI
+
+**人物**
+- 濟暹 — `lang@ja-rom` Saisen
+
+## [KR6t0141 顯密差別問答--濟暹](https://github.com/kanripo/KR6t0141)
+
+`EXTRA_ID` T:T77n2435 · `GENRE` 諸宗 · `lang@ja-rom` KEMMITSU SHABETSU MONDŌ · `lang@zh-py` (Xian mi cha bie wen da) · `EXTENT` II
+
+**人物**
+- 濟暹 — `lang@ja-rom` Saisen
+
+## [KR6t0142 四種法身義--濟暹](https://github.com/kanripo/KR6t0142)
+
+`EXTRA_ID` T:T77n2436 · `GENRE` 諸宗 · `lang@ja-rom` SHISHU HOSSHIN GI · `lang@zh-py` (Si zhong fa shen yi) · `EXTENT` I
+
+**人物**
+- 濟暹 — `lang@ja-rom` Saisen
+
+## [KR6t0143 住心決疑抄--](https://github.com/kanripo/KR6t0143)
+
+`EXTRA_ID` T:T77n2437 · `GENRE` 諸宗 · `lang@ja-rom` JŪSHIN KETSUGI SHŌ · `lang@zh-py` (Zhu xin jue yi chao) · `EXTENT` I
+
+## [KR6t0144 阿字義--實範](https://github.com/kanripo/KR6t0144)
+
+`EXTRA_ID` T:T77n2438 · `GENRE` 諸宗 · `lang@ja-rom` AJI GI · `lang@zh-py` (A zi yi) · `EXTENT` III
+
+**人物**
+- 實範 — `lang@ja-rom` Jippan
+
+## [KR6t0145 阿字要略觀--實範](https://github.com/kanripo/KR6t0145)
+
+`EXTRA_ID` T:T77n2439 · `GENRE` 諸宗 · `lang@ja-rom` AJI YŌRYAK KAN · `lang@zh-py` (A zi yao lüe guan) · `EXTENT` I
+
+**人物**
+- 實範 — `lang@ja-rom` Jippan
+
+## [KR6t0146 zhu--](https://github.com/kanripo/KR6t0146)
+
+`EXTRA_ID` T:T77n2440 · `GENRE` 諸宗 · `lang@ja-rom` DAIKYŌ YŌGI SHŌ CHŪKAI · `lang@zh-py` (Da jing yao yi chao) · `EXTENT` jie) 大經要義抄注解 I
+
+## [KR6t0147 祕宗教相鈔--重譽](https://github.com/kanripo/KR6t0147)
+
+`EXTRA_ID` T:T77n2441 · `GENRE` 諸宗 · `lang@ja-rom` HISHŪ KYŌSŌ SHŌ · `lang@zh-py` (Mi zong jiao xiang chao) · `EXTENT` X
+
+**人物**
+- 重譽 — `lang@ja-rom` Chōyo
+
+## [KR6t0148 十住心論鈔--重譽](https://github.com/kanripo/KR6t0148)
+
+`EXTRA_ID` T:T77n2442 · `RELATED` T77n2425@諸宗, T77n2443@諸宗, T77n2444@諸宗 · `GENRE` 諸宗 · `lang@ja-rom` JŪJŪSHINRON SHŌ · `lang@zh-py` (Shi zhu xin lun chao) · `EXTENT` III
+
+**人物**
+- 重譽 — `lang@ja-rom` Chōyo
+
+## [KR6t0149 十住心論打聞集--](https://github.com/kanripo/KR6t0149)
+
+`EXTRA_ID` T:T77n2443 · `RELATED` T77n2425@諸宗, T77n2442@諸宗, T77n2444@諸宗 · `GENRE` 諸宗 · `lang@ja-rom` JŪJŪSHINRON DAMON SHŪ · `lang@zh-py` (Shi zhu xin lun da wen ji) · `EXTENT` I
+
+## [KR6t0150 十住遮難抄--](https://github.com/kanripo/KR6t0150)
+
+`EXTRA_ID` T:T77n2444 · `RELATED` T77n2425@諸宗, T77n2442@諸宗, T77n2443@諸宗 · `GENRE` 諸宗 · `lang@ja-rom` JŪJŪ SHANAN SHŌ · `lang@zh-py` (Shi zhu zhe nan chao) · `EXTENT` I
+
+## [KR6t0151 眞言教主問答抄--經尋](https://github.com/kanripo/KR6t0151)
+
+`EXTRA_ID` T:T77n2445 · `GENRE` 諸宗 · `lang@ja-rom` SHINGON KYŌSHU MONDŌ SHŌ · `lang@zh-py` (Zhen yan jiao zhu wen da chao) · `EXTENT` I
+
+**人物**
+- 經尋 — `lang@ja-rom` Kyōjin
+
+## [KR6t0152 千輻輪相顯密集--興然](https://github.com/kanripo/KR6t0152)
+
+`EXTRA_ID` T:T77n2446 · `GENRE` 諸宗 · `lang@ja-rom` SEMPUKURINSŌ KEMMITSU SHŪ · `lang@zh-py` (Qian fu lun xiang xian mi ji) · `EXTENT` I
+
+**人物**
+- 興然 — `lang@ja-rom` Kōzen
+
+## [KR6t0153 貞應抄--道範](https://github.com/kanripo/KR6t0153)
+
+`EXTRA_ID` T:T77n2447 · `GENRE` 諸宗 · `lang@ja-rom` TEIŌ SHŌ · `lang@zh-py` (Zhen ying chao) · `EXTENT` III
+
+**人物**
+- 道範 — `lang@ja-rom` Dōhan
+
+## [KR6t0154 諸法分別抄--頼寶](https://github.com/kanripo/KR6t0154)
+
+`EXTRA_ID` T:T77n2448 · `GENRE` 諸宗 · `lang@ja-rom` SHOHŌ FUMBETSU SHŌ · `lang@zh-py` (Zhu fa fen bie chao) · `EXTENT` I
+
+**人物**
+- 頼寶 — `lang@ja-rom` Raihō
+
+## [KR6t0155 眞言名目--頼寶](https://github.com/kanripo/KR6t0155)
+
+`EXTRA_ID` T:T77n2449 · `GENRE` 諸宗 · `lang@ja-rom` SHINGOM MYŌMOKU · `lang@zh-py` (Zhen yan ming mu) · `EXTENT` I
+
+**人物**
+- 頼寶 — `lang@ja-rom` Raihō
+
+## [KR6t0156 開心抄--杲寶](https://github.com/kanripo/KR6t0156)
+
+`EXTRA_ID` T:T77n2450 · `GENRE` 諸宗 · `lang@ja-rom` KAISHIN SHŌ · `lang@zh-py` (Kai xin chao) · `EXTENT` III
+
+**人物**
+- 杲寶 — `lang@ja-rom` Gōhō
+
+## [KR6t0157 金剛頂宗綱概--杲寶](https://github.com/kanripo/KR6t0157)
+
+`EXTRA_ID` T:T77n2451 · `GENRE` 諸宗 · `lang@ja-rom` KONGŌCHŌSHŪ KŌGAI · `lang@zh-py` (Jin gang ding zong gang gai) · `EXTENT` I
+
+**人物**
+- 杲寶 — `lang@ja-rom` Gōhō
+
+## [KR6t0158 大日經教主本地加持分別--杲寶](https://github.com/kanripo/KR6t0158)
+
+`EXTRA_ID` T:T77n2452 · `GENRE` 諸宗 · `lang@ja-rom` DAINICHIKYŌ  KYŌSHU HONJI KAJI FUMBETSU · `lang@zh-py` (Da ri jing jiao zhu ben di jia chi fen bie) · `EXTENT` I
+
+**人物**
+- 杲寶 — `lang@ja-rom` Gōhō
+
+## [KR6t0159 寶册鈔--](https://github.com/kanripo/KR6t0159)
+
+`EXTRA_ID` T:T77n2453 · `GENRE` 諸宗 · `lang@ja-rom` HŌSAKU SHŌ · `lang@zh-py` (Bao ce chao) · `EXTENT` X
+
+## [KR6t0160 十住心義林--宥快](https://github.com/kanripo/KR6t0160)
+
+`EXTRA_ID` T:T77n2454 · `RELATED` T77n2425@諸宗 · `GENRE` 諸宗 · `lang@ja-rom` JŪJŪSHIN GIRIN · `lang@zh-py` (Shi zhu xin yi lin) · `EXTENT` II
+
+**人物**
+- 宥快 — `lang@ja-rom` Yūkai
+
+## [KR6t0161 大日經主異義事--宥快](https://github.com/kanripo/KR6t0161)
+
+`EXTRA_ID` T:T77n2455 · `GENRE` 諸宗 · `lang@ja-rom` DAINICHIKYŌ  SHU IGI NO KOTO · `lang@zh-py` (Da ri jing zhu yi yi shi) · `EXTENT` I
+
+**人物**
+- 宥快 — `lang@ja-rom` Yūkai
+
+## [KR6t0162 寶鏡鈔--宥快](https://github.com/kanripo/KR6t0162)
+
+`EXTRA_ID` T:T77n2456 · `GENRE` 諸宗 · `lang@ja-rom` HŌKYŌ SHŌ · `lang@zh-py` (Bao jing chao) · `EXTENT` I
+
+**人物**
+- 宥快 — `lang@ja-rom` Yūkai
+
+## [KR6t0163 大日經教主義--曇寂](https://github.com/kanripo/KR6t0163)
+
+`EXTRA_ID` T:T77n2457 · `GENRE` 諸宗 · `lang@ja-rom` DAINICHIKYŌ  KYŌSHU GI · `lang@zh-py` (Da ri jing jiao zhu yi) · `EXTENT` I
+
+**人物**
+- 曇寂 — `lang@ja-rom` Donjaku
+
+## [KR6t0164 眞言宗未決文--徳一](https://github.com/kanripo/KR6t0164)
+
+`EXTRA_ID` T:T77n2458 · `RELATED` T77n2459@諸宗 · `GENRE` 諸宗 · `lang@ja-rom` SHINGONSHŪ MIKETSU MON · `lang@zh-py` (Zhen yan zong wei jue wen) · `EXTENT` I
+
+**人物**
+- 徳一 — `lang@ja-rom` Tokuichi
+
+## [KR6t0165 未決答決--房覺](https://github.com/kanripo/KR6t0165)
+
+`EXTRA_ID` T:T77n2459 · `RELATED` T77n2458@諸宗 · `GENRE` 諸宗 · `lang@ja-rom` MIKETTŌ KETSU · `lang@zh-py` (Wei jue da jue) · `EXTENT` I
+
+**人物**
+- 房覺 — `lang@ja-rom` Bōkaku
+
+## [KR6t0166 徳一未決答釋--杲寶](https://github.com/kanripo/KR6t0166)
+
+`EXTRA_ID` T:T77n2460 · `GENRE` 諸宗 · `lang@ja-rom` TOKUICHI MIKETTŌ SHAKU · `lang@zh-py` (De yi wei jue da shi) · `EXTENT` I
+
+**人物**
+- 杲寶 — `lang@ja-rom` Gōhō
+
+## [KR6t0167 大和尚奉爲平安城太上天皇灌頂文--空海](https://github.com/kanripo/KR6t0167)
+
+`EXTRA_ID` T:T78n2461 · `GENRE` 諸宗 · `lang@ja-rom` DAIWAJŌ HŌI HEIANJŌ DAIJŌTENNŌ KANJŌ MON · `lang@zh-py` (Da he shang feng wei ping an cheng tai shang tian huang guan ding wen) · `EXTENT` I
+
+**人物**
+- 空海 — `lang@ja-rom` Kūkai
+
+## [KR6t0168 三昧耶戒序--空海](https://github.com/kanripo/KR6t0168)
+
+`EXTRA_ID` T:T78n2462 · `GENRE` 諸宗 · `lang@ja-rom` SAMMAYA KAI JO · `lang@zh-py` (San mei ye jie xu) · `EXTENT` I
+
+**人物**
+- 空海 — `lang@ja-rom` Kūkai
+
+## [KR6t0169 祕密三昧耶佛戒儀--空海](https://github.com/kanripo/KR6t0169)
+
+`EXTRA_ID` T:T78n2463 · `GENRE` 諸宗 · `lang@ja-rom` HIMITSU SAMMAYABUTSUKAI GI · `lang@zh-py` (Mi mi san mei ye fo jie yi) · `EXTENT` I
+
+**人物**
+- 空海 — `lang@ja-rom` Kūkai
+
+## [KR6t0170 五部陀羅尼問答偈讃宗祕論--空海](https://github.com/kanripo/KR6t0170)
+
+`EXTRA_ID` T:T78n2464 · `GENRE` 諸宗 · `lang@ja-rom` GOBU DARANI MONDŌ GESAN SHŪHI RON · `lang@zh-py` (Wu bu tuo luo ni wen da jie zan zong mi lun) · `EXTENT` I
+
+**人物**
+- 空海 — `lang@ja-rom` Kūkai
+
+## [KR6t0171 檜尾口訣--實慧](https://github.com/kanripo/KR6t0171)
+
+`EXTRA_ID` T:T78n2465 · `GENRE` 諸宗 · `lang@ja-rom` HINOO KUKETSU · `lang@zh-py` (Kuai wei kou jue) · `EXTENT` I
+
+**人物**
+- 實慧 — `lang@ja-rom` Jichie
+
+## [KR6t0172 高雄口訣--眞濟](https://github.com/kanripo/KR6t0172)
+
+`EXTRA_ID` T:T78n2466 · `GENRE` 諸宗 · `lang@ja-rom` TAKAO KUKETSU · `lang@zh-py` (Gao xiong kou jue) · `EXTENT` I
+
+**人物**
+- 眞濟 — `lang@ja-rom` Shinzei
+
+## [KR6t0173 五部肝心記--眞濟](https://github.com/kanripo/KR6t0173)
+
+`EXTRA_ID` T:T78n2467 · `GENRE` 諸宗 · `lang@ja-rom` GOBU KANJIN KI · `lang@zh-py` (Wu bu gan xin ji) · `EXTENT` I
+
+**人物**
+- 眞濟 — `lang@ja-rom` Shinzei
+
+## [KR6t0174 要尊道場觀--淳祐](https://github.com/kanripo/KR6t0174)
+
+`EXTRA_ID` T:T78n2468 · `GENRE` 諸宗 · `lang@ja-rom` YŌSON DŌJŌ KAN · `lang@zh-py` (Yao zun dao chang guan) · `EXTENT` II
+
+**人物**
+- 淳祐 — `lang@ja-rom` Junnyū
+
+## [KR6t0175 不灌鈴等記--](https://github.com/kanripo/KR6t0175)
+
+`EXTRA_ID` T:T78n2469 · `GENRE` 諸宗 · `lang@ja-rom` FUKANREI TŌ KI · `lang@zh-py` (Bu guan ling deng ji) · `EXTENT` I
+
+## [KR6t0176 具支灌頂儀式--元杲](https://github.com/kanripo/KR6t0176)
+
+`EXTRA_ID` T:T78n2470 · `GENRE` 諸宗 · `lang@ja-rom` GUSHI KANJŌ GISHIKI · `lang@zh-py` (Ju zhi guan ding yi shi) · `EXTENT` I
+
+**人物**
+- 元杲 — `lang@ja-rom` Gengō
+
+## [KR6t0177 金剛界九會密記--元杲](https://github.com/kanripo/KR6t0177)
+
+`EXTRA_ID` T:T78n2471 · `GENRE` 諸宗 · `lang@ja-rom` KONGŌKAI KUEMIK KI · `lang@zh-py` (Jin gang jie jiu hui mi ji) · `EXTENT` I
+
+**人物**
+- 元杲 — `lang@ja-rom` Gengō
+
+## [KR6t0178 胎藏界三部祕釋--元杲](https://github.com/kanripo/KR6t0178)
+
+`EXTRA_ID` T:T78n2472 · `GENRE` 諸宗 · `lang@ja-rom` TAIZŌKAI SAMBU HISHAKU · `lang@zh-py` (Tai zang jie san bu mi shi) · `EXTENT` I
+
+**人物**
+- 元杲 — `lang@ja-rom` Gengō
+
+## [KR6t0179 小野六帖--仁海](https://github.com/kanripo/KR6t0179)
+
+`EXTRA_ID` T:T78n2473 · `GENRE` 諸宗 · `lang@ja-rom` ONO ROKUJŌ · `lang@zh-py` (Xiao ye liu tie) · `EXTENT` VII
+
+**人物**
+- 仁海 — `lang@ja-rom` Ninkai
+
+## [KR6t0180 五相成身義問答抄--濟暹](https://github.com/kanripo/KR6t0180)
+
+`EXTRA_ID` T:T78n2474 · `GENRE` 諸宗 · `lang@ja-rom` GOSŌJŌSHIN GI MONDŌ SHŌ · `lang@zh-py` (Wu xiang cheng shen yi wen da chao) · `EXTENT` I
+
+**人物**
+- 濟暹 — `lang@ja-rom` Saisen
+
+## [KR6t0181 十八契印義釋生起--定深](https://github.com/kanripo/KR6t0181)
+
+`EXTRA_ID` T:T78n2475 · `GENRE` 諸宗 · `lang@ja-rom` JŪHACHIGEIIN GISHAKU SHŌKI · `lang@zh-py` (Shi ba qi yin yi shi sheng qi) · `EXTENT` I
+
+**人物**
+- 定深 — `lang@ja-rom` Jōjin
+
+## [KR6t0182 別行--寛助](https://github.com/kanripo/KR6t0182)
+
+`EXTRA_ID` T:T78n2476 · `GENRE` 諸宗 · `lang@ja-rom` BETSUGYŌ · `lang@zh-py` (Bie xing) · `EXTENT` VII
+
+**人物**
+- 寛助 — `lang@ja-rom` Kanjo
+
+## [KR6t0183 柿袋--眞譽](https://github.com/kanripo/KR6t0183)
+
+`EXTRA_ID` T:T78n2477 · `GENRE` 諸宗 · `lang@ja-rom` KAKI BUKURO · `lang@zh-py` (Shi dai) · `EXTENT` I
+
+**人物**
+- 眞譽 — `lang@ja-rom` Shiṇyo
+
+## [KR6t0184 要尊法--永嚴](https://github.com/kanripo/KR6t0184)
+
+`EXTRA_ID` T:T78n2478 · `GENRE` 諸宗 · `lang@ja-rom` YŌSON BŌ · `lang@zh-py` (Yao zun fa) · `EXTENT` I
+
+**人物**
+- 永嚴 — `lang@ja-rom` Yōgen
+
+## [KR6t0185 勝語集--](https://github.com/kanripo/KR6t0185)
+
+`EXTRA_ID` T:T78n2479 · `GENRE` 諸宗 · `lang@ja-rom` SHŌGO SHŪ · `lang@zh-py` (Sheng yu ji) · `EXTENT` II
+
+## [KR6t0186 事相料簡--覺印](https://github.com/kanripo/KR6t0186)
+
+`EXTRA_ID` T:T78n2480 · `GENRE` 諸宗 · `lang@ja-rom` JISŌ RYŌKEN · `lang@zh-py` (Shi xiang liao jian) · `EXTENT` I
+
+**人物**
+- 覺印 — `lang@ja-rom` Kakuin
+
+## [KR6t0187 轉非命業抄--賢覺](https://github.com/kanripo/KR6t0187)
+
+`EXTRA_ID` T:T78n2481 · `GENRE` 諸宗 · `lang@ja-rom` TEMPI MYŌGŌ SHŌ · `lang@zh-py` (Zhuan fei ming ye chao) · `EXTENT` I
+
+**人物**
+- 賢覺 — `lang@ja-rom` Genkaku
+
+## [KR6t0188 傳受集--寛信](https://github.com/kanripo/KR6t0188)
+
+`EXTRA_ID` T:T78n2482 · `GENRE` 諸宗 · `lang@ja-rom` DENJU SHŪ · `lang@zh-py` (Zhuan shou ji) · `EXTENT` IV
+
+**人物**
+- 寛信 — `lang@ja-rom` Kanjin
+
+## [KR6t0189 厚造紙--元海](https://github.com/kanripo/KR6t0189)
+
+`EXTRA_ID` T:T78n2483 · `GENRE` 諸宗 · `lang@ja-rom` ATSU ZŌSHI · `lang@zh-py` (Hou zao zhi) · `EXTENT` I
+
+**人物**
+- 元海 — `lang@ja-rom` Genkai
+
+## [KR6t0190 諸尊要抄--實運](https://github.com/kanripo/KR6t0190)
+
+`EXTRA_ID` T:T78n2484 · `GENRE` 諸宗 · `lang@ja-rom` SHOSONN YŌSHŌ · `lang@zh-py` (Zhu zun yao chao) · `EXTENT` XV
+
+**人物**
+- 實運 — `lang@ja-rom` Jichiun
+
+## [KR6t0191 祕藏金寶鈔--實運](https://github.com/kanripo/KR6t0191)
+
+`EXTRA_ID` T:T78n2485 · `GENRE` 諸宗 · `lang@ja-rom` HIZŌ KOMPŌ SHŌ · `lang@zh-py` (Mi zang jin bao chao) · `EXTENT` X
+
+**人物**
+- 實運 — `lang@ja-rom` Jichiun
+
+## [KR6t0192 玄祕抄--實運](https://github.com/kanripo/KR6t0192)
+
+`EXTRA_ID` T:T78n2486 · `GENRE` 諸宗 · `lang@ja-rom` GEMPI SHŌ · `lang@zh-py` (Xuan mi chao) · `EXTENT` IV
+
+**人物**
+- 實運 — `lang@ja-rom` Jichiun
+
+## [KR6t0193 治承記--勝賢](https://github.com/kanripo/KR6t0193)
+
+`EXTRA_ID` T:T78n2487 · `GENRE` 諸宗 · `lang@ja-rom` JISHŌ KI · `lang@zh-py` (Zhi cheng ji) · `EXTENT` I
+
+**人物**
+- 勝賢 — `lang@ja-rom` Shōken
+
+## [KR6t0194 澤鈔--](https://github.com/kanripo/KR6t0194)
+
+`EXTRA_ID` T:T78n2488 · `GENRE` 諸宗 · `lang@ja-rom` TAKU SHŌ · `lang@zh-py` (Ze chao) · `EXTENT` X
+
+## [KR6t0195 祕鈔--](https://github.com/kanripo/KR6t0195)
+
+`EXTRA_ID` T:T78n2489 · `RELATED` T79n2536@諸宗 · `GENRE` 諸宗 · `lang@ja-rom` HI SHŌ · `lang@zh-py` (Mi chao) · `EXTENT` XVIII
+
+## [KR6t0196 異尊抄--](https://github.com/kanripo/KR6t0196)
+
+`EXTRA_ID` T:T78n2490 · `GENRE` 諸宗 · `lang@ja-rom` ISON SHŌ · `lang@zh-py` (Yi zun chao) · `EXTENT` II
+
+## [KR6t0197 右記--](https://github.com/kanripo/KR6t0197)
+
+`EXTRA_ID` T:T78n2491 · `GENRE` 諸宗 · `lang@ja-rom` U KI · `lang@zh-py` (You ji) · `EXTENT` I
+
+## [KR6t0198 左記--](https://github.com/kanripo/KR6t0198)
+
+`EXTRA_ID` T:T78n2492 · `GENRE` 諸宗 · `lang@ja-rom` SA KI · `lang@zh-py` (Zuo ji) · `EXTENT` I
+
+## [KR6t0199 御記--](https://github.com/kanripo/KR6t0199)
+
+`EXTRA_ID` T:T78n2493 · `GENRE` 諸宗 · `lang@ja-rom` GYOKI · `lang@zh-py` (Yu ji) · `EXTENT` I
+
+## [KR6t0200 追記--](https://github.com/kanripo/KR6t0200)
+
+`EXTRA_ID` T:T78n2494 · `GENRE` 諸宗 · `lang@ja-rom` TSUIKI · `lang@zh-py` (Zhui ji) · `EXTENT` I
+
+## [KR6t0201 薄雙紙--成賢](https://github.com/kanripo/KR6t0201)
+
+`EXTRA_ID` T:T78n2495 · `RELATED` T79n2535@諸宗 · `GENRE` 諸宗 · `lang@ja-rom` USU ZŌSHI · `lang@zh-py` (Bo shuang zhi) · `EXTENT` XVI
+
+**人物**
+- 成賢 — `lang@ja-rom` Seigen
+
+## [KR6t0202 遍口鈔--](https://github.com/kanripo/KR6t0202)
+
+`EXTRA_ID` T:T78n2496 · `GENRE` 諸宗 · `lang@ja-rom` HENKU SHŌ · `lang@zh-py` (Bian kou chao) · `EXTENT` VI
+
+## [KR6t0203 實歸鈔--深賢](https://github.com/kanripo/KR6t0203)
+
+`EXTRA_ID` T:T78n2497 · `GENRE` 諸宗 · `lang@ja-rom` JIKKI SHŌ · `lang@zh-py` (Shi gui chao) · `EXTENT` I
+
+**人物**
+- 深賢 — `lang@ja-rom` Jinken
+
+## [KR6t0204 幸心鈔--](https://github.com/kanripo/KR6t0204)
+
+`EXTRA_ID` T:T78n2498 · `GENRE` 諸宗 · `lang@ja-rom` KŌSHIN SHŌ · `lang@zh-py` (Xing xin chao) · `EXTENT` V
+
+## [KR6t0205 傳法灌頂私記--教舜](https://github.com/kanripo/KR6t0205)
+
+`EXTRA_ID` T:T78n2499 · `GENRE` 諸宗 · `lang@ja-rom` DEMBŌ KANJŌ SHIKI · `lang@zh-py` (Zhuan fa guan ding si ji) · `EXTENT` III
+
+**人物**
+- 教舜 — `lang@ja-rom` Kyōshun
+
+## [KR6t0206 四卷--興然](https://github.com/kanripo/KR6t0206)
+
+`EXTRA_ID` T:T78n2500 · `GENRE` 諸宗 · `lang@ja-rom` SHIKAN · `lang@zh-py` (Si juang) · `EXTENT` IV
+
+**人物**
+- 興然 — `lang@ja-rom` Kōzen
+
+## [KR6t0207 師口--榮然](https://github.com/kanripo/KR6t0207)
+
+`EXTRA_ID` T:T78n2501 · `GENRE` 諸宗 · `lang@ja-rom` SHIKU · `lang@zh-py` (Shi kou) · `EXTENT` IV
+
+**人物**
+- 榮然 — `lang@ja-rom` Yōzen
+
+## [KR6t0208 行法肝葉鈔--道範](https://github.com/kanripo/KR6t0208)
+
+`EXTRA_ID` T:T78n2502 · `GENRE` 諸宗 · `lang@ja-rom` GYŌBŌ KANNYŌ SHŌ · `lang@zh-py` (Xing fa gan ye chao) · `EXTENT` III
+
+**人物**
+- 道範 — `lang@ja-rom` Dōhan
+
+## [KR6t0209 授寶性院宥快記--興雅](https://github.com/kanripo/KR6t0209)
+
+`EXTRA_ID` T:T78n2503 · `GENRE` 諸宗 · `lang@ja-rom` JUHŌSHŌIṄ YŪKAI KI · `lang@zh-py` (Shou bao xing yuan you kuai ji) · `EXTENT` I
+
+**人物**
+- 興雅 — `lang@ja-rom` Kōga
+
+## [KR6t0210 中院流四度口傳--宥快](https://github.com/kanripo/KR6t0210)
+
+`EXTRA_ID` T:T78n2504 · `GENRE` 諸宗 · `lang@ja-rom` CHŪINRYŪ SHIDO KUDEN · `lang@zh-py` (Zhong yuan liu si du kou zhuan) · `EXTENT` IV
+
+**人物**
+- 宥快 — `lang@ja-rom` Yūkai
+
+## [KR6t0211 中院流事--](https://github.com/kanripo/KR6t0211)
+
+`EXTRA_ID` T:T78n2505 · `GENRE` 諸宗 · `lang@ja-rom` CHŪINRYŪ NO KOTO · `lang@zh-py` (Zhong yuan liu shi) · `EXTENT` I
+
+## [KR6t0212 中院流大事聞書--](https://github.com/kanripo/KR6t0212)
+
+`EXTRA_ID` T:T78n2506 · `GENRE` 諸宗 · `lang@ja-rom` CHŪINRYŪ DAIJI KIKIGAKI · `lang@zh-py` (Zhong yuan liu da shi wen shu) · `EXTENT` I
+
+## [KR6t0213 傳屍病口傳--](https://github.com/kanripo/KR6t0213)
+
+`EXTRA_ID` T:T78n2507 · `GENRE` 諸宗 · `lang@ja-rom` DENSHIBYŌ KUDEN · `lang@zh-py` (Zhuan shi bing kou zhuan) · `EXTENT` I
+
+## [KR6t0214 傳屍病灸治--](https://github.com/kanripo/KR6t0214)
+
+`EXTRA_ID` T:T78n2508 · `GENRE` 諸宗 · `lang@ja-rom` DENSHIBYŌ KYŪJI · `lang@zh-py` (Zhuan shi bing zhi zhi) · `EXTENT` I
+
+## [KR6t0215 僞書論--恭畏](https://github.com/kanripo/KR6t0215)
+
+`EXTRA_ID` T:T78n2509 · `GENRE` 諸宗 · `lang@ja-rom` GISHO RON · `lang@zh-py` (Wei shu lun) · `EXTENT` I
+
+**人物**
+- 恭畏 — `lang@ja-rom` Kyōi
+
+## [KR6t0216 顯密不同頌--覺鑁](https://github.com/kanripo/KR6t0216)
+
+`EXTRA_ID` T:T79n2510 · `GENRE` 諸宗 · `lang@ja-rom` KEMMITSU FUDŌ JU · `lang@zh-py` (Xian mi bu tong song) · `EXTENT` I
+
+**人物**
+- 覺鑁 — `lang@ja-rom` Kakuban
+
+## [KR6t0217 眞言宗即身成佛義章--覺鑁](https://github.com/kanripo/KR6t0217)
+
+`EXTRA_ID` T:T79n2511 · `GENRE` 諸宗 · `lang@ja-rom` SHINGONSHŪ SOKUSHINJŌBUTSUGI SHŌ · `lang@zh-py` (Zhen yan zong ji shen cheng fo yi zhang) · `EXTENT` I
+
+**人物**
+- 覺鑁 — `lang@ja-rom` Kakuban
+
+## [KR6t0218 字祕釋--覺鑁](https://github.com/kanripo/KR6t0218)
+
+`EXTRA_ID` T:T79n2512 · `GENRE` 諸宗 · `lang@ja-rom` AJI HISHAKU · `lang@zh-py` (? zi mi shi) · `EXTENT` I
+
+**人物**
+- 覺鑁 — `lang@ja-rom` Kakuban
+
+## [KR6t0219 字義--覺鑁](https://github.com/kanripo/KR6t0219)
+
+`EXTRA_ID` T:T79n2513 · `GENRE` 諸宗 · `lang@ja-rom` BANJI GI · `lang@zh-py` (? zi yi) · `EXTENT` I
+
+**人物**
+- 覺鑁 — `lang@ja-rom` Kakuban
+
+## [KR6t0220 五輪九字明祕密釋--覺鑁](https://github.com/kanripo/KR6t0220)
+
+`EXTRA_ID` T:T79n2514 · `GENRE` 諸宗 · `lang@ja-rom` GORIN KUJIMYŌ HIMITSU SHAKU · `lang@zh-py` (Wu lun jiu zi ming mi mi shi) · `EXTENT` I
+
+**人物**
+- 覺鑁 — `lang@ja-rom` Kakuban
+
+## [KR6t0221 密嚴淨土略觀--覺鑁](https://github.com/kanripo/KR6t0221)
+
+`EXTRA_ID` T:T79n2515 · `RELATED` T83n2617@諸宗 · `GENRE` 諸宗 · `lang@ja-rom` MITSUGON JŌDO RYAKKAN · `lang@zh-py` (Mi yan jing tu lüe guan) · `EXTENT` I
+
+**人物**
+- 覺鑁 — `lang@ja-rom` Kakuban
+
+## [KR6t0222 祕密莊嚴傳法灌頂一異義--覺鑁](https://github.com/kanripo/KR6t0222)
+
+`EXTRA_ID` T:T79n2516 · `RELATED` T83n2617@諸宗 · `GENRE` 諸宗 · `lang@ja-rom` HIMITSU SHŌGON DEMBŌ KANJŌ ICHII GI · `lang@zh-py` (Mi mi zhuang yan zhuan fa guan ding yi yi yi) · `EXTENT` I
+
+**人物**
+- 覺鑁 — `lang@ja-rom` Kakuban
+
+## [KR6t0223 十八道沙汰--覺鑁](https://github.com/kanripo/KR6t0223)
+
+`EXTRA_ID` T:T79n2517 · `GENRE` 諸宗 · `lang@ja-rom` JŪHACHIDŌ SATA · `lang@zh-py` (Shi ba dao sha tai) · `EXTENT` I
+
+**人物**
+- 覺鑁 — `lang@ja-rom` Kakuban
+
+## [KR6t0224 金剛頂經蓮華部心念誦次第沙汰--覺鑁](https://github.com/kanripo/KR6t0224)
+
+`EXTRA_ID` T:T79n2518 · `GENRE` 諸宗 · `lang@ja-rom` KONGŌCHŌKYŌ RENGEBU SHINNENJU SHIDAI SATA · `lang@zh-py` (Jin gang ding jing lian hua bu xin nian song ci di sha tai) · `EXTENT` I
+
+**人物**
+- 覺鑁 — `lang@ja-rom` Kakuban
+
+## [KR6t0225 胎藏界沙汰--覺鑁](https://github.com/kanripo/KR6t0225)
+
+`EXTRA_ID` T:T79n2519 · `GENRE` 諸宗 · `lang@ja-rom` TAIZŌKAI SATA · `lang@zh-py` (Tai zang jie sha tai) · `EXTENT` I
+
+**人物**
+- 覺鑁 — `lang@ja-rom` Kakuban
+
+## [KR6t0226 心月輪祕釋--覺鑁](https://github.com/kanripo/KR6t0226)
+
+`EXTRA_ID` T:T79n2520 · `GENRE` 諸宗 · `lang@ja-rom` SHINGACHIRIN HISHAKU · `lang@zh-py` (Xin yue lun mi shi) · `EXTENT` I
+
+**人物**
+- 覺鑁 — `lang@ja-rom` Kakuban
+
+## [KR6t0227 眞言淨菩提心私記--覺鑁](https://github.com/kanripo/KR6t0227)
+
+`EXTRA_ID` T:T79n2521 · `GENRE` 諸宗 · `lang@ja-rom` SHINGON JŌBODAISHIN SHIKI · `lang@zh-py` (Zhen yan jing pu ti xin si ji) · `EXTENT` I
+
+**人物**
+- 覺鑁 — `lang@ja-rom` Kakuban
+
+## [KR6t0228 阿彌陀祕釋--覺鑁](https://github.com/kanripo/KR6t0228)
+
+`EXTRA_ID` T:T79n2522 · `GENRE` 諸宗 · `lang@ja-rom` AMIDA HISHAKU · `lang@zh-py` (A mi tuo mi shi) · `EXTENT` I
+
+**人物**
+- 覺鑁 — `lang@ja-rom` Kakuban
+
+## [KR6t0229 眞言宗義--覺鑁](https://github.com/kanripo/KR6t0229)
+
+`EXTRA_ID` T:T79n2523 · `GENRE` 諸宗 · `lang@ja-rom` SHINGON SHŪGI · `lang@zh-py` (Zhen yan zong yi) · `EXTENT` I
+
+**人物**
+- 覺鑁 — `lang@ja-rom` Kakuban
+
+## [KR6t0230 祕密莊嚴不二義章--覺鑁](https://github.com/kanripo/KR6t0230)
+
+`EXTRA_ID` T:T79n2524 · `GENRE` 諸宗 · `lang@ja-rom` HIMITSU SHŌGON FUNIGI SHŌ · `lang@zh-py` (Mi mi zhuang yan bu er yi zhang) · `EXTENT` I
+
+**人物**
+- 覺鑁 — `lang@ja-rom` Kakuban
+
+## [KR6t0231 眞言三密修行問答--覺鑁](https://github.com/kanripo/KR6t0231)
+
+`EXTRA_ID` T:T79n2525 · `GENRE` 諸宗 · `lang@ja-rom` SHINGON SAMMITSU SHUGYŌ MONDŌ · `lang@zh-py` (Zhen yan san mi xiu xing wen da) · `EXTENT` I
+
+**人物**
+- 覺鑁 — `lang@ja-rom` Kakuban
+
+## [KR6t0232 勸發頌--覺鑁](https://github.com/kanripo/KR6t0232)
+
+`EXTRA_ID` T:T79n2526 · `GENRE` 諸宗 · `lang@ja-rom` KAMPOTSU JU · `lang@zh-py` (Quan fa song) · `EXTENT` I
+
+**人物**
+- 覺鑁 — `lang@ja-rom` Kakuban
+
+## [KR6t0233 密嚴院發露懺悔文--覺鑁](https://github.com/kanripo/KR6t0233)
+
+`EXTRA_ID` T:T79n2527 · `GENRE` 諸宗 · `lang@ja-rom` MITSUGOṄIN HOTSURO SANGE MON · `lang@zh-py` (Mi yan yuan fa lu chan hui wen) · `EXTENT` I
+
+**人物**
+- 覺鑁 — `lang@ja-rom` Kakuban
+
+## [KR6t0234 諸宗教理同異釋--頼瑜](https://github.com/kanripo/KR6t0234)
+
+`EXTRA_ID` T:T79n2528 · `GENRE` 諸宗 · `lang@ja-rom` SHOSHŪ KYŌRI DŌI SHAKU · `lang@zh-py` (Zhu zong jiao li tong yi shi) · `EXTENT` I
+
+**人物**
+- 頼瑜 — `lang@ja-rom` Raiyu
+
+## [KR6t0235 十八道口決--頼瑜](https://github.com/kanripo/KR6t0235)
+
+`EXTRA_ID` T:T79n2529 · `GENRE` 諸宗 · `lang@ja-rom` JŪHACHIDŌ KUKETSU · `lang@zh-py` (Shi ba dao kou jue) · `EXTENT` II
+
+**人物**
+- 頼瑜 — `lang@ja-rom` Raiyu
+
+## [KR6t0236 野金口決鈔--](https://github.com/kanripo/KR6t0236)
+
+`EXTRA_ID` T:T79n2530 · `GENRE` 諸宗 · `lang@ja-rom` YAKON KUKETSU SHŌ · `lang@zh-py` (Ye jin kou jue chao) · `EXTENT` I
+
+## [KR6t0237 野胎口決鈔--頼瑜](https://github.com/kanripo/KR6t0237)
+
+`EXTRA_ID` T:T79n2531 · `GENRE` 諸宗 · `lang@ja-rom` YATAI KUKETSU SHŌ · `lang@zh-py` (Ye tai kou jue chao) · `EXTENT` II
+
+**人物**
+- 頼瑜 — `lang@ja-rom` Raiyu
+
+## [KR6t0238 護摩口決--頼瑜](https://github.com/kanripo/KR6t0238)
+
+`EXTRA_ID` T:T79n2532 · `GENRE` 諸宗 · `lang@ja-rom` GOMA KUKETSU · `lang@zh-py` (Hu mo kou jue) · `EXTENT` I
+
+**人物**
+- 頼瑜 — `lang@ja-rom` Raiyu
+
+## [KR6t0239 金界發惠抄--頼瑜](https://github.com/kanripo/KR6t0239)
+
+`EXTRA_ID` T:T79n2533 · `GENRE` 諸宗 · `lang@ja-rom` KONKAI HOTSUE SHŌ · `lang@zh-py` (Jin jie fa hui chao) · `EXTENT` III
+
+**人物**
+- 頼瑜 — `lang@ja-rom` Raiyu
+
+## [KR6t0240 胎藏入理鈔--頼瑜](https://github.com/kanripo/KR6t0240)
+
+`EXTRA_ID` T:T79n2534 · `GENRE` 諸宗 · `lang@ja-rom` TAIZŌ NYŪRI SHŌ · `lang@zh-py` (Tai zang ru li chao) · `EXTENT` III
+
+**人物**
+- 頼瑜 — `lang@ja-rom` Raiyu
+
+## [KR6t0241 薄草子口決--頼瑜](https://github.com/kanripo/KR6t0241)
+
+`EXTRA_ID` T:T79n2535 · `RELATED` T78n2495@諸宗 · `GENRE` 諸宗 · `lang@ja-rom` USUZŌSHI KUKETSU · `lang@zh-py` (Bo cao zi kou jue) · `EXTENT` XXI
+
+**人物**
+- 頼瑜 — `lang@ja-rom` Raiyu
+
+## [KR6t0242 祕鈔問答--頼瑜](https://github.com/kanripo/KR6t0242)
+
+`EXTRA_ID` T:T79n2536 · `RELATED` T78n2489@諸宗 · `GENRE` 諸宗 · `lang@ja-rom` HISHŌ MONDŌ · `lang@zh-py` (Mi chao wen da) · `EXTENT` XXII
+
+**人物**
+- 頼瑜 — `lang@ja-rom` Raiyu
+
+## [KR6t0243 釋摩訶衍論第十廣短册--順繼](https://github.com/kanripo/KR6t0243)
+
+`EXTRA_ID` T:T79n2537 · `GENRE` 諸宗 · `lang@ja-rom` SHAKUMAKAENRON DAIJŪKŌ TANJAKU · `lang@zh-py` (Shi mo he yan lun di shi guang duan ce) · `EXTENT` I
+
+**人物**
+- 順繼 — `lang@ja-rom` Junkei
+
+## [KR6t0244 大疏百條第三重--聖憲](https://github.com/kanripo/KR6t0244)
+
+`EXTRA_ID` T:T79n2538 · `GENRE` 諸宗 · `lang@ja-rom` DAISHO HYAKUJŌ DAISANJŪ · `lang@zh-py` (Da shu bai tiao di san zhong) · `EXTENT` X
+
+**人物**
+- 聖憲 — `lang@ja-rom` Shōken
+
+## [KR6t0245 自證説法--聖憲](https://github.com/kanripo/KR6t0245)
+
+`EXTRA_ID` T:T79n2539 · `GENRE` 諸宗 · `lang@ja-rom` JISHŌ SEPPŌ · `lang@zh-py` (Zi zheng shuo fa) · `EXTENT` I
+
+**人物**
+- 聖憲 — `lang@ja-rom` Shōken
+
+## [KR6t0246 大疏談義--運敞](https://github.com/kanripo/KR6t0246)
+
+`EXTRA_ID` T:T79n2540 · `GENRE` 諸宗 · `lang@ja-rom` DAISHO DANGI · `lang@zh-py` (Da shu tan yi) · `EXTENT` X
+
+**人物**
+- 運敞 — `lang@ja-rom` Unshō
+
+## [KR6t0247 祕密因縁管絃相成義--法住](https://github.com/kanripo/KR6t0247)
+
+`EXTRA_ID` T:T79n2541 · `GENRE` 諸宗 · `lang@ja-rom` HIMITSU INNEN KANGEN SŌJŌGI · `lang@zh-py` (Mi mi yin yuan guan xian xiang cheng yi) · `EXTENT` II
+
+**人物**
+- 法住 — `lang@ja-rom` Hōjū
+
+## [KR6t0248 讀書二十二則--戒定](https://github.com/kanripo/KR6t0248)
+
+`EXTRA_ID` T:T79n2542 · `GENRE` 諸宗 · `lang@ja-rom` DOKUSHO NIJŪNI SOKU · `lang@zh-py` (Du shu er shi er ze) · `EXTENT` I
+
+**人物**
+- 戒定 — `lang@ja-rom` Kaijō
+
+## [KR6t0249 興禪護國論--榮西](https://github.com/kanripo/KR6t0249)
+
+`EXTRA_ID` T:T80n2543 · `GENRE` 諸宗 · `lang@ja-rom` KŌZEN GOKOKU RON · `lang@zh-py` (Xing chan hu guo lun) · `EXTENT` III
+
+**人物**
+- 榮西 — `lang@ja-rom` Eisai
+
+## [KR6t0250 聖一國師語録--](https://github.com/kanripo/KR6t0250)
+
+`EXTRA_ID` T:T80n2544 · `GENRE` 諸宗 · `lang@ja-rom` SHŌICHIKOKUSHI GOROKU · `lang@zh-py` (Sheng yi guo shi yu lu) · `EXTENT` I
+
+## [KR6t0251 寶覺禪師語録--](https://github.com/kanripo/KR6t0251)
+
+`EXTRA_ID` T:T80n2545 · `GENRE` 諸宗 · `lang@ja-rom` HŌKAKUZENJI GOROKU · `lang@zh-py` (Bao jiao chan shi yu lu) · `EXTENT` I
+
+## [KR6t0252 佛照禪師語録--](https://github.com/kanripo/KR6t0252)
+
+`EXTRA_ID` T:T80n2546 · `GENRE` 諸宗 · `lang@ja-rom` BUSSHŌZENJI GOROKU · `lang@zh-py` (Fo zhao chan shi yu lu) · `EXTENT` II
+
+## [KR6t0253 大覺禪師語録--](https://github.com/kanripo/KR6t0253)
+
+`EXTRA_ID` T:T80n2547 · `GENRE` 諸宗 · `lang@ja-rom` DAIKAKUZENJI GOROKU · `lang@zh-py` (Da jiao chan shi yu lu) · `EXTENT` III
+
+## [KR6t0254 圓通大應國師語録--](https://github.com/kanripo/KR6t0254)
+
+`EXTRA_ID` T:T80n2548 · `GENRE` 諸宗 · `lang@ja-rom` ENTSŪ DAIŌKOKUSHI GOROKU · `lang@zh-py` (Yuan tong da ying guo shi yu lu) · `EXTENT` II
+
+## [KR6t0255 佛光國師語録--](https://github.com/kanripo/KR6t0255)
+
+`EXTRA_ID` T:T80n2549 · `GENRE` 諸宗 · `lang@ja-rom` BUKKŌKOKUSHI GOROKU · `lang@zh-py` (Fo guang guo shi yu lu) · `EXTENT` X
+
+## [KR6t0256 圓鑑國師語録--](https://github.com/kanripo/KR6t0256)
+
+`EXTRA_ID` T:T80n2550 · `GENRE` 諸宗 · `lang@ja-rom` ENKANKOKUSHI GOROKU · `lang@zh-py` (Yuan jian guo shi yu lu) · `EXTENT` I
+
+## [KR6t0257 佛國禪師語録--](https://github.com/kanripo/KR6t0257)
+
+`EXTRA_ID` T:T80n2551 · `GENRE` 諸宗 · `lang@ja-rom` BUKKOKUZENJI GOROKU · `lang@zh-py` (Fo guo chan shi yu lu) · `EXTENT` II
+
+## [KR6t0258 南院國師語録--](https://github.com/kanripo/KR6t0258)
+
+`EXTRA_ID` T:T80n2552 · `GENRE` 諸宗 · `lang@ja-rom` NAṄINKOKUSHI GOROKU · `lang@zh-py` (Nan yuan guo shi yu lu) · `EXTENT` III
+
+## [KR6t0259 一山國師語録--](https://github.com/kanripo/KR6t0259)
+
+`EXTRA_ID` T:T80n2553 · `GENRE` 諸宗 · `lang@ja-rom` ISSANKOKUSHI GOROKU · `lang@zh-py` (Yi shan guo shi yu lu) · `EXTENT` II
+
+## [KR6t0260 竺僊和尚語録--](https://github.com/kanripo/KR6t0260)
+
+`EXTRA_ID` T:T80n2554 · `GENRE` 諸宗 · `lang@ja-rom` CHIKUSEṄOSHŌ GOROKU · `lang@zh-py` (Zhu xian he shang yu lu) · `EXTENT` IV
+
+## [KR6t0261 夢√國師語録--](https://github.com/kanripo/KR6t0261)
+
+`EXTRA_ID` T:T80n2555 · `GENRE` 諸宗 · `lang@ja-rom` MUSŌKOKUSHI GOROKU · `lang@zh-py` (Meng zong guo shi yu lu) · `EXTENT` III
+
+## [KR6t0262 義堂和尚語録--](https://github.com/kanripo/KR6t0262)
+
+`EXTRA_ID` T:T80n2556 · `GENRE` 諸宗 · `lang@ja-rom` GIDŌOSHŌ GOROKU · `lang@zh-py` (Yi tang he shang yu lu) · `EXTENT` IV
+
+## [KR6t0263 閻浮集--](https://github.com/kanripo/KR6t0263)
+
+`EXTRA_ID` T:T80n2557 · `GENRE` 諸宗 · `lang@ja-rom` EMBU SHŪ · `lang@zh-py` (Yan fu ji) · `EXTENT` I
+
+## [KR6t0264 鹽山抜隊和尚語録--](https://github.com/kanripo/KR6t0264)
+
+`EXTRA_ID` T:T80n2558 · `GENRE` 諸宗 · `lang@ja-rom` ENZAN BASSUIOSHŌ GOROKU · `lang@zh-py` (Yan shan ba dui he shang yu lu) · `EXTENT` VI
+
+## [KR6t0265 無文禪師語録--](https://github.com/kanripo/KR6t0265)
+
+`EXTRA_ID` T:T80n2559 · `GENRE` 諸宗 · `lang@ja-rom` MUMONZENJI GOROKU · `lang@zh-py` (Wu wen chan shi yu lu) · `EXTENT` I
+
+## [KR6t0266 知覺普明國師語録--](https://github.com/kanripo/KR6t0266)
+
+`EXTRA_ID` T:T80n2560 · `GENRE` 諸宗 · `lang@ja-rom` CHIKAKUFUMYŌKOKUSHI GOROKU · `lang@zh-py` (Zhi jiao pu ming guo shi yu lu) · `EXTENT` VIII
+
+## [KR6t0267 絶海和尚語録--](https://github.com/kanripo/KR6t0267)
+
+`EXTRA_ID` T:T80n2561 · `GENRE` 諸宗 · `lang@ja-rom` ZEKKAIOSHŌ GOROKU · `lang@zh-py` (Jue hai he shang yu lu) · `EXTENT` II
+
+## [KR6t0268 常光國師語録--](https://github.com/kanripo/KR6t0268)
+
+`EXTRA_ID` T:T81n2562 · `GENRE` 諸宗 · `lang@ja-rom` JŌKŌKOKUSHI GOROKU · `lang@zh-py` (Chang guang guo shi yu lu) · `EXTENT` II
+
+## [KR6t0269 大通禪師語録--](https://github.com/kanripo/KR6t0269)
+
+`EXTRA_ID` T:T81n2563 · `GENRE` 諸宗 · `lang@ja-rom` DAITSŪZENJI GOROKU · `lang@zh-py` (Da tong chan shi yu lu) · `EXTENT` VI
+
+## [KR6t0270 永源寂室和尚語録--](https://github.com/kanripo/KR6t0270)
+
+`EXTRA_ID` T:T81n2564 · `GENRE` 諸宗 · `lang@ja-rom` EIGEN JAKUSHITSUOSHŌ GOROKU · `lang@zh-py` (Yong yuan ji shi he shang yu lu) · `EXTENT` II
+
+## [KR6t0271 佛頂國師語録--](https://github.com/kanripo/KR6t0271)
+
+`EXTRA_ID` T:T81n2565 · `GENRE` 諸宗 · `lang@ja-rom` BUCCHŌKOKUSHI GOROKU · `lang@zh-py` (Fo ding guo shi yu lu) · `EXTENT` V
+
+## [KR6t0272 大燈國師語録--](https://github.com/kanripo/KR6t0272)
+
+`EXTRA_ID` T:T81n2566 · `GENRE` 諸宗 · `lang@ja-rom` DAITŌKOKUSHI GOROKU · `lang@zh-py` (Da deng guo shi yu lu) · `EXTENT` III
+
+## [KR6t0273 徹翁和尚語録--](https://github.com/kanripo/KR6t0273)
+
+`EXTRA_ID` T:T81n2567 · `GENRE` 諸宗 · `lang@ja-rom` TETSUŌOSHŌ GOROKU · `lang@zh-py` (Che weng he shang yu lu) · `EXTENT` II
+
+## [KR6t0274 雪江和尚語録--](https://github.com/kanripo/KR6t0274)
+
+`EXTRA_ID` T:T81n2568 · `GENRE` 諸宗 · `lang@ja-rom` SEKKŌOSHŌ GOROKU · `lang@zh-py` (Xue jiang he shang yu lu) · `EXTENT` I
+
+## [KR6t0275 景川和尚語録--](https://github.com/kanripo/KR6t0275)
+
+`EXTRA_ID` T:T81n2569 · `GENRE` 諸宗 · `lang@ja-rom` KEISEṄOSHŌ GOROKU · `lang@zh-py` (Jing chuan he shang yu lu) · `EXTENT` II
+
+## [KR6t0276 虎穴録--](https://github.com/kanripo/KR6t0276)
+
+`EXTRA_ID` T:T81n2570 · `GENRE` 諸宗 · `lang@ja-rom` KOKETSU ROKU · `lang@zh-py` (Hu xue lu) · `EXTENT` II
+
+## [KR6t0277 少林無孔笛--](https://github.com/kanripo/KR6t0277)
+
+`EXTRA_ID` T:T81n2571 · `GENRE` 諸宗 · `lang@ja-rom` SHŌRIM MUKUTEKI · `lang@zh-py` (Shao lin wu kong di) · `EXTENT` VI
+
+## [KR6t0278 見桃録--](https://github.com/kanripo/KR6t0278)
+
+`EXTRA_ID` T:T81n2572 · `GENRE` 諸宗 · `lang@ja-rom` KENTŌ ROKU · `lang@zh-py` (Jian tao lu) · `EXTENT` IV
+
+## [KR6t0279 西源徳芳和尚語録--](https://github.com/kanripo/KR6t0279)
+
+`EXTRA_ID` T:T81n2573 · `GENRE` 諸宗 · `lang@ja-rom` SEIGEN TOKUHŌOSHŌ GOROKU · `lang@zh-py` (Xi yuan de fang he shang yu lu) · `EXTENT` III
+
+## [KR6t0280 槐安國語--](https://github.com/kanripo/KR6t0280)
+
+`EXTRA_ID` T:T81n2574 · `GENRE` 諸宗 · `lang@ja-rom` KAIANKOKU GO · `lang@zh-py` (Huai an guo yu) · `EXTENT` VII
+
+## [KR6t0281 宗門無盡燈論--](https://github.com/kanripo/KR6t0281)
+
+`EXTRA_ID` T:T81n2575 · `GENRE` 諸宗 · `lang@ja-rom` SHŪMOM MUJINTŌ RON · `lang@zh-py` (Zong men wu jin deng lun) · `EXTENT` II
+
+## [KR6t0282 五家參祥要路門--](https://github.com/kanripo/KR6t0282)
+
+`EXTRA_ID` T:T81n2576 · `GENRE` 諸宗 · `lang@ja-rom` GOKE SANSHŌ YŌRO MON · `lang@zh-py` (Wu jia can xiang yao lu men) · `EXTENT` V
+
+## [KR6t0283 大鑑清規--](https://github.com/kanripo/KR6t0283)
+
+`EXTRA_ID` T:T81n2577 · `GENRE` 諸宗 · `lang@ja-rom` DAIKAN SHINGI · `lang@zh-py` (Da jian qing gui) · `EXTENT` I
+
+## [KR6t0284 諸廻向清規--](https://github.com/kanripo/KR6t0284)
+
+`EXTRA_ID` T:T81n2578 · `GENRE` 諸宗 · `lang@ja-rom` SHOEKŌ SHINGI · `lang@zh-py` (Zhu hui xiang qing gui) · `EXTENT` V
+
+## [KR6t0285 小叢林清規--](https://github.com/kanripo/KR6t0285)
+
+`EXTRA_ID` T:T81n2579 · `GENRE` 諸宗 · `lang@ja-rom` SHŌSŌRIN SHINGI · `lang@zh-py` (Xiao cong lin qing gui) · `EXTENT` III
+
+## [KR6t0286 普勸坐禪儀--道元](https://github.com/kanripo/KR6t0286)
+
+`EXTRA_ID` T:T82n2580 · `GENRE` 諸宗 · `lang@ja-rom` FUKAN ZAZEN GI · `lang@zh-py` (Pu quan zuo chan yi) · `EXTENT` I
+
+**人物**
+- 道元 — `lang@ja-rom` Dōgen
+
+## [KR6t0287 學道用心集--道元](https://github.com/kanripo/KR6t0287)
+
+`EXTRA_ID` T:T82n2581 · `GENRE` 諸宗 · `lang@ja-rom` GAKUDŌ YŌJIN SHŪ · `lang@zh-py` (Xue dao yong xin ji) · `EXTENT` I
+
+**人物**
+- 道元 — `lang@ja-rom` Dōgen
+
+## [KR6t0288 正法眼藏--道元](https://github.com/kanripo/KR6t0288)
+
+`EXTRA_ID` T:T82n2582 · `GENRE` 諸宗 · `lang@ja-rom` SHŌBŌ GENZŌ · `lang@zh-py` (Zheng fa yan zang) · `EXTENT` XCV
+
+**人物**
+- 道元 — `lang@ja-rom` Dōgen
+
+## [KR6t0289 永平元和尚頌古--](https://github.com/kanripo/KR6t0289)
+
+`EXTRA_ID` T:T82n2583 · `GENRE` 諸宗 · `lang@ja-rom` EIHEI GEṄOSHŌ JUKO · `lang@zh-py` (Yong ping yuan he shang song gu) · `EXTENT` I
+
+## [KR6t0290 永平清規--道元](https://github.com/kanripo/KR6t0290)
+
+`EXTRA_ID` T:T82n2584 · `GENRE` 諸宗 · `lang@ja-rom` EIHEI SHINGI · `lang@zh-py` (Yong ping qing gui) · `EXTENT` II
+
+**人物**
+- 道元 — `lang@ja-rom` Dōgen
+
+## [KR6t0291 傳光録--](https://github.com/kanripo/KR6t0291)
+
+`EXTRA_ID` T:T82n2585 · `GENRE` 諸宗 · `lang@ja-rom` DENKŌ ROKU · `lang@zh-py` (Zhuan guang lu) · `EXTENT` II
+
+## [KR6t0292 坐禪用心記--](https://github.com/kanripo/KR6t0292)
+
+`EXTRA_ID` T:T82n2586 · `GENRE` 諸宗 · `lang@ja-rom` ZAZEṄ YŌJIN KI · `lang@zh-py` (Zuo chan yong xin ji) · `EXTENT` I
+
+## [KR6t0293 信心銘拈提--](https://github.com/kanripo/KR6t0293)
+
+`EXTRA_ID` T:T82n2587 · `GENRE` 諸宗 · `lang@ja-rom` SHINJIMMEI NENTEI · `lang@zh-py` (Xin xin ming nian ti) · `EXTENT` I
+
+## [KR6t0294 十種勅問奏對集--](https://github.com/kanripo/KR6t0294)
+
+`EXTRA_ID` T:T82n2588 · `GENRE` 諸宗 · `lang@ja-rom` JUSSHU CHOKUMON SŌTAI SHŪ · `lang@zh-py` (Shi zhong chi wen zou dui ji) · `EXTENT` I
+
+## [KR6t0295 瑩山清規--](https://github.com/kanripo/KR6t0295)
+
+`EXTRA_ID` T:T82n2589 · `GENRE` 諸宗 · `lang@ja-rom` KEIZAN SHINGI · `lang@zh-py` (Ying shan qing gui) · `EXTENT` II
+
+## [KR6t0296 光明藏三昧--](https://github.com/kanripo/KR6t0296)
+
+`EXTRA_ID` T:T82n2590 · `GENRE` 諸宗 · `lang@ja-rom` KŌMYŌZŌ SAMMAI · `lang@zh-py` (Guang ming zang san mei) · `EXTENT` I
+
+## [KR6t0297 義雲和尚語録--](https://github.com/kanripo/KR6t0297)
+
+`EXTRA_ID` T:T82n2591 · `GENRE` 諸宗 · `lang@ja-rom` GIUṄOSHŌ GOROKU · `lang@zh-py` (Yi yun he shang yu lu) · `EXTENT` II
+
+## [KR6t0298 通幻靈禪師漫録--](https://github.com/kanripo/KR6t0298)
+
+`EXTRA_ID` T:T82n2592 · `GENRE` 諸宗 · `lang@ja-rom` TSŪGENREIZENJI MANROKU · `lang@zh-py` (Tong huan ling chan shi man lu) · `EXTENT` II
+
+## [KR6t0299 實峰禪師語録--](https://github.com/kanripo/KR6t0299)
+
+`EXTRA_ID` T:T82n2593 · `GENRE` 諸宗 · `lang@ja-rom` JIPPŌZENJI GOROKU · `lang@zh-py` (Shi feng chan shi yu lu) · `EXTENT` I
+
+## [KR6t0300 普濟和尚語録--](https://github.com/kanripo/KR6t0300)
+
+`EXTRA_ID` T:T82n2594 · `GENRE` 諸宗 · `lang@ja-rom` FUSAIOSHŌ GOROKU · `lang@zh-py` (Pu ji he shang yu lu) · `EXTENT` III
+
+## [KR6t0301 月坡禪師語録--](https://github.com/kanripo/KR6t0301)
+
+`EXTRA_ID` T:T82n2595 · `GENRE` 諸宗 · `lang@ja-rom` GEPPAZENJI GOROKU · `lang@zh-py` (Yue po chan shi yu lu) · `EXTENT` IV
+
+## [KR6t0302 月舟和尚遺録--](https://github.com/kanripo/KR6t0302)
+
+`EXTRA_ID` T:T82n2596 · `GENRE` 諸宗 · `lang@ja-rom` GESSHŪOSHŌ IROKU · `lang@zh-py` (Yue zhou he shang yi lu) · `EXTENT` II
+
+## [KR6t0303 獨菴獨語--](https://github.com/kanripo/KR6t0303)
+
+`EXTRA_ID` T:T82n2597 · `GENRE` 諸宗 · `lang@ja-rom` DOKUAN DOKUGO · `lang@zh-py` (Du an du yu) · `EXTENT` I
+
+## [KR6t0304 東林語録--](https://github.com/kanripo/KR6t0304)
+
+`EXTRA_ID` T:T82n2598 · `GENRE` 諸宗 · `lang@ja-rom` TŌRIN GOROKU · `lang@zh-py` (Dong lin yu lu) · `EXTENT` IV
+
+## [KR6t0305 禪戒訣--](https://github.com/kanripo/KR6t0305)
+
+`EXTRA_ID` T:T82n2599 · `GENRE` 諸宗 · `lang@ja-rom` ZENKAI KETSU · `lang@zh-py` (Chan jie jue) · `EXTENT` I
+
+## [KR6t0306 報恩編--](https://github.com/kanripo/KR6t0306)
+
+`EXTRA_ID` T:T82n2600 · `GENRE` 諸宗 · `lang@ja-rom` HŌON HEN · `lang@zh-py` (Bao en bian) · `EXTENT` III
+
+## [KR6t0307 禪戒鈔--](https://github.com/kanripo/KR6t0307)
+
+`EXTRA_ID` T:T82n2601 · `GENRE` 諸宗 · `lang@ja-rom` ZENKAI SHŌ · `lang@zh-py` (Chan jie chao) · `EXTENT` I
+
+## [KR6t0308 心學典論--](https://github.com/kanripo/KR6t0308)
+
+`EXTRA_ID` T:T82n2602 · `GENRE` 諸宗 · `lang@ja-rom` SHINGAKU TENRON · `lang@zh-py` (Xin xue dian lun) · `EXTENT` IV
+
+## [KR6t0309 荒田隨筆--慧印](https://github.com/kanripo/KR6t0309)
+
+`EXTRA_ID` T:T82n2603 · `GENRE` 諸宗 · `lang@ja-rom` KŌDEN ZUIHITSU · `lang@zh-py` (Huang tian sui bi) · `EXTENT` IV
+
+**人物**
+- 慧印 — `lang@ja-rom` Ein
+
+## [KR6t0310 建康普説--](https://github.com/kanripo/KR6t0310)
+
+`EXTRA_ID` T:T82n2604 · `GENRE` 諸宗 · `lang@ja-rom` KENGŌ FUSETSU · `lang@zh-py` (Jian kang pu shuo) · `EXTENT` I
+
+## [KR6t0311 普照國師語録--](https://github.com/kanripo/KR6t0311)
+
+`EXTRA_ID` T:T82n2605 · `RELATED` T82n2606@諸宗 · `GENRE` 諸宗 · `lang@ja-rom` FUSHŌKOKUSHI GOROKU · `lang@zh-py` (Pu zhao guo shi yu lu) · `EXTENT` III
+
+## [KR6t0312 普照國師法語--](https://github.com/kanripo/KR6t0312)
+
+`EXTRA_ID` T:T82n2606 · `RELATED` T82n2605@諸宗 · `GENRE` 諸宗 · `lang@ja-rom` FUSHŌKOKUSHI HŌGO · `lang@zh-py` (Pu zhao guo shi fa yu) · `EXTENT` II
+
+## [KR6t0313 黄檗清規--](https://github.com/kanripo/KR6t0313)
+
+`EXTRA_ID` T:T82n2607 · `GENRE` 諸宗 · `lang@ja-rom` ŌBAKU SHINGI · `lang@zh-py` (Huang bo qing gui) · `EXTENT` I
+
+## [KR6t0314 選擇本願念佛集--源空](https://github.com/kanripo/KR6t0314)
+
+`EXTRA_ID` T:T83n2608 · `RELATED` T83n2609@諸宗, T83n2610@諸宗, T83n2620@諸宗 · `GENRE` 諸宗 · `lang@ja-rom` SENCHAKU HONGAN NEMBUS SHŪ · `lang@zh-py` (Xuan ze ben yuan nian fo ji) · `EXTENT` I
+
+**人物**
+- 源空 — `lang@ja-rom` Genkū
+
+## [KR6t0315 徹選擇本願念佛集--](https://github.com/kanripo/KR6t0315)
+
+`EXTRA_ID` T:T83n2609 · `RELATED` T83n2608@諸宗, T83n2610@諸宗 · `GENRE` 諸宗 · `lang@ja-rom` TES SENCHAKU HONGAN NEMBUS SHŪ · `lang@zh-py` (Che xuan ze ben yuan nian fo ji) · `EXTENT` II
+
+## [KR6t0316 選擇傳弘決疑鈔--良忠](https://github.com/kanripo/KR6t0316)
+
+`EXTRA_ID` T:T83n2610 · `RELATED` T83n2608@諸宗, T83n2609@諸宗 · `GENRE` 諸宗 · `lang@ja-rom` SENCHAKU DENGU KETSUGI SHŌ · `lang@zh-py` (xuan ze zhuan hong jue yi chao) · `EXTENT` V
+
+**人物**
+- 良忠 — `lang@ja-rom` Ryōchū
+
+## [KR6t0317 黒谷上人語燈録--](https://github.com/kanripo/KR6t0317)
+
+`EXTRA_ID` T:T83n2611 · `RELATED` T83n2612@諸宗 · `GENRE` 諸宗 · `lang@ja-rom` KURODANISHŌNIN GOTŌ ROKU · `lang@zh-py` (Hei gu shang ren yu deng lu) · `EXTENT` XV
+
+## [KR6t0318 拾遺黒谷上人語燈録--](https://github.com/kanripo/KR6t0318)
+
+`EXTRA_ID` T:T83n2612 · `RELATED` T83n2611@諸宗 · `GENRE` 諸宗 · `lang@ja-rom` SHŪI KURODANISHŌNIN GOTŌ ROKU · `lang@zh-py` (Shi yi hei gu shang ren yu deng lu) · `EXTENT` III
+
+## [KR6t0319 末代念佛授手印--](https://github.com/kanripo/KR6t0319)
+
+`EXTRA_ID` T:T83n2613 · `GENRE` 諸宗 · `lang@ja-rom` MATSUDAI NEMBUTSU JUSHUIN · `lang@zh-py` (Mo dai nian fo shou shou yin) · `EXTENT` I
+
+## [KR6t0320 淨土二藏二教略頌--](https://github.com/kanripo/KR6t0320)
+
+`EXTRA_ID` T:T83n2614 · `GENRE` 諸宗 · `lang@ja-rom` JŌDO NIZŌ NIKYŌ RYAKUJU · `lang@zh-py` (Jing tu er zang er jiao lüe song) · `EXTENT` I
+
+## [KR6t0321 歸命本願抄--](https://github.com/kanripo/KR6t0321)
+
+`EXTRA_ID` T:T83n2615 · `RELATED` T83n2616@諸宗, T83n2617@諸宗 · `GENRE` 諸宗 · `lang@ja-rom` KIMYŌ HONGAN SHŌ · `lang@zh-py` (Gui ming ben yuan chao) · `EXTENT` III
+
+## [KR6t0322 西要抄--](https://github.com/kanripo/KR6t0322)
+
+`EXTRA_ID` T:T83n2616 · `RELATED` T83n2615@諸宗, T83n2617@諸宗 · `GENRE` 諸宗 · `lang@ja-rom` SAIYŌ SHŌ · `lang@zh-py` (Xi yao chao) · `EXTENT` II
+
+## [KR6t0323 父子相迎--](https://github.com/kanripo/KR6t0323)
+
+`EXTRA_ID` T:T83n2617 · `RELATED` T79n2515@諸宗, T79n2516@諸宗 · `GENRE` 諸宗 · `lang@ja-rom` FUSHI SŌGŌ · `lang@zh-py` (Fu zi xiang ying) · `EXTENT` II
+
+## [KR6t0324 大原談義聞書鈔--聖覺](https://github.com/kanripo/KR6t0324)
+
+`EXTRA_ID` T:T83n2618 · `GENRE` 諸宗 · `lang@ja-rom` ŌHARA DANGI KIKIGAKI SHŌ · `lang@zh-py` (Da yuan tan yi wen shu chao) · `EXTENT` I
+
+**人物**
+- 聖覺 — `lang@ja-rom` Shōkaku
+
+## [KR6t0325 蓮門學則--大玄](https://github.com/kanripo/KR6t0325)
+
+`EXTRA_ID` T:T83n2619 · `GENRE` 諸宗 · `lang@ja-rom` REMMON GAKUSHOKU · `lang@zh-py` (Lian men xue ze) · `EXTENT` I
+
+**人物**
+- 大玄 — `lang@ja-rom` Daigen
+
+## [KR6t0326 撰擇密要決--證空](https://github.com/kanripo/KR6t0326)
+
+`EXTRA_ID` T:T83n2620 · `RELATED` T83n2608@諸宗 · `GENRE` 諸宗 · `lang@ja-rom` SENCHAKU MITSU YŌKETSU · `lang@zh-py` (Zhuan ze mi yao jue) · `EXTENT` V
+
+**人物**
+- 證空 — `lang@ja-rom` Shōkū
+
+## [KR6t0327 修業要決--證空](https://github.com/kanripo/KR6t0327)
+
+`EXTRA_ID` T:T83n2621 · `GENRE` 諸宗 · `lang@ja-rom` SHUGYŌ YŌKETSU · `lang@zh-py` (Xiu ye yao jue) · `EXTENT` I
+
+**人物**
+- 證空 — `lang@ja-rom` Shōkū
+
+## [KR6t0328 當麻曼荼羅供式--證空](https://github.com/kanripo/KR6t0328)
+
+`EXTRA_ID` T:T83n2622 · `GENRE` 諸宗 · `lang@ja-rom` TAIMA MANDARA KUSHIKI · `lang@zh-py` (Dang ma man tu luo gong shi) · `EXTENT` I
+
+**人物**
+- 證空 — `lang@ja-rom` Shōkū
+
+## [KR6t0329 曼荼羅八講論義抄--證空](https://github.com/kanripo/KR6t0329)
+
+`EXTRA_ID` T:T83n2623 · `GENRE` 諸宗 · `lang@ja-rom` MANDARA HAKKŌ RONGI SHŌ · `lang@zh-py` (Man tu luo ba jiang lun yi chao) · `EXTENT` I
+
+**人物**
+- 證空 — `lang@ja-rom` Shōkū
+
+## [KR6t0330 女院御書--證空](https://github.com/kanripo/KR6t0330)
+
+`EXTRA_ID` T:T83n2624 · `GENRE` 諸宗 · `lang@ja-rom` NYOIN GOSHO · `lang@zh-py` (Nü yuan yu shu) · `EXTENT` II
+
+**人物**
+- 證空 — `lang@ja-rom` Shōkū
+
+## [KR6t0331 鎭勸用心--證空](https://github.com/kanripo/KR6t0331)
+
+`EXTRA_ID` T:T83n2625 · `GENRE` 諸宗 · `lang@ja-rom` CHINKAṄ YŌJIN · `lang@zh-py` (Zhen quan yong xin) · `EXTENT` I
+
+**人物**
+- 證空 — `lang@ja-rom` Shōkū
+
+## [KR6t0332 流祖上人箇條名目--證空](https://github.com/kanripo/KR6t0332)
+
+`EXTRA_ID` T:T83n2626 · `GENRE` 諸宗 · `lang@ja-rom` RYŪSOSHŌNIN KAJŌ MYŌMOKU · `lang@zh-py` (Liu zu shang ren ge tiao ming mu) · `EXTENT` I
+
+**人物**
+- 證空 — `lang@ja-rom` Shōkū
+
+## [KR6t0333 觀經名目證據十七箇條--淨音](https://github.com/kanripo/KR6t0333)
+
+`EXTRA_ID` T:T83n2627 · `GENRE` 諸宗 · `lang@ja-rom` KANGYŌ MYŌMOKU SHŌKO JŪSHICHIKAJŌ · `lang@zh-py` (Guan jing ming mu zheng ju shi qi ge tiao) · `EXTENT` I
+
+**人物**
+- 淨音 — `lang@ja-rom` Jōon
+
+## [KR6t0334 西山口決傳密鈔--淨音](https://github.com/kanripo/KR6t0334)
+
+`EXTRA_ID` T:T83n2628 · `GENRE` 諸宗 · `lang@ja-rom` SEIZAN KUKETSU DEM MISSHŌ · `lang@zh-py` (Xi shan kou jue zhuan mi chao) · `EXTENT` I
+
+**人物**
+- 淨音 — `lang@ja-rom` Jōon
+
+## [KR6t0335 淨土宗要集--](https://github.com/kanripo/KR6t0335)
+
+`EXTRA_ID` T:T83n2629 · `GENRE` 諸宗 · `lang@ja-rom` JŌDO SHŪYŌ SHŪ · `lang@zh-py` (Jing tu zong yao ji) · `EXTENT` III
+
+## [KR6t0336 竹林鈔--](https://github.com/kanripo/KR6t0336)
+
+`EXTRA_ID` T:T83n2630 · `GENRE` 諸宗 · `lang@ja-rom` CHIKURIN SHŌ · `lang@zh-py` (Zhu lin chao) · `EXTENT` II
+
+## [KR6t0337 菩薩藏頓教一乘海義決--](https://github.com/kanripo/KR6t0337)
+
+`EXTRA_ID` T:T83n2631 · `GENRE` 諸宗 · `lang@ja-rom` BOSATSUZŌ TONGYŌ ICHIJŌKAI GIKETSU · `lang@zh-py` (Pu sa zang dun jiao yi sheng hai yi jue) · `EXTENT` I
+
+## [KR6t0338 難易二道血脈圖論--](https://github.com/kanripo/KR6t0338)
+
+`EXTRA_ID` T:T83n2632 · `GENRE` 諸宗 · `lang@ja-rom` NAṄI NIDŌ KECHIMYAKU ZU RON · `lang@zh-py` (Nan yi er dao xue mo tu lun) · `EXTENT` I
+
+## [KR6t0339 華山院家四十八問答--](https://github.com/kanripo/KR6t0339)
+
+`EXTRA_ID` T:T83n2633 · `GENRE` 諸宗 · `lang@ja-rom` KAZAṄINKE SHIJŪHACHIMONDŌ · `lang@zh-py` (Hua shan yuan jia si shi ba wen da) · `EXTENT` I
+
+## [KR6t0340 觀經四品知識義--](https://github.com/kanripo/KR6t0340)
+
+`EXTRA_ID` T:T83n2634 · `GENRE` 諸宗 · `lang@ja-rom` KANGYŌ SHIBON CHISHIKI GI · `lang@zh-py` (Guan jing si pin zhi zhi yi) · `EXTENT` I
+
+## [KR6t0341 仙洞三心義問答記--](https://github.com/kanripo/KR6t0341)
+
+`EXTRA_ID` T:T83n2635 · `GENRE` 諸宗 · `lang@ja-rom` SENTŌ SANJIN GI MONDŌ KI · `lang@zh-py` (Xian dong san xin yi wen da ji) · `EXTENT` I
+
+## [KR6t0342 淨土宗建立私記--](https://github.com/kanripo/KR6t0342)
+
+`EXTRA_ID` T:T83n2636 · `GENRE` 諸宗 · `lang@ja-rom` JŌDOSHŪ KONRYŪ SHIKI · `lang@zh-py` (Jing tu zong jian li si ji) · `EXTENT` I
+
+## [KR6t0343 淨土童蒙指歸名目--](https://github.com/kanripo/KR6t0343)
+
+`EXTRA_ID` T:T83n2637 · `GENRE` 諸宗 · `lang@ja-rom` JŌDO DŌMŌ SHIKI MYŌMOKU · `lang@zh-py` (Jing tu tong meng zhi gui ming mu) · `EXTENT` I
+
+## [KR6t0344 淨土宗法門大圖--](https://github.com/kanripo/KR6t0344)
+
+`EXTRA_ID` T:T83n2638 · `GENRE` 諸宗 · `lang@ja-rom` JŌDOSHŪ HŌMON DAIZU · `lang@zh-py` (Jing tu zong fa men da tu) · `EXTENT` I
+
+## [KR6t0345 淨土法門大圖名目--](https://github.com/kanripo/KR6t0345)
+
+`EXTRA_ID` T:T83n2639 · `GENRE` 諸宗 · `lang@ja-rom` JŌDO HŌMON DAIZU MYŌMOKU · `lang@zh-py` (Jing tu fa men da tu ming mu) · `EXTENT` I
+
+## [KR6t0346 淨土口決集--](https://github.com/kanripo/KR6t0346)
+
+`EXTRA_ID` T:T83n2640 · `GENRE` 諸宗 · `lang@ja-rom` JŌDO KUKES SHŪ · `lang@zh-py` (Jing tu kou jue ji) · `EXTENT` I
+
+## [KR6t0347 座右鈔--](https://github.com/kanripo/KR6t0347)
+
+`EXTRA_ID` T:T83n2641 · `GENRE` 諸宗 · `lang@ja-rom` ZAU SHŌ · `lang@zh-py` (Zuo you chao) · `EXTENT` I
+
+## [KR6t0348 初心行護鈔--](https://github.com/kanripo/KR6t0348)
+
+`EXTRA_ID` T:T83n2642 · `GENRE` 諸宗 · `lang@ja-rom` SHOSHIN GYŌGO SHŌ · `lang@zh-py` (Chu xin xing hu chao) · `EXTENT` I
+
+## [KR6t0349 講院學堂通規--](https://github.com/kanripo/KR6t0349)
+
+`EXTRA_ID` T:T83n2643 · `GENRE` 諸宗 · `lang@ja-rom` KŌIN GAKUDŌ TSŪKI · `lang@zh-py` (Jiang yuan xue tang tong gui) · `EXTENT` I
+
+## [KR6t0350 愚要鈔--](https://github.com/kanripo/KR6t0350)
+
+`EXTRA_ID` T:T83n2644 · `GENRE` 諸宗 · `lang@ja-rom` GUYŌ SHŌ · `lang@zh-py` (Yu yao chao) · `EXTENT` III
+
+## [KR6t0351 西山復古篇--](https://github.com/kanripo/KR6t0351)
+
+`EXTRA_ID` T:T83n2645 · `GENRE` 諸宗 · `lang@ja-rom` SEIZAN FUKKO HEN · `lang@zh-py` (Xi shan fu gu pian) · `EXTENT` I
+
+## [KR6t0352 顯淨土眞實教行證文類--親鸞](https://github.com/kanripo/KR6t0352)
+
+`EXTRA_ID` T:T83n2646 · `GENRE` 諸宗 · `lang@ja-rom` KEN JŌDO SHINJITSUKYŌGYŌSHŌ MONRUI · `lang@zh-py` (Xian jing tu zhen shi jiao xing zheng wen lei) · `EXTENT` VI
+
+**人物**
+- 親鸞 — `lang@ja-rom` Shinran
+
+## [KR6t0353 淨土文類聚鈔--親鸞](https://github.com/kanripo/KR6t0353)
+
+`EXTRA_ID` T:T83n2647 · `GENRE` 諸宗 · `lang@ja-rom` JŌDO MONRUI JŪSHŌ · `lang@zh-py` (Jing tu wen lei ju chao) · `EXTENT` I
+
+**人物**
+- 親鸞 — `lang@ja-rom` Shinran
+
+## [KR6t0354 愚禿鈔--親鸞](https://github.com/kanripo/KR6t0354)
+
+`EXTRA_ID` T:T83n2648 · `GENRE` 諸宗 · `lang@ja-rom` GUTOKU SHŌ · `lang@zh-py` (Yu tu chao) · `EXTENT` II
+
+**人物**
+- 親鸞 — `lang@ja-rom` Shinran
+
+## [KR6t0355 入出二門偈頌--親鸞](https://github.com/kanripo/KR6t0355)
+
+`EXTRA_ID` T:T83n2649 · `GENRE` 諸宗 · `lang@ja-rom` NYŪSHUTSU NIMON GEJU · `lang@zh-py` (Ru chu er men jie song) · `EXTENT` I
+
+**人物**
+- 親鸞 — `lang@ja-rom` Shinran
+
+## [KR6t0356 淨土和讃--親鸞](https://github.com/kanripo/KR6t0356)
+
+`EXTRA_ID` T:T83n2650 · `GENRE` 諸宗 · `lang@ja-rom` JŌDO WASAN · `lang@zh-py` (Jing tu he zan) · `EXTENT` I
+
+**人物**
+- 親鸞 — `lang@ja-rom` Shinran
+
+## [KR6t0357 淨土高僧和讃--親鸞](https://github.com/kanripo/KR6t0357)
+
+`EXTRA_ID` T:T83n2651 · `GENRE` 諸宗 · `lang@ja-rom` JŌDO KŌSŌ WASAN · `lang@zh-py` (Jing tu gao seng he zan) · `EXTENT` I
+
+**人物**
+- 親鸞 — `lang@ja-rom` Shinran
+
+## [KR6t0358 正像末法和讃--親鸞](https://github.com/kanripo/KR6t0358)
+
+`EXTRA_ID` T:T83n2652 · `GENRE` 諸宗 · `lang@ja-rom` SHŌZŌMAPPŌ WASAN · `lang@zh-py` (Zheng xiang mo fa he zan) · `EXTENT` I
+
+**人物**
+- 親鸞 — `lang@ja-rom` Shinran
+
+## [KR6t0359 皇太子聖徳奉讃--親鸞](https://github.com/kanripo/KR6t0359)
+
+`EXTRA_ID` T:T83n2653A · `GENRE` 諸宗 · `lang@ja-rom` KŌTAISHI SHŌTOKU HŌSAN · `lang@zh-py` (Huang tai zi sheng de feng zan) · `EXTENT` I
+
+**人物**
+- 親鸞 — `lang@ja-rom` Shinran
+
+## [KR6t0360 皇太子聖徳奉讃--](https://github.com/kanripo/KR6t0360)
+
+`EXTRA_ID` T:T83n2653B · `GENRE` 諸宗 · `lang@ja-rom` KŌTAISHI SHŌTOKU HŌSAN · `lang@zh-py` (Huang tai zi sheng de feng zan) · `EXTENT` I
+
+## [KR6t0361 淨土三經往生文類--親鸞](https://github.com/kanripo/KR6t0361)
+
+`EXTRA_ID` T:T83n2654A · `GENRE` 諸宗 · `lang@ja-rom` JŌDO SANGYŌ ŌJŌ MONRUI · `lang@zh-py` (Jing tu san jing wang sheng wen lei) · `EXTENT` I
+
+**人物**
+- 親鸞 — `lang@ja-rom` Shinran
+
+## [KR6t0362 淨土三經往生文類--](https://github.com/kanripo/KR6t0362)
+
+`EXTRA_ID` T:T83n2654B · `GENRE` 諸宗 · `lang@ja-rom` JŌDO SANGYŌ ŌJŌ MONRUI · `lang@zh-py` (Jing tu san jing wang sheng wen lei) · `EXTENT` I
+
+## [KR6t0363 如來二種廻向文--親鸞](https://github.com/kanripo/KR6t0363)
+
+`EXTRA_ID` T:T83n2655A · `GENRE` 諸宗 · `lang@ja-rom` NYORAI NISHU EKŌ MON · `lang@zh-py` (Ru lai er zhong hui xiang wen) · `EXTENT` I
+
+**人物**
+- 親鸞 — `lang@ja-rom` Shinran
+
+## [KR6t0364 往相廻向還相廻向文類--](https://github.com/kanripo/KR6t0364)
+
+`EXTRA_ID` T:T83n2655B · `GENRE` 諸宗 · `lang@ja-rom` ŌSŌ EKŌ GENSŌ EKŌ MONRUI · `lang@zh-py` (Wang xiang hui xiang huan xiang hui xiang wen lei) · `EXTENT` I
+
+## [KR6t0365 尊號眞像銘文--親鸞](https://github.com/kanripo/KR6t0365)
+
+`EXTRA_ID` T:T83n2656A · `GENRE` 諸宗 · `lang@ja-rom` SONGŌ SHINZŌ MEIMON · `lang@zh-py` (Zun hao zhen xiang ming wen) · `EXTENT` II
+
+**人物**
+- 親鸞 — `lang@ja-rom` Shinran
+
+## [KR6t0366 尊號眞像銘文--](https://github.com/kanripo/KR6t0366)
+
+`EXTRA_ID` T:T83n2656B · `GENRE` 諸宗 · `lang@ja-rom` SONGŌ SHINZŌ MEIMON · `lang@zh-py` (Zun hao zhen xiang ming wen) · `EXTENT` I
+
+## [KR6t0367 一念多念文意--親鸞](https://github.com/kanripo/KR6t0367)
+
+`EXTRA_ID` T:T83n2657 · `RELATED` T83n2677@諸宗 · `GENRE` 諸宗 · `lang@ja-rom` ICHINEN TANEM MOṄI · `lang@zh-py` (Yi nian duo nian wen yi) · `EXTENT` I
+
+**人物**
+- 親鸞 — `lang@ja-rom` Shinran
+
+## [KR6t0368 唯信鈔文意--親鸞](https://github.com/kanripo/KR6t0368)
+
+`EXTRA_ID` T:T83n2658A · `RELATED` T83n2675@諸宗 · `GENRE` 諸宗 · `lang@ja-rom` YUISHINSHŌ MOṄI · `lang@zh-py` (Wei xin chao wen yi) · `EXTENT` I
+
+**人物**
+- 親鸞 — `lang@ja-rom` Shinran
+
+## [KR6t0369 唯信鈔文意--](https://github.com/kanripo/KR6t0369)
+
+`EXTRA_ID` T:T83n2658B · `RELATED` T83n2675@諸宗 · `GENRE` 諸宗 · `lang@ja-rom` YUISHINSHŌ MOṄI · `lang@zh-py` (Wei xin chao wen yi) · `EXTENT` I
+
+## [KR6t0370 末燈鈔--從覺](https://github.com/kanripo/KR6t0370)
+
+`EXTRA_ID` T:T83n2659 · `GENRE` 諸宗 · `lang@ja-rom` MATTŌ SHŌ · `lang@zh-py` (Mo deng chao) · `EXTENT` II
+
+**人物**
+- 從覺 — `lang@ja-rom` Jūkaku
+
+## [KR6t0371 親鸞聖人御消息集--](https://github.com/kanripo/KR6t0371)
+
+`EXTRA_ID` T:T83n2660 · `GENRE` 諸宗 · `lang@ja-rom` SHINRANSHŌNIN GOSHŌSOKU SHŪ · `lang@zh-py` (Qin luan sheng ren yu xiao xi ji) · `EXTENT` I
+
+## [KR6t0372 歎異抄--](https://github.com/kanripo/KR6t0372)
+
+`EXTRA_ID` T:T83n2661 · `GENRE` 諸宗 · `lang@ja-rom` TANNI SHŌ · `lang@zh-py` (Tan yi chao) · `EXTENT` I
+
+## [KR6t0373 執持鈔--](https://github.com/kanripo/KR6t0373)
+
+`EXTRA_ID` T:T83n2662 · `GENRE` 諸宗 · `lang@ja-rom` SHŪJI SHŌ · `lang@zh-py` (Zhi chi chao) · `EXTENT` I
+
+## [KR6t0374 口傳鈔--](https://github.com/kanripo/KR6t0374)
+
+`EXTRA_ID` T:T83n2663 · `GENRE` 諸宗 · `lang@ja-rom` KUDEN SHŌ · `lang@zh-py` (Kou zhuan chao) · `EXTENT` III
+
+## [KR6t0375 本願寺聖人親鸞傳繪--](https://github.com/kanripo/KR6t0375)
+
+`EXTRA_ID` T:T83n2664 · `GENRE` 諸宗 · `lang@ja-rom` HONGANJI SHŌNIN SHINRAN DENNE · `lang@zh-py` (Ben yuan si sheng ren qin luan zhuan hui) · `EXTENT` II
+
+## [KR6t0376 報恩講式記--](https://github.com/kanripo/KR6t0376)
+
+`EXTRA_ID` T:T83n2665 · `ALT_TITLE` 報恩講式記 · `GENRE` 諸宗 · `lang@ja-rom` HŌONKŌ SHIKI · `lang@zh-py` (Bao en jiang shi) · `EXTENT` I
+
+## [KR6t0377 歎徳文--](https://github.com/kanripo/KR6t0377)
+
+`EXTRA_ID` T:T83n2666 · `GENRE` 諸宗 · `lang@ja-rom` TANDOKU MON · `lang@zh-py` (Tan de wen) · `EXTENT` II
+
+## [KR6t0378 淨土眞要鈔--](https://github.com/kanripo/KR6t0378)
+
+`EXTRA_ID` T:T83n2667 · `GENRE` 諸宗 · `lang@ja-rom` JŌDO SHINNYŌ SHŌ · `lang@zh-py` (Jing tu zhen yao chao) · `EXTENT` II
+
+## [KR6t0379 蓮如上人御文--](https://github.com/kanripo/KR6t0379)
+
+`EXTRA_ID` T:T83n2668 · `GENRE` 諸宗 · `lang@ja-rom` RENNYOSHŌNIṄ OFUMI · `lang@zh-py` (Lian ru shang ren yu wen) · `EXTENT` V
+
+## [KR6t0380 蓮如上人御一代記聞書--](https://github.com/kanripo/KR6t0380)
+
+`EXTRA_ID` T:T83n2669 · `GENRE` 諸宗 · `lang@ja-rom` RENNYOSHŌNIN GOICHIDAI KI KIKIGAKI · `lang@zh-py` (Lian ru shang ren yu yi dai ji wen shu) · `lang@ja-rom` \*Goichidaikikikigaki, · `lang@ja-rom` \*Rennyoshōningoichidaimonsho · `EXTENT` I
+
+## [KR6t0381 御俗姓御文--](https://github.com/kanripo/KR6t0381)
+
+`EXTRA_ID` T:T83n2670 · `GENRE` 諸宗 · `lang@ja-rom` GOZOKUSHŌ OFUMI · `lang@zh-py` (Yu su xing yu wen) · `EXTENT` I
+
+## [KR6t0382 大名目--顯智](https://github.com/kanripo/KR6t0382)
+
+`EXTRA_ID` T:T83n2671 · `GENRE` 諸宗 · `lang@ja-rom` DAI MYŌMOKU · `lang@zh-py` (Da ming mu) · `EXTENT` I
+
+**人物**
+- 顯智 — `lang@ja-rom` Kenchi
+
+## [KR6t0383 自要集--定專](https://github.com/kanripo/KR6t0383)
+
+`EXTRA_ID` T:T83n2672 · `GENRE` 諸宗 · `lang@ja-rom` JIYŌ SHŪ · `lang@zh-py` (Zi yao ji) · `EXTENT` I
+
+**人物**
+- 定專 — `lang@ja-rom` Jōsen
+
+## [KR6t0384 顯正流義鈔--眞慧](https://github.com/kanripo/KR6t0384)
+
+`EXTRA_ID` T:T83n2673 · `GENRE` 諸宗 · `lang@ja-rom` KEN SHŌRYŪGI SHŌ · `lang@zh-py` (Xian zheng liu yi chao) · `EXTENT` II
+
+**人物**
+- 眞慧 — `lang@ja-rom` Shiṇe
+
+## [KR6t0385 西方指南鈔--親鸞\]](https://github.com/kanripo/KR6t0385)
+
+`EXTRA_ID` T:T83n2674 · `GENRE` 諸宗 · `lang@ja-rom` SAIHŌ SHINAN SHŌ · `lang@zh-py` (Xi fang zhi nan chao) · `EXTENT` VI
+
+**人物**
+- 親鸞\] — `lang@ja-rom` \[Shinran
+
+## [KR6t0386 唯信抄--聖覺](https://github.com/kanripo/KR6t0386)
+
+`EXTRA_ID` T:T83n2675 · `RELATED` T83n2658@諸宗 · `GENRE` 諸宗 · `lang@ja-rom` YUISHIN SHŌ · `lang@zh-py` (Wei xin chao) · `EXTENT` I
+
+**人物**
+- 聖覺 — `lang@ja-rom` Shōkaku
+
+## [KR6t0387 後世物語聞書--](https://github.com/kanripo/KR6t0387)
+
+`EXTRA_ID` T:T83n2676 · `GENRE` 諸宗 · `lang@ja-rom` GOSE MONOGATARI KIKIGAKI · `lang@zh-py` (Hou shi wu yu wen shu) · `lang@ja-rom` \*Gosemonogatari, · `lang@ja-rom` \*Gosegatarikikigaki · `EXTENT` I
+
+## [KR6t0388 一念多念分別事--隆寛](https://github.com/kanripo/KR6t0388)
+
+`EXTRA_ID` T:T83n2677 · `RELATED` T83n2657@諸宗 · `GENRE` 諸宗 · `lang@ja-rom` ICHINEN TANEN FUMBETSU NO KOTO · `lang@zh-py` (Yi nian duo nian fen bie shi) · `EXTENT` I
+
+**人物**
+- 隆寛 — `lang@ja-rom` Ryūkan
+
+## [KR6t0389 自力他力事--隆寛](https://github.com/kanripo/KR6t0389)
+
+`EXTRA_ID` T:T83n2678 · `GENRE` 諸宗 · `lang@ja-rom` JIRIKI TARIKI NO KOTO · `lang@zh-py` (Zi li ta li shi) · `EXTENT` I
+
+**人物**
+- 隆寛 — `lang@ja-rom` Ryūkan
+
+## [KR6t0390 安心決定鈔--](https://github.com/kanripo/KR6t0390)
+
+`EXTRA_ID` T:T83n2679 · `GENRE` 諸宗 · `lang@ja-rom` ANJIN KETSUJŌ SHŌ · `lang@zh-py` (An xin jue ding chao) · `EXTENT` II
+
+## [KR6t0391 融通圓門章--](https://github.com/kanripo/KR6t0391)
+
+`EXTRA_ID` T:T84n2680 · `GENRE` 諸宗 · `lang@ja-rom` YŪZŪ EMMON SHŌ · `lang@zh-py` (Rong tong yuan men zhang) · `EXTENT` I
+
+## [KR6t0392 器朴論--託何](https://github.com/kanripo/KR6t0392)
+
+`EXTRA_ID` T:T84n2681 · `GENRE` 諸宗 · `lang@ja-rom` KIBOKU RON · `lang@zh-py` (Qi po lun) · `EXTENT` III
+
+**人物**
+- 託何 — `lang@ja-rom` Takuga
+
+## [KR6t0393 往生要集--源信](https://github.com/kanripo/KR6t0393)
+
+`EXTRA_ID` T:T84n2682 · `GENRE` 諸宗 · `lang@ja-rom` ŌJŌ YŌSHŪ · `lang@zh-py` (Wang sheng yao ji) · `EXTENT` III
+
+**人物**
+- 源信 — `lang@ja-rom` Genshin
+
+## [KR6t0394 往生拾因--永觀](https://github.com/kanripo/KR6t0394)
+
+`EXTRA_ID` T:T84n2683 · `GENRE` 諸宗 · `lang@ja-rom` ŌJŌ JŪIN · `lang@zh-py` (Wang sheng shi yin) · `EXTENT` I
+
+**人物**
+- 永觀 — `lang@ja-rom` Eikan
+
+## [KR6t0395 決定往生集--珍海](https://github.com/kanripo/KR6t0395)
+
+`EXTRA_ID` T:T84n2684 · `GENRE` 諸宗 · `lang@ja-rom` KETSUJŌ ŌJŌ SHŪ · `lang@zh-py` (Jue ding wang sheng ji) · `EXTENT` I
+
+**人物**
+- 珍海 — `lang@ja-rom` Chinkai
+
+## [KR6t0396 安養知足相對抄--珍海](https://github.com/kanripo/KR6t0396)
+
+`EXTRA_ID` T:T84n2685 · `GENRE` 諸宗 · `lang@ja-rom` ANNYŌ CHISOKU SŌTAI SHŌ · `lang@zh-py` (An yang zhi zu xiang dui chao) · `EXTENT` I
+
+**人物**
+- 珍海 — `lang@ja-rom` Chinkai
+
+## [KR6t0397 安養抄--11e-12es](https://github.com/kanripo/KR6t0397)
+
+`EXTRA_ID` T:T84n2686 · `GENRE` 諸宗 · `lang@ja-rom` ANNYŌ SHŌ · `lang@zh-py` (An yang chao) · `EXTENT` VIII
+
+**人物**
+- 11e-12es — `lang@ja-rom` An.
+
+## [KR6t0398 淨土法門源流章--凝然](https://github.com/kanripo/KR6t0398)
+
+`EXTRA_ID` T:T84n2687 · `GENRE` 諸宗 · `lang@ja-rom` JŌDO HŌMON GENRYŪ SHŌ · `lang@zh-py` (Jing tu fa men yuan liu zhang) · `EXTENT` I
+
+**人物**
+- 凝然 — `lang@ja-rom` Gyōnen
+
+## [KR6t0399 立正安國論--日蓮](https://github.com/kanripo/KR6t0399)
+
+`EXTRA_ID` T:T84n2688 · `GENRE` 諸宗 · `lang@ja-rom` RISSHŌ ANKOKU RON · `lang@zh-py` (Li zheng an guo lun) · `EXTENT` I
+
+**人物**
+- 日蓮 — `lang@ja-rom` Nichiren
+
+## [KR6t0400 開目抄--日蓮](https://github.com/kanripo/KR6t0400)
+
+`EXTRA_ID` T:T84n2689 · `GENRE` 諸宗 · `lang@ja-rom` KAIMOKU SHŌ · `lang@zh-py` (Kai mu chao) · `EXTENT` II
+
+**人物**
+- 日蓮 — `lang@ja-rom` Nichiren
+
+## [KR6t0401 撰時抄--日蓮](https://github.com/kanripo/KR6t0401)
+
+`EXTRA_ID` T:T84n2690 · `GENRE` 諸宗 · `lang@ja-rom` SENJI SHŌ · `lang@zh-py` (Zhuan shi chao) · `EXTENT` I
+
+**人物**
+- 日蓮 — `lang@ja-rom` Nichiren
+
+## [KR6t0402 報恩抄--日蓮](https://github.com/kanripo/KR6t0402)
+
+`EXTRA_ID` T:T84n2691 · `GENRE` 諸宗 · `lang@ja-rom` HŌON SHŌ · `lang@zh-py` (Bao en chao) · `EXTENT` II
+
+**人物**
+- 日蓮 — `lang@ja-rom` Nichiren
+
+## [KR6t0403 觀心本尊抄--日蓮](https://github.com/kanripo/KR6t0403)
+
+`EXTRA_ID` T:T84n2692 · `GENRE` 諸宗 · `lang@ja-rom` KANJIN HONZON SHŌ · `lang@zh-py` (Guan xin ben zun chao) · `EXTENT` I
+
+**人物**
+- 日蓮 — `lang@ja-rom` Nichiren
+
+## [KR6t0404 法華取要抄--日蓮](https://github.com/kanripo/KR6t0404)
+
+`EXTRA_ID` T:T84n2693 · `GENRE` 諸宗 · `lang@ja-rom` HOKKE SHUYŌ SHŌ · `lang@zh-py` (Fa hua qu yao chao) · `EXTENT` I
+
+**人物**
+- 日蓮 — `lang@ja-rom` Nichiren
+
+## [KR6t0405 太田禪門許御書--日蓮](https://github.com/kanripo/KR6t0405)
+
+`EXTRA_ID` T:T84n2694 · `GENRE` 諸宗 · `lang@ja-rom` ŌTA ZEMMOM MOTO GOSHO · `lang@zh-py` (Tai tian chan men xu yu shu) · `EXTENT` II
+
+**人物**
+- 日蓮 — `lang@ja-rom` Nichiren
+
+## [KR6t0406 三大祕法抄--日蓮](https://github.com/kanripo/KR6t0406)
+
+`EXTRA_ID` T:T84n2695 · `GENRE` 諸宗 · `lang@ja-rom` SANDAI HIHŌ SHŌ · `lang@zh-py` (San da mi fa chao) · `EXTENT` I
+
+**人物**
+- 日蓮 — `lang@ja-rom` Nichiren
+
+## [KR6t0407 四信五品鈔--日蓮](https://github.com/kanripo/KR6t0407)
+
+`EXTRA_ID` T:T84n2696 · `GENRE` 諸宗 · `lang@ja-rom` SHISHIN GOHON SHŌ · `lang@zh-py` (Si xin wu pin chao) · `EXTENT` I
+
+**人物**
+- 日蓮 — `lang@ja-rom` Nichiren
+
+## [KR6t0408 如説修行抄--日蓮](https://github.com/kanripo/KR6t0408)
+
+`EXTRA_ID` T:T84n2697 · `GENRE` 諸宗 · `lang@ja-rom` NYOSETSU SHUGYŌ SHŌ · `lang@zh-py` (Ru shuo xiu xing chao) · `EXTENT` I
+
+**人物**
+- 日蓮 — `lang@ja-rom` Nichiren
+
+## [KR6t0409 種種御振舞御書--日蓮](https://github.com/kanripo/KR6t0409)
+
+`EXTRA_ID` T:T84n2698 · `GENRE` 諸宗 · `lang@ja-rom` SHUJU ONFURUMAI GOSHO · `lang@zh-py` (Zhong zhong yu zhen wu yu shu) · `EXTENT` I
+
+**人物**
+- 日蓮 — `lang@ja-rom` Nichiren
+
+## [KR6t0410 御義口傳--日興](https://github.com/kanripo/KR6t0410)
+
+`EXTRA_ID` T:T84n2699 · `GENRE` 諸宗 · `lang@ja-rom` ONGI KUDEN · `lang@zh-py` (Yu yi kou zhuan) · `EXTENT` II
+
+**人物**
+- 日興 — `lang@ja-rom` Nichikō
+
+## [KR6t0411 御講聞書--日向](https://github.com/kanripo/KR6t0411)
+
+`EXTRA_ID` T:T84n2700 · `GENRE` 諸宗 · `lang@ja-rom` ONKŌ KIKIGAKI · `lang@zh-py` (Yu jiang wen shu) · `EXTENT` I
+
+**人物**
+- 日向 — `lang@ja-rom` Nikō
+
+## [KR6t0412 梵字悉曇字母釋義--空海](https://github.com/kanripo/KR6t0412)
+
+`EXTRA_ID` T:T84n2701 · `GENRE` 諸宗 · `lang@ja-rom` BONJI SHITTAN JIMO SHAKUGI · `lang@zh-py` (Fan zi xi tan zi mu shi yi) · `EXTENT` I
+
+**人物**
+- 空海 — `lang@ja-rom` Kūkai
+
+## [KR6t0413 悉曇藏--安然](https://github.com/kanripo/KR6t0413)
+
+`EXTRA_ID` T:T84n2702 · `GENRE` 諸宗 · `lang@ja-rom` SHITTANZŌ · `lang@zh-py` (Xi tan zang) · `EXTENT` VIII
+
+**人物**
+- 安然 — `lang@ja-rom` Annen
+
+## [KR6t0414 悉曇十二例--安然](https://github.com/kanripo/KR6t0414)
+
+`EXTRA_ID` T:T84n2703 · `GENRE` 諸宗 · `lang@ja-rom` SHITTAN JŪNIREI · `lang@zh-py` (Xi tan shi er li) · `EXTENT` I
+
+**人物**
+- 安然 — `lang@ja-rom` Annen
+
+## [KR6t0415 悉曇略記--玄昭](https://github.com/kanripo/KR6t0415)
+
+`EXTRA_ID` T:T84n2704 · `GENRE` 諸宗 · `lang@ja-rom` SHITTAN RYAKKI · `lang@zh-py` (Xi tan lüe ji) · `EXTENT` I
+
+**人物**
+- 玄昭 — `lang@ja-rom` Genshō
+
+## [KR6t0416 悉曇集記--淳祐](https://github.com/kanripo/KR6t0416)
+
+`EXTRA_ID` T:T84n2705 · `GENRE` 諸宗 · `lang@ja-rom` SHITTAN JUKKI · `lang@zh-py` (Xi tan ji ji) · `EXTENT` III
+
+**人物**
+- 淳祐 — `lang@ja-rom` Junnyū
+
+## [KR6t0417 悉曇要訣--明覺](https://github.com/kanripo/KR6t0417)
+
+`EXTRA_ID` T:T84n2706 · `GENRE` 諸宗 · `lang@ja-rom` SHITTAṄ YŌKETSU · `lang@zh-py` (Xi tan yao jue) · `EXTENT` IV
+
+**人物**
+- 明覺 — `lang@ja-rom` Myōkaku
+
+## [KR6t0418 多羅葉記--心覺](https://github.com/kanripo/KR6t0418)
+
+`EXTRA_ID` T:T84n2707 · `GENRE` 諸宗 · `lang@ja-rom` TARAYŌ KI · `lang@zh-py` (Duo luo ye ji) · `EXTENT` III
+
+**人物**
+- 心覺 — `lang@ja-rom` Shinkaku
+
+## [KR6t0419 悉曇祕傳記--信範](https://github.com/kanripo/KR6t0419)
+
+`EXTRA_ID` T:T84n2708 · `GENRE` 諸宗 · `lang@ja-rom` SHITTAN HIDEN KI · `lang@zh-py` (Xi tan mi zhuan ji) · `EXTENT` I
+
+**人物**
+- 信範 — `lang@ja-rom` Shinhan
+
+## [KR6t0420 悉曇輪略圖抄--了尊](https://github.com/kanripo/KR6t0420)
+
+`EXTRA_ID` T:T84n2709 · `GENRE` 諸宗 · `lang@ja-rom` SHITTANRIN RYAKUZU SHŌ · `lang@zh-py` (Xi tan lun lüe tu chao) · `EXTENT` X
+
+**人物**
+- 了尊 — `lang@ja-rom` Ryōson
+
+## [KR6t0421 悉曇三密鈔--淨嚴](https://github.com/kanripo/KR6t0421)
+
+`EXTRA_ID` T:T84n2710 · `GENRE` 諸宗 · `lang@ja-rom` SHITTAN SAMMITSU SHŌ · `lang@zh-py` (Xi tan san mi chao) · `EXTENT` VII
+
+**人物**
+- 淨嚴 — `lang@ja-rom` Jōgon
+
+## [KR6t0422 梵學津梁總目録--](https://github.com/kanripo/KR6t0422)
+
+`EXTRA_ID` T:T84n2711 · `GENRE` 諸宗 · `lang@ja-rom` BONGAKU SHINRYŌ SŌMOKUROKU · `lang@zh-py` (Fan xue jin liang zong mu lu) · `EXTENT` I
+
+## [KR6t0423 魚山聲明集--](https://github.com/kanripo/KR6t0423)
+
+`EXTRA_ID` T:T84n2712 · `GENRE` 諸宗 · `lang@ja-rom` GYOSAN SHŌMYŌ SHŪ · `lang@zh-py` (Yu shan sheng ming ji) · `EXTENT` I
+
+## [KR6t0424 魚山私鈔--長惠](https://github.com/kanripo/KR6t0424)
+
+`EXTRA_ID` T:T84n2713 · `GENRE` 諸宗 · `lang@ja-rom` GYOSAN SHISHŌ · `lang@zh-py` (Yu shan si chao) · `EXTENT` II
+
+**人物**
+- 長惠 — `lang@ja-rom` Chōe
+
+## [KR6t0425 魚山目録--宗快](https://github.com/kanripo/KR6t0425)
+
+`EXTRA_ID` T:T84n2714 · `GENRE` 諸宗 · `lang@ja-rom` GYOSAM MOKUROKU · `lang@zh-py` (Yu shan mu lu) · `EXTENT` II
+
+**人物**
+- 宗快 — `lang@ja-rom` Shūkai
+
+## [KR6t0426 大原聲明博士圖--](https://github.com/kanripo/KR6t0426)
+
+`EXTRA_ID` T:T84n2715 · `GENRE` 諸宗 · `lang@ja-rom` ŌHARA SHŌMYŌ HAKASE ZU · `lang@zh-py` (Da yuan sheng ming bo shi tu) · `EXTENT` I
+
+## [KR6t0427 頼驗\]集--](https://github.com/kanripo/KR6t0427)
+
+`EXTRA_ID` T:T84n2716 · `GENRE` 諸宗 · `lang@ja-rom` ONRITSU SENKE\[var. RAIKEN\] SHŪ · `lang@zh-py` (Yin lü jing hua ji) · `EXTENT` I
+
+## [KR6t0428 聲明口傳--聖尊](https://github.com/kanripo/KR6t0428)
+
+`EXTRA_ID` T:T84n2717 · `GENRE` 諸宗 · `lang@ja-rom` SHŌMYŌ KUDEN · `lang@zh-py` (Sheng ming kou zhuan) · `EXTENT` I
+
+**人物**
+- 聖尊 — `lang@ja-rom` Shōson
+
+## [KR6t0429 大阿闍梨聲明系圖--](https://github.com/kanripo/KR6t0429)
+
+`EXTRA_ID` T:T84n2718 · `GENRE` 諸宗 · `lang@ja-rom` DAIAJARI SHŌMYŌ KEIZU · `lang@zh-py` (Da a she li sheng ming xi tu) · `EXTENT` I
+
+## [KR6t0430 十二調子事--](https://github.com/kanripo/KR6t0430)
+
+`EXTRA_ID` T:T84n2719 · `GENRE` 諸宗 · `lang@ja-rom` JŪNICHŌSHI NO KOTO · `lang@zh-py` (Shi er diao zi shi) · `EXTENT` I
+
+## [KR6t0431 聲明源流記--凝然](https://github.com/kanripo/KR6t0431)
+
+`EXTRA_ID` T:T84n2720 · `GENRE` 諸宗 · `lang@ja-rom` SHŌMYŌ GENRYŪ KI · `lang@zh-py` (Sheng ming yuan liu ji) · `EXTENT` I
+
+**人物**
+- 凝然 — `lang@ja-rom` Gyōnen
+
+## [KR6t0432 音曲祕要抄--凝然](https://github.com/kanripo/KR6t0432)
+
+`EXTRA_ID` T:T84n2721 · `GENRE` 諸宗 · `lang@ja-rom` ONKYOKU HIYŌ SHŌ · `lang@zh-py` (Yin qu mi yao chao) · `EXTENT` I
+
+**人物**
+- 凝然 — `lang@ja-rom` Gyōnen
+
+## [KR6t0433 藥師如來講式--最澄](https://github.com/kanripo/KR6t0433)
+
+`EXTRA_ID` T:T84n2722 · `GENRE` 諸宗 · `lang@ja-rom` YAKUSHINYORAI KŌSHIKI · `lang@zh-py` (Yao shi ru lai jiang shi) · `EXTENT` I
+
+**人物**
+- 最澄 — `lang@ja-rom` Saichō
+
+## [KR6t0434 横川首楞嚴院二十五三昧式--源信](https://github.com/kanripo/KR6t0434)
+
+`EXTRA_ID` T:T84n2723 · `GENRE` 諸宗 · `lang@ja-rom` YOKAWA SHURYŌGOṄIN NIJŪGOSAMMAI SHIKI · `lang@zh-py` (Heng chuan shou leng yan yuan er shi wu san mei shi) · `EXTENT` I
+
+**人物**
+- 源信 — `lang@ja-rom` Genshin
+
+## [KR6t0435 横川首楞嚴院二十五三昧起請--源信](https://github.com/kanripo/KR6t0435)
+
+`EXTRA_ID` T:T84n2724 · `GENRE` 諸宗 · `lang@ja-rom` YOKAWA SHURYŌGOṄIN NIJŪGOSAMMAI KISHŌ · `lang@zh-py` (Heng chuan shou leng yan yuan er shi wu san mei qi qing) · `EXTENT` I
+
+**人物**
+- 源信 — `lang@ja-rom` Genshin
+
+## [KR6t0436 往生講式--永觀](https://github.com/kanripo/KR6t0436)
+
+`EXTRA_ID` T:T84n2725 · `GENRE` 諸宗 · `lang@ja-rom` ŌJŌKŌ SHIKI · `lang@zh-py` (Wang sheng jiang shi) · `EXTENT` I
+
+**人物**
+- 永觀 — `lang@ja-rom` Eikan
+
+## [KR6t0437 愛染王講式--覺鑁](https://github.com/kanripo/KR6t0437)
+
+`EXTRA_ID` T:T84n2726 · `GENRE` 諸宗 · `lang@ja-rom` AIZEṄŌKŌ SHIKI · `lang@zh-py` (Ai ran wang jiang shi) · `EXTENT` I
+
+**人物**
+- 覺鑁 — `lang@ja-rom` Kakuban
+
+## [KR6t0438 求聞持表白--覺鑁](https://github.com/kanripo/KR6t0438)
+
+`EXTRA_ID` T:T84n2727 · `GENRE` 諸宗 · `lang@ja-rom` GUMONJI HYŌBYAKU · `lang@zh-py` (Qiu wen chi biao bai) · `EXTENT` I
+
+**人物**
+- 覺鑁 — `lang@ja-rom` Kakuban
+
+## [KR6t0439 觀音講式--貞慶](https://github.com/kanripo/KR6t0439)
+
+`EXTRA_ID` T:T84n2728 · `GENRE` 諸宗 · `lang@ja-rom` KANNONKŌ SHIKI · `lang@zh-py` (Guan yin jiang shi) · `EXTENT` I
+
+**人物**
+- 貞慶 — `lang@ja-rom` Jōkei
+
+## [KR6t0440 彌勒講式--貞慶](https://github.com/kanripo/KR6t0440)
+
+`EXTRA_ID` T:T84n2729 · `GENRE` 諸宗 · `lang@ja-rom` MIROKUKŌ SHIKI · `lang@zh-py` (Mi le jiang shi) · `EXTENT` I
+
+**人物**
+- 貞慶 — `lang@ja-rom` Jōkei
+
+## [KR6t0441 如法經現修作法--宗快](https://github.com/kanripo/KR6t0441)
+
+`EXTRA_ID` T:T84n2730 · `GENRE` 諸宗 · `lang@ja-rom` NYOHŌKYŌ GENSHU SAHŌ · `lang@zh-py` (Ru fa jing xian xiu zuo fa) · `EXTENT` I
+
+**人物**
+- 宗快 — `lang@ja-rom` Shūkai
+
+## [KR6t0442 四座講式--高辧](https://github.com/kanripo/KR6t0442)
+
+`EXTRA_ID` T:T84n2731 · `lang@ja-rom` SHIZA KŌSHIKI · `lang@zh-py` (Si zuo jiang shi) · `EXTENT` I
+
+**人物**
+- 高辧 — `lang@ja-rom` Kōben

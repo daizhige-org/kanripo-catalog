@@ -1,0 +1,211 @@
+# KR2e ZB2e 雜史類
+
+[← 目録](../README.md) · [KR2 史部](KR2.md)
+
+<sub>由 [`tools/org2md.py`](../tools/org2md.py) 自動生成，請勿直接編輯；資料源為 [`KR2e.txt`](KR2e.txt)。</sub>
+
+## [KR2e0001 國語-吳-韋昭](https://github.com/kanripo/KR2e0001)
+
+`CUSTOM_ID` ZB2e0001 · `SOURCE` 四庫全書 文淵閣版, V406.1, p1 · `EXTENT` 21 卷 · `BOOK` 4
+
+**人物**
+- 韋昭 — 吳 · 注 · 197 - 278
+
+**版本** WYG
+
+## [KR2e0002 國語補音-宋-宋庠](https://github.com/kanripo/KR2e0002)
+
+`CUSTOM_ID` ZB2e0002 · `SOURCE` 四庫全書 文淵閣版, V406.2, p187 · `EXTENT` 3 卷 · `BOOK` 2
+
+**人物**
+- 宋庠 — 宋 · 補葺 · 996 - 1066
+
+**版本** WYG
+
+## [KR2e0003 戰國策-漢-高誘](https://github.com/kanripo/KR2e0003)
+
+`CUSTOM_ID` ZB2e0003 · `SOURCE` 四庫全書 文淵閣版, V406.3, p239 · `EXTENT` 33 卷 · `BOOK` 7
+
+**人物**
+- 高誘 — 漢 · 注 · fl. 205 - 212
+- 姚宏 — 宋 · 續注
+
+**版本** WYG
+
+## [KR2e0004 鮑氏戰國策注-宋-鮑彪](https://github.com/kanripo/KR2e0004)
+
+`CUSTOM_ID` ZB2e0004 · `SOURCE` 四庫全書 文淵閣版, V406.4, p469 · `EXTENT` 10 卷 · `BOOK` 4
+
+**人物**
+- 鮑彪 — 宋 · 撰 · fl. 1147 - 1160
+
+**版本** WYG
+
+## [KR2e0005 戰國策校注-宋-吳師道](https://github.com/kanripo/KR2e0005)
+
+`CUSTOM_ID` ZB2e0005 · `SOURCE` 四庫全書 文淵閣版, V407.1, p1 · `EXTENT` 10 卷 · `BOOK` 8
+
+**人物**
+- 吳師道 — 宋 · 撰 · 1283 - 1344
+
+**版本** WYG
+
+**卷首** `TYPE` appendix · `EXTENT` 1 卷 · `BOOK` (8)
+
+## [KR2e0006 貞觀政要-唐-吳兢](https://github.com/kanripo/KR2e0006)
+
+`CUSTOM_ID` ZB2e0006 · `SOURCE` 四庫全書 文淵閣版, V407.2, p337 · `EXTENT` 10 卷 · `BOOK` 6
+
+**人物**
+- 吳兢 — 唐 · 撰 · 670 - 749
+- 戈直 — 元 · 集論
+
+**版本** WYG
+
+## [KR2e0007 渚宮舊事-唐-余知古](https://github.com/kanripo/KR2e0007)
+
+`CUSTOM_ID` ZB2e0007 · `SOURCE` 四庫全書 文淵閣版, V407.3, p555 · `EXTENT` 5 卷 · `BOOK` 2
+
+**人物**
+- 余知古 — 唐 · 撰
+
+**版本** WYG
+
+**補遺** `TYPE` appendix · `EXTENT` 1 卷 · `BOOK` (2)
+
+## [KR2e0008 東觀奏記-唐-斐庭裕](https://github.com/kanripo/KR2e0008)
+
+`CUSTOM_ID` ZB2e0008 · `SOURCE` 四庫全書 文淵閣版, V407.4, p609 · `EXTENT` 3 卷 · `BOOK` 1
+
+**人物**
+- 斐庭裕 — 唐 · 撰
+
+**版本** WYG
+
+## [KR2e0009 五代史闕文-宋-王禹偁](https://github.com/kanripo/KR2e0009)
+
+`CUSTOM_ID` ZB2e0009 · `SOURCE` 四庫全書 文淵閣版, V407.5, p631 · `EXTENT` 1 卷 · `BOOK` 1
+
+**人物**
+- 王禹偁 — 宋 · 撰 · 954 - 1001
+
+**版本** WYG
+
+## [KR2e0010 五代史補-晉-陶岳](https://github.com/kanripo/KR2e0010)
+
+`CUSTOM_ID` ZB2e0010 · `SOURCE` 四庫全書 文淵閣版, V407.6, p641 · `EXTENT` 5 卷 · `BOOK` 2 · `DATE` 985
+
+**人物**
+- 陶岳 — 晉 · 撰
+
+**版本** WYG
+
+## [KR2e0011 北狩見聞錄-宋-曹勛](https://github.com/kanripo/KR2e0011)
+
+`CUSTOM_ID` ZB2e0011 · `SOURCE` 四庫全書 文淵閣版, V407.7, p685 · `EXTENT` 1 卷 · `BOOK` 1
+
+**人物**
+- 曹勛 — 宋 · 撰 · 1098 - 1174
+
+**版本** WYG
+
+## [KR2e0012 松漠紀聞-宋-洪皓](https://github.com/kanripo/KR2e0012)
+
+`CUSTOM_ID` ZB2e0012 · `SOURCE` 四庫全書 文淵閣版, V407.8, p695 · `EXTENT` 1 卷 · `BOOK` (1)
+
+**人物**
+- 洪皓 — 宋 · 撰 · 1088 - 1155
+
+**版本** WYG
+
+**續** `TYPE` appendix · `EXTENT` 1 卷 · `BOOK` (1)
+
+## [KR2e0013 燕翼詒謀錄-宋-王栐](https://github.com/kanripo/KR2e0013)
+
+`CUSTOM_ID` ZB2e0013 · `SOURCE` 四庫全書 文淵閣版, V407.9, p713 · `EXTENT` 5 卷 · `BOOK` 2
+
+**人物**
+- 王栐 — 宋 · 撰 · fl. 1227
+
+**版本** WYG
+
+## [KR2e0014 太平治迹統類-宋-彭百川](https://github.com/kanripo/KR2e0014)
+
+`CUSTOM_ID` ZB2e0014 · `SOURCE` 四庫全書 文淵閣版, V408.1, p1 · `EXTENT` 30 卷 · `BOOK` 18
+
+**人物**
+- 彭百川 — 宋 · 撰
+
+**版本** WYG
+
+## [KR2e0015 咸淳遺事-宋-闕名](https://github.com/kanripo/KR2e0015)
+
+`CUSTOM_ID` ZB2e0015 · `SOURCE` 四庫全書 文淵閣版, V408.2, p797 · `EXTENT` 2 卷 · `BOOK` 1
+
+**人物**
+- 闕名 — 宋 · 撰
+
+**版本** WYG
+
+## [KR2e0016 大金弔伐錄--闕名](https://github.com/kanripo/KR2e0016)
+
+`CUSTOM_ID` ZB2e0016 · `SOURCE` 四庫全書 文淵閣版, V408.3, p833 · `EXTENT` 4 卷 · `BOOK` 4
+
+**人物**
+- 闕名 — 撰
+
+**版本** WYG
+
+## [KR2e0017 汝南遺事-元-王鶚](https://github.com/kanripo/KR2e0017)
+
+`CUSTOM_ID` ZB2e0017 · `SOURCE` 四庫全書 文淵閣版, V408.4, p933 · `EXTENT` 4 卷 · `BOOK` 2
+
+**人物**
+- 王鶚 — 元 · 撰 · d. 1273
+
+**版本** WYG
+
+## [KR2e0018 錢塘遺事-元-劉一清](https://github.com/kanripo/KR2e0018)
+
+`CUSTOM_ID` ZB2e0018 · `SOURCE` 四庫全書 文淵閣版, V408.5, p959 · `EXTENT` 10 卷 · `BOOK` 2
+
+**人物**
+- 劉一清 — 元 · 撰
+
+**版本** WYG
+
+## [KR2e0019 平宋錄-元-劉敏中](https://github.com/kanripo/KR2e0019)
+
+`CUSTOM_ID` ZB2e0019 · `SOURCE` 四庫全書 文淵閣版, V408.6, p1035 · `EXTENT` 3 卷 · `BOOK` 1
+
+**人物**
+- 劉敏中 — 元 · 撰 · 1243 - 1318
+
+**版本** WYG
+
+## [KR2e0020 弇山堂別集-明-王世貞](https://github.com/kanripo/KR2e0020)
+
+`CUSTOM_ID` ZB2e0020 · `SOURCE` 四庫全書 文淵閣版, V409.1, p1 - V410.1 · `EXTENT` 100 卷 · `BOOK` 44
+
+**人物**
+- 王世貞 — 明 · 撰 · 1526 - 1590
+
+**版本** WYG
+
+## [KR2e0021 革除逸史-明-朱睦㮮](https://github.com/kanripo/KR2e0021)
+
+`CUSTOM_ID` ZB2e0021 · `SOURCE` 四庫全書 文淵閣版, V410.2, p529 · `EXTENT` 2 卷 · `BOOK` 1
+
+**人物**
+- 朱睦㮮 — 明 · 撰 · 1517 - 1586
+
+**版本** WYG
+
+## [KR2e0022 欽定蒙古源流-清-蒙古薩囊徹辰](https://github.com/kanripo/KR2e0022)
+
+`CUSTOM_ID` ZB2e0022 · `SOURCE` 四庫全書 文淵閣版, V410.2, p549 · `EXTENT` 8 卷 · `BOOK` 3
+
+**人物**
+- 蒙古薩囊徹辰 — 清 · 撰
+
+**版本** WYG

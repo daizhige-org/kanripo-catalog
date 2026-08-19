@@ -1,0 +1,733 @@
+# KR3k ZB3k 類書類
+
+[← 目録](../README.md) · [KR3 子部](KR3.md)
+
+<sub>由 [`tools/org2md.py`](../tools/org2md.py) 自動生成，請勿直接編輯；資料源為 [`KR3k.txt`](KR3k.txt)。</sub>
+
+## [KR3k0001 古今同姓名錄-梁-元帝](https://github.com/kanripo/KR3k0001)
+
+`CUSTOM_ID` ZB3k0001 · `SOURCE` 四庫全書 文淵閣版, V887.1, p1 · `EXTENT` 2 卷 · `BOOK` 1 · `_RESP` （梁）元帝,（唐）陸善經,（元）葉森
+
+**人物**
+- 元帝 — 梁 · 撰 · 509 - 555
+- 陸善經 — 唐 · 續
+- 葉森 — 元 · 補
+
+**版本** WYG
+
+## [KR3k0002 編珠-隋-杜公瞻](https://github.com/kanripo/KR3k0002)
+
+`CUSTOM_ID` ZB3k0002 · `SOURCE` 四庫全書 文淵閣版, V887.2, p37 · `EXTENT` 2 卷 · `BOOK` 4 · `_RESP` （隋）杜公瞻
+
+**人物**
+- 杜公瞻 — 隋 · 撰 · fl. 611
+
+**版本** WYG
+
+**(附)補遺** `TYPE` appendix · `EXTENT` 2 卷 · `BOOK` (4)
+- 人物
+  - 高士奇 — 清 · 撰
+
+**ZB3k0002a 續編珠** `TYPE` appendix · `EXTENT` 2 卷 · `BOOK` (4)
+- 人物
+  - 高士奇 — 清 · 撰
+
+## [KR3k0003 藝文類聚-唐-歐陽詢](https://github.com/kanripo/KR3k0003)
+
+`CUSTOM_ID` ZB3k0003 · `SOURCE` 四庫全書 文淵閣版, V887.3, p137 - V888.1 · `EXTENT` 100 卷 · `BOOK` 56 · `_RESP` （唐）歐陽詢
+
+**人物**
+- 歐陽詢 — 唐 · 奉敕撰 · 557 - 641
+
+**版本** WYG
+
+## [KR3k0004 北堂書鈔-唐-虞世南](https://github.com/kanripo/KR3k0004)
+
+`CUSTOM_ID` ZB3k0004 · `SOURCE` 四庫全書 文淵閣版, V889.1, p1 · `EXTENT` 160 卷 · `BOOK` 32 · `_RESP` （唐）虞世南,（明）陳禹謨
+
+**人物**
+- 虞世南 — 唐 · 撰 · 558 - 638
+- 陳禹謨 — 明 · 補註
+
+**版本** WYG
+
+## [KR3k0005 龍筋鳳髓判-唐-張鷟](https://github.com/kanripo/KR3k0005)
+
+`CUSTOM_ID` ZB3k0005 · `SOURCE` 四庫全書 文淵閣版, V889.2, p851 · `EXTENT` 4 卷 · `BOOK` 4 · `_RESP` （唐）張鷟,（明）劉允鵬
+
+**人物**
+- 張鷟 — 唐 · 撰 · 661 - 741
+- 劉允鵬 — 明 · 注
+
+**版本** WYG
+
+## [KR3k0006 初學記-唐-徐堅](https://github.com/kanripo/KR3k0006)
+
+`CUSTOM_ID` ZB3k0006 · `SOURCE` 四庫全書 文淵閣版, V890.1, p1 · `EXTENT` 30 卷 · `BOOK` 16 · `_RESP` （唐）徐堅
+
+**人物**
+- 徐堅 — 唐 · 撰 · 659 - 729
+
+**版本** WYG
+
+**目錄** `TYPE` appendix · `EXTENT` 1 卷 · `BOOK` (16)
+
+## [KR3k0007 元和姓纂-唐-林寶](https://github.com/kanripo/KR3k0007)
+
+`CUSTOM_ID` ZB3k0007 · `SOURCE` 四庫全書 文淵閣版, V890.2, p499 · `EXTENT` 10 卷 · `BOOK` 8 · `_RESP` （唐）林寶
+
+**人物**
+- 林寶 — 唐 · 撰 · fl. 812
+
+**版本** WYG
+
+**目錄** `TYPE` appendix · `EXTENT` 1 卷 · `BOOK` (8)
+
+## [KR3k0008 白孔六帖-唐-白居易](https://github.com/kanripo/KR3k0008)
+
+`CUSTOM_ID` ZB3k0008 · `SOURCE` 四庫全書 文淵閣版, V891.1, p1 - V892.1 · `EXTENT` 100 卷 · `BOOK` 56 · `_RESP` （唐）白居易,（宋）孔傳
+
+**人物**
+- 白居易 — 唐 · 原本 · 772 - 846
+- 孔傳 — 宋 · 續撰
+
+**版本** WYG
+
+## [KR3k0009 小名錄-唐-陸龜蒙](https://github.com/kanripo/KR3k0009)
+
+`CUSTOM_ID` ZB3k0009 · `SOURCE` 四庫全書 文淵閣版, V892.2, p623 · `EXTENT` 2 卷 · `BOOK` 1 · `_RESP` （唐）陸龜蒙
+
+**人物**
+- 陸龜蒙 — 唐 · 撰 · d. 881
+
+**版本** WYG
+
+## [KR3k0010 蒙求集註-唐-李瀚](https://github.com/kanripo/KR3k0010)
+
+`CUSTOM_ID` ZB3k0010 · `SOURCE` 四庫全書 文淵閣版, V892.3, p651 · `EXTENT` 2 卷 · `BOOK` 2 · `_RESP` （唐）李瀚,（宋）徐子光
+
+**人物**
+- 李瀚 — 唐 · 撰
+- 徐子光 — 宋 · 註
+
+**版本** WYG
+
+## [KR3k0011 事類賦-宋-吳淑](https://github.com/kanripo/KR3k0011)
+
+`CUSTOM_ID` ZB3k0011 · `SOURCE` 四庫全書 文淵閣版, V892.4, p799 · `EXTENT` 30 卷 · `BOOK` 8 · `_RESP` （宋）吳淑
+
+**人物**
+- 吳淑 — 宋 · 撰 · 943 - 1002
+
+**版本** WYG
+
+## [KR3k0012 太平御覽-宋-李昉](https://github.com/kanripo/KR3k0012)
+
+`CUSTOM_ID` ZB3k0012 · `SOURCE` 四庫全書 文淵閣版, V893.1, p1 - V901.1 · `EXTENT` 1000 卷 · `BOOK` 180 · `_RESP` （宋）李昉
+
+**人物**
+- 李昉 — 宋 · 奉敕撰 · 925 - 996
+
+**版本** WYG
+
+**經史圖書綱目** `TYPE` appendix · `EXTENT` 1 卷 · `BOOK` (180)
+
+**目錄** `TYPE` appendix · `EXTENT` 10 卷 · `BOOK` (180)
+
+## [KR3k0013 册府元龜-宋-王欽若](https://github.com/kanripo/KR3k0013)
+
+`CUSTOM_ID` ZB3k0013 · `SOURCE` 四庫全書 文淵閣版, V902.1, p1 - V919.1 · `EXTENT` 1000 卷 · `BOOK` 336 · `_RESP` （宋）王欽若,（宋）楊億
+
+**人物**
+- 王欽若 — 宋 · 奉敕撰 · d. 1025
+- 楊億 — 宋 · 奉敕撰
+
+**版本** WYG
+
+**目錄** `TYPE` appendix · `EXTENT` 10 卷 · `BOOK` (336)
+
+## [KR3k0014 事物紀原-宋-高承](https://github.com/kanripo/KR3k0014)
+
+`CUSTOM_ID` ZB3k0014 · `SOURCE` 四庫全書 文淵閣版, V920.1, p1 · `EXTENT` 10 卷 · `BOOK` 10 · `_RESP` （宋）高承
+
+**人物**
+- 高承 — 宋 · 撰 · 11th cent
+
+**版本** WYG
+
+## [KR3k0015 實賓錄-宋-馬永易](https://github.com/kanripo/KR3k0015)
+
+`CUSTOM_ID` ZB3k0015 · `SOURCE` 四庫全書 文淵閣版, V920.2, p293 · `EXTENT` 14 卷 · `BOOK` 6 · `_RESP` （宋）馬永易
+
+**人物**
+- 馬永易 — 宋 · 撰 · 12th cent
+
+**版本** WYG
+
+## [KR3k0016 書敘指南-宋-任廣](https://github.com/kanripo/KR3k0016)
+
+`CUSTOM_ID` ZB3k0016 · `SOURCE` 四庫全書 文淵閣版, V920.3, p455 · `EXTENT` 20 卷 · `BOOK` 6 · `_RESP` （宋）任廣
+
+**人物**
+- 任廣 — 宋 · 撰
+
+**版本** WYG
+
+## [KR3k0017 海錄碎事-宋-葉庭珪](https://github.com/kanripo/KR3k0017)
+
+`CUSTOM_ID` ZB3k0017 · `SOURCE` 四庫全書 文淵閣版, V921.1, p1 · `EXTENT` 22 卷 · `BOOK` 28 · `_RESP` （宋）葉庭珪
+
+**人物**
+- 葉庭珪 — 宋 · 撰
+
+**版本** WYG
+
+## [KR3k0018 古今姓氏書辯證-宋-鄧名世](https://github.com/kanripo/KR3k0018)
+
+`CUSTOM_ID` ZB3k0018 · `SOURCE` 四庫全書 文淵閣版, V922.1, p1 · `EXTENT` 40 卷 · `BOOK` 16 · `_RESP` （宋）鄧名世,（宋）鄧椿年
+
+**人物**
+- 鄧名世 — 宋 · 撰 · fl. 1133
+- 鄧椿年 — 宋 · 編
+
+**版本** WYG
+
+**目錄** `TYPE` appendix · `EXTENT` 2 卷 · `BOOK` (16)
+
+## [KR3k0019 帝王經世圖譜-宋-唐仲友](https://github.com/kanripo/KR3k0019)
+
+`CUSTOM_ID` ZB3k0019 · `SOURCE` 四庫全書 文淵閣版, V922.2, p383 · `EXTENT` 16 卷 · `BOOK` 8 · `DATE` 1151 · `_RESP` （宋）唐仲友
+
+**人物**
+- 唐仲友 — 宋 · 撰
+
+**版本** WYG
+
+## [KR3k0020 職官分紀-宋-孫逢吉](https://github.com/kanripo/KR3k0020)
+
+`CUSTOM_ID` ZB3k0020 · `SOURCE` 四庫全書 文淵閣版, V923.1, p1 · `EXTENT` 50 卷 · `BOOK` 28 · `_RESP` （宋）孫逢吉
+
+**人物**
+- 孫逢吉 — 宋 · 撰 · 1135 - 1199
+
+**版本** WYG
+
+## [KR3k0021 歷代制度詳說-宋-呂祖謙](https://github.com/kanripo/KR3k0021)
+
+`CUSTOM_ID` ZB3k0021 · `SOURCE` 四庫全書 文淵閣版, V923.2, p893 · `EXTENT` 12 卷 · `BOOK` 4 · `_RESP` （宋）呂祖謙
+
+**人物**
+- 呂祖謙 — 宋 · 撰 · 1137 - 1181
+
+**版本** WYG
+
+## [KR3k0022 八面鋒-宋-陳傅良](https://github.com/kanripo/KR3k0022)
+
+`CUSTOM_ID` ZB3k0022 · `SOURCE` 四庫全書 文淵閣版, V923.3, p989 · `EXTENT` 13 卷 · `BOOK` 4 · `_RESP` （宋）陳傅良
+
+**人物**
+- 陳傅良 — 宋 · 撰 · 1137 - 1203
+
+**版本** WYG
+
+## [KR3k0023 錦繡萬花谷-宋-闕名](https://github.com/kanripo/KR3k0023)
+
+`CUSTOM_ID` ZB3k0023 · `SOURCE` 四庫全書 文淵閣版, V924.1, p1 · `EXTENT` 120 卷 · `BOOK` 26 · `_RESP` （宋）闕名
+
+**人物**
+- 闕名 — 宋 · 撰
+
+**版本** WYG
+
+**前集** `EXTENT` (40) 卷 · `BOOK` (12)
+
+**ZB3k0023a 後集** `EXTENT` (40) 卷 · `BOOK` (9)
+
+**ZB3k0023b 續集** `EXTENT` (40) 卷 · `BOOK` (5)
+
+## [KR3k0024 古今事文類聚-宋-祝穆](https://github.com/kanripo/KR3k0024)
+
+`CUSTOM_ID` ZB3k0024 · `SOURCE` 四庫全書 文淵閣版, V925.1, p1 - V929.1 · `EXTENT` 236 卷 · `BOOK` 140 · `_RESP` （宋）祝穆
+
+**人物**
+- 祝穆 — 宋 · 撰 · fl. 1246
+
+**版本** WYG
+
+**ZB3k0024a 前集** `EXTENT` (60) 卷 · `BOOK` (35)
+
+**ZB3k0024b 後集** `EXTENT` (50) 卷 · `BOOK` (28)
+
+**ZB3k0024c 續集** `EXTENT` (28) 卷 · `BOOK` (18)
+
+**ZB3k0024d 别集** `EXTENT` (32) 卷 · `BOOK` (17)
+
+**ZB3k0024f (附)古今事文類聚新集** `EXTENT` (36) 卷 · `BOOK` (20)
+- 人物
+  - 富大用 — 元 · 撰
+
+**ZB3k0024e 外集** `EXTENT` (15) 卷 · `BOOK` (11)
+
+**ZB3k0024g 古今事文類聚遺集** `EXTENT` (15) 卷 · `BOOK` (11)
+- 人物
+  - 祝淵 — 元 · 撰
+
+## [KR3k0025 記纂淵海-宋-潘自牧](https://github.com/kanripo/KR3k0025)
+
+`CUSTOM_ID` ZB3k0025 · `SOURCE` 四庫全書 文淵閣版, V930.1, p1 - V932.1 · `EXTENT` 100 卷 · `BOOK` 76 · `_RESP` （宋）潘自牧
+
+**人物**
+- 潘自牧 — 宋 · 撰
+
+**版本** WYG
+
+## [KR3k0026 名賢氏族言行類稿-宋-章定](https://github.com/kanripo/KR3k0026)
+
+`CUSTOM_ID` ZB3k0026 · `SOURCE` 四庫全書 文淵閣版, V933.1, p1 · `EXTENT` 60 卷 · `BOOK` 22 · `_RESP` （宋）章定
+
+**人物**
+- 章定 — 宋 · 撰 · fl. 1209
+
+**版本** WYG
+
+**目錄** `TYPE` appendix · `EXTENT` 1 卷 · `BOOK` (22)
+
+## [KR3k0027 羣書會元截江網-宋-闕名](https://github.com/kanripo/KR3k0027)
+
+`CUSTOM_ID` ZB3k0027 · `SOURCE` 四庫全書 文淵閣版, V934.1, p1 · `EXTENT` 35 卷 · `BOOK` 16 · `_RESP` （宋）闕名
+
+**人物**
+- 闕名 — 宋 · 撰
+
+**版本** WYG
+
+## [KR3k0028 全芳備祖集-宋-陳景沂](https://github.com/kanripo/KR3k0028)
+
+`CUSTOM_ID` ZB3k0028 · `SOURCE` 四庫全書 文淵閣版, V935.1, p1 · `EXTENT` 58 卷 · `BOOK` 22 · `_RESP` （宋）陳景沂
+
+**人物**
+- 陳景沂 — 宋 · 撰
+
+**版本** WYG
+
+**前集** `EXTENT` (27) 卷 · `BOOK` (10)
+
+**ZB3k0028a 後集** `EXTENT` (31) 卷 · `BOOK` (12)
+
+## [KR3k0029 羣書考索-宋-章如愚](https://github.com/kanripo/KR3k0029)
+
+`CUSTOM_ID` ZB3k0029 · `SOURCE` 四庫全書 文淵閣版, V936.1, p1 - V938.1 · `EXTENT` 212 卷 · `BOOK` 102 · `_RESP` （宋）章如愚
+
+**人物**
+- 章如愚 — 宋 · 撰
+
+**版本** WYG
+
+**前集** `EXTENT` (66) 卷 · `BOOK` (32)
+
+**ZB3k0029a 後集** `EXTENT` (65) 卷 · `BOOK` (33)
+
+**ZB3k0029b 續集** `EXTENT` (56) 卷 · `BOOK` (24)
+
+**ZB3k0029c 别集** `EXTENT` (25) 卷 · `BOOK` (13)
+
+## [KR3k0030 古今合璧事類備要-宋-謝維新](https://github.com/kanripo/KR3k0030)
+
+`CUSTOM_ID` ZB3k0030 · `SOURCE` 四庫全書 文淵閣版, V939.1, p1 - V941.1 · `EXTENT` 存365 卷 · `BOOK` 80 · `_RESP` （宋）謝維新
+
+**人物**
+- 謝維新 — 宋 · 編 · fl. 1257
+
+**版本** WYG
+
+**ZB3k0030a 前集** `EXTENT` (69) 卷 · `BOOK` (41)
+
+**ZB3k0030b 後集** `EXTENT` (存80) 卷 · `BOOK` (#)
+
+**ZB3k0030c 續集** `EXTENT` (56) 卷 · `BOOK` (10)
+
+**ZB3k0030d 别集** `EXTENT` (94) 卷 · `BOOK` (18)
+
+**ZB3k0030e 外集** `EXTENT` (66) 卷 · `BOOK` (11)
+
+## [KR3k0031 古今源流至論-宋-林駧](https://github.com/kanripo/KR3k0031)
+
+`CUSTOM_ID` ZB3k0031 · `SOURCE` 四庫全書 文淵閣版, V942.1, p1 · `EXTENT` 40 卷 · `BOOK` 24 · `_RESP` （宋）林駧
+
+**人物**
+- 林駧 — 宋 · 撰
+
+**版本** WYG
+
+**前集** `EXTENT` (10) 卷 · `BOOK` (5)
+
+**ZB3k0031a 後集** `EXTENT` (10) 卷 · `BOOK` (7)
+
+**ZB3k0031b 續集** `EXTENT` (10) 卷 · `BOOK` (7)
+
+**ZB3k0031c 别集** `EXTENT` (10) 卷 · `BOOK` (5)
+- 人物
+  - 黃履翁 — 宋 · 撰
+
+## [KR3k0032 玉海-宋-王應麟](https://github.com/kanripo/KR3k0032)
+
+`CUSTOM_ID` ZB3k0032 · `SOURCE` 四庫全書 文淵閣版, V943.1, p1 - V948.1 · `EXTENT` 200 卷 · `BOOK` 164 · `_RESP` （宋）王應麟
+
+**人物**
+- 王應麟 — 宋 · 撰 · 1223 - 1296
+
+**版本** WYG
+
+**目錄** `TYPE` appendix · `EXTENT` 1 卷 · `BOOK` (164)
+
+**(附)辭學指南** `TYPE` appendix · `EXTENT` 4 卷 · `BOOK` (164)
+
+## [KR3k0033 小學紺珠-宋-王應麟](https://github.com/kanripo/KR3k0033)
+
+`CUSTOM_ID` ZB3k0033 · `SOURCE` 四庫全書 文淵閣版, V948.2, p379 · `EXTENT` 10 卷 · `BOOK` 8 · `_RESP` （宋）王應麟
+
+**人物**
+- 王應麟 — 宋 · 撰 · 1223 - 1296
+
+**版本** WYG
+
+## [KR3k0034 姓氏急就篇-宋-王應麟](https://github.com/kanripo/KR3k0034)
+
+`CUSTOM_ID` ZB3k0034 · `SOURCE` 四庫全書 文淵閣版, V948.3, p633 · `EXTENT` 2 卷 · `BOOK` 2 · `_RESP` （宋）王應麟
+
+**人物**
+- 王應麟 — 宋 · 撰 · 1223 - 1296
+
+**版本** WYG
+
+## [KR3k0035 小字錄-宋-陳思](https://github.com/kanripo/KR3k0035)
+
+`CUSTOM_ID` ZB3k0035 · `SOURCE` 四庫全書 文淵閣版, V948.4, p701 · `EXTENT` 1 卷 · `BOOK` 1 · `_RESP` （宋）陳思
+
+**人物**
+- 陳思 — 宋 · 撰 · fl. 1259
+
+**版本** WYG
+
+## [KR3k0036 雞肋-宋-趙崇絢](https://github.com/kanripo/KR3k0036)
+
+`CUSTOM_ID` ZB3k0036 · `SOURCE` 四庫全書 文淵閣版, V948.5, p731 · `EXTENT` 1 卷 · `BOOK` 1 · `_RESP` （宋）趙崇絢
+
+**人物**
+- 趙崇絢 — 宋 · 撰 · 12th cent
+
+**版本** WYG
+
+## [KR3k0037 六帖補-宋-楊伯喦](https://github.com/kanripo/KR3k0037)
+
+`CUSTOM_ID` ZB3k0037 · `SOURCE` 四庫全書 文淵閣版, V948.6, p739 · `EXTENT` 20 卷 · `BOOK` 4 · `_RESP` （宋）楊伯喦
+
+**人物**
+- 楊伯喦 — 宋 · 撰
+
+**版本** WYG
+
+## [KR3k0038 翰苑新書-宋-闕名](https://github.com/kanripo/KR3k0038)
+
+`CUSTOM_ID` ZB3k0038 · `SOURCE` 四庫全書 文淵閣版, V949.1, p1 - V950.1 · `EXTENT` 156 卷 · `BOOK` 48 · `_RESP` （宋）闕名
+
+**人物**
+- 闕名 — 宋 · 撰
+
+**版本** WYG
+
+**ZB3k0038a 前集** `EXTENT` (70) 卷 · `BOOK` (20)
+
+**ZB3k0038b 後集上** `EXTENT` (26) 卷 · `BOOK` (6)
+
+**ZB3k0038c 後集下** `EXTENT` (6) 卷 · `BOOK` (2)
+
+**ZB3k0038d 别集** `EXTENT` (12) 卷 · `BOOK` (5)
+
+**ZB3k0038e 續集** `EXTENT` (42) 卷 · `BOOK` (15)
+
+## [KR3k0039 韻府羣玉-元-陰勁弦](https://github.com/kanripo/KR3k0039)
+
+`CUSTOM_ID` ZB3k0039 · `SOURCE` 四庫全書 文淵閣版, V951.1, p1 · `EXTENT` 20 卷 · `BOOK` 18 · `_RESP` （元）陰勁弦,（宋）陰復春
+
+**人物**
+- 陰勁弦 — 元 · 編 · fl. 1258 - 1314
+- 陰復春 — 宋 · 編
+
+**版本** WYG
+
+## [KR3k0040 純正蒙求-元-胡炳文](https://github.com/kanripo/KR3k0040)
+
+`CUSTOM_ID` ZB3k0040 · `SOURCE` 四庫全書 文淵閣版, V952.1, p1 · `EXTENT` 3 卷 · `BOOK` 3 · `_RESP` （元）胡炳文
+
+**人物**
+- 胡炳文 — 元 · 撰 · 1250 - 1333
+
+**版本** WYG
+
+## [KR3k0041 氏族大全-元-闕名](https://github.com/kanripo/KR3k0041)
+
+`CUSTOM_ID` ZB3k0041 · `SOURCE` 四庫全書 文淵閣版, V952.2, p61 · `EXTENT` 22 卷 · `BOOK` 20 · `_RESP` （元）闕名
+
+**人物**
+- 闕名 — 元 · 撰
+
+**版本** WYG
+
+**綱目** `TYPE` appendix · `EXTENT` 1 卷 · `BOOK` (20)
+
+## [KR3k0042 名疑-明-陳士元](https://github.com/kanripo/KR3k0042)
+
+`CUSTOM_ID` ZB3k0042 · `SOURCE` 四庫全書 文淵閣版, V952.3, p593 · `EXTENT` 4 卷 · `BOOK` 4 · `DATE` 1544 · `_RESP` （明）陳士元
+
+**人物**
+- 陳士元 — 明 · 撰
+
+**版本** WYG
+
+## [KR3k0043 稗編-明-唐順之](https://github.com/kanripo/KR3k0043)
+
+`CUSTOM_ID` ZB3k0043 · `SOURCE` 四庫全書 文淵閣版, V953.1, p1 - V955.1 · `EXTENT` 120 卷 · `BOOK` 82 · `_RESP` （明）唐順之
+
+**人物**
+- 唐順之 — 明 · 撰 · 1507 - 1560
+
+**版本** WYG
+
+## [KR3k0044 萬姓統譜-明-凌迪知](https://github.com/kanripo/KR3k0044)
+
+`CUSTOM_ID` ZB3k0044 · `SOURCE` 四庫全書 文淵閣版, V956.1, p1 - V957.1 · `EXTENT` 140 卷 · `BOOK` 44 · `DATE` 1556 · `_RESP` （明）凌迪知
+
+**人物**
+- 凌迪知 — 明 · 撰
+
+**版本** WYG
+
+**目錄** `TYPE` appendix · `EXTENT` 1 卷 · `BOOK` (44)
+
+**卷首** `TYPE` appendix · `EXTENT` 6 卷 · `BOOK` (44)
+
+**(附)氏族博攷** `TYPE` appendix · `EXTENT` 14 卷 · `BOOK` 4
+
+## [KR3k0045 喻林-明-徐元太](https://github.com/kanripo/KR3k0045)
+
+`CUSTOM_ID` ZB3k0045 · `SOURCE` 四庫全書 文淵閣版, V958.1, p1 - V959.1 · `EXTENT` 120 卷 · `BOOK` 56 · `_RESP` （明）徐元太
+
+**人物**
+- 徐元太 — 明 · 撰
+
+**版本** WYG
+
+## [KR3k0046 經濟類編-明-馮琦](https://github.com/kanripo/KR3k0046)
+
+`CUSTOM_ID` ZB3k0046 · `SOURCE` 四庫全書 文淵閣版, V960.1, p1 - V963.1 · `EXTENT` 100 卷 · `BOOK` 78 · `_RESP` （明）馮琦,（明）馮瑗
+
+**人物**
+- 馮琦 — 明 · 編 · 1558 - 1603
+- 馮瑗 — 明 · 編
+
+**版本** WYG
+
+## [KR3k0047 同姓名錄-明-余寅](https://github.com/kanripo/KR3k0047)
+
+`CUSTOM_ID` ZB3k0047 · `SOURCE` 四庫全書 文淵閣版, V964.1, p1 · `EXTENT` 12 卷 · `BOOK` 12 · `_RESP` （明）余寅
+
+**人物**
+- 余寅 — 明 · 撰 · 1519 - 1595
+
+**版本** WYG
+
+**目錄** `TYPE` appendix · `EXTENT` 1 卷 · `BOOK` (12)
+
+**錄補** `TYPE` appendix · `EXTENT` 1 卷 · `BOOK` (12)
+- 人物
+  - 周應賓 — 明 · 撰
+
+## [KR3k0048 說畧-明-顧起元](https://github.com/kanripo/KR3k0048)
+
+`CUSTOM_ID` ZB3k0048 · `SOURCE` 四庫全書 文淵閣版, V964.2, p341 · `EXTENT` 30 卷 · `BOOK` 20 · `_RESP` （明）顧起元
+
+**人物**
+- 顧起元 — 明 · 撰 · 1565 - 1628
+
+**版本** WYG
+
+## [KR3k0049 天中記-明-陳耀文](https://github.com/kanripo/KR3k0049)
+
+`CUSTOM_ID` ZB3k0049 · `SOURCE` 四庫全書 文淵閣版, V965.1, p1 - V967.1 · `EXTENT` 60 卷 · `BOOK` 60 · `DATE` 1550 · `_RESP` （明）陳耀文
+
+**人物**
+- 陳耀文 — 明 · 撰
+
+**版本** WYG
+
+**(附)週天大象賦** `TYPE` appendix · `EXTENT` 1 卷 · `BOOK` (60)
+- 人物
+  - 張衡 — 漢 · 撰
+
+## [KR3k0050 圖書編-明-章潢](https://github.com/kanripo/KR3k0050)
+
+`CUSTOM_ID` ZB3k0050 · `SOURCE` 四庫全書 文淵閣版, V968.1, p1 - V972.1 · `EXTENT` 127 卷 · `BOOK` 72 · `_RESP` （明）章潢
+
+**人物**
+- 章潢 — 明 · 撰 · 1527 - 1608
+
+**版本** WYG
+
+**(附)章斗津先生行狀** `TYPE` appendix · `EXTENT` 1 卷 · `BOOK` (72)
+- 人物
+  - 萬尙烈 — 明 · 撰
+
+## [KR3k0051 駢志-明-陳禹謨](https://github.com/kanripo/KR3k0051)
+
+`CUSTOM_ID` ZB3k0051 · `SOURCE` 四庫全書 文淵閣版, V973.1, p1 · `EXTENT` 20 卷 · `BOOK` 18 · `_RESP` （明）陳禹謨
+
+**人物**
+- 陳禹謨 — 明 · 撰
+
+**版本** WYG
+
+## [KR3k0052 山堂肆考-明-彭大翼](https://github.com/kanripo/KR3k0052)
+
+`CUSTOM_ID` ZB3k0052 · `SOURCE` 四庫全書 文淵閣版, V974.1, p1 - V978.1 · `EXTENT` 228 卷 · `BOOK` 126 · `_RESP` （明）彭大翼,（明）張幼學
+
+**人物**
+- 彭大翼 — 明 · 撰 · fl. 1593
+- 張幼學 — 明 · 增定
+
+**版本** WYG
+
+**補遺** `TYPE` appendix · `EXTENT` 12 卷 · `BOOK` (126)
+
+## [KR3k0053 古儷府-明-王志慶](https://github.com/kanripo/KR3k0053)
+
+`CUSTOM_ID` ZB3k0053 · `SOURCE` 四庫全書 文淵閣版, V979.1, p1 · `EXTENT` 12 卷 · `BOOK` 12 · `_RESP` （明）王志慶
+
+**人物**
+- 王志慶 — 明 · 編
+
+**版本** WYG
+
+## [KR3k0054 廣博物志-明-董斯張](https://github.com/kanripo/KR3k0054)
+
+`CUSTOM_ID` ZB3k0054 · `SOURCE` 四庫全書 文淵閣版, V980.1, p1 - V981.1 · `EXTENT` 50 卷 · `BOOK` 38 · `_RESP` （明）董斯張
+
+**人物**
+- 董斯張 — 明 · 撰 · 1586 - 1628
+
+**版本** WYG
+
+## [KR3k0055 御定淵鑑類函-清-張英](https://github.com/kanripo/KR3k0055)
+
+`CUSTOM_ID` ZB3k0055 · `SOURCE` 四庫全書 文淵閣版, V982.1, p1 - V993.1 · `EXTENT` 450 卷 · `BOOK` 272 · `_RESP` （清）張英,（清）王士禛,（清）聖祖玄燁
+
+**人物**
+- 張英 — 清 · 奉敕撰 · 1637 - 1708
+- 王士禛 — 清 · 奉敕撰
+- 聖祖玄燁 — 清 · 定
+
+**版本** WYG
+
+**目錄** `TYPE` appendix · `EXTENT` 4 卷 · `BOOK` (272)
+
+## [KR3k0056 御定駢字類編-清-吳士玉](https://github.com/kanripo/KR3k0056)
+
+`CUSTOM_ID` ZB3k0056 · `SOURCE` 四庫全書 文淵閣版, V994.1, p1 - V1004.1 · `EXTENT` 240 卷 · `BOOK` 210 · `DATE` 康熙五十八年 · `_RESP` （清）吳士玉,（清）沈宗敬
+
+**人物**
+- 吳士玉 — 清 · 奉敕撰
+- 沈宗敬 — 清 · 奉敕撰
+
+**版本** WYG
+
+**目錄** `TYPE` appendix · `EXTENT` 1 卷 · `BOOK` (210)
+
+## [KR3k0057 御定分類字錦-清-何焯](https://github.com/kanripo/KR3k0057)
+
+`CUSTOM_ID` ZB3k0057 · `SOURCE` 四庫全書 文淵閣版, V1005.1, p1 - V1007.1 · `EXTENT` 64 卷 · `BOOK` 60 · `DATE` 康熙六十一年 · `_RESP` （清）何焯,（清）陳鵬年
+
+**人物**
+- 何焯 — 清 · 奉敕撰 · 1661 - 1722
+- 陳鵬年 — 清 · 奉敕撰
+
+**版本** WYG
+
+**目錄** `TYPE` appendix · `EXTENT` 1 卷 · `BOOK` (60)
+
+## [KR3k0058 御定子史精華-清-吳士玉](https://github.com/kanripo/KR3k0058)
+
+`CUSTOM_ID` ZB3k0058 · `SOURCE` 四庫全書 文淵閣版, V1008.1, p1 - V1010.1 · `EXTENT` 160 卷 · `BOOK` 54 · `_RESP` （清）吳士玉,（清）吳襄,（清）世宗胤禛
+
+**人物**
+- 吳士玉 — 清 · 奉敕撰
+- 吳襄 — 清 · 奉敕撰
+- 世宗胤禛 — 清 · 定
+
+**版本** WYG
+
+**目錄** `TYPE` appendix · `EXTENT` 1 卷 · `BOOK` (54)
+
+## [KR3k0059 御定佩文韻府-清-張玉書](https://github.com/kanripo/KR3k0059)
+
+`CUSTOM_ID` ZB3k0059 · `SOURCE` 四庫全書 文淵閣版, V1011.1, p1 - V1028.1 · `EXTENT` 444 卷 · `BOOK` 437 · `_RESP` （清）張玉書,（清）陳廷敬,（清）聖祖玄燁
+
+**人物**
+- 張玉書 — 清 · 奉敕撰 · 1642 - 1711
+- 陳廷敬 — 清 · 奉敕撰
+- 聖祖玄燁 — 清 · 定
+
+**版本** WYG
+
+## [KR3k0060 御定韻府拾遺-清-聖祖玄燁](https://github.com/kanripo/KR3k0060)
+
+`CUSTOM_ID` ZB3k0060 · `SOURCE` 四庫全書 文淵閣版, V1029.1, p1 - V1030.1 · `EXTENT` 112 卷 · `BOOK` 38 · `DATE` 康熙五十五年 · `_RESP` （清）聖祖玄燁
+
+**人物**
+- 聖祖玄燁 — 清 · 御定 · 1654 - 1722
+
+**版本** WYG
+
+## [KR3k0061 格致鏡原-清-陳元龍](https://github.com/kanripo/KR3k0061)
+
+`CUSTOM_ID` ZB3k0061 · `SOURCE` 四庫全書 文淵閣版, V1031.1, p1 - V1032.1 · `EXTENT` 100 卷 · `BOOK` 40 · `_RESP` （清）陳元龍
+
+**人物**
+- 陳元龍 — 清 · 撰 · 1652 - 1736
+
+**版本** WYG
+
+## [KR3k0062 讀書紀數略-清-宮夢仁](https://github.com/kanripo/KR3k0062)
+
+`CUSTOM_ID` ZB3k0062 · `SOURCE` 四庫全書 文淵閣版, V1033.1, p1 · `EXTENT` 54 卷 · `BOOK` 30 · `_RESP` （清）宮夢仁
+
+**人物**
+- 宮夢仁 — 清 · 撰 · b. 1632
+
+**版本** WYG
+
+## [KR3k0063 花木鳥獸集類-清-吳寶芝](https://github.com/kanripo/KR3k0063)
+
+`CUSTOM_ID` ZB3k0063 · `SOURCE` 四庫全書 文淵閣版, V1034.1, p1 · `EXTENT` 3 卷 · `BOOK` 3 · `_RESP` （清）吳寶芝
+
+**人物**
+- 吳寶芝 — 清 · 撰
+
+**版本** WYG
+
+## [KR3k0064 別號錄-清-葛萬里](https://github.com/kanripo/KR3k0064)
+
+`CUSTOM_ID` ZB3k0064 · `SOURCE` 四庫全書 文淵閣版, V1034.2, p113 · `EXTENT` 9 卷 · `BOOK` 4 · `_RESP` （清）葛萬里
+
+**人物**
+- 葛萬里 — 清 · 撰
+
+**版本** WYG
+
+## [KR3k0065 宋稗類鈔-清-潘永因](https://github.com/kanripo/KR3k0065)
+
+`CUSTOM_ID` ZB3k0065 · `SOURCE` 四庫全書 文淵閣版, V1034.3, p215 · `EXTENT` 36 卷 · `BOOK` 18 · `_RESP` （清）潘永因
+
+**人物**
+- 潘永因 — 清 · 編 · 17th cent
+
+**版本** WYG

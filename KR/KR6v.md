@@ -1,0 +1,2313 @@
+# KR6v ZB6u 新編部類
+
+[← 目録](../README.md) · [KR6 佛部](KR6.md)
+
+<sub>由 [`tools/org2md.py`](../tools/org2md.py) 自動生成，請勿直接編輯；資料源為 [`KR6v.txt`](KR6v.txt)。</sub>
+
+## [KR6v0001 正史佛教資料類編--杜斗城](https://github.com/kanripo/KR6v0001)
+
+`BASEEDITION` H · `CBETA_ID` H01n0001 · `CUSTOM_ID` ZB6u0001 · `SOURCE` Passages concerning Buddhism from the Official Histories Vol. 01, No. 001 · `EXTENT` 10卷
+
+**人物**
+- 杜斗城 — 輯編
+
+**版本**
+- CBETA — `WITID` wit3
+- 【大】 — `WITID` wit4
+
+## [KR6v0002 天竺國菩提達摩禪師論--方廣錩](https://github.com/kanripo/KR6v0002)
+
+`BASEEDITION` W · `CBETA_ID` W01n0001 · `CUSTOM_ID` ZB6u0002 · `SOURCE` Buddhist Texts not contained in the Tripitaka Vol. 01, No. 001 · `EXTENT` 1卷
+
+**人物**
+- 方廣錩 — 整理
+
+**版本**
+- CBETA — `WITID` wit1
+
+## [KR6v0003 禪策問答--方廣錩](https://github.com/kanripo/KR6v0003)
+
+`BASEEDITION` W · `CBETA_ID` W01n0002 · `CUSTOM_ID` ZB6u0003 · `SOURCE` Buddhist Texts not contained in the Tripitaka Vol. 01, No. 002 · `EXTENT` 1卷
+
+**人物**
+- 方廣錩 — 整理
+
+**版本**
+- CBETA — `WITID` wit1
+- orig — `WITID` wit99
+
+## [KR6v0004 息諍論--達摩禪師](https://github.com/kanripo/KR6v0004)
+
+`BASEEDITION` W · `CBETA_ID` W01n0003 · `CUSTOM_ID` ZB6u0004 · `SOURCE` Buddhist Texts not contained in the Tripitaka Vol. 01, No. 003 · `EXTENT` 1卷
+
+**人物**
+- 達摩禪師 — 作
+- 方廣錩 — 整理
+
+**版本**
+- CBETA — `WITID` wit1
+
+## [KR6v0005 八種粗重犯墮--馬鳴菩薩](https://github.com/kanripo/KR6v0005)
+
+`BASEEDITION` W · `CBETA_ID` W01n0004 · `CUSTOM_ID` ZB6u0005 · `SOURCE` Buddhist Texts not contained in the Tripitaka Vol. 01, No. 004 · `EXTENT` 1卷
+
+**人物**
+- 馬鳴菩薩 — 造
+- 方廣錩 — 整理
+
+**版本**
+- CBETA — `WITID` wit1
+- orig — `WITID` wit99
+
+## [KR6v0006 天請問經疏--沙門文軌](https://github.com/kanripo/KR6v0006)
+
+`BASEEDITION` W · `CBETA_ID` W01n0005 · `CUSTOM_ID` ZB6u0006 · `SOURCE` Buddhist Texts not contained in the Tripitaka Vol. 01, No. 005 · `EXTENT` 1卷
+
+**人物**
+- 沙門文軌 — 撰
+- 李際寧 — 整理
+
+**版本**
+- CBETA — `WITID` wit1
+- orig — `WITID` wit99
+
+## [KR6v0007 《行事鈔》中分門圖錄--沙門道宣](https://github.com/kanripo/KR6v0007)
+
+`BASEEDITION` W · `CBETA_ID` W01n0006 · `CUSTOM_ID` ZB6u0007 · `SOURCE` Buddhist Texts not contained in the Tripitaka Vol. 01, No. 006 · `EXTENT` 1卷
+
+**人物**
+- 沙門道宣 — 述
+- 蘇軍 — 整理
+
+**版本**
+- CBETA — `WITID` wit1
+- orig — `WITID` wit99
+
+## [KR6v0008 《阿毗達磨俱舍論實義疏》--尊者安惠](https://github.com/kanripo/KR6v0008)
+
+`BASEEDITION` W · `CBETA_ID` W01n0007 · `CUSTOM_ID` ZB6u0008 · `SOURCE` Buddhist Texts not contained in the Tripitaka Vol. 01, No. 007 · `EXTENT` 1卷
+
+**人物**
+- 尊者安惠 — 造
+- 蘇軍 — 整理
+
+**版本**
+- CBETA — `WITID` wit1
+- orig — `WITID` wit99
+
+## [KR6v0009 佛為心王菩薩說頭陀經（附註疏）--惠辯禪師](https://github.com/kanripo/KR6v0009)
+
+`BASEEDITION` W · `CBETA_ID` W01n0008 · `CUSTOM_ID` ZB6u0009 · `SOURCE` Buddhist Texts not contained in the Tripitaka Vol. 01, No. 008 · `EXTENT` 1卷
+
+**人物**
+- 惠辯禪師 — 註
+- 方廣錩 — 整理
+
+**版本**
+- CBETA — `WITID` wit1
+- orig — `WITID` wit99
+
+## [KR6v0010 佛說孝順子修行成佛經--方廣錩](https://github.com/kanripo/KR6v0010)
+
+`BASEEDITION` W · `CBETA_ID` W01n0009 · `CUSTOM_ID` ZB6u0010 · `SOURCE` Buddhist Texts not contained in the Tripitaka Vol. 01, No. 009 · `EXTENT` 1卷
+
+**人物**
+- 方廣錩 — 整理
+
+**版本**
+- CBETA — `WITID` wit1
+
+## [KR6v0011 最妙勝定經--方廣錩](https://github.com/kanripo/KR6v0011)
+
+`BASEEDITION` W · `CBETA_ID` W01n0010 · `CUSTOM_ID` ZB6u0011 · `SOURCE` Buddhist Texts not contained in the Tripitaka Vol. 01, No. 010 · `EXTENT` 1卷
+
+**人物**
+- 方廣錩 — 整理
+
+**版本**
+- CBETA — `WITID` wit1
+
+## [KR6v0012 佛說水月光觀音菩薩經--方廣錩](https://github.com/kanripo/KR6v0012)
+
+`BASEEDITION` W · `CBETA_ID` W01n0011 · `CUSTOM_ID` ZB6u0012 · `SOURCE` Buddhist Texts not contained in the Tripitaka Vol. 01, No. 011 · `EXTENT` 1卷
+
+**人物**
+- 方廣錩 — 整理
+
+**版本**
+- CBETA — `WITID` wit1
+
+## [KR6v0013 佛說金剛經纂--方廣錩](https://github.com/kanripo/KR6v0013)
+
+`BASEEDITION` W · `CBETA_ID` W01n0012 · `CUSTOM_ID` ZB6u0013 · `SOURCE` Buddhist Texts not contained in the Tripitaka Vol. 01, No. 012 · `EXTENT` 1卷
+
+**人物**
+- 方廣錩 — 整理
+
+**版本**
+- CBETA — `WITID` wit1
+
+## [KR6v0014 大方廣華嚴十惡品經--徐紹強](https://github.com/kanripo/KR6v0014)
+
+`BASEEDITION` W · `CBETA_ID` W01n0013 · `CUSTOM_ID` ZB6u0014 · `SOURCE` Buddhist Texts not contained in the Tripitaka Vol. 01, No. 013 · `EXTENT` 1卷
+
+**人物**
+- 徐紹強 — 整理
+
+**版本**
+- CBETA — `WITID` wit1
+
+## [KR6v0015 天公經--方廣錩](https://github.com/kanripo/KR6v0015)
+
+`BASEEDITION` W · `CBETA_ID` W01n0014a · `CUSTOM_ID` ZB6u0015 · `SOURCE` Buddhist Texts not contained in the Tripitaka Vol. 01, No. 014a · `EXTENT` 1卷
+
+**人物**
+- 方廣錩 — 整理
+
+**版本**
+- CBETA — `WITID` wit1
+
+## [KR6v0016 佛說天公經--方廣錩](https://github.com/kanripo/KR6v0016)
+
+`BASEEDITION` W · `CBETA_ID` W01n0014b · `CUSTOM_ID` ZB6u0016 · `SOURCE` Buddhist Texts not contained in the Tripitaka Vol. 01, No. 014b · `EXTENT` 1卷
+
+**人物**
+- 方廣錩 — 整理
+
+**版本**
+- CBETA — `WITID` wit1
+- orig — `WITID` wit99
+
+## [KR6v0017 天公經--方廣錩](https://github.com/kanripo/KR6v0017)
+
+`BASEEDITION` W · `CBETA_ID` W01n0014c · `CUSTOM_ID` ZB6u0017 · `SOURCE` Buddhist Texts not contained in the Tripitaka Vol. 01, No. 014c · `EXTENT` 1卷
+
+**人物**
+- 方廣錩 — 整理
+
+**版本**
+- CBETA — `WITID` wit1
+
+## [KR6v0018 大般涅槃摩耶夫人品經--大德安法師](https://github.com/kanripo/KR6v0018)
+
+`BASEEDITION` W · `CBETA_ID` W01n0015a · `CUSTOM_ID` ZB6u0018 · `SOURCE` Buddhist Texts not contained in the Tripitaka Vol. 01, No. 015a · `EXTENT` 1卷
+
+**人物**
+- 大德安法師 — 譯
+- 李際寧 — 整理
+
+**版本**
+- CBETA — `WITID` wit1
+
+## [KR6v0019 大般涅槃經佛母品--李際寧](https://github.com/kanripo/KR6v0019)
+
+`BASEEDITION` W · `CBETA_ID` W01n0015b · `CUSTOM_ID` ZB6u0019 · `SOURCE` Buddhist Texts not contained in the Tripitaka Vol. 01, No. 015b · `EXTENT` 1卷
+
+**人物**
+- 李際寧 — 整理
+
+**版本**
+- CBETA — `WITID` wit1
+
+## [KR6v0020 大般涅槃經佛母品--李際寧](https://github.com/kanripo/KR6v0020)
+
+`BASEEDITION` W · `CBETA_ID` W01n0015c · `CUSTOM_ID` ZB6u0020 · `SOURCE` Buddhist Texts not contained in the Tripitaka Vol. 01, No. 015c · `EXTENT` 1卷
+
+**人物**
+- 李際寧 — 整理
+
+**版本**
+- CBETA — `WITID` wit1
+
+## [KR6v0021 大般涅槃經佛為摩耶夫人說偈品經--李際寧](https://github.com/kanripo/KR6v0021)
+
+`BASEEDITION` W · `CBETA_ID` W01n0015d · `CUSTOM_ID` ZB6u0021 · `SOURCE` Buddhist Texts not contained in the Tripitaka Vol. 01, No. 015d · `EXTENT` 1卷
+
+**人物**
+- 李際寧 — 整理
+
+**版本**
+- CBETA — `WITID` wit1
+
+## [KR6v0022 關於《禪藏》與敦煌禪籍的若干問題--方廣錩](https://github.com/kanripo/KR6v0022)
+
+`BASEEDITION` W · `CBETA_ID` W01n0016 · `CUSTOM_ID` ZB6u0022 · `SOURCE` Buddhist Texts not contained in the Tripitaka Vol. 01, No. 016 · `EXTENT` 1卷
+
+**人物** 方廣錩
+
+**版本**
+- CBETA — `WITID` wit1
+- orig — `WITID` wit99
+
+## [KR6v0023 七祖法寶記下卷--華方田](https://github.com/kanripo/KR6v0023)
+
+`BASEEDITION` W · `CBETA_ID` W02n0017 · `CUSTOM_ID` ZB6u0023 · `SOURCE` Buddhist Texts not contained in the Tripitaka Vol. 02, No. 017 · `EXTENT` 1卷
+
+**人物**
+- 華方田 — 整理
+
+**版本**
+- CBETA — `WITID` wit1
+
+## [KR6v0024 天竺國菩提達摩禪師論--方廣錩](https://github.com/kanripo/KR6v0024)
+
+`BASEEDITION` W · `CBETA_ID` W02n0018a · `CUSTOM_ID` ZB6u0024 · `SOURCE` Buddhist Texts not contained in the Tripitaka Vol. 02, No. 018a · `EXTENT` 1卷
+
+**人物**
+- 方廣錩 — 整理
+
+**版本**
+- CBETA — `WITID` wit1
+
+## [KR6v0025 天竺國菩提達摩禪師論--方廣錩](https://github.com/kanripo/KR6v0025)
+
+`BASEEDITION` W · `CBETA_ID` W02n0018b · `CUSTOM_ID` ZB6u0025 · `SOURCE` Buddhist Texts not contained in the Tripitaka Vol. 02, No. 018b · `EXTENT` 1卷
+
+**人物**
+- 方廣錩 — 整理
+
+**版本**
+- CBETA — `WITID` wit1
+
+## [KR6v0026 淨名經集解關中疏卷上--沙門道液](https://github.com/kanripo/KR6v0026)
+
+`BASEEDITION` W · `CBETA_ID` W02n0019 · `CUSTOM_ID` ZB6u0026 · `SOURCE` Buddhist Texts not contained in the Tripitaka Vol. 02, No. 019 · `EXTENT` 1卷
+
+**人物**
+- 沙門道液 — 集
+- 黎明 — 整理
+
+**版本**
+- CBETA — `WITID` wit1
+- orig — `WITID` wit99
+
+## [KR6v0027 法華經文外義--李際寧](https://github.com/kanripo/KR6v0027)
+
+`BASEEDITION` W · `CBETA_ID` W02n0020 · `CUSTOM_ID` ZB6u0027 · `SOURCE` Buddhist Texts not contained in the Tripitaka Vol. 02, No. 020 · `EXTENT` 1卷
+
+**人物**
+- 李際寧 — 整理
+- 張曉娟 — 整理
+
+**版本**
+- CBETA — `WITID` wit1
+
+## [KR6v0028 諦義證得經-古印度-烏瑪斯伐蒂](https://github.com/kanripo/KR6v0028)
+
+古印度 · `BASEEDITION` W · `CBETA_ID` W02n0021 · `CUSTOM_ID` ZB6u0028 · `SOURCE` Buddhist Texts not contained in the Tripitaka Vol. 02, No. 021 · `EXTENT` 1卷
+
+**人物**
+- 烏瑪斯伐蒂 — 著
+- 方廣錩 — ? · 譯註
+
+**版本**
+- CBETA — `WITID` wit3
+- 【大】 — `WITID` wit4
+
+## [KR6v0029 《瑜伽師地論》披尋記敘--韓清淨](https://github.com/kanripo/KR6v0029)
+
+`BASEEDITION` W · `CBETA_ID` W02n0022 · `CUSTOM_ID` ZB6u0029 · `SOURCE` Buddhist Texts not contained in the Tripitaka Vol. 02, No. 022 · `EXTENT` 1卷
+
+**人物**
+- 韓清淨 — 著
+- 程恭讓 — 整理
+
+**版本**
+- CBETA — `WITID` wit1
+
+## [KR6v0030 菩薩總持法--上山大峻](https://github.com/kanripo/KR6v0030)
+
+`BASEEDITION` W · `CBETA_ID` W03n0023 · `CUSTOM_ID` ZB6u0030 · `SOURCE` Buddhist Texts not contained in the Tripitaka Vol. 03, No. 023 · `EXTENT` 1卷
+
+**人物**
+- 上山大峻 — 整理
+- 袁德領 — 整理
+
+**版本**
+- CBETA — `WITID` wit1
+
+## [KR6v0031 大乘起世論--方廣錩](https://github.com/kanripo/KR6v0031)
+
+`BASEEDITION` W · `CBETA_ID` W03n0024 · `CUSTOM_ID` ZB6u0031 · `SOURCE` Buddhist Texts not contained in the Tripitaka Vol. 03, No. 024 · `EXTENT` 1卷
+
+**人物**
+- 方廣錩 — 整理
+
+**版本**
+- CBETA — `WITID` wit1
+
+## [KR6v0032 淨名經集解關中疏卷下--沙門道液](https://github.com/kanripo/KR6v0032)
+
+`BASEEDITION` W · `CBETA_ID` W03n0025 · `CUSTOM_ID` ZB6u0032 · `SOURCE` Buddhist Texts not contained in the Tripitaka Vol. 03, No. 025 · `EXTENT` 1卷
+
+**人物**
+- 沙門道液 — 述
+- 黎明 — 整理
+
+**版本**
+- CBETA — `WITID` wit1
+- orig — `WITID` wit99
+
+## [KR6v0033 因緣心論頌--龍猛菩薩](https://github.com/kanripo/KR6v0033)
+
+`BASEEDITION` W · `CBETA_ID` W03n0026 · `CUSTOM_ID` ZB6u0033 · `SOURCE` Buddhist Texts not contained in the Tripitaka Vol. 03, No. 026 · `EXTENT` 1卷
+
+**人物**
+- 龍猛菩薩 — 作
+- 華方田 — 整理
+
+**版本**
+- CBETA — `WITID` wit1
+
+## [KR6v0034 因緣心論釋--龍猛菩薩](https://github.com/kanripo/KR6v0034)
+
+`BASEEDITION` W · `CBETA_ID` W03n0027 · `CUSTOM_ID` ZB6u0034 · `SOURCE` Buddhist Texts not contained in the Tripitaka Vol. 03, No. 027 · `EXTENT` 1卷
+
+**人物**
+- 龍猛菩薩 — 造
+- 華方田 — 整理
+
+**版本**
+- CBETA — `WITID` wit1
+
+## [KR6v0035 因緣心釋論開決記--華方田](https://github.com/kanripo/KR6v0035)
+
+`BASEEDITION` W · `CBETA_ID` W03n0028 · `CUSTOM_ID` ZB6u0035 · `SOURCE` Buddhist Texts not contained in the Tripitaka Vol. 03, No. 028 · `EXTENT` 1卷
+
+**人物**
+- 華方田 — 整理
+
+**版本**
+- CBETA — `WITID` wit1
+
+## [KR6v0036 金剛般若經疏--華方田](https://github.com/kanripo/KR6v0036)
+
+`BASEEDITION` W · `CBETA_ID` W03n0029 · `CUSTOM_ID` ZB6u0036 · `SOURCE` Buddhist Texts not contained in the Tripitaka Vol. 03, No. 029 · `EXTENT` 1卷
+
+**人物**
+- 華方田 — 整理
+
+**版本**
+- CBETA — `WITID` wit1
+
+## [KR6v0037 瑜伽論卷第十四手記--徐紹強](https://github.com/kanripo/KR6v0037)
+
+`BASEEDITION` W · `CBETA_ID` W03n0030 · `CUSTOM_ID` ZB6u0037 · `SOURCE` Buddhist Texts not contained in the Tripitaka Vol. 03, No. 030 · `EXTENT` 1卷
+
+**人物**
+- 徐紹強 — 整理
+
+**版本**
+- CBETA — `WITID` wit1
+
+## [KR6v0038 佛說觀佛三昧海經本行品第八--黃霞](https://github.com/kanripo/KR6v0038)
+
+`BASEEDITION` W · `CBETA_ID` W03n0031a · `CUSTOM_ID` ZB6u0038 · `SOURCE` Buddhist Texts not contained in the Tripitaka Vol. 03, No. 031a · `EXTENT` 1卷
+
+**人物**
+- 黃霞 — 整理
+
+**版本**
+- CBETA — `WITID` wit1
+- orig — `WITID` wit99
+
+## [KR6v0039 佛說相好經--黃霞](https://github.com/kanripo/KR6v0039)
+
+`BASEEDITION` W · `CBETA_ID` W03n0031b · `CUSTOM_ID` ZB6u0039 · `SOURCE` Buddhist Texts not contained in the Tripitaka Vol. 03, No. 031b · `EXTENT` 1卷
+
+**人物**
+- 黃霞 — 整理
+
+**版本**
+- CBETA — `WITID` wit1
+- orig — `WITID` wit99
+
+## [KR6v0040 佛說觀佛三昧海藏經本行品第八--黃霞](https://github.com/kanripo/KR6v0040)
+
+`BASEEDITION` W · `CBETA_ID` W03n0031c · `CUSTOM_ID` ZB6u0040 · `SOURCE` Buddhist Texts not contained in the Tripitaka Vol. 03, No. 031c · `EXTENT` 1卷
+
+**人物**
+- 黃霞 — 整理
+
+**版本**
+- CBETA — `WITID` wit1
+- orig — `WITID` wit99
+
+## [KR6v0041 佛說相好經--黃霞](https://github.com/kanripo/KR6v0041)
+
+`BASEEDITION` W · `CBETA_ID` W03n0031d · `CUSTOM_ID` ZB6u0041 · `SOURCE` Buddhist Texts not contained in the Tripitaka Vol. 03, No. 031d · `EXTENT` 1卷
+
+**人物**
+- 黃霞 — 整理
+
+**版本**
+- CBETA — `WITID` wit1
+
+## [KR6v0042 觀佛三昧海經本行品第八--黃霞](https://github.com/kanripo/KR6v0042)
+
+`BASEEDITION` W · `CBETA_ID` W03n0031e · `CUSTOM_ID` ZB6u0042 · `SOURCE` Buddhist Texts not contained in the Tripitaka Vol. 03, No. 031e · `EXTENT` 1卷
+
+**人物**
+- 黃霞 — 整理
+
+**版本**
+- CBETA — `WITID` wit1
+
+## [KR6v0043 《金藏》新資料考--李際寧](https://github.com/kanripo/KR6v0043)
+
+`BASEEDITION` W · `CBETA_ID` W03n0032 · `CUSTOM_ID` ZB6u0043 · `SOURCE` Buddhist Texts not contained in the Tripitaka Vol. 03, No. 032 · `EXTENT` 1卷
+
+**人物** 李際寧
+
+**版本**
+- CBETA — `WITID` wit1
+- orig — `WITID` wit99
+
+## [KR6v0044 入菩薩行論廣解--寂天菩薩](https://github.com/kanripo/KR6v0044)
+
+`BASEEDITION` W · `CBETA_ID` W04n0033 · `CUSTOM_ID` ZB6u0044 · `SOURCE` Buddhist Texts not contained in the Tripitaka Vol. 04, No. 033 · `EXTENT` 10卷
+
+**人物**
+- 寂天菩薩 — 造頌
+- 傑操大師 — 註解
+- 隆蓮法師 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- orig — `WITID` wit99
+
+## [KR6v0045 大藏佛說守護大千國土經--陳明光](https://github.com/kanripo/KR6v0045)
+
+`BASEEDITION` W · `CBETA_ID` W04n0034 · `CUSTOM_ID` ZB6u0045 · `SOURCE` Buddhist Texts not contained in the Tripitaka Vol. 04, No. 034 · `EXTENT` 1卷
+
+**人物**
+- 陳明光 — 整理
+
+**版本**
+- CBETA — `WITID` wit1
+
+## [KR6v0046 六道輪迴圖偈頌--陳明光](https://github.com/kanripo/KR6v0046)
+
+`BASEEDITION` W · `CBETA_ID` W04n0035 · `CUSTOM_ID` ZB6u0046 · `SOURCE` Buddhist Texts not contained in the Tripitaka Vol. 04, No. 035 · `EXTENT` 1卷
+
+**人物**
+- 陳明光 — 整理
+
+**版本**
+- CBETA — `WITID` wit1
+
+## [KR6v0047 父母恩重經變經文偈頌--陳明光](https://github.com/kanripo/KR6v0047)
+
+`BASEEDITION` W · `CBETA_ID` W04n0036 · `CUSTOM_ID` ZB6u0047 · `SOURCE` Buddhist Texts not contained in the Tripitaka Vol. 04, No. 036 · `EXTENT` 1卷
+
+**人物**
+- 陳明光 — 整理
+
+**版本**
+- CBETA — `WITID` wit1
+
+## [KR6v0048 大方便佛報恩經變經文偈頌--陳明光](https://github.com/kanripo/KR6v0048)
+
+`BASEEDITION` W · `CBETA_ID` W04n0037 · `CUSTOM_ID` ZB6u0048 · `SOURCE` Buddhist Texts not contained in the Tripitaka Vol. 04, No. 037 · `EXTENT` 1卷
+
+**人物**
+- 陳明光 — 整理
+
+**版本**
+- CBETA — `WITID` wit1
+
+## [KR6v0049 三聖御制佛牙贊-北宋-太宗](https://github.com/kanripo/KR6v0049)
+
+北宋 · `BASEEDITION` W · `CBETA_ID` W04n0038 · `CUSTOM_ID` ZB6u0049 · `SOURCE` Buddhist Texts not contained in the Tripitaka Vol. 04, No. 038 · `EXTENT` 1卷
+
+**人物**
+- 太宗 — 撰
+- 真宗 — 撰
+- 仁宗 — 撰
+- 陳明光 — ? · 整理
+
+**版本**
+- CBETA — `WITID` wit1
+
+## [KR6v0050 觀經變像經文偈頌--陳明光](https://github.com/kanripo/KR6v0050)
+
+`BASEEDITION` W · `CBETA_ID` W04n0039 · `CUSTOM_ID` ZB6u0050 · `SOURCE` Buddhist Texts not contained in the Tripitaka Vol. 04, No. 039 · `EXTENT` 1卷
+
+**人物**
+- 陳明光 — 整理
+
+**版本**
+- CBETA — `WITID` wit1
+
+## [KR6v0051 地獄變經文偈頌--陳明光](https://github.com/kanripo/KR6v0051)
+
+`BASEEDITION` W · `CBETA_ID` W04n0040 · `CUSTOM_ID` ZB6u0051 · `SOURCE` Buddhist Texts not contained in the Tripitaka Vol. 04, No. 040 · `EXTENT` 1卷
+
+**人物**
+- 陳明光 — 整理
+
+**版本**
+- CBETA — `WITID` wit1
+- orig — `WITID` wit99
+
+## [KR6v0052 佛性問答--業露華](https://github.com/kanripo/KR6v0052)
+
+`BASEEDITION` W · `CBETA_ID` W04n0041 · `CUSTOM_ID` ZB6u0052 · `SOURCE` Buddhist Texts not contained in the Tripitaka Vol. 04, No. 041 · `EXTENT` 1卷
+
+**人物**
+- 業露華 — 整理
+
+**版本**
+- CBETA — `WITID` wit1
+- orig — `WITID` wit99
+
+## [KR6v0053 大乘無盡藏法--信行](https://github.com/kanripo/KR6v0053)
+
+`BASEEDITION` W · `CBETA_ID` W04n0042 · `CUSTOM_ID` ZB6u0053 · `SOURCE` Buddhist Texts not contained in the Tripitaka Vol. 04, No. 042 · `EXTENT` 1卷
+
+**人物**
+- 信行 — 撰
+- 方廣錩 — 整理
+
+**版本**
+- CBETA — `WITID` wit1
+
+## [KR6v0054 佛在金棺上囑累經--侯旭東](https://github.com/kanripo/KR6v0054)
+
+`BASEEDITION` W · `CBETA_ID` W04n0043a · `CUSTOM_ID` ZB6u0054 · `SOURCE` Buddhist Texts not contained in the Tripitaka Vol. 04, No. 043a · `EXTENT` 1卷
+
+**人物**
+- 侯旭東 — 整理
+
+**版本**
+- CBETA — `WITID` wit1
+
+## [KR6v0055 如來在金棺囑累清淨莊嚴敬福經--侯旭東](https://github.com/kanripo/KR6v0055)
+
+`BASEEDITION` W · `CBETA_ID` W04n0043b · `CUSTOM_ID` ZB6u0055 · `SOURCE` Buddhist Texts not contained in the Tripitaka Vol. 04, No. 043b · `EXTENT` 1卷
+
+**人物**
+- 侯旭東 — 整理
+
+**版本**
+- CBETA — `WITID` wit1
+
+## [KR6v0056 傳善無畏所譯三部密教儀軌出處及年代考--陳金華](https://github.com/kanripo/KR6v0056)
+
+`BASEEDITION` W · `CBETA_ID` W04n0044 · `CUSTOM_ID` ZB6u0056 · `SOURCE` Buddhist Texts not contained in the Tripitaka Vol. 04, No. 044 · `EXTENT` 1卷
+
+**人物** 陳金華
+
+**版本**
+- CBETA — `WITID` wit1
+- orig — `WITID` wit99
+
+## [KR6v0057 小誦--鄧殿臣](https://github.com/kanripo/KR6v0057)
+
+`BASEEDITION` W · `CBETA_ID` W05n0045 · `CUSTOM_ID` ZB6u0057 · `SOURCE` Buddhist Texts not contained in the Tripitaka Vol. 05, No. 045 · `EXTENT` 1卷
+
+**人物**
+- 鄧殿臣 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+
+## [KR6v0058 即興自說--鄧殿臣](https://github.com/kanripo/KR6v0058)
+
+`BASEEDITION` W · `CBETA_ID` W05n0046 · `CUSTOM_ID` ZB6u0058 · `SOURCE` Buddhist Texts not contained in the Tripitaka Vol. 05, No. 046 · `EXTENT` 1卷
+
+**人物**
+- 鄧殿臣 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- orig — `WITID` wit99
+
+## [KR6v0059 大隧道本生--鄧殿臣](https://github.com/kanripo/KR6v0059)
+
+`BASEEDITION` W · `CBETA_ID` W05n0047 · `CUSTOM_ID` ZB6u0059 · `SOURCE` Buddhist Texts not contained in the Tripitaka Vol. 05, No. 047 · `EXTENT` 1卷
+
+**人物**
+- 鄧殿臣 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+
+## [KR6v0060 大念處經--鄧殿臣](https://github.com/kanripo/KR6v0060)
+
+`BASEEDITION` W · `CBETA_ID` W05n0048 · `CUSTOM_ID` ZB6u0060 · `SOURCE` Buddhist Texts not contained in the Tripitaka Vol. 05, No. 048 · `EXTENT` 1卷
+
+**人物**
+- 鄧殿臣 — 譯
+- 趙桐 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- orig — `WITID` wit99
+
+## [KR6v0061 瑜伽師地開釋分門記--徐紹強](https://github.com/kanripo/KR6v0061)
+
+`BASEEDITION` W · `CBETA_ID` W05n0049 · `CUSTOM_ID` ZB6u0061 · `SOURCE` Buddhist Texts not contained in the Tripitaka Vol. 05, No. 049 · `EXTENT` 1卷
+
+**人物**
+- 徐紹強 — 整理
+
+**版本**
+- CBETA — `WITID` wit1
+- orig — `WITID` wit99
+
+## [KR6v0062 天台教典入藏考--方廣錩](https://github.com/kanripo/KR6v0062)
+
+`BASEEDITION` W · `CBETA_ID` W05n0050 · `CUSTOM_ID` ZB6u0062 · `SOURCE` Buddhist Texts not contained in the Tripitaka Vol. 05, No. 050 · `EXTENT` 1卷
+
+**人物** 方廣錩
+
+**版本**
+- CBETA — `WITID` wit1
+- orig — `WITID` wit99
+
+## [KR6v0063 楞嚴解冤釋結道場儀-宋-釋祖照](https://github.com/kanripo/KR6v0063)
+
+宋 · `BASEEDITION` W · `CBETA_ID` W06n0051 · `CUSTOM_ID` ZB6u0063 · `SOURCE` Buddhist Texts not contained in the Tripitaka Vol. 06, No. 051 · `EXTENT` 8卷
+
+**人物**
+- 釋祖照 — 集
+- 趙文煥 — ? · 整理
+- 侯沖 — ? · 整理
+
+**版本**
+- CBETA — `WITID` wit1
+- orig — `WITID` wit99
+
+## [KR6v0064 地藏慈悲救苦薦福利生道場儀-宋-釋元照](https://github.com/kanripo/KR6v0064)
+
+宋 · `BASEEDITION` W · `CBETA_ID` W06n0052 · `CUSTOM_ID` ZB6u0064 · `SOURCE` Buddhist Texts not contained in the Tripitaka Vol. 06, No. 052 · `EXTENT` 4卷
+
+**人物**
+- 釋元照 — 集
+- 趙文煥 — ? · 整理
+- 侯沖 — ? · 整理
+
+**版本**
+- CBETA — `WITID` wit1
+- orig — `WITID` wit99
+
+## [KR6v0065 銷釋金剛經科儀-宋-釋宗鏡](https://github.com/kanripo/KR6v0065)
+
+宋 · `BASEEDITION` W · `CBETA_ID` W06n0053 · `CUSTOM_ID` ZB6u0065 · `SOURCE` Buddhist Texts not contained in the Tripitaka Vol. 06, No. 053 · `EXTENT` 1卷
+
+**人物**
+- 釋宗鏡 — 述
+- 侯沖 — ? · 整理
+
+**版本**
+- CBETA — `WITID` wit1
+
+## [KR6v0066 廣施無遮道場儀--侯沖](https://github.com/kanripo/KR6v0066)
+
+`BASEEDITION` W · `CBETA_ID` W06n0054 · `CUSTOM_ID` ZB6u0066 · `SOURCE` Buddhist Texts not contained in the Tripitaka Vol. 06, No. 054 · `EXTENT` 1卷
+
+**人物**
+- 侯沖 — 整理
+
+**版本**
+- CBETA — `WITID` wit1
+- orig — `WITID` wit99
+
+## [KR6v0067 大黑天神道場儀--侯沖](https://github.com/kanripo/KR6v0067)
+
+`BASEEDITION` W · `CBETA_ID` W06n0055 · `CUSTOM_ID` ZB6u0067 · `SOURCE` Buddhist Texts not contained in the Tripitaka Vol. 06, No. 055 · `EXTENT` 1卷
+
+**人物**
+- 侯沖 — 整理
+
+**版本**
+- CBETA — `WITID` wit1
+
+## [KR6v0068 進新譯大方廣佛花嚴經表--弘景](https://github.com/kanripo/KR6v0068)
+
+`BASEEDITION` W · `CBETA_ID` W06n0056 · `CUSTOM_ID` ZB6u0068 · `SOURCE` Buddhist Texts not contained in the Tripitaka Vol. 06, No. 056 · `EXTENT` 1卷
+
+**人物**
+- 弘景 — 撰
+- 方廣錩 — 整理
+
+**版本**
+- CBETA — `WITID` wit1
+
+## [KR6v0069 雲南阿吒力教經典及其在中國佛教研究中的價值--侯沖](https://github.com/kanripo/KR6v0069)
+
+`BASEEDITION` W · `CBETA_ID` W06n0057 · `CUSTOM_ID` ZB6u0069 · `SOURCE` Buddhist Texts not contained in the Tripitaka Vol. 06, No. 057 · `EXTENT` 1卷
+
+**人物** 侯沖
+
+**版本**
+- CBETA — `WITID` wit1
+- orig — `WITID` wit99
+
+## [KR6v0070 注心要法門-唐-宗密](https://github.com/kanripo/KR6v0070)
+
+唐 · `BASEEDITION` W · `CBETA_ID` W07n0058 · `CUSTOM_ID` ZB6u0070 · `SOURCE` Buddhist Texts not contained in the Tripitaka Vol. 07, No. 058 · `EXTENT` 1卷
+
+**人物**
+- 宗密 — 注
+- 方廣錩 — ? · 整理
+
+**版本**
+- CBETA — `WITID` wit1
+
+## [KR6v0071 姚和上金剛五禮一本--姚和尚](https://github.com/kanripo/KR6v0071)
+
+`BASEEDITION` W · `CBETA_ID` W07n0059a · `CUSTOM_ID` ZB6u0071 · `SOURCE` Buddhist Texts not contained in the Tripitaka Vol. 07, No. 059a · `EXTENT` 1卷
+
+**人物**
+- 姚和尚 — 撰
+- 達照 — 整理
+
+**版本**
+- CBETA — `WITID` wit1
+- orig — `WITID` wit99
+
+## [KR6v0072 金剛五禮--姚和尚](https://github.com/kanripo/KR6v0072)
+
+`BASEEDITION` W · `CBETA_ID` W07n0059b · `CUSTOM_ID` ZB6u0072 · `SOURCE` Buddhist Texts not contained in the Tripitaka Vol. 07, No. 059b · `EXTENT` 1卷
+
+**人物**
+- 姚和尚 — 撰
+- 達照 — 整理
+
+**版本**
+- CBETA — `WITID` wit1
+
+## [KR6v0073 金剛禮-遼-通理大師](https://github.com/kanripo/KR6v0073)
+
+遼 · `BASEEDITION` W · `CBETA_ID` W07n0060 · `CUSTOM_ID` ZB6u0073 · `SOURCE` Buddhist Texts not contained in the Tripitaka Vol. 07, No. 060 · `EXTENT` 1卷
+
+**人物**
+- 通理大師 — 集
+- 達照 — ? · 整理
+
+**版本**
+- CBETA — `WITID` wit1
+
+## [KR6v0074 護國司南抄--沙門玄鑒](https://github.com/kanripo/KR6v0074)
+
+`BASEEDITION` W · `CBETA_ID` W07n0061 · `CUSTOM_ID` ZB6u0074 · `SOURCE` Buddhist Texts not contained in the Tripitaka Vol. 07, No. 061 · `EXTENT` 1卷
+
+**人物**
+- 沙門玄鑒 — 集
+- 侯沖 — 整理
+
+**版本**
+- CBETA — `WITID` wit1
+- orig — `WITID` wit99
+
+## [KR6v0075 佛說消災延壽藥師灌頂章句儀--沙門若愚](https://github.com/kanripo/KR6v0075)
+
+`BASEEDITION` W · `CBETA_ID` W07n0062 · `CUSTOM_ID` ZB6u0075 · `SOURCE` Buddhist Texts not contained in the Tripitaka Vol. 07, No. 062 · `EXTENT` 6卷
+
+**人物**
+- 沙門若愚 — 述
+- 侯沖 — 整理
+
+**版本**
+- CBETA — `WITID` wit1
+- orig — `WITID` wit99
+
+## [KR6v0076 淨度三昧經--大內文雄](https://github.com/kanripo/KR6v0076)
+
+`BASEEDITION` W · `CBETA_ID` W07n0063 · `CUSTOM_ID` ZB6u0076 · `SOURCE` Buddhist Texts not contained in the Tripitaka Vol. 07, No. 063 · `EXTENT` 3卷
+
+**人物**
+- 大內文雄 — 整理
+- 齊藤隆信 — 整理
+
+**版本**
+- CBETA — `WITID` wit1
+- orig — `WITID` wit99
+
+## [KR6v0077 地藏菩薩十齋日--張總](https://github.com/kanripo/KR6v0077)
+
+`BASEEDITION` W · `CBETA_ID` W07n0064a · `CUSTOM_ID` ZB6u0077 · `SOURCE` Buddhist Texts not contained in the Tripitaka Vol. 07, No. 064a · `EXTENT` 1卷
+
+**人物**
+- 張總 — 整理
+
+**版本**
+- CBETA — `WITID` wit1
+
+## [KR6v0078 地藏菩薩十齋日--張總](https://github.com/kanripo/KR6v0078)
+
+`BASEEDITION` W · `CBETA_ID` W07n0064b · `CUSTOM_ID` ZB6u0078 · `SOURCE` Buddhist Texts not contained in the Tripitaka Vol. 07, No. 064b · `EXTENT` 1卷
+
+**人物**
+- 張總 — 整理
+
+**版本**
+- CBETA — `WITID` wit1
+
+## [KR6v0079 地藏菩薩十齋日--張總](https://github.com/kanripo/KR6v0079)
+
+`BASEEDITION` W · `CBETA_ID` W07n0064c · `CUSTOM_ID` ZB6u0079 · `SOURCE` Buddhist Texts not contained in the Tripitaka Vol. 07, No. 064c · `EXTENT` 1卷
+
+**人物**
+- 張總 — 整理
+
+**版本**
+- CBETA — `WITID` wit1
+
+## [KR6v0080 地藏菩薩十齋日--張總](https://github.com/kanripo/KR6v0080)
+
+`BASEEDITION` W · `CBETA_ID` W07n0064d · `CUSTOM_ID` ZB6u0080 · `SOURCE` Buddhist Texts not contained in the Tripitaka Vol. 07, No. 064d · `EXTENT` 1卷
+
+**人物**
+- 張總 — 整理
+
+**版本**
+- CBETA — `WITID` wit1
+
+## [KR6v0081 地藏菩薩十齋日--張總](https://github.com/kanripo/KR6v0081)
+
+`BASEEDITION` W · `CBETA_ID` W07n0064e · `CUSTOM_ID` ZB6u0081 · `SOURCE` Buddhist Texts not contained in the Tripitaka Vol. 07, No. 064e · `EXTENT` 1卷
+
+**人物**
+- 張總 — 整理
+
+**版本**
+- CBETA — `WITID` wit1
+
+## [KR6v0082 地藏菩薩十齋日--張總](https://github.com/kanripo/KR6v0082)
+
+`BASEEDITION` W · `CBETA_ID` W07n0064f · `CUSTOM_ID` ZB6u0082 · `SOURCE` Buddhist Texts not contained in the Tripitaka Vol. 07, No. 064f · `EXTENT` 1卷
+
+**人物**
+- 張總 — 整理
+
+**版本**
+- CBETA — `WITID` wit1
+
+## [KR6v0083 地藏菩薩十齋日--張總](https://github.com/kanripo/KR6v0083)
+
+`BASEEDITION` W · `CBETA_ID` W07n0064g · `CUSTOM_ID` ZB6u0083 · `SOURCE` Buddhist Texts not contained in the Tripitaka Vol. 07, No. 064g · `EXTENT` 1卷
+
+**人物**
+- 張總 — 整理
+
+**版本**
+- CBETA — `WITID` wit1
+
+## [KR6v0084 地藏菩薩十齋日--張總](https://github.com/kanripo/KR6v0084)
+
+`BASEEDITION` W · `CBETA_ID` W07n0064h · `CUSTOM_ID` ZB6u0084 · `SOURCE` Buddhist Texts not contained in the Tripitaka Vol. 07, No. 064h · `EXTENT` 1卷
+
+**人物**
+- 張總 — 整理
+
+**版本**
+- CBETA — `WITID` wit1
+- orig — `WITID` wit99
+
+## [KR6v0085 寧夏西夏方塔出土漢文佛典敘錄--方廣錩](https://github.com/kanripo/KR6v0085)
+
+`BASEEDITION` W · `CBETA_ID` W07n0065 · `CUSTOM_ID` ZB6u0085 · `SOURCE` Buddhist Texts not contained in the Tripitaka Vol. 07, No. 065 · `EXTENT` 1卷
+
+**人物** 方廣錩
+
+**版本**
+- CBETA — `WITID` wit1
+- orig — `WITID` wit99
+
+## [KR6v0086 日本佛教目錄學的形成——以《東域傳燈錄》為中心--末木文美士](https://github.com/kanripo/KR6v0086)
+
+`BASEEDITION` W · `CBETA_ID` W07n0066 · `CUSTOM_ID` ZB6u0086 · `SOURCE` Buddhist Texts not contained in the Tripitaka Vol. 07, No. 066 · `EXTENT` 1卷
+
+**人物** 末木文美士
+
+**版本**
+- CBETA — `WITID` wit1
+
+## [KR6v0087 華嚴略疏卷第一--悟緣](https://github.com/kanripo/KR6v0087)
+
+`BASEEDITION` W · `CBETA_ID` W08n0067 · `CUSTOM_ID` ZB6u0087 · `SOURCE` Buddhist Texts not contained in the Tripitaka Vol. 08, No. 067 · `EXTENT` 1卷
+
+**人物**
+- 悟緣 — 整理
+
+**版本**
+- CBETA — `WITID` wit1
+
+## [KR6v0088 如來廣孝十種報恩道場儀-南宋-思覺](https://github.com/kanripo/KR6v0088)
+
+南宋 · `BASEEDITION` W · `CBETA_ID` W08n0068 · `CUSTOM_ID` ZB6u0088 · `SOURCE` Buddhist Texts not contained in the Tripitaka Vol. 08, No. 068 · `EXTENT` 8卷
+
+**人物**
+- 思覺 — 集
+- 趙文煥 — ? · 整理
+- 侯沖 — ? · 整理
+
+**版本**
+- CBETA — `WITID` wit1
+- orig — `WITID` wit99
+
+## [KR6v0089 二曜金剛合璧--通源](https://github.com/kanripo/KR6v0089)
+
+`BASEEDITION` W · `CBETA_ID` W08n0069 · `CUSTOM_ID` ZB6u0089 · `SOURCE` Buddhist Texts not contained in the Tripitaka Vol. 08, No. 069 · `EXTENT` 1卷
+
+**人物**
+- 通源 — 整理
+
+**版本**
+- CBETA — `WITID` wit1
+
+## [KR6v0090 敦煌寺院所藏大藏經概貌--方廣錩](https://github.com/kanripo/KR6v0090)
+
+`BASEEDITION` W · `CBETA_ID` W08n0070 · `CUSTOM_ID` ZB6u0090 · `SOURCE` Buddhist Texts not contained in the Tripitaka Vol. 08, No. 070 · `EXTENT` 1卷
+
+**人物** 方廣錩
+
+**版本**
+- CBETA — `WITID` wit1
+- orig — `WITID` wit99
+
+## [KR6v0091 《慧琳音義》與唐代大藏經--方廣錩](https://github.com/kanripo/KR6v0091)
+
+`BASEEDITION` W · `CBETA_ID` W08n0071 · `CUSTOM_ID` ZB6u0091 · `SOURCE` Buddhist Texts not contained in the Tripitaka Vol. 08, No. 071 · `EXTENT` 1卷
+
+**人物** 方廣錩
+
+**版本**
+- CBETA — `WITID` wit1
+
+## [KR6v0092 佛性觀修善法--信行](https://github.com/kanripo/KR6v0092)
+
+`BASEEDITION` W · `CBETA_ID` W09n0072 · `CUSTOM_ID` ZB6u0092 · `SOURCE` Buddhist Texts not contained in the Tripitaka Vol. 09, No. 072 · `EXTENT` 1卷
+
+**人物**
+- 信行 — 撰
+- 西本照真 — 整理
+
+**版本**
+- CBETA — `WITID` wit1
+
+## [KR6v0093 金剛經讚集--達照](https://github.com/kanripo/KR6v0093)
+
+`BASEEDITION` W · `CBETA_ID` W09n0073a · `CUSTOM_ID` ZB6u0093 · `SOURCE` Buddhist Texts not contained in the Tripitaka Vol. 09, No. 073a · `EXTENT` 1卷
+
+**人物**
+- 達照 — 整理
+
+**版本**
+- CBETA — `WITID` wit1
+- orig — `WITID` wit99
+
+## [KR6v0094 金剛經讚集（擬）--達照](https://github.com/kanripo/KR6v0094)
+
+`BASEEDITION` W · `CBETA_ID` W09n0073b · `CUSTOM_ID` ZB6u0094 · `SOURCE` Buddhist Texts not contained in the Tripitaka Vol. 09, No. 073b · `EXTENT` 1卷
+
+**人物**
+- 達照 — 整理
+
+**版本**
+- CBETA — `WITID` wit1
+
+## [KR6v0095 金剛經讚集（擬）--達照](https://github.com/kanripo/KR6v0095)
+
+`BASEEDITION` W · `CBETA_ID` W09n0073c · `CUSTOM_ID` ZB6u0095 · `SOURCE` Buddhist Texts not contained in the Tripitaka Vol. 09, No. 073c · `EXTENT` 1卷
+
+**人物**
+- 達照 — 整理
+
+**版本**
+- CBETA — `WITID` wit1
+
+## [KR6v0096 金剛經注頌釋--達照](https://github.com/kanripo/KR6v0096)
+
+`BASEEDITION` W · `CBETA_ID` W09n0073d · `CUSTOM_ID` ZB6u0096 · `SOURCE` Buddhist Texts not contained in the Tripitaka Vol. 09, No. 073d · `EXTENT` 1卷
+
+**人物**
+- 達照 — 整理
+
+**版本**
+- CBETA — `WITID` wit1
+
+## [KR6v0097 金剛經頌（擬）--達照](https://github.com/kanripo/KR6v0097)
+
+`BASEEDITION` W · `CBETA_ID` W09n0073e · `CUSTOM_ID` ZB6u0097 · `SOURCE` Buddhist Texts not contained in the Tripitaka Vol. 09, No. 073e · `EXTENT` 1卷
+
+**人物**
+- 達照 — 整理
+
+**版本**
+- CBETA — `WITID` wit1
+
+## [KR6v0098 梁朝傅大士頌金剛經--達照](https://github.com/kanripo/KR6v0098)
+
+`BASEEDITION` W · `CBETA_ID` W09n0073f · `CUSTOM_ID` ZB6u0098 · `SOURCE` Buddhist Texts not contained in the Tripitaka Vol. 09, No. 073f · `EXTENT` 1卷
+
+**人物**
+- 達照 — 整理
+
+**版本**
+- CBETA — `WITID` wit1
+
+## [KR6v0099 梁朝傅大士頌金剛經--達照](https://github.com/kanripo/KR6v0099)
+
+`BASEEDITION` W · `CBETA_ID` W09n0073g · `CUSTOM_ID` ZB6u0099 · `SOURCE` Buddhist Texts not contained in the Tripitaka Vol. 09, No. 073g · `EXTENT` 1卷
+
+**人物**
+- 達照 — 整理
+
+**版本**
+- CBETA — `WITID` wit1
+
+## [KR6v0100 梁朝傅大士夾頌金剛經--達照](https://github.com/kanripo/KR6v0100)
+
+`BASEEDITION` W · `CBETA_ID` W09n0073h · `CUSTOM_ID` ZB6u0100 · `SOURCE` Buddhist Texts not contained in the Tripitaka Vol. 09, No. 073h · `EXTENT` 1卷
+
+**人物**
+- 達照 — 整理
+
+**版本**
+- CBETA — `WITID` wit1
+- orig — `WITID` wit99
+
+## [KR6v0101 寶髻大王菩薩本緣--任遠](https://github.com/kanripo/KR6v0101)
+
+`BASEEDITION` W · `CBETA_ID` W09n0074 · `CUSTOM_ID` ZB6u0101 · `SOURCE` Buddhist Texts not contained in the Tripitaka Vol. 09, No. 074 · `EXTENT` 1卷
+
+**人物**
+- 任遠 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- orig — `WITID` wit99
+
+## [KR6v0102 寶髻本緣--克什曼德拉](https://github.com/kanripo/KR6v0102)
+
+`BASEEDITION` W · `CBETA_ID` W09n0075 · `CUSTOM_ID` ZB6u0102 · `SOURCE` Buddhist Texts not contained in the Tripitaka Vol. 09, No. 075 · `EXTENT` 1卷
+
+**人物**
+- 克什曼德拉 — 原著
+- 任遠 — 譯
+
+**版本**
+- CBETA — `WITID` wit1
+- orig — `WITID` wit99
+
+## [KR6v0103 三階教文獻綜述--西本照真](https://github.com/kanripo/KR6v0103)
+
+`BASEEDITION` W · `CBETA_ID` W09n0076 · `CUSTOM_ID` ZB6u0103 · `SOURCE` Buddhist Texts not contained in the Tripitaka Vol. 09, No. 076 · `EXTENT` 1卷
+
+**人物** 西本照真
+
+**版本**
+- CBETA — `WITID` wit1
+- orig — `WITID` wit99
+
+## [KR6v0104 關於江泌女子僧法誦出經--方廣錩](https://github.com/kanripo/KR6v0104)
+
+`BASEEDITION` W · `CBETA_ID` W09n0077 · `CUSTOM_ID` ZB6u0104 · `SOURCE` Buddhist Texts not contained in the Tripitaka Vol. 09, No. 077 · `EXTENT` 1卷
+
+**人物** 方廣錩
+
+**版本**
+- CBETA — `WITID` wit1
+- orig — `WITID` wit99
+
+## [KR6v0105 宕昌公暉福寺碑-民國-顏娟英](https://github.com/kanripo/KR6v0105)
+
+民國 · `BASEEDITION` I · `CBETA_ID` I01n0001 · `CUSTOM_ID` ZB6u0105 · `SOURCE` Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 001 · `EXTENT` 1卷
+
+**人物**
+- 顏娟英 — 主編
+
+**版本**
+- CBETA — `WITID` wit1
+- 【史】 — `WITID` wit5
+- 【原】 — `WITID` wit6
+
+## [KR6v0106 姚伯多等造像記-民國-顏娟英](https://github.com/kanripo/KR6v0106)
+
+民國 · `BASEEDITION` I · `CBETA_ID` I01n0002 · `CUSTOM_ID` ZB6u0106 · `SOURCE` Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 002 · `EXTENT` 1卷
+
+**人物**
+- 顏娟英 — 主編
+
+**版本**
+- CBETA — `WITID` wit3
+- 【史】 — `WITID` wit5
+- 【原】 — `WITID` wit6
+
+## [KR6v0107 元景造石窟記-民國-顏娟英](https://github.com/kanripo/KR6v0107)
+
+民國 · `BASEEDITION` I · `CBETA_ID` I01n0003 · `CUSTOM_ID` ZB6u0107 · `SOURCE` Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 003 · `EXTENT` 1卷
+
+**人物**
+- 顏娟英 — 主編
+
+**版本**
+- CBETA — `WITID` wit1
+- 【史】 — `WITID` wit5
+- 【原】 — `WITID` wit6
+
+## [KR6v0108 韓貞等造石窟記-民國-顏娟英](https://github.com/kanripo/KR6v0108)
+
+民國 · `BASEEDITION` I · `CBETA_ID` I01n0004 · `CUSTOM_ID` ZB6u0108 · `SOURCE` Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 004 · `EXTENT` 1卷
+
+**人物**
+- 顏娟英 — 主編
+
+**版本**
+- CBETA — `WITID` wit1
+- 【史】 — `WITID` wit5
+- 【原】 — `WITID` wit6
+
+## [KR6v0109 劉未等造像記-民國-顏娟英](https://github.com/kanripo/KR6v0109)
+
+民國 · `BASEEDITION` I · `CBETA_ID` I01n0005 · `CUSTOM_ID` ZB6u0109 · `SOURCE` Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 005 · `EXTENT` 1卷
+
+**人物**
+- 顏娟英 — 主編
+
+**版本**
+- CBETA — `WITID` wit1
+- 【史】 — `WITID` wit5
+- 【原】 — `WITID` wit6
+
+## [KR6v0110 高伏德等三百人造像記-民國-顏娟英](https://github.com/kanripo/KR6v0110)
+
+民國 · `BASEEDITION` I · `CBETA_ID` I01n0006 · `CUSTOM_ID` ZB6u0110 · `SOURCE` Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 006 · `EXTENT` 1卷
+
+**人物**
+- 顏娟英 — 主編
+
+**版本**
+- CBETA — `WITID` wit3
+- 【史】 — `WITID` wit5
+- 【原】 — `WITID` wit6
+
+## [KR6v0111 比丘法雅等千人造九級浮圖碑-民國-顏娟英](https://github.com/kanripo/KR6v0111)
+
+民國 · `BASEEDITION` I · `CBETA_ID` I01n0007 · `CUSTOM_ID` ZB6u0111 · `SOURCE` Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 007 · `EXTENT` 1卷
+
+**人物**
+- 顏娟英 — 主編
+
+**版本**
+- CBETA — `WITID` wit1
+- 【史】 — `WITID` wit5
+- 【原】 — `WITID` wit6
+
+## [KR6v0112 張道智造像記-民國-顏娟英](https://github.com/kanripo/KR6v0112)
+
+民國 · `BASEEDITION` I · `CBETA_ID` I01n0008 · `CUSTOM_ID` ZB6u0112 · `SOURCE` Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 008 · `EXTENT` 1卷
+
+**人物**
+- 顏娟英 — 主編
+
+**版本**
+- CBETA — `WITID` wit1
+- 【史】 — `WITID` wit5
+- 【原】 — `WITID` wit6
+
+## [KR6v0113 高洛周七十人等造像記-民國-顏娟英](https://github.com/kanripo/KR6v0113)
+
+民國 · `BASEEDITION` I · `CBETA_ID` I01n0009 · `CUSTOM_ID` ZB6u0113 · `SOURCE` Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 009 · `EXTENT` 1卷
+
+**人物**
+- 顏娟英 — 主編
+
+**版本**
+- CBETA — `WITID` wit1
+- 【史】 — `WITID` wit5
+- 【原】 — `WITID` wit6
+
+## [KR6v0114 僧暈等造像記-民國-顏娟英](https://github.com/kanripo/KR6v0114)
+
+民國 · `BASEEDITION` I · `CBETA_ID` I01n0010 · `CUSTOM_ID` ZB6u0114 · `SOURCE` Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 010 · `EXTENT` 1卷
+
+**人物**
+- 顏娟英 — 主編
+
+**版本**
+- CBETA — `WITID` wit1
+- 【史】 — `WITID` wit5
+- 【原】 — `WITID` wit6
+
+## [KR6v0115 馮神育等二百廿人造像碑-民國-顏娟英](https://github.com/kanripo/KR6v0115)
+
+民國 · `BASEEDITION` I · `CBETA_ID` I01n0011 · `CUSTOM_ID` ZB6u0115 · `SOURCE` Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 011 · `EXTENT` 1卷
+
+**人物**
+- 顏娟英 — 主編
+
+**版本**
+- CBETA — `WITID` wit1
+- 【史】 — `WITID` wit5
+- 【原】 — `WITID` wit6
+
+## [KR6v0116 嵩顯寺碑-民國-顏娟英](https://github.com/kanripo/KR6v0116)
+
+民國 · `BASEEDITION` I · `CBETA_ID` I01n0012 · `CUSTOM_ID` ZB6u0116 · `SOURCE` Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 012 · `EXTENT` 1卷
+
+**人物**
+- 顏娟英 — 主編
+
+**版本**
+- CBETA — `WITID` wit1
+- 【史】 — `WITID` wit5
+- 【原】 — `WITID` wit6
+
+## [KR6v0117 南石窟寺碑-民國-顏娟英](https://github.com/kanripo/KR6v0117)
+
+民國 · `BASEEDITION` I · `CBETA_ID` I01n0013 · `CUSTOM_ID` ZB6u0117 · `SOURCE` Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 013 · `EXTENT` 1卷
+
+**人物**
+- 顏娟英 — 主編
+
+**版本**
+- CBETA — `WITID` wit1
+- 【史】 — `WITID` wit5
+- 【原】 — `WITID` wit6
+
+## [KR6v0118 比丘郭曇勝造像記-民國-顏娟英](https://github.com/kanripo/KR6v0118)
+
+民國 · `BASEEDITION` I · `CBETA_ID` I01n0014 · `CUSTOM_ID` ZB6u0118 · `SOURCE` Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 014 · `EXTENT` 1卷
+
+**人物**
+- 顏娟英 — 主編
+
+**版本**
+- CBETA — `WITID` wit3
+- 【原】 — `WITID` wit6
+- 【史】 — `WITID` wit5
+
+## [KR6v0119 張安世造像記-民國-顏娟英](https://github.com/kanripo/KR6v0119)
+
+民國 · `BASEEDITION` I · `CBETA_ID` I01n0015 · `CUSTOM_ID` ZB6u0119 · `SOURCE` Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 015 · `EXTENT` 1卷
+
+**人物**
+- 顏娟英 — 主編
+
+**版本**
+- CBETA — `WITID` wit1
+- 【史】 — `WITID` wit5
+- 【原】 — `WITID` wit6
+
+## [KR6v0120 比丘劉僧真等造像記-民國-顏娟英](https://github.com/kanripo/KR6v0120)
+
+民國 · `BASEEDITION` I · `CBETA_ID` I01n0016 · `CUSTOM_ID` ZB6u0120 · `SOURCE` Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 016 · `EXTENT` 1卷
+
+**人物**
+- 顏娟英 — 主編
+
+**版本**
+- CBETA — `WITID` wit1
+- 【史】 — `WITID` wit5
+- 【原】 — `WITID` wit6
+
+## [KR6v0121 夫蒙文慶造像記-民國-顏娟英](https://github.com/kanripo/KR6v0121)
+
+民國 · `BASEEDITION` I · `CBETA_ID` I01n0017 · `CUSTOM_ID` ZB6u0121 · `SOURCE` Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 017 · `EXTENT` 1卷
+
+**人物**
+- 顏娟英 — 主編
+
+**版本**
+- CBETA — `WITID` wit3
+- 【史】 — `WITID` wit5
+- 【原】 — `WITID` wit6
+
+## [KR6v0122 張乾度七十人等造像記-民國-顏娟英](https://github.com/kanripo/KR6v0122)
+
+民國 · `BASEEDITION` I · `CBETA_ID` I01n0018 · `CUSTOM_ID` ZB6u0122 · `SOURCE` Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 018 · `EXTENT` 1卷
+
+**人物**
+- 顏娟英 — 主編
+
+**版本**
+- CBETA — `WITID` wit1
+- 【史】 — `WITID` wit5
+- 【原】 — `WITID` wit6
+
+## [KR6v0123 錡雙胡廿人等造像記-民國-顏娟英](https://github.com/kanripo/KR6v0123)
+
+民國 · `BASEEDITION` I · `CBETA_ID` I01n0019 · `CUSTOM_ID` ZB6u0123 · `SOURCE` Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 019 · `EXTENT` 1卷
+
+**人物**
+- 顏娟英 — 主編
+
+**版本**
+- CBETA — `WITID` wit1
+- 【史】 — `WITID` wit5
+- 【原】 — `WITID` wit6
+
+## [KR6v0124 袁永等五十人造像記-民國-顏娟英](https://github.com/kanripo/KR6v0124)
+
+民國 · `BASEEDITION` I · `CBETA_ID` I01n0020 · `CUSTOM_ID` ZB6u0124 · `SOURCE` Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 020 · `EXTENT` 1卷
+
+**人物**
+- 顏娟英 — 主編
+
+**版本**
+- CBETA — `WITID` wit1
+- 【史】 — `WITID` wit5
+- 【原】 — `WITID` wit6
+
+## [KR6v0125 馬鳴寺根法師碑-民國-顏娟英](https://github.com/kanripo/KR6v0125)
+
+民國 · `BASEEDITION` I · `CBETA_ID` I01n0021 · `CUSTOM_ID` ZB6u0125 · `SOURCE` Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 021 · `EXTENT` 1卷
+
+**人物**
+- 顏娟英 — 主編
+
+**版本**
+- CBETA — `WITID` wit1
+- 【史】 — `WITID` wit5
+- 【原】 — `WITID` wit6
+
+## [KR6v0126 比丘尼統慈慶墓誌銘-民國-顏娟英](https://github.com/kanripo/KR6v0126)
+
+民國 · `BASEEDITION` I · `CBETA_ID` I01n0022 · `CUSTOM_ID` ZB6u0126 · `SOURCE` Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 022 · `EXTENT` 1卷
+
+**人物**
+- 顏娟英 — 主編
+
+**版本**
+- CBETA — `WITID` wit1
+- 【史】 — `WITID` wit5
+- 【原】 — `WITID` wit6
+
+## [KR6v0127 孫遼浮圖銘-民國-顏娟英](https://github.com/kanripo/KR6v0127)
+
+民國 · `BASEEDITION` I · `CBETA_ID` I01n0023 · `CUSTOM_ID` ZB6u0127 · `SOURCE` Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 023 · `EXTENT` 1卷
+
+**人物**
+- 顏娟英 — 主編
+
+**版本**
+- CBETA — `WITID` wit1
+- 【史】 — `WITID` wit5
+- 【原】 — `WITID` wit6
+
+## [KR6v0128 仇臣生造像記-民國-顏娟英](https://github.com/kanripo/KR6v0128)
+
+民國 · `BASEEDITION` I · `CBETA_ID` I01n0024 · `CUSTOM_ID` ZB6u0128 · `SOURCE` Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 024 · `EXTENT` 1卷
+
+**人物**
+- 顏娟英 — 主編
+
+**版本**
+- CBETA — `WITID` wit1
+- 【史】 — `WITID` wit5
+- 【原】 — `WITID` wit6
+
+## [KR6v0129 常煥等造浮圖記-民國-顏娟英](https://github.com/kanripo/KR6v0129)
+
+民國 · `BASEEDITION` I · `CBETA_ID` I01n0025 · `CUSTOM_ID` ZB6u0129 · `SOURCE` Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 025 · `EXTENT` 1卷
+
+**人物**
+- 顏娟英 — 主編
+
+**版本**
+- CBETA — `WITID` wit1
+- 【史】 — `WITID` wit5
+- 【原】 — `WITID` wit6
+
+## [KR6v0130 蔣伯仙造像記-民國-顏娟英](https://github.com/kanripo/KR6v0130)
+
+民國 · `BASEEDITION` I · `CBETA_ID` I01n0026 · `CUSTOM_ID` ZB6u0130 · `SOURCE` Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 026 · `EXTENT` 1卷
+
+**人物**
+- 顏娟英 — 主編
+
+**版本**
+- CBETA — `WITID` wit1
+- 【史】 — `WITID` wit5
+- 【原】 — `WITID` wit6
+
+## [KR6v0131 杜善勝合邑七十人造像記-民國-顏娟英](https://github.com/kanripo/KR6v0131)
+
+民國 · `BASEEDITION` I · `CBETA_ID` I01n0027 · `CUSTOM_ID` ZB6u0131 · `SOURCE` Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 027 · `EXTENT` 1卷
+
+**人物**
+- 顏娟英 — 主編
+
+**版本**
+- CBETA — `WITID` wit1
+- 【史】 — `WITID` wit5
+- 【原】 — `WITID` wit6
+
+## [KR6v0132 大覺寺元尼墓誌銘并序-民國-顏娟英](https://github.com/kanripo/KR6v0132)
+
+民國 · `BASEEDITION` I · `CBETA_ID` I01n0028 · `CUSTOM_ID` ZB6u0132 · `SOURCE` Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 028 · `EXTENT` 1卷
+
+**人物**
+- 顏娟英 — 主編
+
+**版本**
+- CBETA — `WITID` wit1
+- 【史】 — `WITID` wit5
+- 【原】 — `WITID` wit6
+
+## [KR6v0133 僧智薛鳳規等道俗造像記-民國-顏娟英](https://github.com/kanripo/KR6v0133)
+
+民國 · `BASEEDITION` I · `CBETA_ID` I01n0029 · `CUSTOM_ID` ZB6u0133 · `SOURCE` Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 029 · `EXTENT` 1卷
+
+**人物**
+- 顏娟英 — 主編
+
+**版本**
+- CBETA — `WITID` wit1
+- 【史】 — `WITID` wit5
+- 【原】 — `WITID` wit6
+
+## [KR6v0134 廣業寺造像碑-民國-顏娟英](https://github.com/kanripo/KR6v0134)
+
+民國 · `BASEEDITION` I · `CBETA_ID` I01n0030 · `CUSTOM_ID` ZB6u0134 · `SOURCE` Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 030 · `EXTENT` 1卷
+
+**人物**
+- 顏娟英 — 主編
+
+**版本**
+- CBETA — `WITID` wit1
+- 【史】 — `WITID` wit5
+- 【原】 — `WITID` wit6
+
+## [KR6v0135 儁蒙文姬卅一人等造像記-民國-顏娟英](https://github.com/kanripo/KR6v0135)
+
+民國 · `BASEEDITION` I · `CBETA_ID` I01n0031 · `CUSTOM_ID` ZB6u0135 · `SOURCE` Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 031 · `EXTENT` 1卷
+
+**人物**
+- 顏娟英 — 主編
+
+**版本**
+- CBETA — `WITID` wit3
+- 【史】 — `WITID` wit5
+- 【原】 — `WITID` wit6
+
+## [KR6v0136 大魏故昭玄沙門大統令法師墓誌銘-民國-顏娟英](https://github.com/kanripo/KR6v0136)
+
+民國 · `BASEEDITION` I · `CBETA_ID` I01n0032 · `CUSTOM_ID` ZB6u0136 · `SOURCE` Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 032 · `EXTENT` 1卷
+
+**人物**
+- 顏娟英 — 主編
+
+**版本**
+- CBETA — `WITID` wit1
+- 【史】 — `WITID` wit5
+- 【原】 — `WITID` wit6
+
+## [KR6v0137 法義兄弟等二百人造像記-民國-顏娟英](https://github.com/kanripo/KR6v0137)
+
+民國 · `BASEEDITION` I · `CBETA_ID` I01n0033 · `CUSTOM_ID` ZB6u0137 · `SOURCE` Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 033 · `EXTENT` 1卷
+
+**人物**
+- 顏娟英 — 主編
+
+**版本**
+- CBETA — `WITID` wit1
+- 【史】 — `WITID` wit5
+- 【原】 — `WITID` wit6
+
+## [KR6v0138 中岳嵩陽寺碑-民國-顏娟英](https://github.com/kanripo/KR6v0138)
+
+民國 · `BASEEDITION` I · `CBETA_ID` I01n0034 · `CUSTOM_ID` ZB6u0138 · `SOURCE` Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 034 · `EXTENT` 1卷
+
+**人物**
+- 顏娟英 — 主編
+
+**版本**
+- CBETA — `WITID` wit1
+- 【史】 — `WITID` wit5
+- 【原】 — `WITID` wit6
+
+## [KR6v0139 張法壽息榮遷等造像記-民國-顏娟英](https://github.com/kanripo/KR6v0139)
+
+民國 · `BASEEDITION` I · `CBETA_ID` I01n0035 · `CUSTOM_ID` ZB6u0139 · `SOURCE` Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 035 · `EXTENT` 1卷
+
+**人物**
+- 顏娟英 — 主編
+
+**版本**
+- CBETA — `WITID` wit3
+- 【史】 — `WITID` wit5
+- 【原】 — `WITID` wit6
+
+## [KR6v0140 安村道俗一百餘人修塔記-民國-顏娟英](https://github.com/kanripo/KR6v0140)
+
+民國 · `BASEEDITION` I · `CBETA_ID` I01n0036 · `CUSTOM_ID` ZB6u0140 · `SOURCE` Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 036 · `EXTENT` 1卷
+
+**人物**
+- 顏娟英 — 主編
+
+**版本**
+- CBETA — `WITID` wit1
+- 【史】 — `WITID` wit5
+- 【原】 — `WITID` wit6
+
+## [KR6v0141 凝禪寺三級浮圖碑-民國-顏娟英](https://github.com/kanripo/KR6v0141)
+
+民國 · `BASEEDITION` I · `CBETA_ID` I01n0040 · `CUSTOM_ID` ZB6u0141 · `SOURCE` Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 040 · `EXTENT` 1卷
+
+**人物**
+- 顏娟英 — 主編
+
+**版本**
+- CBETA — `WITID` wit3
+- 【史】 — `WITID` wit5
+- 【原】 — `WITID` wit6
+
+## [KR6v0142 敬史君碑-民國-顏娟英](https://github.com/kanripo/KR6v0142)
+
+民國 · `BASEEDITION` I · `CBETA_ID` I01n0041 · `CUSTOM_ID` ZB6u0142 · `SOURCE` Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 041 · `EXTENT` 1卷
+
+**人物**
+- 顏娟英 — 主編
+
+**版本**
+- CBETA — `WITID` wit1
+- 【史】 — `WITID` wit5
+- 【原】 — `WITID` wit6
+
+## [KR6v0143 李氏合邑造像碑-民國-顏娟英](https://github.com/kanripo/KR6v0143)
+
+民國 · `BASEEDITION` I · `CBETA_ID` I01n0043 · `CUSTOM_ID` ZB6u0143 · `SOURCE` Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 043 · `EXTENT` 1卷
+
+**人物**
+- 顏娟英 — 主編
+
+**版本**
+- CBETA — `WITID` wit1
+- 【史】 — `WITID` wit5
+- 【原】 — `WITID` wit6
+
+## [KR6v0144 李贊邑等邑義五百餘人造像碑-民國-顏娟英](https://github.com/kanripo/KR6v0144)
+
+民國 · `BASEEDITION` I · `CBETA_ID` I01n0044 · `CUSTOM_ID` ZB6u0144 · `SOURCE` Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 044 · `EXTENT` 1卷
+
+**人物**
+- 顏娟英 — 主編
+
+**版本**
+- CBETA — `WITID` wit1
+- 【史】 — `WITID` wit5
+- 【原】 — `WITID` wit6
+
+## [KR6v0145 道俗九十人造像記-民國-顏娟英](https://github.com/kanripo/KR6v0145)
+
+民國 · `BASEEDITION` I · `CBETA_ID` I01n0045 · `CUSTOM_ID` ZB6u0145 · `SOURCE` Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 045 · `EXTENT` 1卷
+
+**人物**
+- 顏娟英 — 主編
+
+**版本**
+- CBETA — `WITID` wit1
+- 【史】 — `WITID` wit5
+- 【原】 — `WITID` wit6
+
+## [KR6v0146 王貳郎法義三百人等造像記-民國-顏娟英](https://github.com/kanripo/KR6v0146)
+
+民國 · `BASEEDITION` I · `CBETA_ID` I01n0046 · `CUSTOM_ID` ZB6u0146 · `SOURCE` Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 046 · `EXTENT` 1卷
+
+**人物**
+- 顏娟英 — 主編
+
+**版本**
+- CBETA — `WITID` wit1
+- 【史】 — `WITID` wit5
+- 【原】 — `WITID` wit6
+
+## [KR6v0147 朱永隆七十人等造像記-民國-顏娟英](https://github.com/kanripo/KR6v0147)
+
+民國 · `BASEEDITION` I · `CBETA_ID` I01n0047 · `CUSTOM_ID` ZB6u0147 · `SOURCE` Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 047 · `EXTENT` 1卷
+
+**人物**
+- 顏娟英 — 主編
+
+**版本**
+- CBETA — `WITID` wit3
+- 【史】 — `WITID` wit5
+- 【原】 — `WITID` wit6
+
+## [KR6v0148 報德玉像七佛頌碑-民國-顏娟英](https://github.com/kanripo/KR6v0148)
+
+民國 · `BASEEDITION` I · `CBETA_ID` I01n0048 · `CUSTOM_ID` ZB6u0148 · `SOURCE` Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 048 · `EXTENT` 1卷
+
+**人物**
+- 顏娟英 — 主編
+
+**版本**
+- CBETA — `WITID` wit1
+- 【史】 — `WITID` wit5
+- 【原】 — `WITID` wit6
+
+## [KR6v0149 比丘道瓊造像記-民國-顏娟英](https://github.com/kanripo/KR6v0149)
+
+民國 · `BASEEDITION` I · `CBETA_ID` I01n0052 · `CUSTOM_ID` ZB6u0149 · `SOURCE` Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 052 · `EXTENT` 1卷
+
+**人物**
+- 顏娟英 — 主編
+
+**版本**
+- CBETA — `WITID` wit1
+- 【史】 — `WITID` wit5
+- 【原】 — `WITID` wit6
+
+## [KR6v0150 杜英儁等十四人造像記-民國-顏娟英](https://github.com/kanripo/KR6v0150)
+
+民國 · `BASEEDITION` I · `CBETA_ID` I01n0053 · `CUSTOM_ID` ZB6u0150 · `SOURCE` Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 053 · `EXTENT` 1卷
+
+**人物**
+- 顏娟英 — 主編
+
+**版本**
+- CBETA — `WITID` wit1
+- 【史】 — `WITID` wit5
+- 【原】 — `WITID` wit6
+
+## [KR6v0151 白實等造中興寺石像記-民國-顏娟英](https://github.com/kanripo/KR6v0151)
+
+民國 · `BASEEDITION` I · `CBETA_ID` I01n0037 · `CUSTOM_ID` ZB6u0151 · `SOURCE` Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 037 · `EXTENT` 1卷
+
+**人物**
+- 顏娟英 — 主編
+
+**版本**
+- CBETA — `WITID` wit3
+- 【史】 — `WITID` wit5
+- 【原】 — `WITID` wit6
+
+## [KR6v0152 僧演造像記-民國-顏娟英](https://github.com/kanripo/KR6v0152)
+
+民國 · `BASEEDITION` I · `CBETA_ID` I01n0038 · `CUSTOM_ID` ZB6u0152 · `SOURCE` Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 038 · `EXTENT` 1卷
+
+**人物**
+- 顏娟英 — 主編
+
+**版本**
+- CBETA — `WITID` wit1
+- 【史】 — `WITID` wit5
+- 【原】 — `WITID` wit6
+
+## [KR6v0153 合邑四十人造像記-民國-顏娟英](https://github.com/kanripo/KR6v0153)
+
+民國 · `BASEEDITION` I · `CBETA_ID` I01n0039 · `CUSTOM_ID` ZB6u0153 · `SOURCE` Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 039 · `EXTENT` 1卷
+
+**人物**
+- 顏娟英 — 主編
+
+**版本**
+- CBETA — `WITID` wit1
+- 【史】 — `WITID` wit5
+- 【原】 — `WITID` wit6
+
+## [KR6v0154 巨始光等造像碑-民國-顏娟英](https://github.com/kanripo/KR6v0154)
+
+民國 · `BASEEDITION` I · `CBETA_ID` I01n0042 · `CUSTOM_ID` ZB6u0154 · `SOURCE` Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 042 · `EXTENT` 1卷
+
+**人物**
+- 顏娟英 — 主編
+
+**版本**
+- CBETA — `WITID` wit3
+- 【史】 — `WITID` wit5
+- 【原】 — `WITID` wit6
+
+## [KR6v0155 杜照賢十三人等造像記-民國-顏娟英](https://github.com/kanripo/KR6v0155)
+
+民國 · `BASEEDITION` I · `CBETA_ID` I01n0049 · `CUSTOM_ID` ZB6u0155 · `SOURCE` Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 049 · `EXTENT` 1卷
+
+**人物**
+- 顏娟英 — 主編
+
+**版本**
+- CBETA — `WITID` wit3
+- 【史】 — `WITID` wit5
+- 【原】 — `WITID` wit6
+
+## [KR6v0156 陳神姜等造像記-民國-顏娟英](https://github.com/kanripo/KR6v0156)
+
+民國 · `BASEEDITION` I · `CBETA_ID` I01n0050 · `CUSTOM_ID` ZB6u0156 · `SOURCE` Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 050 · `EXTENT` 1卷
+
+**人物**
+- 顏娟英 — 主編
+
+**版本**
+- CBETA — `WITID` wit1
+- 【史】 — `WITID` wit5
+- 【原】 — `WITID` wit6
+
+## [KR6v0157 邑子七十人等造大道如來記-民國-顏娟英](https://github.com/kanripo/KR6v0157)
+
+民國 · `BASEEDITION` I · `CBETA_ID` I01n0051 · `CUSTOM_ID` ZB6u0157 · `SOURCE` Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 051 · `EXTENT` 1卷
+
+**人物**
+- 顏娟英 — 主編
+
+**版本**
+- CBETA — `WITID` wit1
+- 【史】 — `WITID` wit5
+- 【原】 — `WITID` wit6
+
+## [KR6v0158 道俗卅七人造經像記-民國-顏娟英](https://github.com/kanripo/KR6v0158)
+
+民國 · `BASEEDITION` I · `CBETA_ID` I01n0054 · `CUSTOM_ID` ZB6u0158 · `SOURCE` Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 054 · `EXTENT` 1卷
+
+**人物**
+- 顏娟英 — 主編
+
+**版本**
+- CBETA — `WITID` wit1
+- 【史】 — `WITID` wit5
+- 【原】 — `WITID` wit6
+
+## [KR6v0159 強獨樂為周文王造像碑-民國-顏娟英](https://github.com/kanripo/KR6v0159)
+
+民國 · `BASEEDITION` I · `CBETA_ID` I01n0064 · `CUSTOM_ID` ZB6u0159 · `SOURCE` Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 064 · `EXTENT` 1卷
+
+**人物**
+- 顏娟英 — 主編
+
+**版本**
+- CBETA — `WITID` wit1
+- 【史】 — `WITID` wit5
+- 【原】 — `WITID` wit6
+
+## [KR6v0160 周大將軍延壽公碑頌-民國-顏娟英](https://github.com/kanripo/KR6v0160)
+
+民國 · `BASEEDITION` I · `CBETA_ID` I01n0070 · `CUSTOM_ID` ZB6u0160 · `SOURCE` Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 070 · `EXTENT` 1卷
+
+**人物**
+- 顏娟英 — 主編
+
+**版本**
+- CBETA — `WITID` wit1
+- 【史】 — `WITID` wit5
+- 【原】 — `WITID` wit6
+
+## [KR6v0161 比丘尼法藏等造像記-民國-顏娟英](https://github.com/kanripo/KR6v0161)
+
+民國 · `BASEEDITION` I · `CBETA_ID` I01n0074 · `CUSTOM_ID` ZB6u0161 · `SOURCE` Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 074 · `EXTENT` 1卷
+
+**人物**
+- 顏娟英 — 主編
+
+**版本**
+- CBETA — `WITID` wit3
+- 【史】 — `WITID` wit5
+- 【原】 — `WITID` wit6
+
+## [KR6v0162 雷暉嫗造釋迦像記-民國-顏娟英](https://github.com/kanripo/KR6v0162)
+
+民國 · `BASEEDITION` I · `CBETA_ID` I01n0081 · `CUSTOM_ID` ZB6u0162 · `SOURCE` Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 081 · `EXTENT` 1卷
+
+**人物**
+- 顏娟英 — 主編
+
+**版本**
+- CBETA — `WITID` wit1
+- 【史】 — `WITID` wit5
+- 【原】 — `WITID` wit6
+
+## [KR6v0163 陳氏合村造像記-民國-顏娟英](https://github.com/kanripo/KR6v0163)
+
+民國 · `BASEEDITION` I · `CBETA_ID` I01n0082 · `CUSTOM_ID` ZB6u0163 · `SOURCE` Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 082 · `EXTENT` 1卷
+
+**人物**
+- 顏娟英 — 主編
+
+**版本**
+- CBETA — `WITID` wit1
+
+## [KR6v0164 雷明香造像記-民國-顏娟英](https://github.com/kanripo/KR6v0164)
+
+民國 · `BASEEDITION` I · `CBETA_ID` I01n0083 · `CUSTOM_ID` ZB6u0164 · `SOURCE` Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 083 · `EXTENT` 1卷
+
+**人物**
+- 顏娟英 — 主編
+
+**版本**
+- CBETA — `WITID` wit1
+- 【史】 — `WITID` wit5
+- 【原】 — `WITID` wit6
+
+## [KR6v0165 瓽仲義八十人等造像記-民國-顏娟英](https://github.com/kanripo/KR6v0165)
+
+民國 · `BASEEDITION` I · `CBETA_ID` I01n0097 · `CUSTOM_ID` ZB6u0165 · `SOURCE` Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 097 · `EXTENT` 1卷
+
+**人物**
+- 顏娟英 — 主編
+
+**版本**
+- CBETA — `WITID` wit3
+- 【史】 — `WITID` wit5
+- 【原】 — `WITID` wit6
+
+## [KR6v0166 建崇寺浮圖銘-民國-顏娟英](https://github.com/kanripo/KR6v0166)
+
+民國 · `BASEEDITION` I · `CBETA_ID` I01n0099 · `CUSTOM_ID` ZB6u0166 · `SOURCE` Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 099 · `EXTENT` 1卷
+
+**人物**
+- 顏娟英 — 主編
+
+**版本**
+- CBETA — `WITID` wit1
+- 【史】 — `WITID` wit5
+- 【原】 — `WITID` wit6
+
+## [KR6v0167 邢多五十人等造像記-民國-顏娟英](https://github.com/kanripo/KR6v0167)
+
+民國 · `BASEEDITION` I · `CBETA_ID` I01n0055 · `CUSTOM_ID` ZB6u0167 · `SOURCE` Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 055 · `EXTENT` 1卷
+
+**人物**
+- 顏娟英 — 主編
+
+**版本**
+- CBETA — `WITID` wit1
+- 【史】 — `WITID` wit5
+- 【原】 — `WITID` wit6
+
+## [KR6v0168 馬敬賢五十人等造像記-民國-顏娟英](https://github.com/kanripo/KR6v0168)
+
+民國 · `BASEEDITION` I · `CBETA_ID` I01n0056 · `CUSTOM_ID` ZB6u0168 · `SOURCE` Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 056 · `EXTENT` 1卷
+
+**人物**
+- 顏娟英 — 主編
+
+**版本**
+- CBETA — `WITID` wit1
+- 【史】 — `WITID` wit5
+- 【原】 — `WITID` wit6
+
+## [KR6v0169 葉容等造像記-民國-顏娟英](https://github.com/kanripo/KR6v0169)
+
+民國 · `BASEEDITION` I · `CBETA_ID` I01n0057 · `CUSTOM_ID` ZB6u0169 · `SOURCE` Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 057 · `EXTENT` 1卷
+
+**人物**
+- 顏娟英 — 主編
+
+**版本**
+- CBETA — `WITID` wit3
+- 【史】 — `WITID` wit5
+- 【原】 — `WITID` wit6
+
+## [KR6v0170 李清造報德像碑-民國-顏娟英](https://github.com/kanripo/KR6v0170)
+
+民國 · `BASEEDITION` I · `CBETA_ID` I01n0058 · `CUSTOM_ID` ZB6u0170 · `SOURCE` Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 058 · `EXTENT` 1卷
+
+**人物**
+- 顏娟英 — 主編
+
+**版本**
+- CBETA — `WITID` wit1
+- 【史】 — `WITID` wit5
+- 【原】 — `WITID` wit6
+
+## [KR6v0171 郭猛八十人等造塔像記-民國-顏娟英](https://github.com/kanripo/KR6v0171)
+
+民國 · `BASEEDITION` I · `CBETA_ID` I01n0059 · `CUSTOM_ID` ZB6u0171 · `SOURCE` Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 059 · `EXTENT` 1卷
+
+**人物**
+- 顏娟英 — 主編
+
+**版本**
+- CBETA — `WITID` wit1
+- 【史】 — `WITID` wit5
+- 【原】 — `WITID` wit6
+
+## [KR6v0172 趙郡王高叡定國寺碑-民國-顏娟英](https://github.com/kanripo/KR6v0172)
+
+民國 · `BASEEDITION` I · `CBETA_ID` I01n0060 · `CUSTOM_ID` ZB6u0172 · `SOURCE` Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 060 · `EXTENT` 1卷
+
+**人物**
+- 顏娟英 — 主編
+
+**版本**
+- CBETA — `WITID` wit3
+- 【史】 — `WITID` wit5
+- 【原】 — `WITID` wit6
+
+## [KR6v0173 趙郡王高叡修定國寺頌-民國-顏娟英](https://github.com/kanripo/KR6v0173)
+
+民國 · `BASEEDITION` I · `CBETA_ID` I01n0061 · `CUSTOM_ID` ZB6u0173 · `SOURCE` Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 061 · `EXTENT` 1卷
+
+**人物**
+- 顏娟英 — 主編
+
+**版本**
+- CBETA — `WITID` wit1
+- 【史】 — `WITID` wit5
+- 【原】 — `WITID` wit6
+
+## [KR6v0174 靜明等修塔造像記-民國-顏娟英](https://github.com/kanripo/KR6v0174)
+
+民國 · `BASEEDITION` I · `CBETA_ID` I01n0062 · `CUSTOM_ID` ZB6u0174 · `SOURCE` Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 062 · `EXTENT` 1卷
+
+**人物**
+- 顏娟英 — 主編
+
+**版本**
+- CBETA — `WITID` wit3
+- 【史】 — `WITID` wit5
+- 【原】 — `WITID` wit6
+
+## [KR6v0175 劉碑造像記-民國-顏娟英](https://github.com/kanripo/KR6v0175)
+
+民國 · `BASEEDITION` I · `CBETA_ID` I01n0063 · `CUSTOM_ID` ZB6u0175 · `SOURCE` Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 063 · `EXTENT` 1卷
+
+**人物**
+- 顏娟英 — 主編
+
+**版本**
+- CBETA — `WITID` wit3
+- 【史】 — `WITID` wit5
+- 【原】 — `WITID` wit6
+
+## [KR6v0176 宋敬業等造塔記-民國-顏娟英](https://github.com/kanripo/KR6v0176)
+
+民國 · `BASEEDITION` I · `CBETA_ID` I01n0065 · `CUSTOM_ID` ZB6u0176 · `SOURCE` Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 065 · `EXTENT` 1卷
+
+**人物**
+- 顏娟英 — 主編
+
+**版本**
+- CBETA — `WITID` wit1
+- 【史】 — `WITID` wit5
+- 【原】 — `WITID` wit6
+
+## [KR6v0177 魯思明等造寺記-民國-顏娟英](https://github.com/kanripo/KR6v0177)
+
+民國 · `BASEEDITION` I · `CBETA_ID` I01n0066 · `CUSTOM_ID` ZB6u0177 · `SOURCE` Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 066 · `EXTENT` 1卷
+
+**人物**
+- 顏娟英 — 主編
+
+**版本**
+- CBETA — `WITID` wit3
+- 【史】 — `WITID` wit5
+- 【原】 — `WITID` wit6
+
+## [KR6v0178 董黃頭七十人等造像記-民國-顏娟英](https://github.com/kanripo/KR6v0178)
+
+民國 · `BASEEDITION` I · `CBETA_ID` I01n0067 · `CUSTOM_ID` ZB6u0178 · `SOURCE` Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 067 · `EXTENT` 1卷
+
+**人物**
+- 顏娟英 — 主編
+
+**版本**
+- CBETA — `WITID` wit3
+- 【史】 — `WITID` wit5
+- 【原】 — `WITID` wit6
+
+## [KR6v0179 東平郡須昌縣□檀寺造經碑-民國-顏娟英](https://github.com/kanripo/KR6v0179)
+
+民國 · `BASEEDITION` I · `CBETA_ID` I01n0068 · `CUSTOM_ID` ZB6u0179 · `SOURCE` Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 068 · `EXTENT` 1卷
+
+**人物**
+- 顏娟英 — 主編
+
+**版本**
+- CBETA — `WITID` wit1
+- 【史】 — `WITID` wit5
+- 【原】 — `WITID` wit6
+
+## [KR6v0180 方法師鏤石班經記-民國-顏娟英](https://github.com/kanripo/KR6v0180)
+
+民國 · `BASEEDITION` I · `CBETA_ID` I01n0069 · `CUSTOM_ID` ZB6u0180 · `SOURCE` Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 069 · `EXTENT` 1卷
+
+**人物**
+- 顏娟英 — 主編
+
+**版本**
+- CBETA — `WITID` wit1
+- 【史】 — `WITID` wit5
+- 【原】 — `WITID` wit6
+
+## [KR6v0181 陳神忻七十二人等造石室記-民國-顏娟英](https://github.com/kanripo/KR6v0181)
+
+民國 · `BASEEDITION` I · `CBETA_ID` I01n0071 · `CUSTOM_ID` ZB6u0181 · `SOURCE` Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 071 · `EXTENT` 1卷
+
+**人物**
+- 顏娟英 — 主編
+
+**版本**
+- CBETA — `WITID` wit1
+- 【史】 — `WITID` wit5
+- 【原】 — `WITID` wit6
+
+## [KR6v0182 彭城王高浟修寺碑-民國-顏娟英](https://github.com/kanripo/KR6v0182)
+
+民國 · `BASEEDITION` I · `CBETA_ID` I01n0072 · `CUSTOM_ID` ZB6u0182 · `SOURCE` Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 072 · `EXTENT` 1卷
+
+**人物**
+- 顏娟英 — 主編
+
+**版本**
+- CBETA — `WITID` wit3
+- 【史】 — `WITID` wit5
+- 【原】 — `WITID` wit6
+
+## [KR6v0183 標異鄉義慈惠石柱頌-民國-顏娟英](https://github.com/kanripo/KR6v0183)
+
+民國 · `BASEEDITION` I · `CBETA_ID` I01n0073 · `CUSTOM_ID` ZB6u0183 · `SOURCE` Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 073 · `EXTENT` 1卷
+
+**人物**
+- 顏娟英 — 主編
+
+**版本**
+- CBETA — `WITID` wit1
+- 【史】 — `WITID` wit5
+- 【原】 — `WITID` wit6
+
+## [KR6v0184 陳榮等三百餘人造像記-民國-顏娟英](https://github.com/kanripo/KR6v0184)
+
+民國 · `BASEEDITION` I · `CBETA_ID` I01n0075 · `CUSTOM_ID` ZB6u0184 · `SOURCE` Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 075 · `EXTENT` 1卷
+
+**人物**
+- 顏娟英 — 主編
+
+**版本**
+- CBETA — `WITID` wit1
+- 【史】 — `WITID` wit5
+- 【原】 — `WITID` wit6
+
+## [KR6v0185 阿鹿交村七十人等造石室像記-民國-顏娟英](https://github.com/kanripo/KR6v0185)
+
+民國 · `BASEEDITION` I · `CBETA_ID` I01n0076 · `CUSTOM_ID` ZB6u0185 · `SOURCE` Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 076 · `EXTENT` 1卷
+
+**人物**
+- 顏娟英 — 主編
+
+**版本**
+- CBETA — `WITID` wit1
+- 【史】 — `WITID` wit5
+- 【原】 — `WITID` wit6
+
+## [KR6v0186 嚴壽等重修故塔記-民國-顏娟英](https://github.com/kanripo/KR6v0186)
+
+民國 · `BASEEDITION` I · `CBETA_ID` I01n0077 · `CUSTOM_ID` ZB6u0186 · `SOURCE` Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 077 · `EXTENT` 1卷
+
+**人物**
+- 顏娟英 — 主編
+
+**版本**
+- CBETA — `WITID` wit1
+- 【史】 — `WITID` wit5
+- 【原】 — `WITID` wit6
+
+## [KR6v0187 比丘道政四十人等造像記-民國-顏娟英](https://github.com/kanripo/KR6v0187)
+
+民國 · `BASEEDITION` I · `CBETA_ID` I01n0078 · `CUSTOM_ID` ZB6u0187 · `SOURCE` Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 078 · `EXTENT` 1卷
+
+**人物**
+- 顏娟英 — 主編
+
+**版本**
+- CBETA — `WITID` wit1
+- 【史】 — `WITID` wit5
+- 【原】 — `WITID` wit6
+
+## [KR6v0188 王氏道俗百人造像記-民國-顏娟英](https://github.com/kanripo/KR6v0188)
+
+民國 · `BASEEDITION` I · `CBETA_ID` I01n0079 · `CUSTOM_ID` ZB6u0188 · `SOURCE` Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 079 · `EXTENT` 1卷
+
+**人物**
+- 顏娟英 — 主編
+
+**版本**
+- CBETA — `WITID` wit1
+- 【史】 — `WITID` wit5
+- 【原】 — `WITID` wit6
+
+## [KR6v0189 郭顯邕等造一切經記-民國-顏娟英](https://github.com/kanripo/KR6v0189)
+
+民國 · `BASEEDITION` I · `CBETA_ID` I01n0080 · `CUSTOM_ID` ZB6u0189 · `SOURCE` Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 080 · `EXTENT` 1卷
+
+**人物**
+- 顏娟英 — 主編
+
+**版本**
+- CBETA — `WITID` wit1
+- 【史】 — `WITID` wit5
+- 【原】 — `WITID` wit6
+
+## [KR6v0190 宋買廿二人等造天宮石像記-民國-顏娟英](https://github.com/kanripo/KR6v0190)
+
+民國 · `BASEEDITION` I · `CBETA_ID` I01n0084 · `CUSTOM_ID` ZB6u0190 · `SOURCE` Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 084 · `EXTENT` 1卷
+
+**人物**
+- 顏娟英 — 主編
+
+**版本**
+- CBETA — `WITID` wit1
+- 【史】 — `WITID` wit5
+- 【原】 — `WITID` wit6
+
+## [KR6v0191 韓永義等造像記-民國-顏娟英](https://github.com/kanripo/KR6v0191)
+
+民國 · `BASEEDITION` I · `CBETA_ID` I01n0085 · `CUSTOM_ID` ZB6u0191 · `SOURCE` Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 085 · `EXTENT` 1卷
+
+**人物**
+- 顏娟英 — 主編
+
+**版本**
+- CBETA — `WITID` wit3
+- 【史】 — `WITID` wit5
+- 【原】 — `WITID` wit6
+
+## [KR6v0192 潘景暉造碑像記-民國-顏娟英](https://github.com/kanripo/KR6v0192)
+
+民國 · `BASEEDITION` I · `CBETA_ID` I01n0086 · `CUSTOM_ID` ZB6u0192 · `SOURCE` Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 086 · `EXTENT` 1卷
+
+**人物**
+- 顏娟英 — 主編
+
+**版本**
+- CBETA — `WITID` wit3
+- 【史】 — `WITID` wit5
+- 【原】 — `WITID` wit6
+
+## [KR6v0193 棲閑寺邑義六十人造像記-民國-顏娟英](https://github.com/kanripo/KR6v0193)
+
+民國 · `BASEEDITION` I · `CBETA_ID` I01n0087 · `CUSTOM_ID` ZB6u0193 · `SOURCE` Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 087 · `EXTENT` 1卷
+
+**人物**
+- 顏娟英 — 主編
+
+**版本**
+- CBETA — `WITID` wit1
+- 【史】 — `WITID` wit5
+- 【原】 — `WITID` wit6
+
+## [KR6v0194 劉氏造像記-民國-顏娟英](https://github.com/kanripo/KR6v0194)
+
+民國 · `BASEEDITION` I · `CBETA_ID` I01n0088 · `CUSTOM_ID` ZB6u0194 · `SOURCE` Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 088 · `EXTENT` 1卷
+
+**人物**
+- 顏娟英 — 主編
+
+**版本**
+- CBETA — `WITID` wit3
+- 【史】 — `WITID` wit5
+- 【原】 — `WITID` wit6
+
+## [KR6v0195 舜禪師等百餘人造像記-民國-顏娟英](https://github.com/kanripo/KR6v0195)
+
+民國 · `BASEEDITION` I · `CBETA_ID` I01n0089 · `CUSTOM_ID` ZB6u0195 · `SOURCE` Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 089 · `EXTENT` 1卷
+
+**人物**
+- 顏娟英 — 主編
+
+**版本**
+- CBETA — `WITID` wit1
+- 【史】 — `WITID` wit5
+- 【原】 — `WITID` wit6
+
+## [KR6v0196 董洪達四十人等造像記-民國-顏娟英](https://github.com/kanripo/KR6v0196)
+
+民國 · `BASEEDITION` I · `CBETA_ID` I01n0090 · `CUSTOM_ID` ZB6u0196 · `SOURCE` Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 090 · `EXTENT` 1卷
+
+**人物**
+- 顏娟英 — 主編
+
+**版本**
+- CBETA — `WITID` wit3
+- 【史】 — `WITID` wit5
+- 【原】 — `WITID` wit6
+
+## [KR6v0197 楊暎香等八十人造像記-民國-顏娟英](https://github.com/kanripo/KR6v0197)
+
+民國 · `BASEEDITION` I · `CBETA_ID` I01n0091 · `CUSTOM_ID` ZB6u0197 · `SOURCE` Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 091 · `EXTENT` 1卷
+
+**人物**
+- 顏娟英 — 主編
+
+**版本**
+- CBETA — `WITID` wit1
+- 【史】 — `WITID` wit5
+- 【原】 — `WITID` wit6
+
+## [KR6v0198 道略等造神碑像記-民國-顏娟英](https://github.com/kanripo/KR6v0198)
+
+民國 · `BASEEDITION` I · `CBETA_ID` I01n0092 · `CUSTOM_ID` ZB6u0198 · `SOURCE` Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 092 · `EXTENT` 1卷
+
+**人物**
+- 顏娟英 — 主編
+
+**版本**
+- CBETA — `WITID` wit3
+- 【史】 — `WITID` wit5
+- 【原】 — `WITID` wit6
+
+## [KR6v0199 永顯寺道端等三百人造像記-民國-顏娟英](https://github.com/kanripo/KR6v0199)
+
+民國 · `BASEEDITION` I · `CBETA_ID` I01n0093 · `CUSTOM_ID` ZB6u0199 · `SOURCE` Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 093 · `EXTENT` 1卷
+
+**人物**
+- 顏娟英 — 主編
+
+**版本**
+- CBETA — `WITID` wit1
+- 【史】 — `WITID` wit5
+- 【原】 — `WITID` wit6
+
+## [KR6v0200 興聖寺四十人等造碑像記-民國-顏娟英](https://github.com/kanripo/KR6v0200)
+
+民國 · `BASEEDITION` I · `CBETA_ID` I01n0094 · `CUSTOM_ID` ZB6u0200 · `SOURCE` Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 094 · `EXTENT` 1卷
+
+**人物**
+- 顏娟英 — 主編
+
+**版本**
+- CBETA — `WITID` wit1
+- 【史】 — `WITID` wit5
+- 【原】 — `WITID` wit6
+
+## [KR6v0201 唐邕刻經記-民國-顏娟英](https://github.com/kanripo/KR6v0201)
+
+民國 · `BASEEDITION` I · `CBETA_ID` I01n0095 · `CUSTOM_ID` ZB6u0201 · `SOURCE` Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 095 · `EXTENT` 1卷
+
+**人物**
+- 顏娟英 — 主編
+
+**版本**
+- CBETA — `WITID` wit1
+- 【史】 — `WITID` wit5
+- 【原】 — `WITID` wit6
+
+## [KR6v0202 馮翊王高潤修平等寺碑-民國-顏娟英](https://github.com/kanripo/KR6v0202)
+
+民國 · `BASEEDITION` I · `CBETA_ID` I01n0096 · `CUSTOM_ID` ZB6u0202 · `SOURCE` Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 096 · `EXTENT` 1卷
+
+**人物**
+- 顏娟英 — 主編
+
+**版本**
+- CBETA — `WITID` wit1
+- 【史】 — `WITID` wit5
+- 【原】 — `WITID` wit6
+
+## [KR6v0203 臨淮王像碑-民國-顏娟英](https://github.com/kanripo/KR6v0203)
+
+民國 · `BASEEDITION` I · `CBETA_ID` I01n0098 · `CUSTOM_ID` ZB6u0203 · `SOURCE` Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 098 · `EXTENT` 1卷
+
+**人物**
+- 顏娟英 — 主編
+
+**版本**
+- CBETA — `WITID` wit3
+- 【史】 — `WITID` wit5
+- 【原】 — `WITID` wit6
+
+## [KR6v0204 比丘尼圓照圓光造雙像記-民國-顏娟英](https://github.com/kanripo/KR6v0204)
+
+民國 · `BASEEDITION` I · `CBETA_ID` I01n0100 · `CUSTOM_ID` ZB6u0204 · `SOURCE` Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 100 · `EXTENT` 1卷
+
+**人物**
+- 顏娟英 — 主編
+
+**版本**
+- CBETA — `WITID` wit1
+- 【史】 — `WITID` wit5
+- 【原】 — `WITID` wit6
